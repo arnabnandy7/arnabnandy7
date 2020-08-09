@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+### Hi there, I'm Arnab 😉
 
-You can use the [editor on GitHub](https://github.com/arnabnandy7/arnabnandy7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I'm a Developer!
+- 🌱 I’m currently learning cloud technologies ☁
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to take part in online contests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Connect with me:
 
-### Markdown
+[<img align="left" alt="codersrank.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/codersrank.svg" />][codersrank]
+[<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br />
 
-```markdown
-Syntax highlighted code block
+### Languages and Tools:
 
-# Header 1
-## Header 2
-### Header 3
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][]
+<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-- Bulleted
-- List
+<br />
 
-1. Numbered
-2. List
+### Top Languages
 
-**Bold** and _Italic_ and `Code` text
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true)]()
 
-[Link](url) and ![Image](src)
-```
+<br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+<img align="left" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arnabnandy7/arnabnandy7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[codersrank]: https://profile.codersrank.io/user/arnabnandy7
+[twitter]: https://twitter.com/arnabnandy2
+[stackoverflow]: https://stackoverflow.com/users/3892259/skynet
+[linkedin]: https://www.linkedin.com/in/nandyarnab/
