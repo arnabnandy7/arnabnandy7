@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true" />
+<img align="left" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
 
 [codersrank]: https://profile.codersrank.io/user/arnabnandy7
 [twitter]: https://twitter.com/arnabnandy2
