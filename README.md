@@ -32,7 +32,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=arnabnandy7&hide=php&layout=compact&hide_border=true)]()
 
 <br />
 
