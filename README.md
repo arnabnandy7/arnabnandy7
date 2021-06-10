@@ -30,6 +30,8 @@
 
 <br />
 
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME
+
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true)]()
