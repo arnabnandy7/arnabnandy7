@@ -30,7 +30,7 @@
 
 <br />
 
-https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME
+<img align="left" alt="arnabnandy7's Codersrank Stats" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" />
 
 ### Top Languages
 
