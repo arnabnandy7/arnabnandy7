@@ -30,7 +30,9 @@
 
 <br />
 
-<img align="left" height="100" width="100" alt="arnabnandy7's Codersrank Stats" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" />
+<br />
+
+<img align="left" height="100" width="500" alt="arnabnandy7's Codersrank Stats" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" />
 
 ### Top Languages
 
