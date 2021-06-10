@@ -42,14 +42,14 @@
 
 <img align="left" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
 
----
-<br />
-<br />
-<br />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ### Coders Rank
-
-<br />
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7&skills=Java,Shell,Javascript&show-other-skills=true"
