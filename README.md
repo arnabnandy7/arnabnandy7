@@ -64,6 +64,9 @@
 
 <br />
 
+<codersrank-summary username="arnabnandy7" layout="vertical"></codersrank-summary>
+
+
 [codersrank]: https://profile.codersrank.io/user/arnabnandy7
 [twitter]: https://twitter.com/arnabnandy2
 [stackoverflow]: https://stackoverflow.com/users/3892259/skynet
