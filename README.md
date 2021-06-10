@@ -58,7 +58,7 @@
 
 ### Coders Rank
 
-<img
+<img width="500" height="200"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7"
 />
 
