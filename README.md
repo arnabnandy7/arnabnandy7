@@ -30,12 +30,6 @@
 
 <br />
 
-<br />
-
-<img align="left" height="500" width="500" alt="arnabnandy7's Codersrank Stats" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" />
-
-<br />
-
 ---
 
 ### Top Languages
@@ -47,6 +41,15 @@
 ---
 
 <img align="left" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
+
+---
+
+
+<br />
+
+<img align="left" height="500" width="500" alt="arnabnandy7's Codersrank Stats" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" />
+
+<br />
 
 [codersrank]: https://profile.codersrank.io/user/arnabnandy7
 [twitter]: https://twitter.com/arnabnandy2
