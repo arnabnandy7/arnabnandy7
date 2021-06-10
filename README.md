@@ -59,7 +59,7 @@
 ### Coders Rank
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7&skills=Java,Shell,Javascript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7"
 />
 
 <br />
