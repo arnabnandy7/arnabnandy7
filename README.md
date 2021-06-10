@@ -63,8 +63,10 @@
 />
 
 <br />
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
-<codersrank-summary username="arnabnandy7" layout="vertical"></codersrank-summary>
 
 
 [codersrank]: https://profile.codersrank.io/user/arnabnandy7
