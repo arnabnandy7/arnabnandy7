@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to take part in online contests
+- 💬 Ask me about anything [here](https://github.com/arnabnandy7/arnabnandy7/issues)
 
 ### Connect with me:
 
@@ -12,7 +13,7 @@
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- 💬 Ask me about anything [here](https://github.com/arnabnandy7/arnabnandy7/issues)
+
 
 <br />
 
