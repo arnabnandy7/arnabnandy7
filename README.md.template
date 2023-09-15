@@ -14,7 +14,16 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+## Today's Weather
+<div align="center">
+
+`{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`
+
+<img src="{{ $.TodayWeather.Icon}}"/>
+
+{{ $.TodayWeather.Condition }}
+
+</div>
 
 <br />
 
