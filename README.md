@@ -17,11 +17,11 @@
 ## Today's Weather
 <div align="center">
 
-`Kolkata, India - 17/09/2023`
+`Kolkata, India - 18/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Patchy rain possible
+Moderate rain
 
 </div>
 
