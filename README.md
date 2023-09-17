@@ -14,6 +14,16 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+## Today's Weather
+<div align="center">
+
+`Kolkata, India - 17/09/2023`
+
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+
+Patchy rain possible
+
+</div>
 
 <br />
 
