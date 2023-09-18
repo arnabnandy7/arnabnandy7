@@ -1,7 +1,7 @@
 name: "Cronjob"
 on:
   schedule:
-    - cron: '15 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   update-weather:
@@ -19,8 +19,8 @@ jobs:
           out-file: 'README.md'
       - name: Commit
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name arnabnandy7
+          git config user.email arnab_nandy7@yahoo.com
           git add .
           git commit -m "update"
           git push origin main
