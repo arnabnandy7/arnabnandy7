@@ -17,6 +17,14 @@ jobs:
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: 'README.md.template'
           out-file: 'README.md'
+      - name: Get current year
+        id: current_year
+        run: echo "::set-output name=year::$(date +'%Y')"
+
+      - name: Update README with current year
+        run: |
+          sed -i "s/\[current_year_placeholder\]/${{ steps.current_year.outputs.year }}/g" README.md
+
       - name: Commit
         run: |
           if [[ "$(git rev-parse HEAD)" != "$(git ls-remote $(git rev-parse --abbrev-ref @{u} | sed 's/\// /g') | cut -f1)" ]]; then
