@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Arnab 👋</h1>
 
-<h3 align="center">I'm a Developer 🚀</h3>
+<h3 align="center">Crafting Digital Experiences 🚀</h3>
 
 <p align="center">
-  🌱 I’m currently learning cloud technologies ☁<br/>
-  👯 I’m looking to collaborate with other content creators<br/>
-- 🥅 [current_year_placeholder] Goals: Contribute more to Open Source projects<br/>
-  ⚡ Fun fact: I love to take part in online contests<br/>
-  💬 Ask me about anything <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
+  🌱 Exploring the ever-evolving world of cloud technologies ☁<br/>
+  👯 Open to new creative collaborations and exciting projects<br/>
+  🎯 [current_year_placeholder] Mission: Ignite more stars in the Open Source galaxy<br/>
+  ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
+  💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
 
-<h3 align="center">Connect with me 🌐</h3>
+<h3 align="center">Let's Connect 🌐</h3>
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/arnabnandy7">
@@ -29,7 +29,7 @@
 
 <br />
 
-<h3 align="center">Today's Weather 🌦</h3>
+<h3 align="center">Today's Weather</h3>
 
 <div align="center">
   <p>`{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`</p>
