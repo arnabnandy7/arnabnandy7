@@ -13,7 +13,17 @@
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+### Today's Weather
+<div align="center">
 
+`Kolkata, India - 19/09/2023`
+
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+
+Moderate rain
+
+</div>
 
 <br />
 

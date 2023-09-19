@@ -19,8 +19,13 @@ jobs:
           out-file: 'README.md'
       - name: Commit
         run: |
-          git config user.name arnabnandy7
-          git config user.email arnab_nandy7@yahoo.com
-          git add .
-          git commit -m "update"
-          git push origin main
+          if [[ "$(git rev-parse HEAD)" != "$(git ls-remote $(git rev-parse --abbrev-ref @{u} | sed 's/\// /g') | cut -f1)" ]]; then
+            echo "Changes detected. Committing and pushing..."
+            git config user.name arnabnandy7
+            git config user.email arnab_nandy7@yahoo.com
+            git add .
+            git commit -m "update"
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
