@@ -19,11 +19,11 @@ jobs:
           out-file: 'README.md'
       - name: Get current year
         id: current_year
-        run: echo "::set-output name=year::$(date +'%Y')"
+        run: echo "year=$(date +'%Y')" >> $GITHUB_ENV
 
       - name: Update README with current year
         run: |
-          sed -i "s/\[current_year_placeholder\]/${{ steps.current_year.outputs.year }}/g" README.md
+          sed -i "s/\[current_year_placeholder\]/${{ env.year }}/g" README.md
 
       - name: Commit
         run: |
