@@ -8,15 +8,6 @@ jobs:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate README
-        uses: huantt/weather-forecast@v1.0.5
-        with:
-          city: Kolkata
-          days: 7
-          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: 'README.md.template'
-          out-file: 'README.md'
       - name: Get current year
         id: current_year
         run: echo "year=$(date +'%Y')" >> $GITHUB_ENV
@@ -24,12 +15,25 @@ jobs:
       - name: Update README with current year
         run: |
           sed -i "s/\[current_year_placeholder\]/${{ env.year }}/g" README.md
-
+          
+      - uses: actions/checkout@v3
+      - name: Generate README
+        uses: huantt/weather-forecast@v1.0.5
+        with:
+          city: Kolkata
+          days: 3
+          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          template-file: 'README.md.template'
+          out-file: 'README.md'
       - name: Commit
         run: |
-            echo "Committing and pushing..."
-            git config user.name arnabnandy7
-            git config user.email arnab_nandy7@yahoo.com
-            git add .
-            git commit -m "update"
-            git push origin main
+            if git diff --exit-code; then
+              echo "No changes to commit."
+              exit 0
+            else
+              git config user.name arnabnandy7
+              git config user.email arnab_nandy7@yahoo.com
+              git add .
+              git commit -m "update"
+              git push origin main
+            fi
