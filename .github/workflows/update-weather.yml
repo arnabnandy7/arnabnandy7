@@ -8,14 +8,6 @@ jobs:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
-      - name: Get current year
-        id: current_year
-        run: echo "year=$(date +'%Y')" >> $GITHUB_ENV
-
-      - name: Update README with current year
-        run: |
-          sed -i "s/\[current_year_placeholder\]/${{ env.year }}/g" README.md
-          
       - uses: actions/checkout@v3
       - name: Generate README
         uses: huantt/weather-forecast@v1.0.5
@@ -25,6 +17,15 @@ jobs:
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: 'README.md.template'
           out-file: 'README.md'
+          
+      - name: Get current year
+        id: current_year
+        run: echo "year=$(date +'%Y')" >> $GITHUB_ENV
+
+      - name: Update README with current year
+        run: |
+          sed -i "s/\[current_year_placeholder\]/${{ env.year }}/g" README.md
+          
       - name: Commit
         run: |
             if git diff --exit-code; then
