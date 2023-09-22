@@ -1,59 +1,76 @@
-### Hi there, I'm Arnab 😉
+<h1 align="center">Hi there, I'm Arnab 👋</h1>
 
-## I'm a Developer!
-- 🌱 I’m currently learning cloud technologies ☁
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to take part in online contests
-- 💬 Ask me about anything [here](https://github.com/arnabnandy7/arnabnandy7/issues)
+<h3 align="center">Crafting Digital Experiences 🚀</h3>
 
-### Connect with me:
+<p align="center">
+  🌱 Exploring the ever-evolving world of cloud technologies ☁<br/>
+  👯 Open to new creative collaborations and exciting projects<br/>
+  🎯 2023 Mission: Ignite more stars in the Open Source galaxy<br/>
+  ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
+  💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
+</p>
 
-[<img align="left" alt="codersrank.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/codersrank.svg" />][codersrank]
-[<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3 align="center">Let's Connect 🌐</h3>
+
+<p align="center">
+  <a href="https://profile.codersrank.io/user/arnabnandy7">
+    <img alt="codersrank.io" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/codersrank.svg" />
+  </a>
+  <a href="https://stackoverflow.com/users/3892259/arnab-nandy">
+    <img alt="Stackoverflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  </a>
+  <a href="https://twitter.com/arnabnandy2">
+    <img alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/nandyarnab/">
+    <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</p>
+
 <br />
-### Today's Weather
+
+<h3 align="center">Today's Weather</h3>
+
 <div align="center">
-
-`Kolkata, India - 19/09/2023`
-
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-
-Moderate rain
-
+  <p>`Kolkata, India - 22/09/2023`</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools 🛠️</h3>
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
----
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true)]()
+<p align="center">
+  <img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+  <img alt="Spring" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
+  <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="Postgres" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
+  <img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</p>
 
 <br />
 
 ---
 
-<img align="left" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
+<h3 align="center">Top Languages 📊</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<br />
+
+---
+
+<p align="center">
+  <img alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
+</p>
 
 <br />
 <br />
@@ -67,21 +84,14 @@ Moderate rain
 
 ---
 
+<h3 align="center">Coders Rank 🚀</h3>
 
-### Coders Rank
-
-<img width="640" height="320"
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7"
-/>
+<p align="center">
+  <img width="640" height="320" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" alt="Coders Rank Skills Chart" />
+</p>
 
 <br />
-<img width="480" 
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
-
-
-[codersrank]: https://profile.codersrank.io/user/arnabnandy7
-[twitter]: https://twitter.com/arnabnandy2
-[stackoverflow]: https://stackoverflow.com/users/3892259/skynet
-[linkedin]: https://www.linkedin.com/in/nandyarnab/
+<p align="center">
+  <img width="480" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Coders Rank Summary" />
+</p>

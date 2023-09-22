@@ -32,7 +32,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>`{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}`</p>
+  <p>{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}</p>
   <img src="{{ $.TodayWeather.Icon}}"/>
   <p>{{ $.TodayWeather.Condition }}</p>
 </div>
