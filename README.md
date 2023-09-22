@@ -32,7 +32,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>`Kolkata, India - 22/09/2023`</p>
+  <p>Kolkata, India - 22/09/2023</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain</p>
 </div>
@@ -72,14 +72,6 @@
   <img alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
 </p>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 ---
