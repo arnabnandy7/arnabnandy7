@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Arnab 👋</h1>
+# <center>Hi there, I'm Arnab 👋</center>
 
-<h3 align="center">Crafting Digital Experiences 🚀</h3>
+### <center>Crafting Digital Experiences 🚀</center>
 
 <p align="center">
   🌱 Exploring the ever-evolving world of cloud technologies ☁<br/>
@@ -10,7 +10,7 @@
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
 
-<h3 align="center">Let's Connect 🌐</h3>
+### <center>Let's Connect 🌐</center>
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/arnabnandy7">
@@ -29,7 +29,7 @@
 
 <br />
 
-<h3 align="center">Today's Weather</h3>
+### <center>Today's Weather</center>
 
 <div align="center">
   <p>Kolkata, India - 24/09/2023</p>
@@ -39,7 +39,7 @@
 
 <br />
 
-<h3 align="center">Languages and Tools 🛠️</h3>
+### <center>Languages and Tools 🛠️</center>
 
 <p align="center">
   <img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="center">Top Languages 📊</h3>
+### <center>Top Languages 📊</center>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" alt="Top Languages" />
@@ -76,7 +76,7 @@
 
 ---
 
-<h3 align="center">Coders Rank 🚀</h3>
+### <center>Coders Rank 🚀</center>
 
 <p align="center">
   <img width="640" height="320" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" alt="Coders Rank Skills Chart" />
