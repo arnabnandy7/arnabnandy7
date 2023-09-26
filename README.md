@@ -120,7 +120,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabnandy7&" alt="arnabnandy7" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabnandy7" alt="arnabnandy7" />
 </p>
 
 <br />
