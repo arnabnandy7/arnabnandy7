@@ -59,7 +59,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 27/09/2023</p>
+  <p>Kolkata, Inde - 27/09/2023</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly cloudy</p>
 </div>
