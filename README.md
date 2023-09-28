@@ -59,9 +59,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 26/09/2023</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain possible</p>
+  <p>Kolkata, India - 28/09/2023</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -120,7 +120,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabnandy7&" alt="arnabnandy7" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabnandy7" alt="arnabnandy7" />
 </p>
 
 <br />
