@@ -119,14 +119,6 @@
 
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabnandy7" alt="arnabnandy7" />
-</p>
-
-<br />
-
----
-
 <h3 align="center">Coders Rank 🚀</h3>
 
 <p align="center">
