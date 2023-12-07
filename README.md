@@ -59,9 +59,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 07/12/2023</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <p>Kolkata, India - 08/12/2023</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly cloudy</p>
 </div>
 
 <br />
