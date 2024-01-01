@@ -5,7 +5,7 @@
 <p align="center">
   🌱 Exploring the ever-evolving world of cloud technologies ☁<br/>
   👯 Open to new creative collaborations and exciting projects<br/>
-  🎯 2023 Mission: Ignite more stars in the Open Source galaxy<br/>
+  🎯 2024 Mission: Ignite more stars in the Open Source galaxy<br/>
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
