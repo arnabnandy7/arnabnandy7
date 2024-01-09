@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arnab 👋</h1>
+![Header](./github-header-image.png)
 
 <h3 align="center">Crafting Digital Experiences 🚀</h3>
 
