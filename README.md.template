@@ -107,13 +107,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
+</p>
+
 <br />
 
 ---
 
-<p align="center">
-  <img alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
-</p>
+<a href="https://stackexchange.com/users/4821761"><img src="https://stackexchange.com/users/flair/4821761.png" width="208" height="58" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <br />
 
