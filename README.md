@@ -60,8 +60,8 @@
 
 <div align="center">
   <p>Kolkata, India - 31/03/2024</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny</p>
 </div>
 
 <br />
