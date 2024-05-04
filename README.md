@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Arnab 👋</h1>
+![Header](./github-header-image.png)
 
 <h3 align="center">Crafting Digital Experiences 🚀</h3>
 
 <p align="center">
   🌱 Exploring the ever-evolving world of cloud technologies ☁<br/>
   👯 Open to new creative collaborations and exciting projects<br/>
-  🎯 2023 Mission: Ignite more stars in the Open Source galaxy<br/>
+  🎯 2024 Mission: Ignite more stars in the Open Source galaxy<br/>
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
@@ -59,7 +59,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 26/10/2023</p>
+  <p>Kolkata, India - 04/05/2024</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny</p>
 </div>
@@ -104,16 +104,15 @@
 <h3 align="center">Top Languages 📊</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="300" height="200" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" />
+  <img width="300" height="200" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
 </p>
 
 <br />
 
 ---
 
-<p align="center">
-  <img alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
-</p>
+<a href="https://stackexchange.com/users/4821761"><img src="https://stackexchange.com/users/flair/4821761.png" width="300" height="200" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <br />
 
@@ -128,5 +127,5 @@
 <br />
 
 <p align="center">
-  <img width="480" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Coders Rank Summary" />
+  <img width="300" height="200" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Coders Rank Summary" />
 </p>
