@@ -100,7 +100,7 @@
 <br />
 
 <p align="center">
-    <table>
+    <table style="border:hidden;">
         <tbody align="center">
             <tr>
                 <td>
