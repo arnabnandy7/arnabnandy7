@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: '30 * * * *'
 
+on:
+  workflow_run:
+    workflows: [Cronjob]
+    types:
+      - completed
+
 jobs:
   update-weather:
     permissions: write-all
