@@ -100,7 +100,7 @@
 <br />
 
 <p align="center">
-    <table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+    <table cellspacing="0" cellpadding="0">
         <tbody align="center">
             <tr style="border: none;">
                 <td style="border: none;">
