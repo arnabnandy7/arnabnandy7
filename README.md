@@ -100,26 +100,26 @@
 <br />
 
 <p align="center">
-    <table style="border:hidden;">
+    <table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
         <tbody align="center">
-            <tr>
-                <td>
+            <tr style="border: none;">
+                <td style="border: none;">
                     <img width="300" height="200" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" />  
                 </td>
-                <td>
+                <td style="border: none;">
                     <img width="300" height="200" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
                 </td>
             </tr>
-            <tr>
-                <td>
+            <tr style="border: none;">
+                <td style="border: none;">
                     <a href="https://stackexchange.com/users/4821761"><img src="https://stackexchange.com/users/flair/4821761.png" width="208" height="58" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-                </td>
+                </td style="border: none;">
                 <td>
                     <img width="300" height="200" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Coders Rank Summary" />
                 </td>
             </tr>
-            <tr>
-                <td colspan="2">
+            <tr style="border: none;">
+                <td colspan="2" style="border: none;">
                     <img width="780" height="520" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" alt="Coders Rank Skills Chart" />
                 </td>
             </tr>
