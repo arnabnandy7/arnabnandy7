@@ -60,8 +60,8 @@
 
 <div align="center">
   <p>Kolkata, India - 30/05/2024</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy </p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
+  <p>Cloudy </p>
 </div>
 
 <br />
