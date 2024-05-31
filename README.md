@@ -59,7 +59,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 31/05/2024</p>
+  <p>Kolkata, India - 01/06/2024</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
   <p>Thundery outbreaks in nearby</p>
 </div>
