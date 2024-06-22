@@ -60,8 +60,8 @@
 
 <div align="center">
   <p>Kolkata, India - 22/06/2024</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
-  <p>Thundery outbreaks in nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
