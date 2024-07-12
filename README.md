@@ -59,9 +59,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 13/07/2024</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <p>Gehen Kolkata, Indien - 13/07/2024</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
+  <p>Heavy rain</p>
 </div>
 
 <br />
