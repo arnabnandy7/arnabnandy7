@@ -59,7 +59,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Gehen Kolkata, Indien - 13/07/2024</p>
+  <p>Gehen Kolkata, Indien - 14/07/2024</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
   <p>Heavy rain</p>
 </div>
