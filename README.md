@@ -59,9 +59,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 23/09/2024</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <p>Kolkata, India - 24/09/2024</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
