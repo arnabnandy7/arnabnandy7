@@ -60,8 +60,8 @@
 
 <div align="center">
   <p>Kolkata, India - 01/12/2024</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy </p>
 </div>
 
 <br />
