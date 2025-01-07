@@ -59,7 +59,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 07/01/2025</p>
+  <p>Kolkata, India - 08/01/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny</p>
 </div>
