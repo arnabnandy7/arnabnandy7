@@ -14,7 +14,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm overbooked, overwhelmed, and overjoyed to say no. 🛑❌ — because why settle for a boring "no" when you can have a hilarious one?
+  I have to stay home and make sure gravity continues to work. (Someone has to.) 🛑❌ — because why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <h3 align="center">Let's Connect 🌐</h3>
@@ -66,7 +66,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 14/05/2025</p>
+  <p>Kolkata, India - 15/05/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny</p>
 </div>
