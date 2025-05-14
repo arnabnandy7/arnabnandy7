@@ -14,7 +14,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've got a calendar alert to sit and stare into space at that exact time. 🛑❌ — because why settle for a boring "no" when you can have a hilarious one?
+  I'm overbooked, overwhelmed, and overjoyed to say no. 🛑❌ — because why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <h3 align="center">Let's Connect 🌐</h3>
