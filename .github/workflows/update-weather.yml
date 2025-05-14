@@ -38,6 +38,20 @@ jobs:
           template-file: 'README.md.template'
           out-file: 'README.md'
           
+      - name: Install jq
+        run: sudo apt-get install jq
+        
+      # Fetch data from your API
+      - name: Fetch API data
+        run: |
+          curl -X GET https://naas.isalman.dev/no -o api_response.json
+          
+      # Extract reason from the API response and update README
+      - name: Update README with API reason
+        run: |
+          REASON=$(jq -r '.reason' api_response.json)
+          sed -i "s/\{funny_no_statement\}/$REASON/g" README.md
+          
       - name: Get current year
         id: current_year
         run: echo "year=$(date +'%Y')" >> $GITHUB_ENV
