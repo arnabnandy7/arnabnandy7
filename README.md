@@ -8,6 +8,7 @@
   🎯 2025 Mission: Ignite more stars in the Open Source galaxy<br/>
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
+  😒 Tired of saying no? Let's try a better way [funny_no_statement]
 </p>
 
 <h3 align="center">Let's Connect 🌐</h3>
@@ -100,7 +101,7 @@
 <br />
 
 <p align="center">
-    <table style="border: 0; border-collapse: collapse;">
+    <table align="center" style="border: 0; border-collapse: collapse;">
         <tbody align="center">
             <tr>
                 <td>
@@ -122,4 +123,13 @@
     </table>
 </p>
 
-<!-- GitAds-Verify: GR4WDK2S6X5XNOKK88TOV5NR9QZRP4XD -->
+<p align="left"> <a href="https://github.com/arnabnandy7"><img src="https://github-profile-trophy.vercel.app/?username=arnabnandy7" alt="arnabnandy7" /></a> </p>
+
+## GitAds Sponsored
+
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/arnabnandy7@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/arnabnandy7@github)
+
+
+
+<p align="left"> <a href="https://twitter.com/arnabnandy2" target="blank"><img src="https://img.shields.io/twitter/follow/arnabnandy2?logo=twitter&style=for-the-badge" alt="arnabnandy2" /></a> </p>
+
