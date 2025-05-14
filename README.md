@@ -10,11 +10,11 @@
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
 
-<h3 align="center">😒 Tired of Saying No?</h3>
-<h4 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h4>
+<h3 align="center">😒 Tired of Saying No to someone?</h3>
+<h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm communicating with extraterrestrials at that time, Earth events must wait. 🛑❌ — because why settle for a boring "no" when you can have a hilarious one?
+  I've got a calendar alert to sit and stare into space at that exact time. 🛑❌ — because why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <h3 align="center">Let's Connect 🌐</h3>
