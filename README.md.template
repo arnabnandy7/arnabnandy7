@@ -118,11 +118,6 @@
                     <img width="300" height="200" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Coders Rank Summary" />
                 </td>
             </tr>
-            <tr>
-                <td colspan="2">
-                    <img width="780" height="520" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnabnandy7" alt="Coders Rank Skills Chart" />
-                </td>
-            </tr>
         </tbody>
     </table>
 </p>
