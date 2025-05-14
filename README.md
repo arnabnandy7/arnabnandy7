@@ -8,7 +8,7 @@
   🎯 2025 Mission: Ignite more stars in the Open Source galaxy<br/>
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
-  😒 Tired of saying no? Let's try a better way I have a personal policy of saying no on days ending in 'y'.
+  😒 Tired of saying no? Let's try a better way My calendar is full of blank spaces reserved for me-time.
 </p>
 
 <h3 align="center">Let's Connect 🌐</h3>
