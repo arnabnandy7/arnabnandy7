@@ -50,6 +50,7 @@ jobs:
       - name: Update README with API reason
         run: |
           REASON=$(jq -r '.reason' api_response.json)
+          echo $REASON
           sed -i "s|{funny_no_statement}|$REASON|g" README.md
           
       - name: Get current year
