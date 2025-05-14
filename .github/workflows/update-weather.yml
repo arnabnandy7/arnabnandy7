@@ -1,4 +1,4 @@
-name: "Cronjob"
+name: "Refresh Weather"
 on:
   schedule:
     - cron: '30 * * * *'
