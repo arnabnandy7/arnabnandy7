@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 15/05/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm hard at work doing nothing at all. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  They say double negatives make a positive, but my single negative stands firm. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
