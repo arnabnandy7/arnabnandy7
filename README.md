@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm having an out-of-body experience and I'm not back yet. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'm hard at work doing nothing at all. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
