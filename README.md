@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 15/05/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I need to sit this one out while I sort my sock zoo. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  It's one of the signs of the apocalypse if I say yes, let's avoid that. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
