@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In a different season of life, I might say yes—but not right now. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I lack the necessary enthusiasm to even pretend to consider that. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
