@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I couldn't join because I was busy not panicking about it. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Even my shadow decided to stay home, so I will too. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
