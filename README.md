@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm overbooked with underachieving. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I would say yes, but I haven't met my daily coffee quota to deal with the consequences. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
