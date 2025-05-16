@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll spare you a half-hearted yes and give you an honest no. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I must protect my sanity at all costs—so no. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
