@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Not today, Satan. Actually, not any day. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Thank you for thinking of me, but I'm going to decline hilariously. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
