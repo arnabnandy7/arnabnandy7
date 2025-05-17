@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'Yes' and I aren't on speaking terms at the moment. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I can't say yes before I've had my coffee. And I never plan to have coffee. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
