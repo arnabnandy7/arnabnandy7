@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I must achieve inner peace, which means not complicating my day with this. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Saying yes? I'd sooner challenge a kangaroo to a boxing match. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
