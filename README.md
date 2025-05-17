@@ -14,9 +14,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 17/05/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny</p>
+  <p>Kolkata, India - 18/05/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm declining out of an abundance of apathy. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I can't say yes; it would jeopardize my standing in the Procrastinators Hall of Fame. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
