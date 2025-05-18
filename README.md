@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm actually terrible at that, unless you need an example of how not to do it. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I only attend events that allow pajamas as formal attire. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
