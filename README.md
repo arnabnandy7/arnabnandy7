@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My enthusiasm is on backorder, and the delivery date keeps getting pushed. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'm taking a mental health year (starting now), so I have to decline. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
