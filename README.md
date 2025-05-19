@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of my refusal as a free lesson in handling rejection. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'm too cool for that (and by too cool, I mean too lazy). 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
