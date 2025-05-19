@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The dishes threatened to revolt if I leave them again. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'd volunteer, but the incompetence fee I charge is quite high. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
