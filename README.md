@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm devoting that time slot to contemplating the meaning of life. It's a charity case really. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  What was that? Did you ask something? No? Great. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
