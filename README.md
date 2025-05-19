@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 19/05/2025</p>
+  <p>Kolkata, India - 20/05/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Saying yes? I'd sooner challenge a kangaroo to a boxing match. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  The Queen of England ghost-told me to stay home (I only take royal commands). 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
