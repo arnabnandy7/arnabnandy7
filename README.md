@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I took a seminar on assertiveness and I'm itching to use what I learned: No. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  You really don't want me on this – my specialty is ruining things. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
