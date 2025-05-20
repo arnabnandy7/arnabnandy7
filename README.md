@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My heart says maybe, but my brain threw a giant red flag. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I skipped class because I felt I owed it to myself to not learn bad things. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
