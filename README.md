@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life is like a sitcom about avoiding responsibility, and I can't break character. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I can't say yes; it would jeopardize my standing in the Procrastinators Hall of Fame. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
