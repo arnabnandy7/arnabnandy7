@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No caffeine, no can-do. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I admire your persistence in asking, but it's still a no. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
