@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My morning coffee and I decided this isn't worth the caffeine it would take. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I only go out in perfect weather conditions, which this clearly isn't (for me). 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
