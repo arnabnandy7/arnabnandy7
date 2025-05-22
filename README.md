@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The seven dwarves warned me about overextending myself. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Effort is currently not supported by my operating system. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
