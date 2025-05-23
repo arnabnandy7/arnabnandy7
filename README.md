@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have short-term memory loss when it comes to responsibilities. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'd love to say yes, but I just made a commitment to do less questionable things this week. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
