@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No can do—said in the nicest way possible (still no). 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Emergency! I just ran out of chocolate, and that's all I can handle right now. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
