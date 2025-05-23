@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 23/05/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy </p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That request is above my pay grade of zero. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I had a dream I said yes; I woke up in a cold sweat. Not doing that in reality. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
