@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The answer you seek is not available at this time (try again never). 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'm part of a top-secret project called Project No. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
