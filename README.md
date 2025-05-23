@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  There's a rerun of a show I've never seen that I just can't miss. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  My horoscope app just notified me: 'Today is a good day to say no.' 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
