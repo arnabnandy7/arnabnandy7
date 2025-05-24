@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-   🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  My spirit animal is a sloth, and it's telling me to stay put. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
