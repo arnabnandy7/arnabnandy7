@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Got a conference call with myself, and it's very time-consuming. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'm delaying my decision until the end of time—spoiler: it's no. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
