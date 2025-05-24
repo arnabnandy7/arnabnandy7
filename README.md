@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 24/05/2025</p>
+  <p>Kolkata, India - 25/05/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to stay home and make sure gravity continues to work. (Someone has to.) 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I believe you have the wrong number; the person who says yes isn't available. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
