@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me participating is like a square peg in a round hole—just not fitting. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Me doing that? That's the plot twist no one wants. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
