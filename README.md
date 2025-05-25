@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on bedrest until further notice, doctor's orders (my doctor is Dr. Seuss). 🛑❌ 
+  My schedule is full: I'm alphabetizing my snacks. 🛑❌ 
 </p>
 
 <br />
