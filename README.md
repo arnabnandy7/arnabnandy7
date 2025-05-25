@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even if I wanted to, I couldn't. And I don't want to. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  Me doing that would be like a chicken trying to do algebra. 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
 </p>
 
 <br />
