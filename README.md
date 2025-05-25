@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even my coffee said, ‘Not today.’ 🛑❌ — why settle for a boring "no" when you can have a hilarious one?
+  I'm trying to be more intentional with what I agree to, and this doesn’t quite fit. 🛑❌ 
 </p>
 
 <br />
@@ -138,8 +138,4 @@
 ## GitAds Sponsored
 
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/arnabnandy7@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/arnabnandy7@github)
-
-
-
-<p align="left"> <a href="https://twitter.com/arnabnandy2" target="blank"><img src="https://img.shields.io/twitter/follow/arnabnandy2?logo=twitter&style=for-the-badge" alt="arnabnandy2" /></a> </p>
 
