@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Alas, I must decline. 🛑❌ 
+  I'd love to help, but I'm trying to break my streak of helpfulness. 🛑❌ 
 </p>
 
 <br />
