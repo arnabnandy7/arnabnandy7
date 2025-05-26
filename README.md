@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  As the saying goes, 'Nope, nope, nope.' 🛑❌ 
+  Your request has been denied due to a lack of interest on my part. 🛑❌ 
 </p>
 
 <br />
