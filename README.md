@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to keep the couch from floating away, it's an important job. 🛑❌ 
+  My goldfish family reunion is happening in my fish tank. 🛑❌ 
 </p>
 
 <br />
