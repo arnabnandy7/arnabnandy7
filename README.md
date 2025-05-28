@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I once made a similar decision and my cat hasn’t looked me in the eye since. Let’s not repeat history. 🛑❌ 
+  YOLO, which is why I'm saying no – I value my one life too much. 🛑❌ 
 </p>
 
 <br />
