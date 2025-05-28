@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm avoiding causing a butterfly effect that ends the world. 🛑❌ 
+  I'm serving jury duty in the court of my own laziness. 🛑❌ 
 </p>
 
 <br />
