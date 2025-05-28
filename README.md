@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I must decline; I've reached my threshold for giving a darn. 🛑❌ 
+  I'm part of a top-secret project called Project No. 🛑❌ 
 </p>
 
 <br />
