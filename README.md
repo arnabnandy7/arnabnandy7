@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Picture a skywriter writing 'NO' above your house—that's my answer. 🛑❌ 
+  My friends would have a heart attack if I suddenly said yes to things. 🛑❌ 
 </p>
 
 <br />
