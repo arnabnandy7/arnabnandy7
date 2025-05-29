@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've been rehearsing my 'no' all week for just such an occasion. 🛑❌ 
+  I would, but my bank account said I can't afford the gas to get there. 🛑❌ 
 </p>
 
 <br />
