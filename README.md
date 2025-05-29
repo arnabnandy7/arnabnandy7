@@ -14,9 +14,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 29/05/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <p>Kolkata, India - 30/05/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Effort is currently not supported by my operating system. 🛑❌ 
+  If I help you, I'd feel proud of myself, and I can't handle that much emotion. 🛑❌ 
 </p>
 
 <br />
