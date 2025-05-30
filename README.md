@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm stuck in a fairy tale, and agreeing to that isn't part of the plot. 🛑❌ 
+  My secret lair needs tending to at that time. 🛑❌ 
 </p>
 
 <br />
