@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I didn't show up because I prefer to be fashionably absent. 🛑❌ 
+  I'm feeling unlucky, so I better not risk saying yes. 🛑❌ 
 </p>
 
 <br />
