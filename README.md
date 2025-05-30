@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I envy the people who will say yes to you, truly. 🛑❌ 
+  I have a work thing... it's called avoiding work. 🛑❌ 
 </p>
 
 <br />
