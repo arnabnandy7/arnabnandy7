@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Occupational Health and Safety flagged that activity as a hazard for me. 🛑❌ 
+  I auctioned off my time slot for that day to the highest bidder of nothing. 🛑❌ 
 </p>
 
 <br />
