@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I want to be honest with you—I don’t feel comfortable committing to this. 🛑❌ 
+  I would, but I'm trying this new thing called sleeping. 🛑❌ 
 </p>
 
 <br />
