@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Moving from this spot requires 24-hour notice. 🛑❌ 
+  I've been looking forward to reorganizing my button collection instead. 🛑❌ 
 </p>
 
 <br />
