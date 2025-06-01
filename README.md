@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I need to conserve my remaining brain cell. 🛑❌ 
+  My laziness is in full bloom, and I cannot uproot it for this. 🛑❌ 
 </p>
 
 <br />
