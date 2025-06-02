@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  For safety reasons, I'm required to stay away from that kind of excitement. 🛑❌ 
+  That idea and I go together like oil and water. 🛑❌ 
 </p>
 
 <br />
