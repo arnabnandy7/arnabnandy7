@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would assist, but then I'd have to legally disclaim any results. 🛑❌ 
+  My intuition screamed 'no' so loudly, I had to answer accordingly. 🛑❌ 
 </p>
 
 <br />
