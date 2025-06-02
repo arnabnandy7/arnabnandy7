@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 02/06/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to stay put to prevent the zombie outbreak from starting (long story). 🛑❌ 
+  I would assist, but then I'd have to legally disclaim any results. 🛑❌ 
 </p>
 
 <br />
