@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If saying no were an Olympic sport, I'd have a gold medal. 🛑❌ 
+  I already took a melatonin. It's lights out for me. 🛑❌ 
 </p>
 
 <br />
