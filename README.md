@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That idea and I go together like oil and water. 🛑❌ 
+  I can't come; I'm the aliens' tour guide for Earth and they're very demanding. 🛑❌ 
 </p>
 
 <br />
