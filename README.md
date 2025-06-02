@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't come; I'm the aliens' tour guide for Earth and they're very demanding. 🛑❌ 
+  I have to stay put to prevent the zombie outbreak from starting (long story). 🛑❌ 
 </p>
 
 <br />
