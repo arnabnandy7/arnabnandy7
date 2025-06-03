@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My couch has declared a no-travel zone and I'm abiding. 🛑❌ 
+  I didn't come this far to only come this far. In fact, I'm not coming at all. 🛑❌ 
 </p>
 
 <br />
