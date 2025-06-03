@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 03/06/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy </p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Mirror, mirror on the wall, should I do it? It said, 'Not at all.' 🛑❌ 
+  You don't want me to say yes—trust me, it's for the greater good. 🛑❌ 
 </p>
 
 <br />
