@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 04/06/2025</p>
+  <p>Kolkata, India - 05/06/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My family booked me for a game of hide-and-seek and I'm the missing piece. 🛑❌ 
+  I'm deferring my yes until a year that doesn't exist. 🛑❌ 
 </p>
 
 <br />
