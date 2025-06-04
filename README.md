@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Astrologically, I'm a No-rgo or a Libra-thinks-not (one of those). 🛑❌ 
+  My attendance is the last seal before the apocalypse, so hard pass. 🛑❌ 
 </p>
 
 <br />
