@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Not to brag, but I'm really good at not doing things. 🛑❌ 
+  I would climb Mount Everest barefoot before I'd agree to that. 🛑❌ 
 </p>
 
 <br />
