@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have an inner conflict: Part of me says 'no'. The other part also says 'no'. 🛑❌ 
+  I would bike there, but my bike just laughed at me. 🛑❌ 
 </p>
 
 <br />
