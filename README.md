@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've made a vow to avoid any form of productivity. 🛑❌ 
+  I can't go out; my fridge just opened a bottle of wine and it'd be rude not to join. 🛑❌ 
 </p>
 
 <br />
