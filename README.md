@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of my 'no' as an act of self-care. 🛑❌ 
+  I've made a vow to avoid any form of productivity. 🛑❌ 
 </p>
 
 <br />
