@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Yes is such a small word for such a life-changing event, I'm not ready. 🛑❌ 
+  I have a policy to not leap into volcanoes, and this feels similarly dangerous. 🛑❌ 
 </p>
 
 <br />
