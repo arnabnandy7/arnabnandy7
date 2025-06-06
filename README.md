@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If you pay me in gold bars, I'll reconsider. Otherwise, no. 🛑❌ 
+  My controller died, and so did my desire to go out. 🛑❌ 
 </p>
 
 <br />
