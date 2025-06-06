@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is on strike. 🛑❌ 
+  That’s not something I can prioritize at the moment. 🛑❌ 
 </p>
 
 <br />
