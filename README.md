@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll have to decline; I'm too busy being fabulous elsewhere. 🛑❌ 
+  I’d hate to step out and melt; I'm made of sugar and sarcasm. 🛑❌ 
 </p>
 
 <br />
