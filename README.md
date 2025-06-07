@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Not my circus, not my monkeys—so definitely not my act to perform. 🛑❌ 
+  My spidey-sense is tingling, and it's telling me not to do this. 🛑❌ 
 </p>
 
 <br />
