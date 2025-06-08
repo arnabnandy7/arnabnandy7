@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Am I coming? I'll answer that when water isn't wet. 🛑❌ 
+  I'm having a midlife crisis and saying yes isn't part of it. 🛑❌ 
 </p>
 
 <br />
