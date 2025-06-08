@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Let me check my schedule... oh look, it's a permanent no. 🛑❌ 
+  'No' is just 'on' spelled backwards, and I'm off. 🛑❌ 
 </p>
 
 <br />
