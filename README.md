@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, I'd be lying to both of us—and my therapist said to stop doing that. 🛑❌ 
+  My goldfish is getting married that day, I have to attend. 🛑❌ 
 </p>
 
 <br />
