@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm at peace with saying no. 🛑❌ 
+  I have a condition that prevents me from saying yes (it's called sanity). 🛑❌ 
 </p>
 
 <br />
