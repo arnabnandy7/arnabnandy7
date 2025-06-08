@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That date conflicts with my extended celebration of Chillmas. 🛑❌ 
+  Let me check my schedule... oh look, it's a permanent no. 🛑❌ 
 </p>
 
 <br />
