@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 09/06/2025</p>
+  <p>Kolkata, India - 10/06/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I excel at procrastinating, not at actually doing things. 🛑❌ 
+  I made a bet that I could say no to everything for a week. I'm about to win. 🛑❌ 
 </p>
 
 <br />
