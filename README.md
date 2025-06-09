@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I’ve taken some time to reflect, and I believe passing on this is the right call for now. 🛑❌ 
+  Any timeline where I say yes ends in chaos, so I'm choosing wisely. 🛑❌ 
 </p>
 
 <br />
