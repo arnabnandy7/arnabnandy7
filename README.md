@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Effort is currently not supported by my operating system. 🛑❌ 
+  I missed work because my bedroom was conducting a hostage situation with me as the hostage. 🛑❌ 
 </p>
 
 <br />
