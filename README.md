@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I promised my imaginary cat I'd stay home tonight. 🛑❌ 
+  Not today, Satan. Actually, not any day. 🛑❌ 
 </p>
 
 <br />
