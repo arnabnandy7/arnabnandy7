@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Allow me to gracefully decline, so you can have fun without my overwhelming awesomeness. 🛑❌ 
+  My kids grounded me for trying to have a life. 🛑❌ 
 </p>
 
 <br />
