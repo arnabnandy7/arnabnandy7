@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I gave it some thought. The thought was 'no'. 🛑❌ 
+  I need to sit this one out while I sort my sock zoo. 🛑❌ 
 </p>
 
 <br />
