@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I tried to get excited about it and pulled a muscle. 🛑❌ 
+  This request is above my emotional pay grade. 🛑❌ 
 </p>
 
 <br />
