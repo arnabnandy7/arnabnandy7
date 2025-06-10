@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 10/06/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy </p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My kids grounded me for trying to have a life. 🛑❌ 
+  My life coach advised me to eliminate stressors, starting with this. 🛑❌ 
 </p>
 
 <br />
