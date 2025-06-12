@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My phone's calendar just facepalmed at me for even considering it. 🛑❌ 
+  I have a black belt in avoidance, and I'd hate to waste it (so, no). 🛑❌ 
 </p>
 
 <br />
