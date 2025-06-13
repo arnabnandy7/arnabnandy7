@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I appreciate the thought, but it’s not the right fit for me right now. 🛑❌ 
+  My will to do that is in the shop for repairs. 🛑❌ 
 </p>
 
 <br />
