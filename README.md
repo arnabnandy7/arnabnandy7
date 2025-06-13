@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  For the sake of cosmic balance, I can't agree. 🛑❌ 
+  I'm holding up a scorecard that says 0, as in 0% chance. 🛑❌ 
 </p>
 
 <br />
