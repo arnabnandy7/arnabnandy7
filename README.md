@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I agreed, I'd have to explain it to my therapist. 🛑❌ 
+  No one has ever accused me of being too helpful, and I don't plan to start now. 🛑❌ 
 </p>
 
 <br />
