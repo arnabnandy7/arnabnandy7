@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My will to do that is in the shop for repairs. 🛑❌ 
+  My enthusiasm is sincere, but my availability is imaginary. 🛑❌ 
 </p>
 
 <br />
