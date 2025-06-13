@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't help you; I'm a supervillain in training and this would mess up my cred. 🛑❌ 
+  My brand is 'reliable disappointment', and I have to stay consistent. 🛑❌ 
 </p>
 
 <br />
