@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No can do—said in the nicest way possible (still no). 🛑❌ 
+  It's a no from me, dawg. 🛑❌ 
 </p>
 
 <br />
