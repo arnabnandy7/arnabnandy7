@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Honestly, chewing glass sounds more fun than saying yes to this. 🛑❌ 
+  I can't help you; I'm a supervillain in training and this would mess up my cred. 🛑❌ 
 </p>
 
 <br />
