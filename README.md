@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Maybe another time, like when pigs fly or hell freezes over, whichever comes first. 🛑❌ 
+  One of my pet peeves is doing stuff, so I simply don't. 🛑❌ 
 </p>
 
 <br />
