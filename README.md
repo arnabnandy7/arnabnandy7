@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm the designated stay-at-home person this week. 🛑❌ 
+  I'm not ghosting you; I'm giving you a firm no. 🛑❌ 
 </p>
 
 <br />
