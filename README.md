@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  With all due respect, no way, José. 🛑❌ 
+  Today, I only speak in negatives. 🛑❌ 
 </p>
 
 <br />
