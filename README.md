@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm testing a theory that I can survive on chips alone, can't interrupt that. 🛑❌ 
+  I'm in the middle of a high-stakes Tetris game (yes, it's very serious). 🛑❌ 
 </p>
 
 <br />
