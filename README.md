@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't make it; I'm extremely busy not being busy. 🛑❌ 
+  I'm in the middle of negotiating world peace (in a video game). 🛑❌ 
 </p>
 
 <br />
