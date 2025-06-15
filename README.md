@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I’m not in a position to commit to this right now. 🛑❌ 
+  If I agreed, I'd have to explain it to my therapist. 🛑❌ 
 </p>
 
 <br />
