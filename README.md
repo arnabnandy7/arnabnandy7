@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in the middle of negotiating world peace (in a video game). 🛑❌ 
+  My parole officer said I'm only allowed to work on being lazy. 🛑❌ 
 </p>
 
 <br />
