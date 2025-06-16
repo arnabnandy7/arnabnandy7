@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've reached my quota of saying yes for the year. 🛑❌ 
+  Maybe in my next life I'll consider it, but current me says no. 🛑❌ 
 </p>
 
 <br />
