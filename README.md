@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  At this point, saying yes would just feel wrong. 🛑❌ 
+  I made a deal with a demon to never say yes, and I hate to break a contract. 🛑❌ 
 </p>
 
 <br />
