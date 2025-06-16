@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't—I promised Netflix I'd stay in and watch movies. 🛑❌ 
+  The Queen of England ghost-told me to stay home (I only take royal commands). 🛑❌ 
 </p>
 
 <br />
