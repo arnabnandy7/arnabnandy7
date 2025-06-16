@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm overbooked, overwhelmed, and overjoyed to say no. 🛑❌ 
+  Saying yes once might give me a reputation for being helpful—can't have that. 🛑❌ 
 </p>
 
 <br />
