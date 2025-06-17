@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 17/06/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
+  <p>Heavy rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd come, but Nostradamus predicted I'd say no. 🛑❌ 
+  I'm in the middle of a very delicate 'doing nothing' ritual. 🛑❌ 
 </p>
 
 <br />
