@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Sorry, I need to iron my underwear that night. 🛑❌ 
+  I looked at my calendar, and it laughed at me for even asking. 🛑❌ 
 </p>
 
 <br />
