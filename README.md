@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Occupational Health and Safety flagged that activity as a hazard for me. 🛑❌ 
+  My answer is like Schrödinger's cat: it's both yes and no until you realize it's just no. 🛑❌ 
 </p>
 
 <br />
