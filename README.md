@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I need to stay in a safe environment, and that event sounds risky (to my sanity). 🛑❌ 
+  I was reading tea leaves and they said to avoid this at all costs. 🛑❌ 
 </p>
 
 <br />
