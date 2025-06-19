@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It's against my personal religion to do anything useful today. 🛑❌ 
+  I'm doing everyone a favor by sticking to what I'm good at: saying no. 🛑❌ 
 </p>
 
 <br />
