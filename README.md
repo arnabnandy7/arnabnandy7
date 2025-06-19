@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm scared of success, so I must decline anything that might work out. 🛑❌ 
+  I'm the emergency contact for my TV, so I must remain available. 🛑❌ 
 </p>
 
 <br />
