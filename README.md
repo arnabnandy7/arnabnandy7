@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I only go out in perfect weather conditions, which this clearly isn't (for me). 🛑❌ 
+  I've been preparing my whole life to say no to this exact request. 🛑❌ 
 </p>
 
 <br />
