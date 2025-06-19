@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of this as a strategic veto. 🛑❌ 
+  Thank you for thinking of me, but I'm going to decline hilariously. 🛑❌ 
 </p>
 
 <br />
