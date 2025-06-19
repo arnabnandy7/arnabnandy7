@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My core competency is avoiding things, and I really need to focus on it. 🛑❌ 
+  Think of this as a strategic veto. 🛑❌ 
 </p>
 
 <br />
