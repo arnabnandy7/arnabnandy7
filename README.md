@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Disclaimer: Any agreement on my part is void where fun is prohibited. 🛑❌ 
+  I'd love to participate, but I'm dead inside, so I just can't. 🛑❌ 
 </p>
 
 <br />
