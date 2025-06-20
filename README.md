@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is full of blank spaces reserved for me-time. 🛑❌ 
+  My retro soul can't handle modern tasks like that. 🛑❌ 
 </p>
 
 <br />
