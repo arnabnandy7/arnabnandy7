@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Helping you now could create a time paradox—better not risk it. 🛑❌ 
+  My horoscope app just notified me: 'Today is a good day to say no.' 🛑❌ 
 </p>
 
 <br />
