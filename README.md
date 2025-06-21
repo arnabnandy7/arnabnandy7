@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Let me put it in a language you understand: No. 🛑❌ 
+  I'm saving all my energy to blink and breathe. 🛑❌ 
 </p>
 
 <br />
