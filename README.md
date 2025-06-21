@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to trust my gut—and it's gently suggesting a no. 🛑❌ 
+  I'm in a bit of a financial bind: low on funds and on yeses. 🛑❌ 
 </p>
 
 <br />
