@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't find my motivation to get dressed up; I think I donated it. 🛑❌ 
+  My participation comes with a warning label, so I'll spare you. 🛑❌ 
 </p>
 
 <br />
