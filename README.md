@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll be in the middle of my power nap (which might last all day). 🛑❌ 
+  I'd love to say yes, but I just made a commitment to do less questionable things this week. 🛑❌ 
 </p>
 
 <br />
