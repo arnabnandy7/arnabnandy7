@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to update my social media status to 'busy not doing that'. 🛑❌ 
+  I missed the train of thought that would make me go. 🛑❌ 
 </p>
 
 <br />
