@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm busy searching for motivation on Google; no results found. 🛑❌ 
+  Improv theater time: I play a person who says no. End scene. 🛑❌ 
 </p>
 
 <br />
