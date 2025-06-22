@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I agree, I’d need to clone myself. And I don't trust him. 🛑❌ 
+  I've got to defrost the iceberg in my freezer. 🛑❌ 
 </p>
 
 <br />
