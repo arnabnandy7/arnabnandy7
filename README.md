@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I must protect my sanity at all costs—so no. 🛑❌ 
+  I could list 1000 reasons why I'm saying no, but I'll spare you. 🛑❌ 
 </p>
 
 <br />
