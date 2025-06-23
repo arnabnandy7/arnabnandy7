@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My broomstick is in the shop (you know how unreliable those are). 🛑❌ 
+  I have a chronic condition called 'idontwanna'. 🛑❌ 
 </p>
 
 <br />
