@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The fate of the potato chip I'm about to eat is in my hands, I can't abandon it. 🛑❌ 
+  I must protect my sanity at all costs—so no. 🛑❌ 
 </p>
 
 <br />
