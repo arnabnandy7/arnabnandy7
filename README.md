@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 25/06/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If saying no were an Olympic sport, I'd have a gold medal. 🛑❌ 
+  My psychiatrist advised me to avoid potentially fun activities. 🛑❌ 
 </p>
 
 <br />
