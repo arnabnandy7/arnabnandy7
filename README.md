@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even my coffee said, ‘Not today.’ 🛑❌ 
+  I would say yes, but then I'd have to wake up from my daydream, and reality is far less pleasant. 🛑❌ 
 </p>
 
 <br />
