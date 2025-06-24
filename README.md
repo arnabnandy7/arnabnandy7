@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to stay home and make sure gravity continues to work. (Someone has to.) 🛑❌ 
+  Declining this is actually part of my five-year plan. 🛑❌ 
 </p>
 
 <br />
