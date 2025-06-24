@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 24/06/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Look on the bright side: at least I'm consistent in saying no. 🛑❌ 
+  I have to stay home and make sure gravity continues to work. (Someone has to.) 🛑❌ 
 </p>
 
 <br />
