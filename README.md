@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That night is my scheduled trip back to the future. 🛑❌ 
+  I'm in a committed relationship with my bed at that time. 🛑❌ 
 </p>
 
 <br />
