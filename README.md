@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My social battery is at 0%, and my charger is missing. 🛑❌ 
+  I can't; I'm busy teaching my goldfish to play fetch for charity. 🛑❌ 
 </p>
 
 <br />
