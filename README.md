@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I lack the necessary enthusiasm to even pretend to consider that. 🛑❌ 
+  I've got a calendar alert to sit and stare into space at that exact time. 🛑❌ 
 </p>
 
 <br />
