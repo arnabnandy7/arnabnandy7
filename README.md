@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on a procrastination roll, can't stop now. 🛑❌ 
+  Saying yes? I'd sooner challenge a kangaroo to a boxing match. 🛑❌ 
 </p>
 
 <br />
