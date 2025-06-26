@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The version of me who says yes to this doesn’t exist anymore. 🛑❌ 
+  I’d love to, but I'm swamped with counting the ceiling tiles. 🛑❌ 
 </p>
 
 <br />
