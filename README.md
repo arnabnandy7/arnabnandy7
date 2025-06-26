@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm too lazy to even come up with a good excuse, so just no. 🛑❌ 
+  I need to keep my karma clear, and I sense a yes would muddy it. 🛑❌ 
 </p>
 
 <br />
