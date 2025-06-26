@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a work thing... it's called avoiding work. 🛑❌ 
+  I'm too cool for that (and by too cool, I mean too lazy). 🛑❌ 
 </p>
 
 <br />
