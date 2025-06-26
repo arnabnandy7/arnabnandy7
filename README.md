@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to keep an eye on my gingerbread house, you know how it is. 🛑❌ 
+  If I took this on, I’d be betraying the time I promised myself. 🛑❌ 
 </p>
 
 <br />
