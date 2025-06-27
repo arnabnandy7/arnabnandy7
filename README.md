@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even my FitBit is telling me to stay put. 🛑❌ 
+  I have nothing to wear that would match the look of regret I'd have if I went. 🛑❌ 
 </p>
 
 <br />
