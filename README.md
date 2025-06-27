@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar at work has a big red 'NOPE' on that date. 🛑❌ 
+  Yes is such a small word for such a life-changing event, I'm not ready. 🛑❌ 
 </p>
 
 <br />
