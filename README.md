@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I join, I'd just bring down the average. 🛑❌ 
+  My motivation and that task are like two magnets repelling each other. 🛑❌ 
 </p>
 
 <br />
