@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The dress code for that sounds like 'effort', so I'm out. 🛑❌ 
+  Even my FitBit is telling me to stay put. 🛑❌ 
 </p>
 
 <br />
