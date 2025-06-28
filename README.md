@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I lent my time machine to a friend and now I can't go back and free up this afternoon. 🛑❌ 
+  My availability is currently in a state of quantum uncertainty, leaning towards no. 🛑❌ 
 </p>
 
 <br />
