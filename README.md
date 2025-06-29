@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would attend, but I'm kind of a big deal in my own mirror. 🛑❌ 
+  My energy and I are currently in a long-distance relationship. 🛑❌ 
 </p>
 
 <br />
