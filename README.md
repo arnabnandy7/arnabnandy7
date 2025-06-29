@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My attendance is the last seal before the apocalypse, so hard pass. 🛑❌ 
+  My phone's calendar just facepalmed at me for even considering it. 🛑❌ 
 </p>
 
 <br />
