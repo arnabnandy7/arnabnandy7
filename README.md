@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  As the saying goes, 'Nope, nope, nope.' 🛑❌ 
+  My life is like a sitcom about avoiding responsibility, and I can't break character. 🛑❌ 
 </p>
 
 <br />
