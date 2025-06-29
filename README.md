@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My energy and I are currently in a long-distance relationship. 🛑❌ 
+  My attendance is the last seal before the apocalypse, so hard pass. 🛑❌ 
 </p>
 
 <br />
