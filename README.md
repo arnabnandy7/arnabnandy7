@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I ran this request through my internal compliance, and it failed. 🛑❌ 
+  I would help, but then you'd have two of us needing help. 🛑❌ 
 </p>
 
 <br />
