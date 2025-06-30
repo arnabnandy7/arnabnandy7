@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm not ghosting you; I'm giving you a firm no. 🛑❌ 
+  My therapist said I should avoid things that make me miserable; I assume this qualifies. 🛑❌ 
 </p>
 
 <br />
