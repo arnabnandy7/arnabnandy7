@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I think our connection is bad. If you asked me to do something, the answer is static... which means no. 🛑❌ 
+  I'm deferring my yes until a year that doesn't exist. 🛑❌ 
 </p>
 
 <br />
