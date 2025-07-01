@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My motto is 'Just say no', and I'm very loyal to my motto. 🛑❌ 
+  I'm under a sleeping spell that only time (and not doing that) can break. 🛑❌ 
 </p>
 
 <br />
