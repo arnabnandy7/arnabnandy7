@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 01/07/2025</p>
+  <p>Kolkata, India - 02/07/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm under a sleeping spell that only time (and not doing that) can break. 🛑❌ 
+  I didn't show up because I prefer to be fashionably absent. 🛑❌ 
 </p>
 
 <br />
