@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Unless I get stock options for this, I'm out. 🛑❌ 
+  My motto is 'Just say no', and I'm very loyal to my motto. 🛑❌ 
 </p>
 
 <br />
