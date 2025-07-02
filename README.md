@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a rare genetic disorder where I break out in refusals. 🛑❌ 
+  If I agreed, I'd have to explain it to my therapist. 🛑❌ 
 </p>
 
 <br />
