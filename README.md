@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Applying my version of Murphy's Law: if it can be avoided, it will be. 🛑❌ 
+  I promised to help my popcorn pop—it's a very involved process. 🛑❌ 
 </p>
 
 <br />
