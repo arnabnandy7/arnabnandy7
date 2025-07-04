@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm working on a petition to ban requests like this. 🛑❌ 
+  I've transcended the need for activities like that. 🛑❌ 
 </p>
 
 <br />
