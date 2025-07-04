@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm learning an alien language; they don't have a word for yes and neither do I right now. 🛑❌ 
+  I'm already living in the fast lane of doing nothing, so I can't slow down for that. 🛑❌ 
 </p>
 
 <br />
