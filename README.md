@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The seven dwarves warned me about overextending myself. 🛑❌ 
+  I'm like a black cat of projects; it's safer if I stay away. 🛑❌ 
 </p>
 
 <br />
