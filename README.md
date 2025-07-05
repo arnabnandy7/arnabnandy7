@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm not my circus, and those are not my monkeys—so it's not my act to perform. 🛑❌ 
+  My PTO (Permission To Opt-out) is in effect. 🛑❌ 
 </p>
 
 <br />
