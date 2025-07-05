@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm waiting for the last minute, and it hasn't arrived for this. 🛑❌ 
+  I promised myself I'd only decide things after coffee; too bad it's already no-o'clock. 🛑❌ 
 </p>
 
 <br />
