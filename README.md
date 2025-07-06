@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The coffee machine called in sick, so I'm incapable of agreeing to anything. 🛑❌ 
+  I'm deferring my yes until a year that doesn't exist. 🛑❌ 
 </p>
 
 <br />
