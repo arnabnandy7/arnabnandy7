@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll attend in spirit. Specifically, the spirit of 'not there'. 🛑❌ 
+  You’ve put great energy into this, and I hope you understand my decision to step back. 🛑❌ 
 </p>
 
 <br />
