@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to wash my hair that decade. 🛑❌ 
+  I'm not sure you can afford the damage I'd do by trying. 🛑❌ 
 </p>
 
 <br />
