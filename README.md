@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Why do today what I can avoid indefinitely? 🛑❌ 
+  I asked my better judgment, and it laughed hysterically. 🛑❌ 
 </p>
 
 <br />
