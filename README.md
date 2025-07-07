@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My destiny lies elsewhere—specifically, on my couch. 🛑❌ 
+  I respect the opportunity, but I know my limits—and this would stretch them too far. 🛑❌ 
 </p>
 
 <br />
