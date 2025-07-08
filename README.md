@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even my shadow decided to stay home, so I will too. 🛑❌ 
+  I would join, but then I'd have to recruit you into my plans and you wouldn't like that. 🛑❌ 
 </p>
 
 <br />
