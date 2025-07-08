@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 09/07/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
-  <p>Heavy rain</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm not feeling a strong gravitational pull towards doing that. 🛑❌ 
+  My overtime got into a fight with my free time, and free time lost. 🛑❌ 
 </p>
 
 <br />
