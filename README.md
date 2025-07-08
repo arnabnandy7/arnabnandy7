@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If there were an award for avoiding participation, I'd be the frontrunner. 🛑❌ 
+  I'm fluent in 5 languages, and in all of them, the answer is no. 🛑❌ 
 </p>
 
 <br />
