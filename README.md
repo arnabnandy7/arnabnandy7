@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Fine print: My 'yes' comes with 0% enthusiasm. 🛑❌ 
+  I'm afraid if I enjoy myself, it will become a bad habit. 🛑❌ 
 </p>
 
 <br />
