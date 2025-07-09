@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to guard the refrigerator tonight; snacks are counting on me. 🛑❌ 
+  By agreeing, I might violate several personal bylaws. 🛑❌ 
 </p>
 
 <br />
