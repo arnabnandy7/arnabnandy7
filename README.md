@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I prefer to watch the grass grow at that time, sorry. 🛑❌ 
+  I must attend to my garden of plastic flowers. 🛑❌ 
 </p>
 
 <br />
