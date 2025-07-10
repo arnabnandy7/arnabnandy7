@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Got a conference call with myself, and it's very time-consuming. 🛑❌ 
+  My license to have fun was revoked. 🛑❌ 
 </p>
 
 <br />
