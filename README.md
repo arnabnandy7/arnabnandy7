@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The thought of doing that gave me a phantom backache. I'll pass. 🛑❌ 
+  I'd rather do my own dental surgery with no anesthesia. 🛑❌ 
 </p>
 
 <br />
