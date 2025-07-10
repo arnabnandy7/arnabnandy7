@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 10/07/2025</p>
+  <p>Kolkata, India - 11/07/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on call as the family couch potato. 🛑❌ 
+  My gut feeling and I unanimously voted no. 🛑❌ 
 </p>
 
 <br />
