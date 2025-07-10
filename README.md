@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Time is a non-renewable resource, and I choose not to spend any on that. 🛑❌ 
+  You really don't want me on this – my specialty is ruining things. 🛑❌ 
 </p>
 
 <br />
