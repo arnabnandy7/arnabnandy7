@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a condition that prevents me from saying yes (it's called sanity). 🛑❌ 
+  Do I look like someone who would do that? Correct, I don't. 🛑❌ 
 </p>
 
 <br />
