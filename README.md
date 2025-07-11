@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm attending a meeting of the Anti-Social Social Club (I'm the only member). 🛑❌ 
+  My desire to do that is currently in a coma. 🛑❌ 
 </p>
 
 <br />
