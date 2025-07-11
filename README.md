@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll give you two choices: no, or nope. You can pick. 🛑❌ 
+  I had a vision of doing this—and then promptly fell asleep in it. 🛑❌ 
 </p>
 
 <br />
