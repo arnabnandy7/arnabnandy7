@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain auto-deletes requests like that. 🛑❌ 
+  I'm having an out-of-body experience and I'm not back yet. 🛑❌ 
 </p>
 
 <br />
