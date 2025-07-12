@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would help, but then you'd have two of us needing help. 🛑❌ 
+  I'm on a mission to Mars in my dreams, scheduling conflict with reality. 🛑❌ 
 </p>
 
 <br />
