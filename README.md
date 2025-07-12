@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm practicing for a marathon of not moving. 🛑❌ 
+  I’m going to respectfully decline. It doesn’t align with where I’m heading. 🛑❌ 
 </p>
 
 <br />
