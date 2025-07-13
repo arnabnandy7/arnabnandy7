@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, considering this isn't something I can commit to. 🛑❌ 
+  I'd love to, but then who will save the world while I'm gone? 🛑❌ 
 </p>
 
 <br />
