@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My gut feeling started doing the Macarena when you asked (that's a no dance). 🛑❌ 
+  Every fiber of my being is currently doing the wave in honor of saying no. 🛑❌ 
 </p>
 
 <br />
