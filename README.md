@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My future self wrote me a note: ‘Please don’t do this again.’ 🛑❌ 
+  I put the 'pro' in procrastinate, and I won't ruin my streak. 🛑❌ 
 </p>
 
 <br />
