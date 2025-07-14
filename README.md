@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd accept, but I have a strict policy of not walking into obvious traps. 🛑❌ 
+  I made a bet that I could say no to everything for a week. I'm about to win. 🛑❌ 
 </p>
 
 <br />
