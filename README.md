@@ -14,9 +14,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 14/07/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
-  <p>Heavy rain</p>
+  <p>Kolkata, India - 15/07/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I made a bet that I could say no to everything for a week. I'm about to win. 🛑❌ 
+  I have short-term memory loss when it comes to responsibilities. 🛑❌ 
 </p>
 
 <br />
