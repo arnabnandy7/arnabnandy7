@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I had any less interest, I'd be in a coma. 🛑❌ 
+  I would violate the Geneva Convention of Introverts if I agreed. 🛑❌ 
 </p>
 
 <br />
