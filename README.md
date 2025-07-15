@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd rather say no with honesty than yes with resentment. 🛑❌ 
+  I pulled a card from a deck; it said 'Do Not Pass Go, Do Not Say Yes'. 🛑❌ 
 </p>
 
 <br />
