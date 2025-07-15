@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My coffee and I have a pact: no important decisions without it, and it’s not available. 🛑❌ 
+  My horoscope app just notified me: 'Today is a good day to say no.' 🛑❌ 
 </p>
 
 <br />
