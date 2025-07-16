@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me doing that would be like a chicken trying to do algebra. 🛑❌ 
+  My evil twin might be interested; too bad they're busy too. 🛑❌ 
 </p>
 
 <br />
