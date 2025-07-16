@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, attempting this isn't something I can commit to. 🛑❌ 
+  I have front row seats to my couch and I intend to use them. 🛑❌ 
 </p>
 
 <br />
