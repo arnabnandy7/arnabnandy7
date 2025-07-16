@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Fate decided to swipe left on this one. 🛑❌ 
+  They say double negatives make a positive, but my single negative stands firm. 🛑❌ 
 </p>
 
 <br />
