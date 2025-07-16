@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I helped, I'd be robbing you of the chance to do it yourself. 🛑❌ 
+  Legend says if I ever agree, the world will end in a spectacular musical number. 🛑❌ 
 </p>
 
 <br />
