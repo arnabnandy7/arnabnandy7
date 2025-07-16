@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  To do or not to do? That is the question, and I've answered 'not to do.' 🛑❌ 
+  Fate decided to swipe left on this one. 🛑❌ 
 </p>
 
 <br />
