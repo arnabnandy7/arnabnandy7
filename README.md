@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Saying yes once might give me a reputation for being helpful—can't have that. 🛑❌ 
+  Me doing that would be like a chicken trying to do algebra. 🛑❌ 
 </p>
 
 <br />
