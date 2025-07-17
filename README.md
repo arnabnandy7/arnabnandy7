@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
+  I thought about doing it later, then realized later is fully booked as well. 🛑❌ 
 </p>
 
 <br />
