@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me doing that? That's the plot twist no one wants. 🛑❌ 
+  I'll sit this one out and let karma reward my honesty. 🛑❌ 
 </p>
 
 <br />
