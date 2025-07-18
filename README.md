@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 18/07/2025</p>
+  <p>Kolkata, India - 19/07/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It would be like expecting a sloth to win a 100m dash. 🛑❌ 
+  My brain's hard drive is full; there's no room for that task. 🛑❌ 
 </p>
 
 <br />
