@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Helping you now could create a time paradox—better not risk it. 🛑❌ 
+  Let's just assume I said no and move on. 🛑❌ 
 </p>
 
 <br />
