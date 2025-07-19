@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In my day, we didn't have to do things we didn't want to (and I'm keeping it that way). 🛑❌ 
+  I made a New Year's resolution to say no more often. Starting now. 🛑❌ 
 </p>
 
 <br />
