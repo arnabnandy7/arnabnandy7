@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've pre-booked my next thousand refusals; you're just one of them. 🛑❌ 
+  I'm the hero my couch deserves, so I must stay with it. 🛑❌ 
 </p>
 
 <br />
