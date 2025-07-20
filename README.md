@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Does a fish need a bicycle? That's how much I need to do this. 🛑❌ 
+  The winds of fate blew and I got hit in the face with a 'no'. 🛑❌ 
 </p>
 
 <br />
