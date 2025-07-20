@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I auctioned off my time slot for that day to the highest bidder of nothing. 🛑❌ 
+  Picture a Venn diagram of my schedule and your request—they don't overlap. 🛑❌ 
 </p>
 
 <br />
