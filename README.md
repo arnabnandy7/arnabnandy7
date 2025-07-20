@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My answer is a no—freshly baked, just for you. 🛑❌ 
+  I'd rather regret not doing it than regret doing it. 🛑❌ 
 </p>
 
 <br />
