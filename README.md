@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life is like a Jenga tower; one more thing might make it collapse. 🛑❌ 
+  I'm stuck in a time loop of saying no. 🛑❌ 
 </p>
 
 <br />
