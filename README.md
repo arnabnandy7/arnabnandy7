@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My friends would have a heart attack if I suddenly said yes to things. 🛑❌ 
+  Is this the part where I say yes? No? Good, because I won't. 🛑❌ 
 </p>
 
 <br />
