@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I played the lottery of caring and lost. 🛑❌ 
+  I only operate heavy machinery (like my couch) under supervision, so I can't go. 🛑❌ 
 </p>
 
 <br />
