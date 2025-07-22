@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I promised my online friends I'd keep the server alive by staying on. 🛑❌ 
+  I checked with future me, and they rolled their eyes, so I'll pass. 🛑❌ 
 </p>
 
 <br />
