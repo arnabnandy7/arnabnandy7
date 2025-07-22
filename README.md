@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life coach advised me to eliminate stressors, starting with this. 🛑❌ 
+  Do I look like someone who would do that? Correct, I don't. 🛑❌ 
 </p>
 
 <br />
