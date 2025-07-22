@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  You deserve someone who will say yes without giving three excuses first. 🛑❌ 
+  My enthusiasm is sincere, but my availability is imaginary. 🛑❌ 
 </p>
 
 <br />
