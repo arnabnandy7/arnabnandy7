@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 22/07/2025</p>
+  <p>Kolkata, India - 23/07/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Zombies may attack if I leave the house, I saw it in a documentary (okay, it was a zombie movie). 🛑❌ 
+  I played the lottery of caring and lost. 🛑❌ 
 </p>
 
 <br />
