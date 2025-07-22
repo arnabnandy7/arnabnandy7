@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My enthusiasm is sincere, but my availability is imaginary. 🛑❌ 
+  If I end up liking it, then I'll have to do it again, so no. 🛑❌ 
 </p>
 
 <br />
