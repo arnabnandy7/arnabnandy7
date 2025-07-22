@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll spare you a half-hearted yes and give you an honest no. 🛑❌ 
+  My commitment to doing nothing would get jealous if I did something else. 🛑❌ 
 </p>
 
 <br />
