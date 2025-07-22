@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Do I look like someone who would do that? Correct, I don't. 🛑❌ 
+  The odds of me doing that are about the same as winning the lottery without buying a ticket. 🛑❌ 
 </p>
 
 <br />
