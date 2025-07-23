@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My will to participate mysteriously vanished just as you asked. 🛑❌ 
+  If I were any more indifferent, I'd be a statue. 🛑❌ 
 </p>
 
 <br />
