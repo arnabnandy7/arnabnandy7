@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm not procrastinating; I'm proactively saying no in advance. 🛑❌ 
+  My will to participate mysteriously vanished just as you asked. 🛑❌ 
 </p>
 
 <br />
