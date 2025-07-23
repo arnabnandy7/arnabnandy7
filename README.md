@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would, but I'm Batman. (That excuse works for anything, right?) 🛑❌ 
+  My free trial of doing things has expired, and I can't afford the subscription. 🛑❌ 
 </p>
 
 <br />
