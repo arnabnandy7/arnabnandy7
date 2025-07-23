@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have been chosen as the guardian of my living room today. 🛑❌ 
+  I'm revisiting my teenage rebellion by saying no to everything. 🛑❌ 
 </p>
 
 <br />
