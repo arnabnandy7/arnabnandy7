@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Yes is such a small word for such a life-changing event, I'm not ready. 🛑❌ 
+  If I took this on, I’d be betraying the time I promised myself. 🛑❌ 
 </p>
 
 <br />
