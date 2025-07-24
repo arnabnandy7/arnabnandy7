@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 24/07/2025</p>
+  <p>Kolkata, India - 25/07/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Declining this request sparks joy in me. 🛑❌ 
+  I'm stuck in a time loop of saying no. 🛑❌ 
 </p>
 
 <br />
