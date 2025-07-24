@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I think I'm at an age where I just say no to stuff like this. 🛑❌ 
+  My free trial of doing things has expired, and I can't afford the subscription. 🛑❌ 
 </p>
 
 <br />
