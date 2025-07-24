@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I bailed last minute because commitment issues run in my family. 🛑❌ 
+  I consulted my alternate self; they also declined. 🛑❌ 
 </p>
 
 <br />
