@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The fabric of my being just isn't woven for that request. 🛑❌ 
+  Public me is out of office; please contact me never. 🛑❌ 
 </p>
 
 <br />
