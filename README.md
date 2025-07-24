@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Not today, Satan. Actually, not any day. 🛑❌ 
+  I think I'm at an age where I just say no to stuff like this. 🛑❌ 
 </p>
 
 <br />
