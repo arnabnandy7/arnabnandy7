@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Unless I get stock options for this, I'm out. 🛑❌ 
+  I signed up for a course on saying no, and I'm just practicing my homework. 🛑❌ 
 </p>
 
 <br />
