@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a duty to uphold: keep my couch from feeling lonely. 🛑❌ 
+  My family booked me for a game of hide-and-seek and I'm the missing piece. 🛑❌ 
 </p>
 
 <br />
