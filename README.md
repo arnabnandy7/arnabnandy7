@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Asking me to do that is like asking a fish to climb a tree. 🛑❌ 
+  I gave up saying yes for Lent, and it hasn't ended yet. 🛑❌ 
 </p>
 
 <br />
