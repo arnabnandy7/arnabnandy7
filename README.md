@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Did I just hear myself volunteer? No, so I'll keep it that way. 🛑❌ 
+  Asking me to do that is like asking a fish to climb a tree. 🛑❌ 
 </p>
 
 <br />
