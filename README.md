@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm more of an 'observe from afar' person than a 'participate' person. 🛑❌ 
+  I'm feeling as active as a sloth on vacation. 🛑❌ 
 </p>
 
 <br />
