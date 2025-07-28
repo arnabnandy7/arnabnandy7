@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, people might expect me to do it again. Perish the thought. 🛑❌ 
+  The dress code for that sounds like 'effort', so I'm out. 🛑❌ 
 </p>
 
 <br />
