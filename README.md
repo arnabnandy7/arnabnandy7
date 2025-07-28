@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a meeting with my couch and it won’t take no for an answer. 🛑❌ 
+  Let's pencil it in for the 12th of Never. 🛑❌ 
 </p>
 
 <br />
