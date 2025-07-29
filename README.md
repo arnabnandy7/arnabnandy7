@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 29/07/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
-  <p>Heavy rain</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life is like a Jenga tower; one more thing might make it collapse. 🛑❌ 
+  I'm going to deliver my answer in interpretive dance. *performs a NO* 🛑❌ 
 </p>
 
 <br />
