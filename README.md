@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll put this request on my to-do list right after 'learn teleportation'. 🛑❌ 
+  I'm still recovering from the last time I said yes. 🛑❌ 
 </p>
 
 <br />
