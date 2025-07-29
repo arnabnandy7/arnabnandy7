@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My goldfish is getting married that day, I have to attend. 🛑❌ 
+  I'm stuck in a black hole of procrastination and can't escape in time to do that. 🛑❌ 
 </p>
 
 <br />
