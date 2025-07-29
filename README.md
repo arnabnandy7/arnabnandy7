@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  NO is just YES suffering from oppositional defiant disorder. 🛑❌ 
+  I'm drowning in tasks, and I didn't bring a snorkel. 🛑❌ 
 </p>
 
 <br />
