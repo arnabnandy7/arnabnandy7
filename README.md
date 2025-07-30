@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I’ve reached an age where I just say no to things I hate. And I hate this. 🛑❌ 
+  My boss told me to only say yes to salary raises, so no to everything else. 🛑❌ 
 </p>
 
 <br />
