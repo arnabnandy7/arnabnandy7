@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't come; I'm the aliens' tour guide for Earth and they're very demanding. 🛑❌ 
+  I’ve reached an age where I just say no to things I hate. And I hate this. 🛑❌ 
 </p>
 
 <br />
