@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Trust me, I'm doing you a favor by saying no. 🛑❌ 
+  My schedule spontaneously combusted from too many tasks. 🛑❌ 
 </p>
 
 <br />
