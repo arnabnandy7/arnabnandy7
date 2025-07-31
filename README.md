@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Every fiber of my being is currently doing the wave in honor of saying no. 🛑❌ 
+  I'll have to decline; I'm too busy being fabulous elsewhere. 🛑❌ 
 </p>
 
 <br />
