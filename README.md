@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd rather walk on Lego bricks for an hour straight. 🛑❌ 
+  My accountant advised me that saying yes doesn't balance my books. 🛑❌ 
 </p>
 
 <br />
