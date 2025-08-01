@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm trying to be less of a people-pleaser, starting now. 🛑❌ 
+  While I appreciate it, exploring this isn't something I can commit to. 🛑❌ 
 </p>
 
 <br />
