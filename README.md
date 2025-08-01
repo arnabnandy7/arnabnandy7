@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I prefer to remain an out-of-office message in human form. 🛑❌ 
+  The word 'yes' gives me hives; I'm avoiding an allergic reaction. 🛑❌ 
 </p>
 
 <br />
