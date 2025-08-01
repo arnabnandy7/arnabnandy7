@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 01/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll give you two choices: no, or nope. You can pick. 🛑❌ 
+  I auctioned off my time slot for that day to the highest bidder of nothing. 🛑❌ 
 </p>
 
 <br />
