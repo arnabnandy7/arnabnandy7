@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My cat is giving me the 'don't you dare go out' look. 🛑❌ 
+  Let's be honest: we both know I'm not going to do it. 🛑❌ 
 </p>
 
 <br />
