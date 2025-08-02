@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I had a nickel for every time I said no, I'd have a lot of nickels. 🛑❌ 
+  I'd rather walk on Lego bricks for an hour straight. 🛑❌ 
 </p>
 
 <br />
