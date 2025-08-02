@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, it might ruin my evil plan. 🛑❌ 
+  My enthusiasm is on backorder, and the delivery date keeps getting pushed. 🛑❌ 
 </p>
 
 <br />
