@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My plate is full, and I already ate the portion of doing favors. 🛑❌ 
+  I prefer the thrill of not doing it, thanks. 🛑❌ 
 </p>
 
 <br />
