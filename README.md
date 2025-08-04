@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The last time I tried, I got a papercut on my soul. 🛑❌ 
+  I'm actually terrible at that, unless you need an example of how not to do it. 🛑❌ 
 </p>
 
 <br />
