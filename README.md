@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Check back with me in a million years, I might have time then. 🛑❌ 
+  I felt burnout just hearing about it, so I'm preemptively declining. 🛑❌ 
 </p>
 
 <br />
