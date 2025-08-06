@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I was abducted by aliens yesterday and they gave me strict instructions to avoid that. 🛑❌ 
+  I'm afraid I'll set the bar too high if I say yes and do a good job. 🛑❌ 
 </p>
 
 <br />
