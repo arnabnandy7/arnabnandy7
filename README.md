@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My bio on Twitter says 'Often says no', gotta stay on brand. 🛑❌ 
+  I can't; my pet rock is having an emotional crisis. 🛑❌ 
 </p>
 
 <br />
