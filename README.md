@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't; my pet rock is having an emotional crisis. 🛑❌ 
+  I've already met my quota of bad decisions for the month; saying yes would exceed it. 🛑❌ 
 </p>
 
 <br />
