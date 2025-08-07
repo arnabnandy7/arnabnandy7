@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I take on one more thing, I'll officially become a cautionary tale. 🛑❌ 
+  My willpower to do that got stuck in traffic and won't make it. 🛑❌ 
 </p>
 
 <br />
