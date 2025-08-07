@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My insurance doesn't cover acts of me doing that. 🛑❌ 
+  I'm on a secret standby mission – can't disclose, just know I can't come. 🛑❌ 
 </p>
 
 <br />
