@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  On a scale of yes to no, I'm at a 'not in a million years'. 🛑❌ 
+  My legs have filed a complaint about excessive walking. 🛑❌ 
 </p>
 
 <br />
