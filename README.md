@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If you rearrange the letters of 'yes', you get 'sye'—which is exactly how much sense it would make for me to do this. 🛑❌ 
+  My insurance doesn't cover acts of me doing that. 🛑❌ 
 </p>
 
 <br />
