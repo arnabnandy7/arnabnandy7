@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I must refuse, or the delicate equilibrium of my laziness will be disrupted. 🛑❌ 
+  If I go, who will hold down the fort? (The fort being my couch). 🛑❌ 
 </p>
 
 <br />
