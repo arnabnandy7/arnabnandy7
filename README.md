@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd rather search for the purpose of life than attend. 🛑❌ 
+  I've dedicated that time to an ice cream in need of company. 🛑❌ 
 </p>
 
 <br />
