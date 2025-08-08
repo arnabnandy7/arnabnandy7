@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  This doesn’t align with my values or current focus. 🛑❌ 
+  Cinderella left one shoe here and I need to help find the other instead of going out. 🛑❌ 
 </p>
 
 <br />
