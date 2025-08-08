@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've a prior commitment to binge-watching paint dry. 🛑❌ 
+  They say 'follow your dreams' — and my dream is to not do that. 🛑❌ 
 </p>
 
 <br />
