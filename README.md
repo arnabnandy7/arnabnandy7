@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm off-duty indefinitely. 🛑❌ 
+  I celebrate Opposite Day by doing the opposite of what you ask. 🛑❌ 
 </p>
 
 <br />
