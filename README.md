@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm stuck in my closet's Narnia and can't get out to attend. 🛑❌ 
+  I gave up saying yes for Lent, and it hasn't ended yet. 🛑❌ 
 </p>
 
 <br />
