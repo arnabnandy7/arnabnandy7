@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Life is short, and my nap list is long. 🛑❌ 
+  I'm stuck in my closet's Narnia and can't get out to attend. 🛑❌ 
 </p>
 
 <br />
