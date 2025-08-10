@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I fear my yes would summon Cthulhu or something. 🛑❌ 
+  I admire your persistence in asking, but it's still a no. 🛑❌ 
 </p>
 
 <br />
