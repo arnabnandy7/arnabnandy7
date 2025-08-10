@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of my refusal as a free lesson in handling rejection. 🛑❌ 
+  I would help, but that would contradict my life's mission statement. 🛑❌ 
 </p>
 
 <br />
