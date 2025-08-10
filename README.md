@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My dog will only let me out of the house if it's for walks, not work. 🛑❌ 
+  I would love to, but I'd rather not. 🛑❌ 
 </p>
 
 <br />
