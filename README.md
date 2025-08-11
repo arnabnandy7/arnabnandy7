@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a philosophical objection to doing that. 🛑❌ 
+  I'm aging like fine wine, which means getting more stubborn about saying no. 🛑❌ 
 </p>
 
 <br />
