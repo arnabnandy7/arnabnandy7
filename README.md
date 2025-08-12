@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on a mission in a video game and real life can't compete. 🛑❌ 
+  My superhero alter ego needs a day off, and so do I. 🛑❌ 
 </p>
 
 <br />
