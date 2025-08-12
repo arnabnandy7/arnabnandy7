@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a to-don't list, and this is right at the top. 🛑❌ 
+  I'm on a mission in a video game and real life can't compete. 🛑❌ 
 </p>
 
 <br />
