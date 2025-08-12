@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The couch has accepted me as one of its own, and I can't betray its trust. 🛑❌ 
+  I'm in the middle of a very delicate 'doing nothing' ritual. 🛑❌ 
 </p>
 
 <br />
