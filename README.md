@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a chronic condition called 'idontwanna'. 🛑❌ 
+  I'd say yes, but then it wouldn't be fair to the others when I excel effortlessly. 🛑❌ 
 </p>
 
 <br />
