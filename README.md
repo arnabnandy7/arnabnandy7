@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My fridge and I have couples therapy at that time. 🛑❌ 
+  What a great idea! I'm sad I can't be part of it. Well, not that sad. 🛑❌ 
 </p>
 
 <br />
