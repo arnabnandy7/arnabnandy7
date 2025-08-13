@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 13/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  What a great idea! I'm sad I can't be part of it. Well, not that sad. 🛑❌ 
+  My attendance is the last seal before the apocalypse, so hard pass. 🛑❌ 
 </p>
 
 <br />
