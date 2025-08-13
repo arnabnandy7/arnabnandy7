@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My schedule is full: I'm alphabetizing my snacks. 🛑❌ 
+  My life is a choose-your-own-adventure, and I flipped to the page where I say no. 🛑❌ 
 </p>
 
 <br />
