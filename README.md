@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm practicing wu wei (doing nothing) as per Taoism, so I must decline. 🛑❌ 
+  My fridge and I have couples therapy at that time. 🛑❌ 
 </p>
 
 <br />
