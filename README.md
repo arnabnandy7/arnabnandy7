@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 14/08/2025</p>
+  <p>Kolkata, India - 15/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, embracing this isn't something I can commit to. 🛑❌ 
+  Even my calendar laughed when I tried to squeeze this in. 🛑❌ 
 </p>
 
 <br />
