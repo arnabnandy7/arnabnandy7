@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I swore an oath that I must decline all requests on a whim. 🛑❌ 
+  Can I take a rain check and then lose it forever? 🛑❌ 
 </p>
 
 <br />
