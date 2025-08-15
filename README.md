@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm booked until the heat death of the universe. 🛑❌ 
+  If I do it, you'll spend more time fixing my mistakes. 🛑❌ 
 </p>
 
 <br />
