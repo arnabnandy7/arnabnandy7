@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Can I take a rain check and then lose it forever? 🛑❌ 
+  Sorry, nothing in my closet screams 'let’s do this.' It all screams 'stay home'. 🛑❌ 
 </p>
 
 <br />
