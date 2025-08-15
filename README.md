@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My answer is a no—freshly baked, just for you. 🛑❌ 
+  I believe you have the wrong number; the person who says yes isn't available. 🛑❌ 
 </p>
 
 <br />
