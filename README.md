@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm engaged in a passionate affair with free time, and I can't cheat on it. 🛑❌ 
+  If I had any less interest, I'd be in a coma. 🛑❌ 
 </p>
 
 <br />
