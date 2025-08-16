@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It's my pet rock's birthday, which is basically a global holiday to me. 🛑❌ 
+  The island I'm exiled on doesn't allow me to leave for events. 🛑❌ 
 </p>
 
 <br />
