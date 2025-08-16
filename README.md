@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 16/08/2025</p>
+  <p>Kolkata, India - 17/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That date conflicts with my extended celebration of Chillmas. 🛑❌ 
+  My answer is like Schrödinger's cat: it's both yes and no until you realize it's just no. 🛑❌ 
 </p>
 
 <br />
