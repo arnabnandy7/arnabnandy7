@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 16/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy </p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The contract I signed with my bed doesn't allow me to do anything else. 🛑❌ 
+  My calendar is full of blank spaces reserved for me-time. 🛑❌ 
 </p>
 
 <br />
