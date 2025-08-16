@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My answer is like Schrödinger's cat: it's both yes and no until you realize it's just no. 🛑❌ 
+  I woke up today and decided it's a 'no' day. 🛑❌ 
 </p>
 
 <br />
