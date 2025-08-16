@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I consulted Lady Luck; she told me to stay home. 🛑❌ 
+  I'm waiting for a rich benefactor to fund my yeses. 🛑❌ 
 </p>
 
 <br />
