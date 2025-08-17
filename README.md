@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The public transportation in my living room is currently not operational. 🛑❌ 
+  I have a personal policy of saying no on days ending in 'y'. 🛑❌ 
 </p>
 
 <br />
