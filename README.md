@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Disclaimer: Any agreement on my part is void where fun is prohibited. 🛑❌ 
+  I'm currently observing National No Day, it's a personal holiday. 🛑❌ 
 </p>
 
 <br />
