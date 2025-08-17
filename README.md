@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I regret to inform you that I'll be vigorously not doing that. 🛑❌ 
+  I absolutely adore the concept, but I'll have to sit this one out. 🛑❌ 
 </p>
 
 <br />
