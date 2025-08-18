@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I misheard you, I thought you said 'do you want a taco'. Since you didn't, I'm not interested. 🛑❌ 
+  I'm fighting an invisible dragon at home. It's taking longer than expected. 🛑❌ 
 </p>
 
 <br />
