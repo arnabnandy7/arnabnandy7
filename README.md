@@ -15,8 +15,8 @@
 
 <div align="center">
   <p>Kolkata, India - 18/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm fighting an invisible dragon at home. It's taking longer than expected. 🛑❌ 
+  I have to consult Doctor Strange about attending (he foresaw that I don't). 🛑❌ 
 </p>
 
 <br />
