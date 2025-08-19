@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Unfortunately, I'm volunteering as a taste-tester for my pet's new diet. 🛑❌ 
+  My morning coffee and I decided this isn't worth the caffeine it would take. 🛑❌ 
 </p>
 
 <br />
