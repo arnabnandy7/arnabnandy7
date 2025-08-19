@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Every time I think about it, I hear a tiny ‘nope’ in the wind. 🛑❌ 
+  The hamster running my life wheel is on strike due to overwork. 🛑❌ 
 </p>
 
 <br />
