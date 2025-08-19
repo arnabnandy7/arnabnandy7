@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My morning coffee and I decided this isn't worth the caffeine it would take. 🛑❌ 
+  Luckily, I have procrastination insurance. It covers me for situations like this. 🛑❌ 
 </p>
 
 <br />
