@@ -14,7 +14,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 19/08/2025</p>
+  <p>Kolkata, India - 20/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain</p>
 </div>
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That isn't on my bucket list; in fact, it's on my chuck-it list. 🛑❌ 
+  Unfortunately, I'm volunteering as a taste-tester for my pet's new diet. 🛑❌ 
 </p>
 
 <br />
