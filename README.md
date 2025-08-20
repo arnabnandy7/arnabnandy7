@@ -9,7 +9,8 @@
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
-<br />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <h3 align="center">Today's Weather</h3>
 
@@ -25,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to cancel; I've exceeded my people-ing quota for the week. 🛑❌ 
+  I can't—I promised Netflix I'd stay in and watch movies. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -172,6 +173,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
+<p align="center">
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
 <p align="center">
 <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
