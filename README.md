@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I decline now, to avoid declining later. 🛑❌ 
+  I'm coming down with something; it's called laziness. 🛑❌ 
 </p>
 
 <br />
@@ -120,32 +120,17 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-<br />
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-<p align="center">
-    <table align="center" style="border: 0; border-collapse: collapse;">
-        <tbody align="center">
-            <tr>
-                <td>
-                    <img width="300" height="200" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabnandy7&hide=php&layout=compact&hide_border=true" />  
-                </td>
-                <td>
-                    <img width="300" height="200" alt="arnabnandy7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&show_icons=true&hide_border=true&include_all_commits=true" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://stackexchange.com/users/4821761"><img src="https://stackexchange.com/users/flair/4821761.png" width="208" height="58" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-                </td>
-                <td>
-                    <img width="300" height="200" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arnabnandy7&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Coders Rank Summary" />
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</p>
+<div align="center" id="github-metrics">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
-<p align="left"> <a href="https://github.com/arnabnandy7"><img src="https://github-profile-trophy.vercel.app/?username=arnabnandy7" alt="arnabnandy7" /></a> </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabnandy7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ## GitAds Sponsored
 
