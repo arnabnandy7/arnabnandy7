@@ -19,16 +19,16 @@
   <p>Moderate rain</p>
 </div>
 
-<br />
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <h3 align="center">😒 Tired of Saying No to someone?</h3>
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I were any more indifferent, I'd be a statue. 🛑❌ 
+  I suspect a sudden tornado of responsibilities will keep me inside. 🛑❌ 
 </p>
 
-<br />
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <h3 align="center">Let's Connect 🌐</h3>
 
@@ -75,8 +75,13 @@
 </p>
 
 
-<br />
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
+<h2 id="guestbook-📖✒️">GuestBook  📖✒️</h2>
+
+[![GuestBook](https://github.com/arnabnandy7/arnabnandy7/blob/main/images/sign_my_guestbook.gif)](https://gist.github.com/arnabnandy7/152ac4cc7d16816c60f90db165b28568)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 <h3 align="center">Languages and Tools 🛠️</h3>
 
 <p align="center">
@@ -108,6 +113,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -134,6 +141,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<h2 align="left" id="## 🏅 Badge Wall">🏅 Badge Wall</h2>
+
 > 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
 
 <details>
@@ -152,11 +162,19 @@
   <a href="https://www.credly.com/badges/c706003b-da9f-4a56-b513-22be27e5a77f" title="Orchestrate PaLM LLM solutions with LangChain Skill Badge"><img src="https://images.credly.com/images/008980dd-0667-46df-85e1-4f8e2d2c9428/image.png" alt="Orchestrate PaLM LLM solutions with LangChain Skill Badge" width="80" height="80"></a>
   <a href="https://www.credly.com/badges/cef82b2e-970a-4318-8e59-c3e26b7f5c19" title="Prompt Design in Vertex AI Skill Badge"><img src="https://images.credly.com/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="80" height="80"></a>
   <a href="https://www.credly.com/badges/50f95389-785b-48aa-b16b-ebab1bcce020" title="Text Prompt Engineering Techniques Skill Badge"><img src="https://images.credly.com/images/50f95389-785b-48aa-b16b-ebab1bcce020/image.png" alt="Text Prompt Engineering Techniques Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/89d43d89-0ec2-4513-b681-9e9fe82e3d2f" title="Enterprise Design Thinking Co-Creator"><img src="https://images.credly.com/size/160x160/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="Enterprise Design Thinking Co-Creator" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/c8036750-3641-4203-86fb-a080d39669cd" title="Enterprise Design Thinking Practitioner"><img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="80" height="80"></a>
   
   
   </p>
 
 </details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+
+<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+<p align="center">
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
 
 ## GitAds Sponsored
 
