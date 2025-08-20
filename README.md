@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  According to the unwritten rules I just wrote, I must decline. 🛑❌ 
+  My bio on Twitter says 'Often says no', gotta stay on brand. 🛑❌ 
 </p>
 
 <br />
