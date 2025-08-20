@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm coming down with something; it's called laziness. 🛑❌ 
+  If I were any more indifferent, I'd be a statue. 🛑❌ 
 </p>
 
 <br />
@@ -129,8 +129,34 @@
   
   <img src="https://streak-stats.demolab.com?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
   
+  <img src="https://github-profile-trophy.vercel.app?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+> 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
+
+<details>
+  <summary>📜 Click here to expand and view my badges</summary>
+
+  <br/>
+
+  <p align="center">
+  
+  <a href="https://www.credly.com/badges/5a4d2270-dad4-4b09-b77d-14b3e2e06462" title="Develop Advanced Enterprise Search and Conversation Applications Skill Badge"><img src="https://images.credly.com/images/764975c5-de58-4628-8c37-b42c4e4a844a/image.png" alt="Develop Advanced Enterprise Search and Conversation Applications Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/0028e273-1044-4498-bdc4-df2fa6de89e7" title="Develop GenAI Apps with Gemini and Streamlit Skill Badge"><img src="https://images.credly.com/images/764975c5-de58-4628-8c37-b42c4e4a844a/image.png" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/0da1de5f-0fa6-4fda-b210-7352b07396c4" title="Explore Generative AI with the Vertex AI Gemini API Skill Badge"><img src="https://images.credly.com/images/9ecc031b-5f5a-418d-8397-1612c0f40fce/image.png" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/44e4ae9f-e027-4cce-9fc0-163b8f75401b" title="IBM watsonx Essentials"><img src="https://images.credly.com/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png" alt="IBM watsonx Essentials" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/4b1448df-a373-4255-8a92-587cf708ee6b" title="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge"><img src="https://images.credly.com/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/66257e0f-28eb-47aa-8573-dc4bc18fe61e" title="Integrate Vertex AI Search and Conversation into Voice and Chat Apps Skill Badge"><img src="https://images.credly.com/images/6011cca2-cda8-4374-b0fa-bb1bb0598c15/image.png" alt="Integrate Vertex AI Search and Conversation into Voice and Chat Apps Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/c706003b-da9f-4a56-b513-22be27e5a77f" title="Orchestrate PaLM LLM solutions with LangChain Skill Badge"><img src="https://images.credly.com/images/008980dd-0667-46df-85e1-4f8e2d2c9428/image.png" alt="Orchestrate PaLM LLM solutions with LangChain Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/cef82b2e-970a-4318-8e59-c3e26b7f5c19" title="Prompt Design in Vertex AI Skill Badge"><img src="https://images.credly.com/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/50f95389-785b-48aa-b16b-ebab1bcce020" title="Text Prompt Engineering Techniques Skill Badge"><img src="https://images.credly.com/images/50f95389-785b-48aa-b16b-ebab1bcce020/image.png" alt="Text Prompt Engineering Techniques Skill Badge" width="80" height="80"></a>
+  
+  
+  </p>
+
+</details>
 
 ## GitAds Sponsored
 
