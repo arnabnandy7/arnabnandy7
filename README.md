@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I suspect a sudden tornado of responsibilities will keep me inside. 🛑❌ 
+  I have to cancel; I've exceeded my people-ing quota for the week. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
