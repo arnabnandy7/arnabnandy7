@@ -14,9 +14,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 20/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby</p>
+  <p>Calcutta, India - 21/08/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm the hero my couch deserves, so I must stay with it. 🛑❌ 
+  According to the unwritten rules I just wrote, I must decline. 🛑❌ 
 </p>
 
 <br />
