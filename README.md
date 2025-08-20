@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Life is short, and my nap list is long. 🛑❌ 
+  I have a scheduling conflict with the rest of my life. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -131,7 +131,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <div align="center" id="github-metrics">
-  <a href="https://stackexchange.com/users/4821761"><img src="https://stackexchange.com/users/flair/4821761.png" width="208" height="58" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  <img src="https://stackexchange.com/users/flair/4821761.png" width="210" height="60" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=arnabnandy7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
