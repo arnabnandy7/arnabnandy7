@@ -15,7 +15,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Calcutta, India - 21/08/2025</p>
+  <p>Bara Bazar, India - 21/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
   <p>Heavy rain</p>
 </div>
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm following the principle of least effort, which means I have to decline. 🛑❌ 
+  I'm the wrong person for the job; I'm the right person for saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
