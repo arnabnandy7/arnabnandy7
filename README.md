@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Calcutta, India - 21/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
-  <p>Heavy rain</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain</p>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I meant to say yes, but all that came out was no. 🛑❌ 
+  It's a 'no' from the committee of me, myself, and I. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
