@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The timing isn't right—mainly because I just don't want to do it. 🛑❌ 
+  I'm busy orchestrating a global nap time. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
