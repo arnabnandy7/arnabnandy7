@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The last time I tried, I got a papercut on my soul. 🛑❌ 
+  I'm going to have to decline faster than a cheetah on energy drinks. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
