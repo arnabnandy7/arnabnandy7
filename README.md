@@ -15,7 +15,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Bara Bazar, India - 22/08/2025</p>
+  <p>Calcutta, India - 22/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
   <p>Heavy rain</p>
 </div>
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Saying yes would break the laws of physics in my personal universe. 🛑❌ 
+  I'm in the process of rescheduling my procrastination for later. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
