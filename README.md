@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Let's make it multiple choice. I choose option (D) - Not gonna happen. 🛑❌ 
+  I suspect a sudden tornado of responsibilities will keep me inside. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
