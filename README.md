@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My reflexes are honed to automatically decline invites. 🛑❌ 
+  I'm devoting that time slot to contemplating the meaning of life. It's a charity case really. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -139,7 +139,8 @@
   
   <img src="https://streak-stats.demolab.com?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
   
-  <img src="https://github-profile-trophy.vercel.app?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
+  <img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
