@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't; I've got Festivus grievances to air that day. 🛑❌ 
+  Me doing that? That's the plot twist no one wants. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
