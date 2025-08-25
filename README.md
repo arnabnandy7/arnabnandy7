@@ -15,7 +15,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Bara Bazar, India - 25/08/2025</p>
+  <p>Calcutta, India - 25/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I’ve taken some time to reflect, and I believe passing on this is the right call for now. 🛑❌ 
+  No one has ever accused me of being too helpful, and I don't plan to start now. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
