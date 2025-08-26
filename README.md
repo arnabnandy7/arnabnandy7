@@ -15,7 +15,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Bara Bazar, India - 26/08/2025</p>
+  <p>Calcutta, India - 26/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby</p>
 </div>
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've got a calendar alert to sit and stare into space at that exact time. 🛑❌ 
+  My phone auto-corrected your request to 'no', weird right? 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
