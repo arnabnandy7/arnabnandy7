@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I help you, I'll feel obligated to help others, and that's a slippery slope I'm avoiding. 🛑❌ 
+  I woke up today and decided it's a 'no' day. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
