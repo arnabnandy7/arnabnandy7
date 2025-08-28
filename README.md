@@ -15,7 +15,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Calcutta, India - 28/08/2025</p>
+  <p>Bara Bazar, India - 28/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain</p>
 </div>
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Fun? I'm not sure I remember what that is, better not risk it. 🛑❌ 
+  My will to do that is in the shop for repairs. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -137,7 +137,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabnandy7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
   
   
   <img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
