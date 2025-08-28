@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If there were an award for avoiding participation, I'd be the frontrunner. 🛑❌ 
+  My enthusiasm filed for bankruptcy, so I can't invest in that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
