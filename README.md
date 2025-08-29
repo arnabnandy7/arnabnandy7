@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't, I'm busy preventing a future where I actually say yes. 🛑❌ 
+  I’ve learned to protect my time, and this doesn’t align with how I want to spend it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
