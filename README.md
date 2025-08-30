@@ -15,9 +15,9 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Calcutta, India - 30/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain</p>
+  <p>Calcutta, India - 31/08/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby</p>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Applying my version of Murphy's Law: if it can be avoided, it will be. 🛑❌ 
+  I'm feeling as active as a sloth on vacation. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
