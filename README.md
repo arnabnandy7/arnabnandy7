@@ -26,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My will to do that is in the shop for repairs. 🛑❌ 
+  I once made a similar decision and my cat hasn’t looked me in the eye since. Let’s not repeat history. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
