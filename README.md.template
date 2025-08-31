@@ -18,6 +18,7 @@
   <p>{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}</p>
   <img src="https:[icon]"/>
   <p>[todays_condition] ([todays_condition_in_bengali])</p>
+  <p>[weather_dashboard]</p>
   <p><strong>AQI:</strong> [aqi] <strong>PM2.5:</strong> [PM2_5] <strong>PM10:</strong> [PM10]</p>
 
   ## ⏰ Hourly Forecast  
