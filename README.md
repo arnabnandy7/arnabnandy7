@@ -15,10 +15,10 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Bara Bazar, India - 31/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
+  <p>Calcutta, India - 31/08/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.495 <strong>PM10:</strong> 27.195</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.755 <strong>PM10:</strong> 26.27</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -35,7 +35,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I only function on coffee and denial, and I'm out of coffee. 🛑❌ 
+  This is a guilt-free no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
