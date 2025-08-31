@@ -52,6 +52,9 @@ jobs:
           BNG_NIT_TEXT=$(jq -r --argjson id "$COND_ID" '.[] | select(.code == $id).night_text' tmp/condition.json)
           
           ISDAY=$(jq -r '.current.is_day' tmp/current_weather_response.json)
+
+          AQI=$(jq -r '.current.air_quality.us-epa-index' tmp/forecast_response.json)
+          
           echo $TEXT $ICON $BNG_DAY_TEXT $BNG_NIT_TEXT $ISDAY
           sed -i "s#\[icon\]#$ICON#g" README.md
           sed -i "s#\[todays_condition\]#$TEXT#g" README.md
@@ -60,6 +63,31 @@ jobs:
           else
               sed -i "s#\[todays_condition_in_bengali\]#$BNG_NIT_TEXT#g" README.md
           fi
+
+          case "$AQI" in
+            1)
+              AQI_VALUE="Good"
+              ;;
+            2)
+              AQI_VALUE="Moderate"
+              ;;
+            3)
+              AQI_VALUE="Unhealthy for sensitive group"
+              ;;
+            4)
+              AQI_VALUE="Unhealthy"
+              ;;
+            5)
+              AQI_VALUE="Very Unhealthy"
+              ;;
+            6)
+              AQI_VALUE="Hazardous"
+              ;;
+            *)
+              AQI_VALUE="Unknown"
+              ;;
+          esac
+          sed -i "s#\[aqi\]#$AQI_VALUE#g" README.md
         
       # Fetch data from your API
       - name: Fetch API data
