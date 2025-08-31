@@ -44,9 +44,9 @@ jobs:
       # Extract reason from the API response and update README
       - name: Update Weather
         run: |
-          TEXT=$(jq -r '.current.condition.text' tmp/current_weather_response.json)
-          ICON=$(jq -r '.current.condition.icon' tmp/current_weather_response.json)
-          COND_ID=$(jq -r '.current.condition.code' tmp/current_weather_response.json)
+          TEXT=$(jq -r '.forecast.forecastday[0].day.condition.text' tmp/forecast_response.json)
+          ICON=$(jq -r '.forecast.forecastday[0].day.condition.icon' tmp/forecast_response.json)
+          COND_ID=$(jq -r '.forecast.forecastday[0].day.condition.code' tmp/forecast_response.json)
           
           BNG_DAY_TEXT=$(jq -r --argjson id "$COND_ID" '.[] | select(.code == $id).day_text' tmp/condition.json)
           BNG_NIT_TEXT=$(jq -r --argjson id "$COND_ID" '.[] | select(.code == $id).night_text' tmp/condition.json)
