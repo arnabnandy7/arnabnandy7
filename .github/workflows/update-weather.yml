@@ -40,6 +40,13 @@ jobs:
           
       - name: Install jq
         run: sudo apt-get install jq
+
+      # Extract reason from the API response and update README
+      - name: Update Weather
+        run: |
+          ICON=$(jq -r '.current.condition.icon' tmp/current_weather_response.json)
+          echo $ICON
+          sed -i "s/\[icon\]/$ICON/g" README.md
         
       # Fetch data from your API
       - name: Fetch API data
