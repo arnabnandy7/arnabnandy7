@@ -124,6 +124,23 @@ jobs:
           
           # Replace placeholder in README.md
           sed -i "s#\[hourly_forecast_table\]#${HOURLY_MD//$'\n'/\\n}#g" README.md
+
+          LUNAR_PHASE=$(jq -r '.astronomy.astro.moon_phase' tmp/astronomy_response.json)
+          MOONRISE=$(jq -r '.astronomy.astro.moonrise' tmp/astronomy_response.json)
+          MOONSET=$(jq -r '.astronomy.astro.moonset' tmp/astronomy_response.json)
+          SUNRISE=$(jq -r '.astronomy.astro.sunrise' tmp/astronomy_response.json)
+          SUNSET=$(jq -r '.astronomy.astro.sunset' tmp/astronomy_response.json)
+          WIND=$(jq -r '.current.wind_kph' tmp/current_weather_response.json)
+          HUMIDITY=$(jq -r '.current.humidity' tmp/current_weather_response.json)
+          FEELSLIKE=$(jq -r '.current.feelslike_c' tmp/current_weather_response.json)
+          
+          DASHBOARD="🌙 **Moon Phase:** $LUNAR_PHASE (Rise: $MOONRISE, Set: $MOONSET)  \n"
+          DASHBOARD+="🌅 **Sunrise:** $SUNRISE | **Sunset:** $SUNSET  \n"
+          DASHBOARD+="💨 **Wind:** $WIND kph  \n"
+          DASHBOARD+="💧 **Humidity:** $HUMIDITY%  \n"
+          DASHBOARD+="🌡️ **Feels Like:** $FEELSLIKE °C  \n"
+          
+          sed -i "s#\[weather_dashboard\]#${DASHBOARD//$'\n'/\\n}#g" README.md
         
       # Fetch data from your API
       - name: Fetch API data
