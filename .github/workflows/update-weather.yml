@@ -44,12 +44,12 @@ jobs:
       # Fetch data from your API
       - name: Fetch API data
         run: |
-          curl -X GET https://naas.isalman.dev/no -o tmp/api_response.json
+          curl -X GET https://naas.isalman.dev/no -o tmp/humour_response.json
           
       # Extract reason from the API response and update README
       - name: Update README with API reason
         run: |
-          REASON=$(jq -r '.reason' tmp/api_response.json)
+          REASON=$(jq -r '.reason' tmp/humour_response.json)
           echo $REASON
           sed -i "s/\[funny_no_statement\]/$REASON/g" README.md
           
