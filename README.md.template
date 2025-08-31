@@ -17,7 +17,7 @@
 <div align="center">
   <p>{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}</p>
   <img src="{{ $.TodayWeather.Icon}}"/>
-  <img src="https::[icon]"/>
+  <img src="https:[icon]"/>
   <p>{{ $.TodayWeather.Condition }}</p>
 </div>
 
