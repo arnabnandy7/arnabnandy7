@@ -1,0 +1,63 @@
+name: "Downloads Detailed Weather"
+on:
+  schedule:
+    - cron: '50 0-23 * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+      tags:
+        description: 'Test scenario tags'
+        required: false
+        type: boolean
+      environment:
+        description: 'Environment to run tests against'
+        type: environment
+        required: true
+
+
+jobs:
+  download-weather:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Get current date
+        id: current_date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        
+      # Fetch data from your API
+      - name: Fetch Marine API data
+        run: |
+          curl -X GET http://api.weatherapi.com/v1/marine.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=3 -o tmp/marine_weather_response.json
+          
+      - name: Fetch Astronomy API data
+        run: |
+          curl -X GET http://api.weatherapi.com/v1/astronomy.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&dt=${{ steps.current_date.outputs.date }} -o tmp/astronomy_response.json
+          
+      - name: Fetch Forecast API data
+        run: |
+          curl -X GET http://api.weatherapi.com/v1/forecast.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=1&aqi=yes&alerts=yes -o tmp/forecast_response.json
+          
+      - name: Commit
+        run: |
+            if git diff --exit-code; then
+              echo "No changes to commit."
+              exit 0
+            else
+              git config user.name arnabnandy7
+              git config user.email arnab_nandy7@yahoo.com
+              git add .
+              git commit -m "Update detailed weather download"
+              git push origin main
+            fi
