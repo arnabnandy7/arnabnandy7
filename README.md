@@ -18,14 +18,13 @@
   <p>Calcutta, India - 01/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 7.6 kph  <br>💧 <strong>Humidity:</strong> 84%  <br>🌡️ <strong>Feels Like:</strong> 38.8 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 7.6 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 35.6 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.18 <strong>PM10:</strong> 43.66</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.7 | 84 | 7.9 | 68 |
 | 2025-09-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.5 | 84 | 6.8 | 0 |
 | 2025-09-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 30.4 | 84 | 5.8 | 0 |
 | 2025-09-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.7 | 30.3 | 85 | 4.3 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.2 | 36.9 | 66 | 6.1 | 0 |
 | 2025-09-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 38.4 | 62 | 7.2 | 63 |
 | 2025-09-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 39.7 | 58 | 6.5 | 74 |
+| 2025-09-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.9 | 40.3 | 55 | 5.8 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm fluent in 5 languages, and in all of them, the answer is no. 🛑❌ 
+  My gut feeling started doing the Macarena when you asked (that's a no dance). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
