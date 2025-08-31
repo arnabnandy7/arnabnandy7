@@ -93,8 +93,13 @@ jobs:
           esac
           sed -i "s#\[aqi\]#$AQI_VALUE#g" README.md
 
-          HOURLY_TABLE=$(jq -r '
+          # Get current epoch time (in seconds)
+          NOW_EPOCH=$(date +%s)
+
+          # Extract only upcoming hours (time_epoch >= NOW_EPOCH)
+          HOURLY_TABLE=$(jq -r --argjson now "$NOW_EPOCH" '
             .forecast.forecastday[].hour
+            | map(select(.time_epoch >= $now))
             | (["Time","Condition","Temp (°C)","Feels (°C)","Humidity (%)","Wind (kph)","Rain (%)"]),
               (.[] | [
                   .time,
@@ -107,11 +112,14 @@ jobs:
                 ])
             | @tsv
           ' tmp/forecast_response.json)
-          HOURLY_MD=$(echo "$HOURLY_TABLE" | sed 's/\t/ | /g; s/^/| /; s/$/ |/' )
+          
+          # Convert TSV → Markdown table
+          HOURLY_MD=$(echo "$HOURLY_TABLE" | sed 's/\t/ | /g; s/^/| /; s/$/ |/')
           HEADER=$(echo "$HOURLY_MD" | head -n1)
           SEPARATOR=$(echo "$HEADER" | sed 's/[^|][^|]*/---/g')
           HOURLY_MD=$(echo -e "$HEADER\n$SEPARATOR\n$(echo "$HOURLY_MD" | tail -n +2)")
           
+          # Replace placeholder in README.md
           sed -i "s#\[hourly_forecast_table\]#${HOURLY_MD//$'\n'/\\n}#g" README.md
         
       # Fetch data from your API
