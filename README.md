@@ -27,7 +27,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No means 'New Opportunities'... for me to stay at home. 🛑❌ 
+  My spidey-sense is tingling, and it's telling me not to do this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
