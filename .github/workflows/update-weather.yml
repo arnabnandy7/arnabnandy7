@@ -92,6 +92,22 @@ jobs:
               ;;
           esac
           sed -i "s#\[aqi\]#$AQI_VALUE#g" README.md
+
+          HOURLY_TABLE=$(jq -r '
+            .forecast.forecastday[].hour
+            | (["Time","Condition","Temp (°C)","Feels Like (°C)","Humidity (%)","Wind (kph)","Chance of Rain (%)"] | @tsv),
+              (.[] | [
+                  .time,
+                  .condition.text + " ![](http:" + .condition.icon + ")",
+                  .temp_c,
+                  .feelslike_c,
+                  .humidity,
+                  .wind_kph,
+                  .chance_of_rain
+                ] | @tsv)
+          ' tmp/forecast_response.json | column -t -s $'\t' | sed 's/^/| /; s/\t/ | /g; s/$/ |/' )
+          
+          sed -i "s#\[hourly_forecast_table\]#${HOURLY_TABLE//$'\n'/\\n}#g" README.md
         
       # Fetch data from your API
       - name: Fetch API data
