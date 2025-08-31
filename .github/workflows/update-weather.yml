@@ -96,28 +96,28 @@ jobs:
           # Get current epoch time (in seconds)
           NOW_EPOCH=$(date +%s)
 
+          # Generate header once
+          HOURLY_MD="| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |\n"
+          HOURLY_MD+="| --- | --- | --- | --- | --- | --- | --- |\n"
+
           # Extract only upcoming hours (time_epoch >= NOW_EPOCH)
           HOURLY_TABLE=$(jq -r --argjson now "$NOW_EPOCH" '
-            .forecast.forecastday[].hour
-            | map(select(.time_epoch >= $now))
-            | (["Time","Condition","Temp (°C)","Feels (°C)","Humidity (%)","Wind (kph)","Rain (%)"]),
-              (.[] | [
-                  .time,
-                  (" ![](http:" + .condition.icon + ")" + .condition.text),
-                  .temp_c,
-                  .feelslike_c,
-                  .humidity,
-                  .wind_kph,
-                  .chance_of_rain
-                ])
-            | @tsv
-          ' tmp/forecast_response.json)
+                      .forecast.forecastday[].hour
+                      | map(select(.time_epoch >= $now))
+                      | .[] | [
+                .time,
+                (.condition.text + " ![](http:" + .condition.icon + ")"),
+                .temp_c,
+                .feelslike_c,
+                .humidity,
+                .wind_kph,
+                .chance_of_rain
+              ] | @tsv
+          '  tmp/forecast_response.json|head -n 10)
           
-          # Convert TSV → Markdown table
-          HOURLY_MD=$(echo "$HOURLY_TABLE" | sed 's/\t/ | /g; s/^/| /; s/$/ |/')
-          HEADER=$(echo "$HOURLY_MD" | head -n1)
-          SEPARATOR=$(echo "$HEADER" | sed 's/[^|][^|]*/---/g')
-          HOURLY_MD=$(echo -e "$HEADER\n$SEPARATOR\n$(echo "$HOURLY_MD" | tail -n +2)")
+          while IFS=$'\t' read -r t cond temp feel hum wind rain; do
+            HOURLY_MD+="| $t | $cond | $temp | $feel | $hum | $wind | $rain |\n"
+          done <<< "$HOURLY_ROWS"
           
           # Replace placeholder in README.md
           sed -i "s#\[hourly_forecast_table\]#${HOURLY_MD//$'\n'/\\n}#g" README.md
