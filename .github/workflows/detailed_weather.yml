@@ -36,21 +36,22 @@ jobs:
         id: current_date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
-      - name: Debug secret presence
+      - name: Debug WEATHER_API_KEY
         run: |
           if [ -z "${{ secrets.WEATHER_API_KEY }}" ]; then
-            echo "❌ WEATHER_API_KEY is missing!"
+            echo "❌ WEATHER_API_KEY is empty"
             exit 1
           else
             echo "✅ WEATHER_API_KEY is set"
+            echo "Length: ${#WEATHER_API_KEY}"   # just check length
           fi
-          
+        shell: bash
+        
       # Fetch data from your API
       - name: Fetch Marine API data
         run: |
           echo ${{ secrets.WEATHER_API_KEY }}
-          curl -X GET http://api.weatherapi.com/v1/marine.json?q=22.5744,88.3629&days=3&key=${{ secrets.WEATHER_API_KEY }} \
-              -o tmp/marine_weather_response.json
+          curl -s "http://api.weatherapi.com/v1/marine.json?q=22.5744,88.3629&days=3&key=${{ secrets.WEATHER_API_KEY }}" -o tmp/marine_weather_response.json
           
       - name: Fetch Astronomy API data
         run: |
