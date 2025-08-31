@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Calcutta, India - 01/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
-  <p>Mist (হাল্কা কুয়াশা)</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
   🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 8.3 kph  <br>💧 <strong>Humidity:</strong> 84%  <br>🌡️ <strong>Feels Like:</strong> 38.5 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.185 <strong>PM10:</strong> 39.035</p>
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to pretend I didn't hear that request and carry on not doing it. 🛑❌ 
+  I forgot how to say yes. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
