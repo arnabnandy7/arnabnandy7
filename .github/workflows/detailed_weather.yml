@@ -48,6 +48,10 @@ jobs:
         shell: bash
         
       # Fetch data from your API
+      - name: Fetch Current/Realtime API data
+        run: |
+          curl -X GET "http://api.weatherapi.com/v1/current.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&aqi=yes" -o tmp/current_weather_response.json
+          
       - name: Fetch Marine API data
         run: |
           curl -X GET "http://api.weatherapi.com/v1/marine.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=3" -o tmp/marine_weather_response.json
