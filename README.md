@@ -18,12 +18,11 @@
   <p>Calcutta, India - 31/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.535 <strong>PM10:</strong> 23.68</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.385 <strong>PM10:</strong> 25.345</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 |---|---|---|---|---|---|---|
-| 2025-08-31 22:00 |  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)Clear  | 27.7 | 31.7 | 81 | 10.8 | 0 |
 | 2025-08-31 23:00 |  ![](http://cdn.weatherapi.com/weather/64x64/night/116.png)Partly Cloudy  | 27.4 | 31.4 | 82 | 9.7 | 0 |
 </div>
 
@@ -33,7 +32,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me doing that? That's the plot twist no one wants. 🛑❌ 
+  Am I coming? I'll answer that when water isn't wet. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
