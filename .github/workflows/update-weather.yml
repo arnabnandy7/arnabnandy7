@@ -46,7 +46,7 @@ jobs:
         run: |
           ICON=$(jq -r '.current.condition.icon' tmp/current_weather_response.json)
           echo $ICON
-          sed -i "s/\[icon\]/$ICON/g" README.md
+          sed -i "s#\[icon\]#$ICON#g" README.md
         
       # Fetch data from your API
       - name: Fetch API data
