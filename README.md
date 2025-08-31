@@ -18,14 +18,13 @@
   <p>Calcutta, India - 01/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 6.8 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 36.6 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 5.8 kph  <br>💧 <strong>Humidity:</strong> 94%  <br>🌡️ <strong>Feels Like:</strong> 33.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.515 <strong>PM10:</strong> 42.735</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.215 <strong>PM10:</strong> 47.175</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.7 | 30.3 | 85 | 4.3 | 0 |
 | 2025-09-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 31.8 | 80 | 4.0 | 0 |
 | 2025-09-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 33.5 | 75 | 5.4 | 0 |
 | 2025-09-01 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 35.2 | 70 | 4.3 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.9 | 40.3 | 55 | 5.8 | 0 |
 | 2025-09-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.1 | 40.6 | 54 | 5.4 | 0 |
 | 2025-09-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.2 | 40.6 | 54 | 3.6 | 0 |
+| 2025-09-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.1 | 40.6 | 55 | 4.0 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would love to, but I'd rather not. 🛑❌ 
+  I'm brainstorming how to take over the world, and I need full concentration. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
