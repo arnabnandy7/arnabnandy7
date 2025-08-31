@@ -98,7 +98,7 @@ jobs:
             | (["Time","Condition","Temp (°C)","Feels (°C)","Humidity (%)","Wind (kph)","Rain (%)"]),
               (.[] | [
                   .time,
-                  (.condition.text + " ![](http:" + .condition.icon + ")"),
+                  (" ![](http:" + .condition.icon + ")" + .condition.text),
                   .temp_c,
                   .feelslike_c,
                   .humidity,
