@@ -15,21 +15,20 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Calcutta, India - 31/08/2025</p>
+  <p>Calcutta, India - 01/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  🌙 **Moon Phase:** First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  
-🌅 **Sunrise:** 05:19 AM | **Sunset:** 05:55 PM  
-💨 **Wind:** 8.3 kph  
-💧 **Humidity:** 84%  
-🌡️ **Feels Like:** 38.5 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  
+🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  
+💨 <strong>Wind:</strong> 8.3 kph  
+💧 <strong>Humidity:</strong> 84%  
+🌡️ <strong>Feels Like:</strong> 38.5 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.185 <strong>PM10:</strong> 39.035</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 31.4 | 83 | 7.9 | 67 |
 | 2025-09-01 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 31.1 | 83 | 7.6 | 66 |
 | 2025-09-01 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.7 | 84 | 7.9 | 68 |
 | 2025-09-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.5 | 84 | 6.8 | 0 |
@@ -39,6 +38,7 @@
 | 2025-09-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 33.5 | 75 | 5.4 | 0 |
 | 2025-09-01 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 35.2 | 70 | 4.3 | 0 |
 | 2025-09-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.2 | 36.9 | 66 | 6.1 | 0 |
+| 2025-09-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 38.4 | 62 | 7.2 | 63 |
 
 </div>
 
@@ -48,7 +48,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  You've painted such a lovely picture, I'll admire it from afar. 🛑❌ 
+  I would say yes, but then I'd have to wake up from my daydream, and reality is far less pleasant. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
