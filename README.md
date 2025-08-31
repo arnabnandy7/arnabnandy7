@@ -18,7 +18,7 @@
   <p>Calcutta, India - 31/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  <p>AQI: Moderate</p>
+  <p>AQI: Moderate PM2.5: 23.495 PM10: 27.195</p>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -27,7 +27,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My spidey-sense is tingling, and it's telling me not to do this. 🛑❌ 
+  Declining this request sparks joy in me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
