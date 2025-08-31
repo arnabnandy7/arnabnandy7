@@ -54,6 +54,8 @@ jobs:
           ISDAY=$(jq -r '.current.is_day' tmp/current_weather_response.json)
 
           AQI=$(jq -r '.current.air_quality["us-epa-index"]' tmp/forecast_response.json)
+          PM2_5=$(jq -r '.current.air_quality.pm2_5' tmp/forecast_response.json)
+          PM10=$(jq -r '.current.air_quality.pm10' tmp/forecast_response.json)
           
           echo $TEXT $ICON $BNG_DAY_TEXT $BNG_NIT_TEXT $ISDAY
           sed -i "s#\[icon\]#$ICON#g" README.md
@@ -63,6 +65,8 @@ jobs:
           else
               sed -i "s#\[todays_condition_in_bengali\]#$BNG_NIT_TEXT#g" README.md
           fi
+          sed -i "s#\[PM2_5\]#$PM2_5#g" README.md
+          sed -i "s#\[PM10\]#$PM10#g" README.md
 
           case "$AQI" in
             1)
