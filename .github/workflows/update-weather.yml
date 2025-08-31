@@ -47,8 +47,10 @@ jobs:
           TEXT=$(jq -r '.current.condition.text' tmp/current_weather_response.json)
           ICON=$(jq -r '.current.condition.icon' tmp/current_weather_response.json)
           COND_ID=$(jq -r '.current.condition.code' tmp/current_weather_response.json)
-          BNG_DAY_TEXT=$(jq -r '.[] | select(.code == $COND_ID).day_text' tmp/condition.json)
-          BNG_NIT_TEXT=$(jq -r '.[] | select(.code == $COND_ID).night_text' tmp/condition.json)
+          
+          BNG_DAY_TEXT=$(jq -r --argjson id "$COND_ID" '.[] | select(.code == $id).day_text' tmp/condition.json)
+          BNG_NIT_TEXT=$(jq -r --argjson id "$COND_ID" '.[] | select(.code == $id).night_text' tmp/condition.json)
+          
           ISDAY=$(jq -r '.current.is_day' tmp/current_weather_response.json)
           echo $TEXT $ICON $BNG_DAY_TEXT $BNG_NIT_TEXT $ISDAY
           sed -i "s#\[icon\]#$ICON#g" README.md
