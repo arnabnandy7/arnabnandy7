@@ -15,15 +15,14 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Calcutta, India - 31/08/2025</p>
+  <p>Bara Bazar, India - 31/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  <p>AQI: Moderate PM2.5: 23.495 PM10: 27.195</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.495 <strong>PM10:</strong> 27.195</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 |---|---|---|---|---|---|---|
-| 2025-08-31 19:00 |  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)Clear  | 29.1 | 34.1 | 76 | 12.6 | 0 |
 | 2025-08-31 20:00 |  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)Clear  | 28.3 | 32.9 | 79 | 12.2 | 0 |
 | 2025-08-31 21:00 |  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)Clear  | 28.0 | 32.2 | 80 | 11.5 | 0 |
 | 2025-08-31 22:00 |  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)Clear  | 27.7 | 31.7 | 81 | 10.8 | 0 |
@@ -36,7 +35,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The probability of me doing that is approaching absolute zero. 🛑❌ 
+  I only function on coffee and denial, and I'm out of coffee. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
