@@ -50,8 +50,7 @@ jobs:
       # Fetch data from your API
       - name: Fetch Marine API data
         run: |
-          echo ${{ secrets.WEATHER_API_KEY }}
-          curl -X GET "http://api.weatherapi.com/v1/marine.json?q=22.5744,88.3629&days=3&key=${{ secrets.WEATHER_API_KEY }}" -o tmp/marine_weather_response.json
+          curl -X GET "http://api.weatherapi.com/v1/marine.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=3" -o tmp/marine_weather_response.json
           
       - name: Fetch Astronomy API data
         run: |
@@ -60,6 +59,11 @@ jobs:
       - name: Fetch Forecast API data
         run: |
           curl -X GET "http://api.weatherapi.com/v1/forecast.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=1&aqi=yes&alerts=yes" -o tmp/forecast_response.json
+
+      - name: Check if files changed
+        run: |
+          ls -lh tmp/
+          md5sum tmp/*.json
           
       - name: Commit
         run: |
