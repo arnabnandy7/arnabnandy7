@@ -1,7 +1,7 @@
 name: "Downloads Detailed Weather"
 on:
   schedule:
-    - cron: '50 0-23 * * *'
+    - cron: '40 * * * *'
   workflow_dispatch:
     inputs:
       logLevel:
