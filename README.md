@@ -16,9 +16,8 @@
 
 <div align="center">
   <p>Calcutta, India - 31/08/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
-  <p>Mist</p>
+  <p>Mist (হাল্কা কুয়াশা)</p>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -27,7 +26,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to pretend I didn't hear that request and carry on not doing it. 🛑❌ 
+  My goldfish family reunion is happening in my fish tank. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
