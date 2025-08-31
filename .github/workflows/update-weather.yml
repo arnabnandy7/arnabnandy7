@@ -101,12 +101,12 @@ jobs:
           HOURLY_MD+="| --- | --- | --- | --- | --- | --- | --- |\n"
 
           # Extract only upcoming hours (time_epoch >= NOW_EPOCH)
-          HOURLY_TABLE=$(jq -r --argjson now "$NOW_EPOCH" '
+          HOURLY_ROWS=$(jq -r --argjson now "$NOW_EPOCH" '
                       .forecast.forecastday[].hour
                       | map(select(.time_epoch >= $now))
                       | .[] | [
                 .time,
-                (.condition.text + " ![](http:" + .condition.icon + ")"),
+                ("![](http:" + .condition.icon + ") " + .condition.text),
                 .temp_c,
                 .feelslike_c,
                 .humidity,
