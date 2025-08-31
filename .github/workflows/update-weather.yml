@@ -134,11 +134,11 @@ jobs:
           HUMIDITY=$(jq -r '.current.humidity' tmp/current_weather_response.json)
           FEELSLIKE=$(jq -r '.current.feelslike_c' tmp/current_weather_response.json)
           
-          DASHBOARD="🌙 **Moon Phase:** $LUNAR_PHASE (Rise: $MOONRISE, Set: $MOONSET)  \n"
-          DASHBOARD+="🌅 **Sunrise:** $SUNRISE | **Sunset:** $SUNSET  \n"
-          DASHBOARD+="💨 **Wind:** $WIND kph  \n"
-          DASHBOARD+="💧 **Humidity:** $HUMIDITY%  \n"
-          DASHBOARD+="🌡️ **Feels Like:** $FEELSLIKE °C  \n"
+          DASHBOARD="🌙 <strong>Moon Phase:</strong> $LUNAR_PHASE (Rise: $MOONRISE, Set: $MOONSET)  \n"
+          DASHBOARD+="🌅 <strong>Sunrise:</strong> $SUNRISE | <strong>Sunset:</strong> $SUNSET  \n"
+          DASHBOARD+="💨 <strong>Wind:</strong> $WIND kph  \n"
+          DASHBOARD+="💧 <strong>Humidity:</strong> $HUMIDITY%  \n"
+          DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  \n"
           
           sed -i "s#\[weather_dashboard\]#${DASHBOARD//$'\n'/\\n}#g" README.md
         
