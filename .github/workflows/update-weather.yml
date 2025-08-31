@@ -44,9 +44,11 @@ jobs:
       # Extract reason from the API response and update README
       - name: Update Weather
         run: |
+          TEXT=$(jq -r '.current.condition.text' tmp/current_weather_response.json)
           ICON=$(jq -r '.current.condition.icon' tmp/current_weather_response.json)
-          echo $ICON
+          echo $TEXT $ICON
           sed -i "s#\[icon\]#$ICON#g" README.md
+          sed -i "s#\[todays_condition\]#$TEXT#g" README.md
         
       # Fetch data from your API
       - name: Fetch API data
