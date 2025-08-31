@@ -19,6 +19,33 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
   <p>AQI: Moderate PM2.5: 23.495 PM10: 27.195</p>
+
+  <p>## ⏰ Hourly Forecast  
+  | Time              Condition                                                                      Temp (°C)  Feels Like (°C)  Humidity (%)  Wind (kph)  Chance of Rain (%) |
+| 2025-08-31 00:00  Partly Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/night/116.png)      26.8       30.7             87            7.9         0 |
+| 2025-08-31 01:00  Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/night/119.png)             26.7       30.6             88            5.4         0 |
+| 2025-08-31 02:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              26.6       30.5             88            3.2         0 |
+| 2025-08-31 03:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              26.4       30.2             89            4.3         0 |
+| 2025-08-31 04:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              26.3       30.0             89            4.3         0 |
+| 2025-08-31 05:00  Sunny ![](http://cdn.weatherapi.com/weather/64x64/day/113.png)                 26.2       29.8             90            4.3         0 |
+| 2025-08-31 06:00  Sunny ![](http://cdn.weatherapi.com/weather/64x64/day/113.png)                 27.2       31.3             85            4.0         0 |
+| 2025-08-31 07:00  Sunny ![](http://cdn.weatherapi.com/weather/64x64/day/113.png)                 28.4       32.7             78            5.0         0 |
+| 2025-08-31 08:00  Partly Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/day/116.png)        29.6       34.2             71            4.7         0 |
+| 2025-08-31 09:00  Partly Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/day/116.png)        30.7       35.5             65            6.8         0 |
+| 2025-08-31 10:00  Patchy rain nearby ![](http://cdn.weatherapi.com/weather/64x64/day/176.png)    31.8       36.9             60            8.3         82 |
+| 2025-08-31 11:00  Patchy rain nearby ![](http://cdn.weatherapi.com/weather/64x64/day/176.png)    32.8       38.3             57            9.4         76 |
+| 2025-08-31 12:00  Partly Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/day/116.png)        33.5       39.1             54            10.1        0 |
+| 2025-08-31 13:00  Patchy rain nearby ![](http://cdn.weatherapi.com/weather/64x64/day/176.png)    33.8       39.4             53            10.1        68 |
+| 2025-08-31 14:00  Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/day/119.png)               33.7       39.5             54            9.7         0 |
+| 2025-08-31 15:00  Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/day/119.png)               33.0       39.3             59            10.1        0 |
+| 2025-08-31 16:00  Patchy rain nearby ![](http://cdn.weatherapi.com/weather/64x64/day/176.png)    31.8       38.2             65            10.8        81 |
+| 2025-08-31 17:00  Mist ![](http://cdn.weatherapi.com/weather/64x64/day/143.png)                  32.4       37.0             67            10.8        74 |
+| 2025-08-31 18:00  Patchy rain nearby ![](http://cdn.weatherapi.com/weather/64x64/night/176.png)  29.9       35.4             72            11.5        67 |
+| 2025-08-31 19:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              29.1       34.1             76            12.6        0 |
+| 2025-08-31 20:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              28.3       32.9             79            12.2        0 |
+| 2025-08-31 21:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              28.0       32.2             80            11.5        0 |
+| 2025-08-31 22:00  Clear  ![](http://cdn.weatherapi.com/weather/64x64/night/113.png)              27.7       31.7             81            10.8        0 |
+| 2025-08-31 23:00  Partly Cloudy  ![](http://cdn.weatherapi.com/weather/64x64/night/116.png)      27.4       31.4             82            9.7         0 |</p>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -27,7 +54,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Declining this request sparks joy in me. 🛑❌ 
+  I have a fear of change, so I'm sticking with saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
