@@ -65,15 +65,10 @@ jobs:
           ls -lh tmp/
           md5sum tmp/*.json
           
-      - name: Commit
+      - name: Commit all files
         run: |
-            if git diff --exit-code; then
-              echo "No changes to commit."
-              exit 0
-            else
-              git config user.name arnabnandy7
-              git config user.email arnab_nandy7@yahoo.com
-              git add .
-              git commit -m "Update detailed weather download"
-              git push origin main
-            fi
+          git config user.name arnabnandy7
+          git config user.email arnab_nandy7@yahoo.com
+          git add -A
+          git commit -m "Update detailed weather download on ${{ env.DATE }}" || echo "Nothing to commit"
+          git push origin main
