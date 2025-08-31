@@ -18,12 +18,12 @@
   <p>Calcutta, India - 31/08/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  <p>🌙 **Moon Phase:** First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  
+  🌙 **Moon Phase:** First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  
 🌅 **Sunrise:** 05:19 AM | **Sunset:** 05:55 PM  
 💨 **Wind:** 8.3 kph  
 💧 **Humidity:** 84%  
 🌡️ **Feels Like:** 38.5 °C  
-</p>
+
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.185 <strong>PM10:</strong> 39.035</p>
 
   ## ⏰ Hourly Forecast  
@@ -48,7 +48,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain is only powered by caffeine, and we're experiencing a power outage. 🛑❌ 
+  You've painted such a lovely picture, I'll admire it from afar. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
