@@ -53,7 +53,7 @@ jobs:
           
           ISDAY=$(jq -r '.current.is_day' tmp/current_weather_response.json)
 
-          AQI=$(jq -r '.current.air_quality.us-epa-index' tmp/forecast_response.json)
+          AQI=$(jq -r '.current.air_quality["us-epa-index"]' tmp/forecast_response.json)
           
           echo $TEXT $ICON $BNG_DAY_TEXT $BNG_NIT_TEXT $ISDAY
           sed -i "s#\[icon\]#$ICON#g" README.md
