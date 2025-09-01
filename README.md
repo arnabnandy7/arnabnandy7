@@ -18,23 +18,23 @@
   <p>Calcutta, India - 01/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 14.0 kph  <br>💧 <strong>Humidity:</strong> 75%  <br>🌡️ <strong>Feels Like:</strong> 44.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 4.7 kph  <br>💧 <strong>Humidity:</strong> 79%  <br>🌡️ <strong>Feels Like:</strong> 39.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.005 <strong>PM10:</strong> 32.93</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.0 <strong>PM10:</strong> 37.925</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/299.png) Moderate rain at times | 27.7 | 32.4 | 85 | 13.7 | 100 |
-| 2025-09-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.9 | 32.6 | 83 | 11.5 | 100 |
-| 2025-09-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.4 | 86 | 11.5 | 100 |
-| 2025-09-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.6 | 30.5 | 88 | 11.9 | 100 |
-| 2025-09-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.4 | 30.3 | 90 | 5.8 | 100 |
-| 2025-09-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.8 | 29.5 | 94 | 7.6 | 100 |
-| 2025-09-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 25.5 | 29.2 | 95 | 7.6 | 100 |
-| 2025-09-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 25.5 | 29.1 | 95 | 2.2 | 100 |
-| 2025-09-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 25.6 | 29.2 | 94 | 0.7 | 100 |
-| 2025-09-02 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.9 | 29.7 | 93 | 5.8 | 100 |
+| 2025-09-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.9 | 34.1 | 79 | 9.4 | 100 |
+| 2025-09-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.8 | 32.6 | 84 | 11.5 | 100 |
+| 2025-09-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 32.0 | 87 | 13.0 | 100 |
+| 2025-09-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 31.3 | 89 | 16.9 | 58 |
+| 2025-09-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 30.4 | 90 | 20.5 | 100 |
+| 2025-09-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 26.4 | 30.4 | 90 | 25.6 | 100 |
+| 2025-09-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 30.7 | 88 | 27.4 | 100 |
+| 2025-09-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.3 | 30.2 | 90 | 24.8 | 100 |
+| 2025-09-02 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.7 | 32.4 | 85 | 25.2 | 77 |
+| 2025-09-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.7 | 75 | 26.6 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would love to, but I'd rather not. 🛑❌ 
+  I only say yes on leap days, and today isn't one. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
