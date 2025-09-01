@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Calcutta, India - 01/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 6.5 kph  <br>💧 <strong>Humidity:</strong> 75%  <br>🌡️ <strong>Feels Like:</strong> 37.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+  <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 7.2 kph  <br>💧 <strong>Humidity:</strong> 71%  <br>🌡️ <strong>Feels Like:</strong> 39.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.695 <strong>PM10:</strong> 49.58</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.4 <strong>PM10:</strong> 49.025</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 40.6 | 55 | 5.4 | 100 |
-| 2025-09-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 40.5 | 55 | 4.3 | 84 |
-| 2025-09-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 33.5 | 40.3 | 58 | 2.9 | 0 |
-| 2025-09-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.4 | 40.2 | 59 | 2.5 | 77 |
-| 2025-09-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.0 | 40.4 | 62 | 2.2 | 100 |
-| 2025-09-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.8 | 38.6 | 67 | 2.5 | 100 |
-| 2025-09-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.9 | 37.3 | 70 | 4.7 | 100 |
-| 2025-09-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 30.0 | 35.9 | 74 | 8.3 | 100 |
-| 2025-09-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.2 | 34.8 | 78 | 11.5 | 100 |
-| 2025-09-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.5 | 33.9 | 82 | 12.6 | 100 |
+| 2025-09-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.9 | 40.8 | 56 | 6.1 | 61 |
+| 2025-09-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.7 | 40.7 | 58 | 5.0 | 64 |
+| 2025-09-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 40.9 | 60 | 3.6 | 77 |
+| 2025-09-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.0 | 40.6 | 63 | 3.6 | 100 |
+| 2025-09-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.7 | 38.6 | 68 | 5.4 | 100 |
+| 2025-09-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.4 | 36.4 | 72 | 8.3 | 100 |
+| 2025-09-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.7 | 35.5 | 76 | 9.0 | 100 |
+| 2025-09-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.5 | 35.1 | 76 | 9.4 | 100 |
+| 2025-09-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.0 | 34.5 | 79 | 11.9 | 0 |
+| 2025-09-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.6 | 33.9 | 81 | 10.4 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I skipped class because I felt I owed it to myself to not learn bad things. 🛑❌ 
+  Frankly, my dear, I don't give a darn (about doing it). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
