@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Calcutta, India - 01/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:09 PM, Set: 10:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 4.3 kph  <br>💧 <strong>Humidity:</strong> 94%  <br>🌡️ <strong>Feels Like:</strong> 33.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 5.8 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 33.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.32 <strong>PM10:</strong> 53.65</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.24 <strong>PM10:</strong> 60.125</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.2 | 36.9 | 66 | 6.1 | 0 |
-| 2025-09-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 38.4 | 62 | 7.2 | 63 |
-| 2025-09-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 39.7 | 58 | 6.5 | 74 |
-| 2025-09-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.9 | 40.3 | 55 | 5.8 | 0 |
-| 2025-09-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.1 | 40.6 | 54 | 5.4 | 0 |
-| 2025-09-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.2 | 40.6 | 54 | 3.6 | 0 |
-| 2025-09-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.1 | 40.6 | 55 | 4.0 | 0 |
-| 2025-09-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 33.5 | 40.5 | 58 | 3.6 | 100 |
-| 2025-09-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.2 | 38.8 | 64 | 1.4 | 100 |
-| 2025-09-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 31.2 | 37.3 | 67 | 5.4 | 100 |
+| 2025-09-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.4 | 38.7 | 62 | 6.5 | 0 |
+| 2025-09-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.4 | 40.0 | 58 | 5.0 | 64 |
+| 2025-09-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 40.6 | 55 | 5.4 | 100 |
+| 2025-09-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 40.5 | 55 | 4.3 | 84 |
+| 2025-09-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 33.5 | 40.3 | 58 | 2.9 | 0 |
+| 2025-09-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.4 | 40.2 | 59 | 2.5 | 77 |
+| 2025-09-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.0 | 40.4 | 62 | 2.2 | 100 |
+| 2025-09-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.8 | 38.6 | 67 | 2.5 | 100 |
+| 2025-09-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.9 | 37.3 | 70 | 4.7 | 100 |
+| 2025-09-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 30.0 | 35.9 | 74 | 8.3 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No is part of my self-care routine. 🛑❌ 
+  I must decline; I've reached my threshold for giving a darn. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
