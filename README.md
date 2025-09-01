@@ -18,14 +18,13 @@
   <p>Calcutta, India - 01/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 6.8 kph  <br>💧 <strong>Humidity:</strong> 67%  <br>🌡️ <strong>Feels Like:</strong> 41.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 6.1 kph  <br>💧 <strong>Humidity:</strong> 67%  <br>🌡️ <strong>Feels Like:</strong> 42.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.07 <strong>PM10:</strong> 45.51</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.93 <strong>PM10:</strong> 35.705</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.7 | 40.7 | 58 | 5.0 | 64 |
 | 2025-09-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 40.9 | 60 | 3.6 | 77 |
 | 2025-09-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.0 | 40.6 | 63 | 3.6 | 100 |
 | 2025-09-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.7 | 38.6 | 68 | 5.4 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.0 | 34.5 | 79 | 11.9 | 0 |
 | 2025-09-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.6 | 33.9 | 81 | 10.4 | 0 |
 | 2025-09-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.3 | 33.4 | 83 | 11.9 | 0 |
+| 2025-09-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 33.2 | 83 | 9.7 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm choosing Netflix over stress, sorry. 🛑❌ 
+  My calendar is full of blank spaces reserved for me-time. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
