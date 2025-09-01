@@ -18,14 +18,13 @@
   <p>Calcutta, India - 02/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 11.5 kph  <br>💧 <strong>Humidity:</strong> 100%  <br>🌡️ <strong>Feels Like:</strong> 27.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 11.5 kph  <br>💧 <strong>Humidity:</strong> 94%  <br>🌡️ <strong>Feels Like:</strong> 29.0 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 54.205 <strong>PM10:</strong> 56.61</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 32.0 | 87 | 13.0 | 100 |
 | 2025-09-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 31.3 | 89 | 16.9 | 58 |
 | 2025-09-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 30.4 | 90 | 20.5 | 100 |
 | 2025-09-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 26.4 | 30.4 | 90 | 25.6 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.7 | 75 | 26.6 | 100 |
 | 2025-09-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 37.0 | 69 | 26.6 | 100 |
 | 2025-09-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 31.1 | 37.3 | 69 | 25.6 | 100 |
+| 2025-09-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 36.5 | 70 | 23.4 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm waiting for a sign from the universe... oh, there it is: it says no. 🛑❌ 
+  No, in the most heartfelt, humorous way possible. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
