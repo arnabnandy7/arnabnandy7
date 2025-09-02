@@ -30,13 +30,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: huantt/weather-forecast@v1.0.6
-        with:
-          city: 22.5744,88.3629
-          days: 3
-          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: 'README.md.template'
-          out-file: 'README.md'
+        run:
+          # Reset README.md from template
+          cp README.template.md README.md
           
       - name: Install jq
         run: sudo apt-get install jq
