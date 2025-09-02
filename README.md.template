@@ -15,7 +15,7 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>{{ $.TodayWeather.City }}, {{$.TodayWeather.Country }} - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}</p>
+  <p>Kolkata, India - {{ formatDate $.TodayWeather.StartTime $.TodayWeather.Timezone }}</p>
   <img src="https:[icon]"/>
   <p>[todays_condition] ([todays_condition_in_bengali])</p>
   [weather_dashboard]
