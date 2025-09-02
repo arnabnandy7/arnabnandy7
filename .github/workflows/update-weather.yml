@@ -150,8 +150,8 @@ jobs:
           
           DASHBOARD="🌙 <strong>Moon Phase:</strong> $LUNAR_PHASE (Rise: $MOONRISE, Set: $MOONSET)  <br>"
           DASHBOARD+="🌅 <strong>Sunrise:</strong> $SUNRISE | <strong>Sunset:</strong> $SUNSET  <br>"
-          DASHBOARD+="💨 <strong>Wind:</strong> $WIND kph  <br>"
-          DASHBOARD+="💧 <strong>Humidity:</strong> $HUMIDITY%  <br>"
+          DASHBOARD+="💨 <strong>Wind:</strong> $WIND kph | "
+          DASHBOARD+="💧 <strong>Humidity:</strong> $HUMIDITY% | "
           DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  \n"
           
           sed -i "s#\[weather_dashboard\]#${DASHBOARD//$'\n'/\\n}#g" README.md
