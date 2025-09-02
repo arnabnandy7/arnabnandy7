@@ -18,15 +18,13 @@
   <p>Calcutta, India - 02/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 20.5 kph  <br>💧 <strong>Humidity:</strong> 100%  <br>🌡️ <strong>Feels Like:</strong> 30.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:04 PM, Set: 11:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 25.6 kph  <br>💧 <strong>Humidity:</strong> 100%  <br>🌡️ <strong>Feels Like:</strong> 30.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.31 <strong>PM10:</strong> 64.195</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.53 <strong>PM10:</strong> 66.415</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 30.7 | 88 | 27.4 | 100 |
-| 2025-09-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.3 | 30.2 | 90 | 24.8 | 100 |
 | 2025-09-02 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.7 | 32.4 | 85 | 25.2 | 77 |
 | 2025-09-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.7 | 75 | 26.6 | 100 |
 | 2025-09-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 37.0 | 69 | 26.6 | 100 |
@@ -35,6 +33,8 @@
 | 2025-09-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 30.2 | 36.1 | 72 | 20.2 | 100 |
 | 2025-09-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 36.9 | 70 | 20.2 | 100 |
 | 2025-09-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/389.png) Moderate or heavy rain in area with thunder | 30.1 | 36.0 | 73 | 19.4 | 100 |
+| 2025-09-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 34.9 | 78 | 17.6 | 100 |
+| 2025-09-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 28.3 | 33.2 | 82 | 16.2 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Astrologically, I'm a No-rgo or a Libra-thinks-not (one of those). 🛑❌ 
+  I'm stuck in my closet's Narnia and can't get out to attend. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
