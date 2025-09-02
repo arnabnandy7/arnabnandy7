@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 02/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.315 <strong>PM10:</strong> 19.98</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.35 <strong>PM10:</strong> 21.645</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.0 | 29.9 | 93 | 16.6 | 100 |
+| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.2 | 29.9 | 89 | 16.6 | 100 |
 | 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 29.6 | 93 | 16.6 | 0 |
 | 2025-09-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.8 | 29.4 | 93 | 17.6 | 0 |
 | 2025-09-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 29.4 | 93 | 18.7 | 89 |
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I skipped class because I felt I owed it to myself to not learn bad things. 🛑❌ 
+  I've got chronic commitment-phobia. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
