@@ -56,7 +56,8 @@ jobs:
              | map(select(.time_epoch > ($now | tonumber)))
              | first' tmp/forecast_response.json)
 
-          NEXT_COND=$(echo "$NEXT_FORECAST" | jq -r '.condition.text')
+          echo "Next forecast" $NEXT_FORECAST
+          
           TEXT=$(echo "$NEXT_FORECAST" | jq -r '.condition.text')
           ICON=$(echo "$NEXT_FORECAST" | jq -r '.condition.icon')
           COND_ID=$(echo "$NEXT_FORECAST" | jq -r '.condition.code')
