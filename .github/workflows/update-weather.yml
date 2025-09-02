@@ -50,9 +50,8 @@ jobs:
 
           # Extract the next forecast hour (time_epoch > NOW)
           NEXT_FORECAST=$(jq -c --argjson now "$NOW" \
-            '.forecast.forecastday[0].hour[] 
-             | select(.time_epoch > $now) 
-             | . 
+            '.forecast.forecastday[0].hour
+             | map(select(.time_epoch > $now))
              | first' tmp/forecast_response.json)
 
           NEXT_COND=$(echo "$NEXT_FORECAST" | jq -r '.condition.text')
