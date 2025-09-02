@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Calcutta, India - 02/09/2025</p>
+  <p>Bara Bazar, India - 02/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 19.8 kph  <br>💧 <strong>Humidity:</strong> 79%  <br>🌡️ <strong>Feels Like:</strong> 36.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 20.9 kph  <br>💧 <strong>Humidity:</strong> 84%  <br>🌡️ <strong>Feels Like:</strong> 34.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.44 <strong>PM10:</strong> 41.995</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.005 <strong>PM10:</strong> 32.19</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.7 | 79 | 19.8 | 100 |
 | 2025-09-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.7 | 34.1 | 81 | 19.8 | 100 |
 | 2025-09-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.8 | 32.6 | 84 | 19.4 | 100 |
 | 2025-09-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.6 | 88 | 13.7 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 30.7 | 92 | 15.5 | 77 |
 | 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 30.8 | 93 | 15.8 | 100 |
 | 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 30.6 | 93 | 16.2 | 74 |
+| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.2 | 30.3 | 93 | 16.6 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My schedule is in airplane mode. 🛑❌ 
+  My participation comes with a warning label, so I'll spare you. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
