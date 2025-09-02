@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Bara Bazar, India - 02/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-  <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 9.7 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 34.2 °C  
+  <p>Kolkata, India - 02/09/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
+  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 10.4 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 34.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.025 <strong>PM10:</strong> 14.245</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.58 <strong>PM10:</strong> 14.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.9 | 92 | 13.3 | 100 |
 | 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.4 | 30.6 | 92 | 15.1 | 100 |
 | 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.5 | 93 | 14.4 | 100 |
 | 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 26.1 | 30.2 | 94 | 14.4 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.8 | 29.5 | 94 | 18.4 | 78 |
 | 2025-09-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 26.5 | 30.7 | 91 | 19.4 | 100 |
 | 2025-09-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 27.9 | 32.9 | 85 | 24.1 | 100 |
+| 2025-09-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.8 | 80 | 25.6 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to deliver my answer in interpretive dance. *performs a NO* 🛑❌ 
+  At my age, my give-a-darn is busted. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
