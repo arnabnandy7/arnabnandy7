@@ -51,10 +51,13 @@ jobs:
           NOW_EPOCH=$(date +%s)
 
           # Extract the next forecast hour (time_epoch > NOW)
-          NEXT_FORECAST=$(jq -c --arg now "$NOW_EPOCH" \
-            '.forecast.forecastday[0].hour
-             | map(select(.time_epoch > ($now | tonumber)))
-             | first' tmp/forecast_response.json)
+          NEXT_FORECAST=$(jq -c --argjson now "$NOW_EPOCH" '
+            [ .forecast.forecastday[].hour
+            | map(select(.time_epoch > $now))
+            | first ] 
+            | map(select(. != null))
+            | first
+          ' tmp/forecast_response.json)
 
           echo "Next forecast" $NEXT_FORECAST
           
