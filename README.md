@@ -15,26 +15,26 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Bara Bazar, India - 02/09/2025</p>
+  <p>Calcutta, India - 02/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
   <p>Moderate rain (মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 19.8 kph  <br>💧 <strong>Humidity:</strong> 84%  <br>🌡️ <strong>Feels Like:</strong> 35.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 19.8 kph  <br>💧 <strong>Humidity:</strong> 84%  <br>🌡️ <strong>Feels Like:</strong> 35.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.195 <strong>PM10:</strong> 27.195</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.245 <strong>PM10:</strong> 18.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.8 | 32.6 | 84 | 19.4 | 100 |
-| 2025-09-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.6 | 88 | 13.7 | 0 |
-| 2025-09-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 31.2 | 90 | 11.2 | 0 |
-| 2025-09-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 31.0 | 91 | 11.2 | 70 |
-| 2025-09-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.9 | 92 | 13.3 | 75 |
-| 2025-09-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 30.7 | 92 | 15.5 | 77 |
-| 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 30.8 | 93 | 15.8 | 100 |
-| 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 30.6 | 93 | 16.2 | 74 |
-| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.2 | 30.3 | 93 | 16.6 | 100 |
-| 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 30.1 | 93 | 16.6 | 100 |
+| 2025-09-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.1 | 31.6 | 88 | 15.1 | 0 |
+| 2025-09-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.8 | 31.2 | 90 | 10.8 | 0 |
+| 2025-09-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.7 | 31.1 | 91 | 9.7 | 0 |
+| 2025-09-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.6 | 30.9 | 91 | 10.4 | 87 |
+| 2025-09-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.9 | 92 | 13.3 | 100 |
+| 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.4 | 30.6 | 92 | 15.1 | 100 |
+| 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.5 | 93 | 14.4 | 100 |
+| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 26.1 | 30.2 | 94 | 14.4 | 100 |
+| 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 30.1 | 94 | 15.1 | 100 |
+| 2025-09-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 30.0 | 94 | 16.2 | 74 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm raising awareness for the endangered word 'no' by using it frequently. 🛑❌ 
+  I didn’t receive the memo that I was supposed to care. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
