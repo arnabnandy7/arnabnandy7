@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 02/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 10.4 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 34.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
+  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 13.3 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 35.1 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.58 <strong>PM10:</strong> 14.8</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.615 <strong>PM10:</strong> 16.28</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.4 | 30.6 | 92 | 15.1 | 100 |
-| 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.5 | 93 | 14.4 | 100 |
-| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 26.1 | 30.2 | 94 | 14.4 | 100 |
-| 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 30.1 | 94 | 15.1 | 100 |
-| 2025-09-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 30.0 | 94 | 16.2 | 74 |
-| 2025-09-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.9 | 29.7 | 94 | 16.6 | 100 |
-| 2025-09-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.8 | 29.5 | 94 | 18.4 | 78 |
-| 2025-09-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 26.5 | 30.7 | 91 | 19.4 | 100 |
-| 2025-09-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 27.9 | 32.9 | 85 | 24.1 | 100 |
-| 2025-09-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.8 | 80 | 25.6 | 100 |
+| 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.2 | 30.3 | 93 | 14.4 | 0 |
+| 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.0 | 30.1 | 94 | 14.8 | 81 |
+| 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.0 | 29.9 | 93 | 16.6 | 100 |
+| 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 29.6 | 93 | 16.6 | 0 |
+| 2025-09-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.8 | 29.4 | 93 | 17.6 | 0 |
+| 2025-09-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 29.4 | 93 | 18.7 | 89 |
+| 2025-09-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 25.8 | 29.5 | 93 | 19.8 | 0 |
+| 2025-09-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 26.7 | 31.0 | 90 | 22.7 | 0 |
+| 2025-09-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 28.0 | 33.0 | 84 | 28.4 | 100 |
+| 2025-09-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.9 | 34.5 | 80 | 32.0 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  At my age, my give-a-darn is busted. 🛑❌ 
+  My motivation and that task are like two magnets repelling each other. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -157,7 +157,7 @@
   
   <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
   
-  
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
   <img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -174,7 +174,7 @@
   <br/>
 
   <p align="center">
-  
+  <!--START_SECTION:badges-->
   <a href="https://www.credly.com/badges/5a4d2270-dad4-4b09-b77d-14b3e2e06462" title="Develop Advanced Enterprise Search and Conversation Applications Skill Badge"><img src="https://images.credly.com/images/764975c5-de58-4628-8c37-b42c4e4a844a/image.png" alt="Develop Advanced Enterprise Search and Conversation Applications Skill Badge" width="80" height="80"></a>
   <a href="https://www.credly.com/badges/0028e273-1044-4498-bdc4-df2fa6de89e7" title="Develop GenAI Apps with Gemini and Streamlit Skill Badge"><img src="https://images.credly.com/images/764975c5-de58-4628-8c37-b42c4e4a844a/image.png" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge" width="80" height="80"></a>
   <a href="https://www.credly.com/badges/0da1de5f-0fa6-4fda-b210-7352b07396c4" title="Explore Generative AI with the Vertex AI Gemini API Skill Badge"><img src="https://images.credly.com/images/9ecc031b-5f5a-418d-8397-1612c0f40fce/image.png" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge" width="80" height="80"></a>
@@ -187,7 +187,7 @@
   <a href="https://www.credly.com/badges/89d43d89-0ec2-4513-b681-9e9fe82e3d2f" title="Enterprise Design Thinking Co-Creator"><img src="https://images.credly.com/size/160x160/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" alt="Enterprise Design Thinking Co-Creator" width="80" height="80"></a>
   <a href="https://www.credly.com/badges/c8036750-3641-4203-86fb-a080d39669cd" title="Enterprise Design Thinking Practitioner"><img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="80" height="80"></a>
   
-  
+  <!--END_SECTION:badges-->
   </p>
 
 </details>
