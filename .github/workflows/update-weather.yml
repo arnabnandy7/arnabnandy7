@@ -41,6 +41,12 @@ jobs:
       - name: Update Weather
         run: |
 
+          # Get current date in dd/mm/yyyy format
+          CURRENT_DATE=$(date +"%d/%m/%Y")
+          
+          # Replace [date] placeholder in README.md
+          sed -i "s#\[date\]#$CURRENT_DATE#g" README.md
+
           # Get current epoch time (in seconds)
           NOW_EPOCH=$(date +%s)
 
@@ -49,7 +55,6 @@ jobs:
             '.forecast.forecastday[0].hour
              | map(select(.time_epoch > ($now | tonumber)))
              | first' tmp/forecast_response.json)
-
 
           NEXT_COND=$(echo "$NEXT_FORECAST" | jq -r '.condition.text')
           TEXT=$(echo "$NEXT_FORECAST" | jq -r '.condition.text')
