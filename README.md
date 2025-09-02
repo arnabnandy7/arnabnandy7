@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Kolkata, India - 02/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
+  <img src="https:null"/>
+  <p>null ()</p>
   🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:58 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 13.3 kph  <br>💧 <strong>Humidity:</strong> 89%  <br>🌡️ <strong>Feels Like:</strong> 35.1 °C  
 
   <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.615 <strong>PM10:</strong> 16.28</p>
@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.2 | 30.3 | 93 | 14.4 | 0 |
 | 2025-09-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.0 | 30.1 | 94 | 14.8 | 81 |
 | 2025-09-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.0 | 29.9 | 93 | 16.6 | 100 |
 | 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 29.6 | 93 | 16.6 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 26.7 | 31.0 | 90 | 22.7 | 0 |
 | 2025-09-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 28.0 | 33.0 | 84 | 28.4 | 100 |
 | 2025-09-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.9 | 34.5 | 80 | 32.0 | 100 |
+| 2025-09-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 35.3 | 79 | 33.8 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My motivation and that task are like two magnets repelling each other. 🛑❌ 
+  I have to stay put to prevent the zombie outbreak from starting (long story). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
