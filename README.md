@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 29.6 | 93 | 16.6 | 0 |
 | 2025-09-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.8 | 29.4 | 93 | 17.6 | 0 |
 | 2025-09-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 29.4 | 93 | 18.7 | 89 |
 | 2025-09-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 25.8 | 29.5 | 93 | 19.8 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 35.3 | 79 | 33.8 | 100 |
 | 2025-09-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.9 | 36.2 | 77 | 34.2 | 100 |
 | 2025-09-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.1 | 36.4 | 75 | 33.5 | 100 |
+| 2025-09-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.2 | 36.4 | 75 | 30.2 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've got selective amnesia for favors. 🛑❌ 
+  I have to save the world from boredom by staying home. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
