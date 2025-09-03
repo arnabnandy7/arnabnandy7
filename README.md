@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 03/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 31.7 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 18% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.73 <strong>PM10:</strong> 11.84</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.84 <strong>PM10:</strong> 12.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.9 | 34.7 | 81 | 23.0 | 100 |
 | 2025-09-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.4 | 35.2 | 78 | 23.4 | 100 |
 | 2025-09-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.9 | 36.1 | 76 | 23.4 | 100 |
 | 2025-09-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.5 | 35.2 | 76 | 24.5 | 84 |
@@ -35,6 +34,7 @@
 | 2025-09-03 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.9 | 86 | 18.7 | 100 |
 | 2025-09-03 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.6 | 87 | 17.3 | 100 |
 | 2025-09-03 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 30.3 | 89 | 14.0 | 100 |
+| 2025-09-03 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.0 | 29.7 | 91 | 12.2 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd rather bathe in week-old soup than do that. 🛑❌ 
+  I suspect I'm an alien, and we historically avoid those situations. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
