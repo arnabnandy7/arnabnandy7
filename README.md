@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 03/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 33.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.9 <strong>PM10:</strong> 27.75</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.68 <strong>PM10:</strong> 25.715</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-04 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.5 | 29.0 | 94 | 11.5 | 61 |
 | 2025-09-04 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.5 | 30.7 | 91 | 13.0 | 0 |
 | 2025-09-04 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 33.3 | 84 | 15.8 | 100 |
 | 2025-09-04 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.5 | 35.2 | 77 | 17.6 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.2 | 37.6 | 68 | 21.6 | 60 |
 | 2025-09-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.1 | 37.4 | 69 | 20.9 | 63 |
 | 2025-09-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 37.6 | 68 | 20.2 | 73 |
+| 2025-09-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 37.0 | 71 | 20.2 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on strike until further notice, and I'm the union leader. 🛑❌ 
+  Such a generous offer! I'm going to generously decline. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
