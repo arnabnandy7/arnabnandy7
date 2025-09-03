@@ -18,14 +18,13 @@
   <p>Kolkata, India - 03/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 34.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 36.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 36.7 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 36.9 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.4 <strong>PM10:</strong> 8.325</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.77 <strong>PM10:</strong> 8.695</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.2 | 35.2 | 80 | 32.0 | 100 |
 | 2025-09-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.9 | 36.1 | 76 | 29.5 | 100 |
 | 2025-09-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.3 | 36.6 | 74 | 30.2 | 100 |
 | 2025-09-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.2 | 36.3 | 73 | 27.0 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.1 | 31.2 | 85 | 20.9 | 0 |
 | 2025-09-03 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.0 | 30.9 | 85 | 21.2 | 0 |
 | 2025-09-03 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 31.1 | 85 | 20.9 | 79 |
+| 2025-09-03 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 31.0 | 86 | 20.2 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm overbooked, overwhelmed, and overjoyed to say no. 🛑❌ 
+  I avoid anything that might make me smile too much. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
