@@ -18,14 +18,13 @@
   <p>Kolkata, India - 04/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:36 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 21.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:36 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 21.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.355 <strong>PM10:</strong> 18.315</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.8 <strong>PM10:</strong> 17.76</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.7 | 38.2 | 67 | 22.3 | 100 |
 | 2025-09-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.5 | 36.7 | 72 | 20.9 | 61 |
 | 2025-09-04 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.1 | 34.3 | 77 | 17.6 | 0 |
 | 2025-09-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.2 | 33.0 | 81 | 16.2 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.7 | 89 | 11.2 | 0 |
 | 2025-09-04 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.6 | 90 | 10.1 | 0 |
 | 2025-09-05 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 31.4 | 91 | 9.7 | 0 |
+| 2025-09-05 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 31.3 | 92 | 9.0 | 72 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life is like a Jenga tower; one more thing might make it collapse. 🛑❌ 
+  I'm the hero my couch deserves, so I must stay with it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
