@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 04/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:36 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 18.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:36 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.315 <strong>PM10:</strong> 21.09</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.5 | 63 | 21.6 | 100 |
 | 2025-09-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 38.7 | 66 | 21.6 | 100 |
 | 2025-09-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.7 | 38.2 | 67 | 22.3 | 100 |
 | 2025-09-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.5 | 36.7 | 72 | 20.9 | 61 |
@@ -35,6 +34,7 @@
 | 2025-09-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 32.2 | 86 | 12.2 | 0 |
 | 2025-09-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 31.9 | 88 | 11.9 | 0 |
 | 2025-09-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.7 | 89 | 11.2 | 0 |
+| 2025-09-04 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.6 | 90 | 10.1 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me doing that would be like a chicken trying to do algebra. 🛑❌ 
+  My life is like a Jenga tower; one more thing might make it collapse. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
