@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Kolkata, India - 04/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
   🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:36 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.4 °C  
 
   <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.285 <strong>PM10:</strong> 13.69</p>
@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.7 | 32.3 | 84 | 14.0 | 0 |
 | 2025-09-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.4 | 32.0 | 86 | 12.6 | 0 |
 | 2025-09-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 31.8 | 88 | 11.2 | 0 |
 | 2025-09-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.4 | 89 | 10.1 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-05 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.7 | 91 | 6.8 | 71 |
 | 2025-09-05 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.7 | 91 | 6.5 | 76 |
 | 2025-09-05 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.8 | 91 | 7.2 | 70 |
+| 2025-09-05 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 30.6 | 92 | 8.6 | 74 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm like a black cat of projects; it's safer if I stay away. 🛑❌ 
+  The last time I said yes, it rained for 40 days. Not doing that again. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
