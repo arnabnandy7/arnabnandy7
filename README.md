@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.535 <strong>PM10:</strong> 23.68</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.53 <strong>PM10:</strong> 28.305</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 31.4 | 90 | 10.4 | 0 |
 | 2025-09-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.7 | 31.1 | 91 | 9.4 | 0 |
 | 2025-09-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 30.9 | 91 | 8.6 | 0 |
 | 2025-09-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 30.7 | 92 | 7.9 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.4 | 32.2 | 88 | 9.4 | 0 |
 | 2025-09-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.9 | 34.5 | 80 | 11.2 | 0 |
 | 2025-09-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.3 | 36.2 | 73 | 12.6 | 62 |
+| 2025-09-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.5 | 37.7 | 66 | 14.4 | 62 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Channeling Opposite Nike: 'Just don't do it.' 🛑❌ 
+  At this point, saying yes would just feel wrong. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
