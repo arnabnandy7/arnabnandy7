@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Kolkata, India - 05/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
   🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.4 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.405 <strong>PM10:</strong> 43.475</p>
@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 30.3 | 91 | 7.2 | 0 |
 | 2025-09-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.3 | 91 | 7.2 | 0 |
 | 2025-09-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 30.1 | 92 | 7.2 | 0 |
 | 2025-09-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.1 | 30.0 | 92 | 7.6 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.4 | 37.3 | 66 | 11.9 | 100 |
 | 2025-09-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.7 | 61 | 12.2 | 100 |
 | 2025-09-06 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.9 | 38.9 | 58 | 12.6 | 100 |
+| 2025-09-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.3 | 38.4 | 61 | 13.7 | 100 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I was born to say no—first word I ever said and never stopped. 🛑❌ 
+  My curiosity just left the room when I heard that idea. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
