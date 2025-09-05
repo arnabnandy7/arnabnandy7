@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm more of an 'observe from afar' person than a 'participate' person. 🛑❌ 
+  You’ve put great energy into this, and I hope you understand my decision to step back. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
