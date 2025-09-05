@@ -18,23 +18,23 @@
   <p>Kolkata, India - 05/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 37.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 39.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.42 <strong>PM10:</strong> 29.045</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.97 <strong>PM10:</strong> 34.965</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.4 | 36.6 | 73 | 20.2 | 100 |
-| 2025-09-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.8 | 75 | 18.4 | 88 |
-| 2025-09-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.7 | 74 | 15.5 | 79 |
-| 2025-09-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.5 | 73 | 14.0 | 70 |
-| 2025-09-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.4 | 34.9 | 76 | 13.7 | 0 |
-| 2025-09-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.3 | 33.3 | 81 | 12.6 | 0 |
-| 2025-09-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 31.8 | 84 | 12.2 | 0 |
-| 2025-09-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.1 | 31.2 | 86 | 11.9 | 0 |
-| 2025-09-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 30.7 | 86 | 11.5 | 0 |
-| 2025-09-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.5 | 30.2 | 86 | 11.2 | 0 |
+| 2025-09-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.6 | 67 | 14.8 | 100 |
+| 2025-09-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 38.3 | 68 | 14.8 | 100 |
+| 2025-09-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 37.2 | 72 | 14.4 | 100 |
+| 2025-09-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 36.0 | 75 | 14.8 | 87 |
+| 2025-09-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.0 | 34.4 | 79 | 14.0 | 0 |
+| 2025-09-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.9 | 32.7 | 84 | 13.0 | 0 |
+| 2025-09-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 32.2 | 86 | 12.2 | 0 |
+| 2025-09-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 31.9 | 88 | 11.5 | 0 |
+| 2025-09-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 31.6 | 89 | 11.5 | 0 |
+| 2025-09-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 31.4 | 90 | 11.5 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My social battery is at 0%, and my charger is missing. 🛑❌ 
+  Is this a trick question? Because I'm answering like it's one: no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
