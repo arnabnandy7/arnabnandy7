@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 39.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 39.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.315 <strong>PM10:</strong> 21.46</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.24 <strong>PM10:</strong> 22.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 32.0 | 89 | 11.2 | 0 |
 | 2025-09-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 31.5 | 90 | 11.5 | 0 |
 | 2025-09-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 31.4 | 90 | 10.4 | 0 |
 | 2025-09-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.7 | 31.1 | 91 | 9.4 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.5 | 92 | 9.0 | 0 |
 | 2025-09-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.2 | 30.3 | 93 | 9.0 | 0 |
 | 2025-09-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.4 | 32.2 | 88 | 9.4 | 0 |
+| 2025-09-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.9 | 34.5 | 80 | 11.2 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I forgot how to say yes. 🛑❌ 
+  My calendar at work has a big red 'NOPE' on that date. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
