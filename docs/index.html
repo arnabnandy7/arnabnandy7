@@ -5,36 +5,121 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Arnab Nandy — Portfolio</title>
   <style>
-    :root{--bg:#0f1724;--card:#0b1220;--accent:#5eead4;--muted:#94a3b8;--glass:rgba(255,255,255,0.04)}
-    html,body{height:100%;margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial}
-    body{background:linear-gradient(180deg,#071029 0%,#081226 100%);color:#e6eef6;display:flex;align-items:center;justify-content:center;padding:48px}
-    .wrap{max-width:980px;width:100%;display:grid;grid-template-columns:320px 1fr;gap:28px}
-    .card{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));border-radius:12px;padding:20px;box-shadow:0 8px 30px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.03)}
-    .left{position:relative}
-    .avatar{width:150px;height:150px;border-radius:50%;border:4px solid var(--accent);display:block;margin:0 auto}
-    h1{font-size:1.5rem;margin:14px 0 6px;text-align:center}
-    .role{color:var(--muted);text-align:center;margin:0 0 12px}
-    .stats{display:flex;justify-content:space-around;padding:8px 0;border-top:1px dashed rgba(255,255,255,0.03);margin-top:12px}
-    .stat{text-align:center}
-    .stat b{display:block;font-size:1.05rem;color:var(--accent)}
-
-    /* Right column */
-    .content h2{margin-top:0}
-    .section{margin-bottom:18px}
-    .work-item{background:var(--glass);padding:10px;border-radius:8px;margin-bottom:10px}
-    .work-item .meta{color:var(--muted);font-size:0.9rem}
-
-    .so-answer{background:#071424;padding:12px;border-radius:8px;margin-bottom:10px}
-    .so-title{font-weight:600}
-    .so-meta{color:var(--muted);font-size:0.85rem}
-
-    .links{display:flex;gap:8px;flex-wrap:wrap}
-    .link-btn{background:transparent;border:1px solid rgba(255,255,255,0.06);padding:8px 10px;border-radius:8px;color:var(--accent);text-decoration:none;font-weight:600}
-
-    footer{color:var(--muted);font-size:0.85rem;text-align:center;margin-top:10px}
-
-    /* responsive */
-    @media (max-width:900px){.wrap{grid-template-columns:1fr;}}
+    :root {
+      --bg: #0f1724;
+      --card: #0b1220;
+      --accent: #5eead4;
+      --muted: #94a3b8;
+      --glass: rgba(255,255,255,0.04);
+    }
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Inter, sans-serif;
+      background: linear-gradient(180deg, #071029 0%, #081226 100%);
+      color: #e6eef6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .wrap {
+      max-width: 980px;
+      width: 100%;
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 28px;
+    }
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+      border: 1px solid rgba(255,255,255,0.05);
+    }
+    .left {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .avatar {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid var(--accent);
+      margin-bottom: 16px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.75rem;
+    }
+    .role {
+      margin: 0 0 16px;
+      color: var(--muted);
+      font-size: 1.1rem;
+    }
+    .section + .section {
+      margin-top: 28px;
+    }
+    .stats {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+      border-top: 1px dashed rgba(255,255,255,0.03);
+      padding-top: 12px;
+    }
+    .stat b {
+      display: block;
+      font-size: 1.2rem;
+      color: var(--accent);
+    }
+    .content h2 {
+      margin-top: 0;
+    }
+    .work-item, .so-answer {
+      background: var(--glass);
+      padding: 12px;
+      border-radius: 8px;
+      margin-bottom: 12px;
+    }
+    .so-title {
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .so-meta {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-bottom: 8px;
+    }
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .link-btn {
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.07);
+      padding: 8px 12px;
+      border-radius: 8px;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .link-btn:hover {
+      background: rgba(255,255,255,0.06);
+    }
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-top: 20px;
+    }
+    @media (max-width: 900px) {
+      .wrap {
+        grid-template-columns: 1fr;
+      }
+    }
   </style>
 </head>
 <body>
@@ -42,19 +127,18 @@
     <aside class="card left">
       <img class="avatar" src="https://github.com/arnabnandy7.png" alt="Arnab Nandy">
       <h1 id="name">Arnab Nandy</h1>
-      <p class="role" id="title">Sr. Software Engineer · Cognizant</p>
+      <p class="role" id="title">Senior Software Engineer · Cognizant</p>
 
       <div class="section">
-        <h3 style="margin:6px 0;color:var(--muted)">Quick facts</h3>
         <div class="stats">
-          <div class="stat"><b id="so-rep">6.8k</b><span class="muted">SO rep</span></div>
-          <div class="stat"><b id="years">10+</b><span class="muted">yrs exp</span></div>
-          <div class="stat"><b id="badges">Gold/Silver</b><span class="muted">badges</span></div>
+          <div class="stat"><b id="so-rep">6.8k</b><span>SO rep</span></div>
+          <div class="stat"><b id="years">10+</b><span>yrs exp</span></div>
+          <div class="stat"><b id="badges">Gold/Silver</b><span>badges</span></div>
         </div>
       </div>
 
       <div class="section">
-        <h3 style="margin:6px 0;color:var(--muted)">Contact & Profiles</h3>
+        <h3>Contact & Profiles</h3>
         <div class="links">
           <a class="link-btn" href="https://github.com/arnabnandy7">GitHub</a>
           <a class="link-btn" href="https://www.linkedin.com/in/nandyarn/">LinkedIn</a>
@@ -65,88 +149,73 @@
       </div>
 
       <div class="section">
-        <h3 style="margin:6px 0;color:var(--muted)">Skills</h3>
+        <h3>Skills</h3>
         <p id="skills">Java · Spring · Linux · Cloud · DevOps · SQL</p>
       </div>
-
     </aside>
 
     <main class="card content">
-      <section class="section">
+      <div class="section">
         <h2>Professional Experience</h2>
-        <div id="work-list">
-          <!-- Work items injected here -->
-        </div>
-      </section>
+        <div id="work-list"></div>
+      </div>
 
-      <section class="section">
+      <div class="section">
         <h2>Top 3 StackOverflow Answers</h2>
-        <div id="so-answers">
-          <!-- answers injected here -->
-        </div>
-      </section>
+        <div id="so-answers"></div>
+      </div>
 
-      <section class="section">
+      <div class="section">
         <h2>About</h2>
         <p id="about">Senior software engineer with experience in building backend services and system automation. Passionate about Linux, cloud technologies, and open-source contributions.</p>
-      </section>
+      </div>
 
-      <footer>Generated profile — edit <code>profile_data.json</code> in the repo to update content.</footer>
+      <footer>Generated — edit <code>profile_data.json</code> in repo to update content.</footer>
     </main>
   </div>
 
-<script>
-// This page supports optional data injection from a local JSON file named profile_data.json
-// If present (e.g., committed in the repo), the JS will populate Work Experience and SO answers.
+  <script>
+    async function loadProfile(){
+      try {
+        const resp = await fetch('profile_data.json');
+        if (!resp.ok) throw new Error('No profile_data.json found');
+        const data = await resp.json();
 
-async function loadProfile(){
-  try{
-    const resp = await fetch('profile_data.json');
-    if(!resp.ok) throw new Error('no data');
-    const data = await resp.json();
+        document.getElementById('name').textContent = data.name || '';
+        document.getElementById('title').textContent = data.title || '';
+        document.getElementById('skills').textContent = (data.skills || []).join(' · ');
+        document.getElementById('so-rep').textContent = data.so_rep || '';
+        document.getElementById('years').textContent = data.years || '';
+        document.getElementById('badges').textContent = data.badges || '';
+        document.getElementById('about').textContent = data.about || '';
 
-    // Basic fields
-    if(data.name) document.getElementById('name').textContent = data.name;
-    if(data.title) document.getElementById('title').textContent = data.title;
-    if(data.skills) document.getElementById('skills').textContent = data.skills.join(' · ');
-    if(data.so_rep) document.getElementById('so-rep').textContent = data.so_rep;
-    if(data.years) document.getElementById('years').textContent = data.years;
-    if(data.badges) document.getElementById('badges').textContent = data.badges;
-    if(data.about) document.getElementById('about').textContent = data.about;
+        const workEl = document.getElementById('work-list');
+        workEl.innerHTML = '';
+        (data.work || []).forEach(w => {
+          const div = document.createElement('div');
+          div.className = 'work-item';
+          div.innerHTML = `<strong>${w.role} — ${w.company}</strong>
+                           <div class="so-meta">${w.period} ${w.location ? ' — ' + w.location : ''}</div>
+                           <div>${w.summary}</div>`;
+          workEl.appendChild(div);
+        });
 
-    // Work experience
-    const workList = document.getElementById('work-list');
-    workList.innerHTML = '';
-    if(Array.isArray(data.work)){
-      data.work.forEach(w=>{
-        const div = document.createElement('div'); div.className='work-item';
-        div.innerHTML = `<div style="display:flex;justify-content:space-between"><strong>${w.role} — ${w.company}</strong><span class="meta">${w.period}</span></div><div class="meta">${w.location || ''}</div><div style="margin-top:6px;color:var(--muted)">${w.summary || ''}</div>`;
-        workList.appendChild(div);
-      });
-    } else {
-      // default fallback item
-      const div=document.createElement('div');div.className='work-item';div.innerHTML=`<strong>Sr. Software Engineer — Cognizant</strong><div class="meta">2021 – Present</div><div style="margin-top:6px;color:var(--muted)">Working on backend services, automation and cloud migrations.</div>`;workList.appendChild(div);
+        const soEl = document.getElementById('so-answers');
+        soEl.innerHTML = '';
+        (data.so_answers || []).slice(0,3).forEach(ans => {
+          const div = document.createElement('div');
+          div.className = 'so-answer';
+          div.innerHTML = `<div class="so-title"><a href="${ans.question_link}" target="_blank">${ans.question_title}</a></div>
+                           <div class="so-meta">Score: ${ans.score} • ${ans.date}</div>
+                           <div>${ans.excerpt}</div>
+                           <div style="margin-top:8px"><a class="link-btn" href="${ans.answer_link}" target="_blank">View Answer</a></div>`;
+          soEl.appendChild(div);
+        });
+      } catch(err) {
+        console.log(err);
+      }
     }
-
-    // StackOverflow answers
-    const soDiv = document.getElementById('so-answers'); soDiv.innerHTML='';
-    if(Array.isArray(data.so_answers)){
-      data.so_answers.slice(0,3).forEach(ans=>{
-        const box=document.createElement('div');box.className='so-answer';
-        box.innerHTML = `<div class="so-title"><a href="${ans.question_link}" target="_blank" style="color:var(--accent);text-decoration:none">${ans.question_title}</a></div><div class="so-meta">Answer score: ${ans.score} • ${ans.date}</div><div style="margin-top:8px">${ans.excerpt}</div><div style="margin-top:8px"><a href="${ans.answer_link}" target="_blank" class="link-btn">View Answer</a></div>`;
-        soDiv.appendChild(box);
-      });
-    } else {
-      const div=document.createElement('div');div.className='so-answer';div.innerHTML='<div class="so-title">No answers provided</div><div class="so-meta">Add top answers in profile_data.json to display here.</div>';soDiv.appendChild(div);
-    }
-
-  }catch(err){
-    // no profile_data.json — leave defaults
-    console.log('No profile_data.json found — using defaults');
-  }
-}
-
-loadProfile();
-</script>
+    loadProfile();
+  </script>
 </body>
 </html>
