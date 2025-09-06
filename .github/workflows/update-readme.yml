@@ -217,7 +217,6 @@ jobs:
 
       - name: Generate fuel cards and update README
         run: |
-          sudo apt-get update && sudo apt-get install -y jq python3
           ./scripts/generate_fuel_cards.sh
           
       - name: Commit
