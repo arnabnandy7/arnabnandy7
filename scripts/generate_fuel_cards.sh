@@ -4,7 +4,7 @@ set -euo pipefail
 PETROL_FILE="tmp/petrol_price.json"
 DIESEL_FILE="tmp/diesel_price.json"
 CITY="${CITY:-Kolkata}"   # default Agar if not passed
-PLACEHOLDER="[fuel_prices]"
+PLACEHOLDER="[fuel_price]"
 README="README.md"
 
 # helper to extract value from JSON
