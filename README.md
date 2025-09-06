@@ -18,26 +18,26 @@
   <p>Kolkata, India - 06/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 38.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.115 <strong>PM10:</strong> 40.885</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.185 <strong>PM10:</strong> 43.66</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-06 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 31.0 | 85 | 10.8 | 0 |
-| 2025-09-07 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 30.9 | 86 | 9.7 | 0 |
-| 2025-09-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.7 | 30.6 | 87 | 9.0 | 0 |
-| 2025-09-07 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 30.4 | 89 | 9.0 | 0 |
-| 2025-09-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 30.2 | 89 | 8.6 | 0 |
-| 2025-09-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.2 | 90 | 8.3 | 0 |
-| 2025-09-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.2 | 30.0 | 91 | 8.6 | 0 |
-| 2025-09-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 32.0 | 87 | 9.0 | 0 |
-| 2025-09-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.7 | 33.9 | 80 | 10.8 | 0 |
-| 2025-09-07 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.2 | 35.7 | 72 | 12.2 | 0 |
+| 2025-09-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 30.2 | 86 | 8.3 | 0 |
+| 2025-09-07 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 29.9 | 86 | 7.9 | 0 |
+| 2025-09-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 29.7 | 87 | 7.6 | 0 |
+| 2025-09-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 29.4 | 87 | 7.2 | 0 |
+| 2025-09-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 29.3 | 87 | 7.2 | 0 |
+| 2025-09-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 30.9 | 83 | 7.2 | 0 |
+| 2025-09-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 32.7 | 76 | 8.3 | 0 |
+| 2025-09-07 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 34.5 | 68 | 9.4 | 0 |
+| 2025-09-07 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 36.1 | 62 | 10.4 | 0 |
+| 2025-09-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 37.2 | 58 | 11.2 | 0 |
 
 
-  ## 🪙 Cryptocurrency Prices  
+  ## ⛓️ Cryptocurrency Prices  
   🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br> 
 
   ## 🔋 Fuel Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The contract I signed with my bed doesn't allow me to do anything else. 🛑❌ 
+  My enthusiasm filed for bankruptcy, so I can't invest in that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
