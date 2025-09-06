@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 06/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:19 PM, Set: 02:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.77 <strong>PM10:</strong> 51.43</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 43.66 <strong>PM10:</strong> 51.43</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.1 | 35.9 | 73 | 10.4 | 0 |
-| 2025-09-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.4 | 37.3 | 66 | 11.9 | 100 |
-| 2025-09-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.7 | 61 | 12.2 | 100 |
-| 2025-09-06 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.9 | 38.9 | 58 | 12.6 | 100 |
-| 2025-09-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.3 | 38.4 | 61 | 13.7 | 100 |
-| 2025-09-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 38.6 | 62 | 14.8 | 100 |
-| 2025-09-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.6 | 38.8 | 61 | 15.1 | 100 |
-| 2025-09-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 38.4 | 61 | 16.6 | 64 |
-| 2025-09-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 37.4 | 67 | 16.6 | 88 |
-| 2025-09-06 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.4 | 34.4 | 74 | 16.6 | 76 |
+| 2025-09-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 37.1 | 65 | 11.2 | 64 |
+| 2025-09-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 38.3 | 60 | 11.5 | 71 |
+| 2025-09-06 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 38.9 | 57 | 11.9 | 64 |
+| 2025-09-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 39.1 | 58 | 12.6 | 68 |
+| 2025-09-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 38.5 | 61 | 14.4 | 65 |
+| 2025-09-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 37.8 | 62 | 14.0 | 63 |
+| 2025-09-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.5 | 60 | 14.0 | 89 |
+| 2025-09-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.8 | 37.9 | 65 | 15.1 | 66 |
+| 2025-09-06 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.7 | 35.0 | 73 | 15.5 | 74 |
+| 2025-09-06 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 32.8 | 77 | 15.1 | 0 |
 
 </div>
 
@@ -44,7 +44,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The only thing I'm inclined to say is a decline. 🛑❌ 
+  The universe told me to 'treat myself', which I'm taking as a sign to stay home. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
