@@ -1,34 +1,42 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# ---------- CONFIG ----------
+# ----------------- CONFIG -----------------
 PETROL_FILE="tmp/petrol_price.json"
 DIESEL_FILE="tmp/diesel_price.json"
-CITY="Kolkata"             # city to display
-PLACEHOLDER="\[fuel_cards\]"
+CITY="${CITY:-Kolkata}"           # city to display (can be overridden via env)
+PLACEHOLDER="[fuel_cards]"     # exact placeholder in README.md to replace
 README="README.md"
-# ----------------------------
+# ------------------------------------------
 
-# helper to read field using jq
+# helper: safe jq extraction returns empty string if not found or file missing
 get_field() {
-  local file="$1" city="$2" field="$3"
+  local file="$1"
+  local city="$2"
+  local field="$3"
+  if [[ ! -f "$file" ]]; then
+    echo ""
+    return
+  fi
   jq -r --arg c "$city" --arg f "$field" '(.[] | select(.city == $c) | .[$f]) // ""' "$file" 2>/dev/null || echo ""
 }
 
+# decorate change -> "🔺 0.12" and dir (up/down/neutral)
 decorate_change() {
   local ch="$1"
   if [[ -z "$ch" ]]; then
-    echo "—" "neutral"
+    printf "%s\\n" "— neutral"
   elif [[ "$ch" == +* ]]; then
-    echo "🔺 ${ch#+}" "up"
+    # strip leading + in display
+    printf "%s\\n" "🔺 ${ch#+} up"
   elif [[ "$ch" == -* ]]; then
-    echo "🔻 ${ch#-}" "down"
+    printf "%s\\n" "🔻 ${ch#-} down"
   else
-    echo "$ch" "neutral"
+    printf "%s\\n" "${ch} neutral"
   fi
 }
 
-# read values
+# Read values (empty string if not present)
 PETROL_PRICE=$(get_field "$PETROL_FILE" "$CITY" "price")
 PETROL_CHANGE_RAW=$(get_field "$PETROL_FILE" "$CITY" "change")
 read -r PETROL_CHANGE_DECOR PETROL_DIR <<< "$(decorate_change "$PETROL_CHANGE_RAW")"
@@ -37,16 +45,33 @@ DIESEL_PRICE=$(get_field "$DIESEL_FILE" "$CITY" "price")
 DIESEL_CHANGE_RAW=$(get_field "$DIESEL_FILE" "$CITY" "change")
 read -r DIESEL_CHANGE_DECOR DIESEL_DIR <<< "$(decorate_change "$DIESEL_CHANGE_RAW")"
 
-# fallbacks
+# Fallbacks for missing values
 [[ -z "$PETROL_PRICE" ]] && PETROL_PRICE="—"
 [[ -z "$DIESEL_PRICE" ]] && DIESEL_PRICE="—"
 [[ -z "$PETROL_CHANGE_DECOR" ]] && PETROL_CHANGE_DECOR="—"
 [[ -z "$DIESEL_CHANGE_DECOR" ]] && DIESEL_CHANGE_DECOR="—"
+[[ -z "$PETROL_DIR" ]] && PETROL_DIR="neutral"
+[[ -z "$DIESEL_DIR" ]] && DIESEL_DIR="neutral"
 
-# date in DD/MM/YYYY
+# Date in DD/MM/YYYY
 UPDATED_DATE=$(date +"%d/%m/%Y")
 
-# build HTML snippet (inline HTML works in GitHub README)
+# Determine color hex for change display
+color_for() {
+  local dir="$1"
+  if [[ "$dir" == "up" ]]; then
+    echo "#2f7a2f"   # green
+  elif [[ "$dir" == "down" ]]; then
+    echo "#b02f2f"   # red
+  else
+    echo "#6b6b6b"   # gray
+  fi
+}
+
+PETROL_COLOR=$(color_for "$PETROL_DIR")
+DIESEL_COLOR=$(color_for "$DIESEL_DIR")
+
+# Build HTML snippet (preserve whitespace/newlines)
 CARDS_HTML=$(cat <<EOF
 <div style="display:flex;gap:14px;flex-wrap:wrap;align-items:stretch">
   <div style="flex:1;min-width:220px;border-radius:10px;padding:12px;background:#fff8ef;border:1px solid #f1d6b0;">
@@ -58,7 +83,7 @@ CARDS_HTML=$(cat <<EOF
       </div>
     </div>
     <div style="margin-top:10px;font-size:20px;font-weight:800">₹${PETROL_PRICE}</div>
-    <div style="margin-top:6px;font-size:14px;color:$( [[ "$PETROL_DIR" == "up" ]] && echo '#2f7a2f' || ([[ "$PETROL_DIR" == "down" ]] && echo '#b02f2f' || echo '#6b6b6b') )">${PETROL_CHANGE_DECOR}</div>
+    <div style="margin-top:6px;font-size:14px;color:${PETROL_COLOR}">${PETROL_CHANGE_DECOR}</div>
   </div>
 
   <div style="flex:1;min-width:220px;border-radius:10px;padding:12px;background:#eef7ff;border:1px solid #cfe6fb;">
@@ -70,23 +95,55 @@ CARDS_HTML=$(cat <<EOF
       </div>
     </div>
     <div style="margin-top:10px;font-size:20px;font-weight:800">₹${DIESEL_PRICE}</div>
-    <div style="margin-top:6px;font-size:14px;color:$( [[ "$DIESEL_DIR" == "up" ]] && echo '#2f7a2f' || ([[ "$DIESEL_DIR" == "down" ]] && echo '#b02f2f' || echo '#6b6b6b') )">${DIESEL_CHANGE_DECOR}</div>
+    <div style="margin-top:6px;font-size:14px;color:${DIESEL_COLOR}">${DIESEL_CHANGE_DECOR}</div>
   </div>
 </div>
 EOF
 )
 
-# Replace placeholder in README.md
+# Replace placeholder in README.md safely using Python (handles arbitrary text)
 if [[ -f "$README" ]]; then
-  # escape for sed (preserve newlines)
-  esc() { printf '%s' "$1" | sed -e 's/[\/&]/\\&/g' -e ':a;N;$!ba;s/\n/\\n/g'; }
-  TMP=$(mktemp)
-  cp README.md "$TMP"
-  sed -i "s/${PLACEHOLDER}/$(esc "$CARDS_HTML")/g" "$TMP"
-  mv "$TMP" "$README"
+  TMP_CARDS_FILE=$(mktemp)
+  printf '%s' "$CARDS_HTML" > "$TMP_CARDS_FILE"
+
+  python3 - <<PY
+import io,sys
+readme = "$README"
+cards_file = "$TMP_CARDS_FILE"
+placeholder = "$PLACEHOLDER"
+
+try:
+    with io.open(readme, 'r', encoding='utf-8') as f:
+        text = f.read()
+except Exception as e:
+    sys.stderr.write("Error reading README: " + str(e) + "\\n")
+    sys.exit(1)
+
+try:
+    with io.open(cards_file, 'r', encoding='utf-8') as f:
+        cards = f.read()
+except Exception as e:
+    sys.stderr.write("Error reading cards temp file: " + str(e) + "\\n")
+    sys.exit(1)
+
+if placeholder not in text:
+    sys.stderr.write("⚠️ Placeholder '{}' not found in {}\\n".format(placeholder, readme))
+    # still write file with no change to keep action non-fatal
+    sys.exit(0)
+
+new_text = text.replace(placeholder, cards)
+try:
+    with io.open(readme, 'w', encoding='utf-8') as f:
+        f.write(new_text)
+except Exception as e:
+    sys.stderr.write("Error writing README: " + str(e) + "\\n")
+    sys.exit(1)
+PY
+
+  rm -f "$TMP_CARDS_FILE"
   echo "✅ README.md updated with fuel cards for ${CITY}."
 else
   echo "⚠️ ${README} not found — printing cards to stdout:"
   echo
-  echo "$CARDS_HTML"
+  printf '%s\n' "$CARDS_HTML"
 fi
