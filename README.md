@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./images/github-header-image.png)
 
 <h3 align="center">Crafting Digital Experiences 🚀</h3>
 
@@ -17,10 +17,10 @@
 <div align="center">
   <p>Kolkata, India - 06/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 44.2 °C  
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 42.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.3 <strong>PM10:</strong> 48.84</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.375 <strong>PM10:</strong> 46.805</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -36,6 +36,14 @@
 | 2025-09-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 30.2 | 89 | 8.6 | 0 |
 | 2025-09-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.2 | 90 | 8.3 | 0 |
 
+
+  ## 🪙 Cryptocurrency Prices  
+  🪙 USDC: ₹86.02 | 📉 Change: ₹null (null%) | 📈 H: ₹86.02 | 📉 L: ₹86.02 | 🔄 Vol: 0
+💵 USDT: ₹88.01 | 📉 Change: ₹null (null%) | 📈 H: ₹88.01 | 📉 L: ₹88.01 | 🔄 Vol: 0
+♦ ETH: ₹303000.0 | 📉 Change: ₹null (null%) | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 | 🔄 Vol: 0
+₿ BTC: ₹5656600.0 | 📉 Change: ₹null (null%) | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 | 🔄 Vol: 0
+⚡ BNB: ₹50001.0 | 📉 Change: ₹null (null%) | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 | 🔄 Vol: 0
+
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -44,7 +52,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I don't have the bandwidth (or any other width) for that. 🛑❌ 
+  I'm already committed to the Anti-Work Holiday. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
