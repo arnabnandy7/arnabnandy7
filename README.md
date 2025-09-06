@@ -40,7 +40,7 @@
   ## 🪙 Cryptocurrency Prices  
   🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br> 
 
-  ## ⛽ Fuel Price (Kolkata)  
+  ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.41 ➖ 🛢️ Diesel: ₹92.02 ➖
 </div>
 
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm afraid saying yes now will open floodgates of expectations. 🛑❌ 
+  I’d hate to step out and melt; I'm made of sugar and sarcasm. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
