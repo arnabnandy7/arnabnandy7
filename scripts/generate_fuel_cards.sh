@@ -47,7 +47,7 @@ FUEL_LINE="⛽ Petrol: ₹${PETROL_PRICE} ${PETROL_ARROW} 🛢️ Diesel: ₹${D
 
 # replace in README
 if [[ -f "$README" ]]; then
-  sed -i "s#${PLACEHOLDER}#${FUEL_LINE}#g" "$README"
+  sed -i "s#\[fuel_price\]#${FUEL_LINE//$'\n'/\\n}#g" README.md
   echo "✅ Updated README with fuel prices for ${CITY}"
 else
   echo "⚠️ README.md not found, showing line:"
