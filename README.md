@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-06 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 31.3 | 84 | 11.9 | 0 |
 | 2025-09-06 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 31.0 | 85 | 10.8 | 0 |
 | 2025-09-07 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 30.9 | 86 | 9.7 | 0 |
 | 2025-09-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.7 | 30.6 | 87 | 9.0 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.2 | 30.0 | 91 | 8.6 | 0 |
 | 2025-09-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 32.0 | 87 | 9.0 | 0 |
 | 2025-09-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.7 | 33.9 | 80 | 10.8 | 0 |
+| 2025-09-07 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.2 | 35.7 | 72 | 12.2 | 0 |
 
 
   ## 🪙 Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I’d hate to step out and melt; I'm made of sugar and sarcasm. 🛑❌ 
+  My doctor said I need more vitamin 'No'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
