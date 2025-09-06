@@ -2,70 +2,103 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>arnabnandy7 · GitHub</title>
+  <title>Arnab Nandy – Developer Dashboard</title>
   <style>
     body {
-      background: #1a202c;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
+      background: #f4f4f9;
       margin: 0;
       font-family: Arial, sans-serif;
-      color: #f7fafc;
-    }
-    .card {
-      background: #2d3748;
+      color: #333;
+      display: flex;
+      justify-content: center;
       padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    }
+    .dashboard {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      max-width: 600px;
+      width: 100%;
+      overflow: hidden;
+    }
+    .header {
       text-align: center;
-      width: 320px;
+      padding: 2rem;
+      background: #6200ee;
+      color: #fff;
     }
-    .avatar {
-      width: 128px;
-      height: 128px;
+    .header img {
+      width: 120px;
+      height: 120px;
       border-radius: 50%;
-      margin: 0 auto 1rem;
-      border: 3px solid #4fd1c5;
-      transition: transform 0.3s;
+      border: 4px solid #fff;
+      margin-bottom: 1rem;
     }
-    .avatar:hover {
-      transform: translateY(-5px);
-    }
-    h1 {
-      margin: 0 0 0.3rem;
-      font-size: 1.6rem;
-    }
-    p.subtitle {
-      margin: 0;
-      font-size: 1rem;
-      color: #a0aec0;
-    }
-    .links {
-      margin-top: 1.5rem;
-    }
-    .links a {
-      margin: 0 0.5rem;
+    .header h1 { margin: 0; font-size: 2rem; }
+    .header p { margin: 0.5rem 0; }
+    .info { padding: 1.5rem; }
+    .info h2 { margin-bottom: 0.5rem; border-bottom: 2px solid #6200ee; padding-bottom: 0.3rem; }
+    .info ul { list-style: none; padding: 0; }
+    .info li { margin: 0.8rem 0; }
+    .info li span { font-weight: bold; color: #6200ee; }
+    .socials { text-align: center; padding: 1.5rem; background: #f0f0f5; }
+    .socials a {
+      margin: 0 0.6rem;
+      display: inline-flex;
+      align-items: center;
+      color: #6200ee;
       text-decoration: none;
-      color: #4fd1c5;
-      font-size: 1.2rem;
-      transition: color 0.2s;
+      font-weight: bold;
     }
-    .links a:hover {
-      color: #81e6d9;
+    .socials a svg {
+      width: 20px;
+      height: 20px;
+      margin-right: 6px;
     }
   </style>
 </head>
 <body>
-  <div class="card">
-    <img class="avatar" src="https://github.com/arnabnandy7.png" alt="arnabnandy7">
-    <h1>arnabnandy7</h1>
-    <p class="subtitle">Developer • Creator • Builder</p>
-    <div class="links">
-      <a href="https://github.com/arnabnandy7">GitHub</a>
-      <a href="https://twitter.com/arnabnandy2">Twitter</a>
-      <a href="https://www.linkedin.com/in/nandyarnab/">LinkedIn</a>
+  <div class="dashboard">
+    <div class="header">
+      <img src="https://github.com/arnabnandy7.png" alt="Arnab Nandy">
+      <h1>Arnab Nandy</h1>
+      <p>Sr. Software Engineer at Cognizant</p>
+      <p>MCA from WBUTech • Linux Enthusiast • Open Source Contributor</p>
+    </div>
+    <div class="info">
+      <h2>Professional Insights</h2>
+      <ul>
+        <li><span>Stack Overflow:</span> 6.8k reputation • 186 answers • Gold/Silver/Bronze badges</li>
+        <li><span>TechGig:</span> 9+ years of experience, Java & Spring specialist</li>
+        <li><span>LinkedIn:</span> Developer & DevOps-focused innovations</li>
+        <li><span>Credly:</span> Verified skill badges (Cloud, DevOps, Java, etc.)</li>
+      </ul>
+    </div>
+    <div class="socials">
+      <a href="https://github.com/arnabnandy7">
+        <!-- GitHub Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+          <path d="..."/>
+        </svg>
+        GitHub
+      </a>
+      <a href="https://www.linkedin.com/in/nandyarnab/">
+        <!-- LinkedIn Icon -->
+        <svg>...linkedin-icon...</svg>
+        LinkedIn
+      </a>
+      <a href="https://stackoverflow.com/users/3892259">
+        <svg>...stackoverflow-icon...</svg>
+        Stack Overflow
+      </a>
+      <a href="https://www.techgig.com/arnabnandy">
+        <svg>...techgig-icon...</svg>
+        TechGig
+      </a>
+      <a href="https://www.credly.com/users/arnab-nandy.a74593d2/badges">
+        <svg>...credly-icon...</svg>
+        Credly
+      </a>
     </div>
   </div>
 </body>
