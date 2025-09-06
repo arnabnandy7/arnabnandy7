@@ -3,7 +3,7 @@
 <h3 align="center">Crafting Digital Experiences 🚀</h3>
 
 <p align="center">
-  🌱 Exploring the ever-evolving world of cloud technologies ☁<br/>
+  🌱 Exploring the ever-evolving world of cloud technologies ☁️<br/>
   👯 Open to new creative collaborations and exciting projects<br/>
   🎯 2025 Mission: Ignite more stars in the Open Source galaxy<br/>
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 06/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.185 <strong>PM10:</strong> 43.66</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.92 <strong>PM10:</strong> 49.025</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 30.2 | 86 | 8.3 | 0 |
+| 2025-09-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 29.4 | 30.2 | 89 | 8.3 | 0 |
 | 2025-09-07 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 29.9 | 86 | 7.9 | 0 |
 | 2025-09-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 29.7 | 87 | 7.6 | 0 |
 | 2025-09-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 29.4 | 87 | 7.2 | 0 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to babysit my imaginary friend's imaginary kids. 🛑❌ 
+  I would love to, but I'd rather not. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
