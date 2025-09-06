@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.625 <strong>PM10:</strong> 47.545</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.775 <strong>PM10:</strong> 45.695</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 29.7 | 87 | 7.6 | 0 |
 | 2025-09-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 29.4 | 87 | 7.2 | 0 |
 | 2025-09-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 29.3 | 87 | 7.2 | 0 |
 | 2025-09-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 30.9 | 83 | 7.2 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 37.2 | 58 | 11.2 | 0 |
 | 2025-09-07 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.0 | 38.3 | 55 | 11.2 | 0 |
 | 2025-09-07 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 33.7 | 38.9 | 52 | 10.4 | 0 |
+| 2025-09-07 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.2 | 39.5 | 51 | 10.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to seize the opportunity to do nothing instead. 🛑❌ 
+  I'm already living in the fast lane of doing nothing, so I can't slow down for that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
