@@ -81,7 +81,7 @@ if [[ -f "$README" ]]; then
   # escape for sed (preserve newlines)
   esc() { printf '%s' "$1" | sed -e 's/[\/&]/\\&/g' -e ':a;N;$!ba;s/\n/\\n/g'; }
   TMP=$(mktemp)
-  cp "$README" "$TMP"
+  cp README.md "$TMP"
   sed -i "s/${PLACEHOLDER}/$(esc "$CARDS_HTML")/g" "$TMP"
   mv "$TMP" "$README"
   echo "✅ README.md updated with fuel cards for ${CITY}."
