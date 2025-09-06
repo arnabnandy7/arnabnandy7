@@ -173,7 +173,6 @@ jobs:
             PRICE=$(echo "$RESPONSE" | jq -r '.ticker.last')
             HIGH=$(echo "$RESPONSE" | jq -r '.ticker.high')
             LOW=$(echo "$RESPONSE" | jq -r '.ticker.low')
-            VOL=$(echo "$RESPONSE" | jq -r '.ticker.vol')
             CHANGE=$(echo "$RESPONSE" | jq -r '.ticker.change')
             PERCENT=$(echo "$RESPONSE" | jq -r '.ticker.percent')
             TS=$(echo "$RESPONSE" | jq -r '.at')
@@ -188,8 +187,8 @@ jobs:
               *) ICON="";;
             esac
 
-            LINE="$ICON $COIN: ₹$PRICE | 📉 Change: ₹$CHANGE ($PERCENT%) | 📈 H: ₹$HIGH | 📉 L: ₹$LOW | 🔄 Vol: $VOL"
-            OUTPUT+="$LINE\n"
+            LINE="$ICON $COIN: ₹$PRICE | 📉 Change: ₹$CHANGE ($PERCENT%) | 📈 H: ₹$HIGH | 📉 L: ₹$LOW "
+            OUTPUT+="$LINE<br>"
           done
 
           echo -e "$OUTPUT"
