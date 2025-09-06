@@ -38,12 +38,7 @@
 
 
   ## 🪙 Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📉 Change: ₹null (null%) | 📈 H: ₹86.02 | 📉 L: ₹86.02 | 🔄 Vol: 0
-💵 USDT: ₹88.01 | 📉 Change: ₹null (null%) | 📈 H: ₹88.01 | 📉 L: ₹88.01 | 🔄 Vol: 0
-♦ ETH: ₹303000.0 | 📉 Change: ₹null (null%) | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 | 🔄 Vol: 0
-₿ BTC: ₹5656600.0 | 📉 Change: ₹null (null%) | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 | 🔄 Vol: 0
-⚡ BNB: ₹50001.0 | 📉 Change: ₹null (null%) | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 | 🔄 Vol: 0
-
+  🪙 USDC: ₹86.02 | 📉 Change: ₹null (null%) | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📉 Change: ₹null (null%) | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📉 Change: ₹null (null%) | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📉 Change: ₹null (null%) | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📉 Change: ₹null (null%) | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -52,7 +47,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm already committed to the Anti-Work Holiday. 🛑❌ 
+  Please excuse me, my brain is currently out of order. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
