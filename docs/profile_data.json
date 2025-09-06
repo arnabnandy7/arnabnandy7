@@ -82,7 +82,7 @@
       "question_title": "How to pause/resume a process in Linux?",
       "question_link": "https://stackoverflow.com/questions/27844970/how-to-pause-resume-a-process-in-linux",
       "answer_link": "https://stackoverflow.com/a/27845022/3892259",
-      "score": 63
+      "score": 63,
       "date": "2015-01-08",
       "excerpt": "Use `kill -STOP <pid>` to pause a process and `kill -CONT <pid>` to resume it. These signals allow you to control jobs without killing them."
     },
