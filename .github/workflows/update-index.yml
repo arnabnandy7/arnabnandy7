@@ -25,7 +25,7 @@ jobs:
 
       - name: Convert README.md to docs/index.html
         run: |
-          pandoc README.md -f markdown -t html -s -o docs/index.html \
+          pandoc ../README.md -f markdown -t html -s -o index.html \
             --css github-markdown.css \
             --metadata title="Project README"
         working-directory: docs
