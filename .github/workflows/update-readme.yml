@@ -1,4 +1,4 @@
-name: "Refresh Weather"
+name: "Update Readme File"
 on:
   schedule:
     - cron: '30 * * * *'
@@ -155,7 +155,46 @@ jobs:
           DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  \n"
           
           sed -i "s#\[weather_dashboard\]#${DASHBOARD//$'\n'/\\n}#g" README.md
-        
+
+      - name: Fetch & Format Crypto Prices
+        run: |
+          declare -A SYMBOLS=(
+            ["BTC"]="btcinr"
+            ["ETH"]="ethinr"
+            ["USDT"]="usdtinr"
+            ["USDC"]="usdcinr"
+            ["BNB"]="bnbinr"
+          )
+
+          OUTPUT=""
+          for COIN in "${!SYMBOLS[@]}"; do
+            RESPONSE=$(curl -s "https://api.wazirx.com/api/v2/tickers/${SYMBOLS[$COIN]}")
+
+            PRICE=$(echo "$RESPONSE" | jq -r '.ticker.last')
+            HIGH=$(echo "$RESPONSE" | jq -r '.ticker.high')
+            LOW=$(echo "$RESPONSE" | jq -r '.ticker.low')
+            VOL=$(echo "$RESPONSE" | jq -r '.ticker.vol')
+            CHANGE=$(echo "$RESPONSE" | jq -r '.ticker.change')
+            PERCENT=$(echo "$RESPONSE" | jq -r '.ticker.percent')
+            TS=$(echo "$RESPONSE" | jq -r '.at')
+            DATE=$(date -d "@$TS" +"%Y-%m-%d %H:%M:%S IST")
+
+            case $COIN in
+              "BTC") ICON="₿";;
+              "ETH") ICON="♦";;
+              "USDT") ICON="💵";;
+              "USDC") ICON="🪙";;
+              "BNB") ICON="⚡";;
+              *) ICON="";;
+            esac
+
+            LINE="$ICON $COIN: ₹$PRICE | 📉 Change: ₹$CHANGE ($PERCENT%) | 📈 H: ₹$HIGH | 📉 L: ₹$LOW | 🔄 Vol: $VOL"
+            OUTPUT+="$LINE\n"
+          done
+
+          echo -e "$OUTPUT"
+          sed -i "s#\[crypto_prices\]#${OUTPUT//$'\n'/\\n}#g" README.md
+          
       # Fetch data from your API
       - name: Fetch API data
         run: |
