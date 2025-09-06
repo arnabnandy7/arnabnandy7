@@ -43,7 +43,7 @@ DIESEL_ARROW=$(decorate "$DIESEL_CHANGE")
 [[ -z "$DIESEL_PRICE" ]] && DIESEL_PRICE="—"
 
 # final one-liner
-FUEL_LINE="⛽ Petrol: ₹${PETROL_PRICE} ${PETROL_ARROW}    🛢️ Diesel: ₹${DIESEL_PRICE} ${DIESEL_ARROW}"
+FUEL_LINE="⛽ Petrol: ₹${PETROL_PRICE} ${PETROL_ARROW} 🛢️ Diesel: ₹${DIESEL_PRICE} ${DIESEL_ARROW}"
 
 # replace in README
 if [[ -f "$README" ]]; then
