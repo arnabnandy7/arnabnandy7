@@ -38,10 +38,10 @@
 
 
   ## 🪙 Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br>
-
-  ## ⛽ Fuel Price 
-  <div style="display:flex;gap:14px;flex-wrap:wrap;align-items:stretch">
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br> 
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<div style="display:flex;gap:14px;flex-wrap:wrap;align-items:stretch">
   <div style="flex:1;min-width:220px;border-radius:10px;padding:12px;background:#fff8ef;border:1px solid #f1d6b0;">
     <div style="display:flex;align-items:center;gap:10px">
       <div style="font-size:20px">⛽</div>
@@ -66,15 +66,13 @@
     <div style="margin-top:6px;font-size:14px;color:#6b6b6b">0.00</div>
   </div>
 </div>
-</div>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <h3 align="center">😒 Tired of Saying No to someone?</h3>
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Regretfully, I'll have to pass, but I'll do it with a smile. 🛑❌ 
+  My Bat-Signal just lit up, gotta go save Gotham instead. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
