@@ -1,0 +1,48 @@
+name: Download Daily Fuel Price
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  download-fuel-price:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Debug FUEL_API_KEY
+        run: |
+          if [ -z "${{ secrets.FUEL_API_KEY }}" ]; then
+            echo "❌ FUEL_API_KEY is empty"
+            exit 1
+          else
+            echo "✅ FUEL_API_KEY is set"
+            echo "Length: ${#FUEL_API_KEY}"   # just check length
+          fi
+        shell: bash
+        
+      # Fetch data from your API
+      - name: Fetch diesel fuel price API data
+        run: |
+          curl -X GET --url "https://fuel.indianapi.in/live_fuel_price?fuel_type=diesel&location_type=city" --header "X-Api-Key: ${{ secrets.FUEL_API_KEY }}" -o tmp/diesel_price.json
+          
+      - name: Fetch petrol fuel price API data
+        run: |
+          curl -X GET --url "https://fuel.indianapi.in/live_fuel_price?fuel_type=petrol&location_type=city" --header "X-Api-Key: ${{ secrets.FUEL_API_KEY }}" -o tmp/petrol_price.json
+         
+      - name: Check if files changed
+        run: |
+          ls -lh tmp/
+          md5sum tmp/*.json
+          
+      - name: Commit all files
+        run: |
+          git config user.name arnabnandy7
+          git config user.email arnab_nandy7@yahoo.com
+          git add -A
+          git commit -m "Update fuel price download on ${{ env.DATE }}" || echo "Nothing to commit"
+          git push origin main
