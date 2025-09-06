@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 40.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:59 PM, Set: 03:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 38.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.71 <strong>PM10:</strong> 42.92</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.97 <strong>PM10:</strong> 40.7</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-06 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 31.5 | 82 | 13.0 | 0 |
 | 2025-09-06 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 31.3 | 84 | 11.9 | 0 |
 | 2025-09-06 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 31.0 | 85 | 10.8 | 0 |
 | 2025-09-07 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 30.9 | 86 | 9.7 | 0 |
@@ -35,13 +34,38 @@
 | 2025-09-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.2 | 90 | 8.3 | 0 |
 | 2025-09-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.2 | 30.0 | 91 | 8.6 | 0 |
 | 2025-09-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 32.0 | 87 | 9.0 | 0 |
+| 2025-09-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.7 | 33.9 | 80 | 10.8 | 0 |
 
 
   ## 🪙 Cryptocurrency Prices  
   🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br>
 
-  ## ⛽ Fuel Price (Kolkata)  
-  [fuel_price]
+  ## ⛽ Fuel Price 
+  <div style="display:flex;gap:14px;flex-wrap:wrap;align-items:stretch">
+  <div style="flex:1;min-width:220px;border-radius:10px;padding:12px;background:#fff8ef;border:1px solid #f1d6b0;">
+    <div style="display:flex;align-items:center;gap:10px">
+      <div style="font-size:20px">⛽</div>
+      <div>
+        <div style="font-weight:700;font-size:14px;color:#8a4b00">Petrol — Kolkata</div>
+        <div style="font-size:12px;color:#7a6a56">Updated: 06/09/2025</div>
+      </div>
+    </div>
+    <div style="margin-top:10px;font-size:20px;font-weight:800">₹105.41</div>
+    <div style="margin-top:6px;font-size:14px;color:#6b6b6b">0.00</div>
+  </div>
+
+  <div style="flex:1;min-width:220px;border-radius:10px;padding:12px;background:#eef7ff;border:1px solid #cfe6fb;">
+    <div style="display:flex;align-items:center;gap:10px">
+      <div style="font-size:20px">🛢️</div>
+      <div>
+        <div style="font-weight:700;font-size:14px;color:#08406a">Diesel — Kolkata</div>
+        <div style="font-size:12px;color:#577085">Updated: 06/09/2025</div>
+      </div>
+    </div>
+    <div style="margin-top:10px;font-size:20px;font-weight:800">₹92.02</div>
+    <div style="margin-top:6px;font-size:14px;color:#6b6b6b">0.00</div>
+  </div>
+</div>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -50,7 +74,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm closing the door on that idea (literally and figuratively). 🛑❌ 
+  Regretfully, I'll have to pass, but I'll do it with a smile. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
