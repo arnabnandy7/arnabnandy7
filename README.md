@@ -47,7 +47,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Respectfully, I'm going to ghost this opportunity. 🛑❌ 
+  I didn't come this far to only come this far. In fact, I'm not coming at all. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
