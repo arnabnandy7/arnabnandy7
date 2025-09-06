@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
+    paths:
+      - "README.md"   # trigger only if README.md is modified
 
 jobs:
   build:
