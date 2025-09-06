@@ -211,6 +211,13 @@ jobs:
       - name: Update README with current year
         run: |
           sed -i "s/\[current_year_placeholder\]/${{ env.year }}/g" README.md
+
+      - name: Make script executable
+        run: chmod +x scripts/generate_fuel_cards.sh
+
+      - name: Generate fuel cards and update README
+        run: |
+          ./scripts/generate_fuel_cards.sh
           
       - name: Commit
         run: |
