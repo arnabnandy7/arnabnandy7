@@ -1,43 +1,71 @@
 {
   "name": "Arnab Nandy",
-  "title": "Senior Software Engineer · Cognizant",
+  "title": "Senior Associate - Projects · Cognizant",
   "skills": [
     "Java",
     "Spring Boot",
-    "Linux",
-    "Cloud (AWS, Azure, GCP)",
-    "DevOps",
-    "SQL",
+    "Spring",
+    "Hibernate/JPA",
+    "RESTful APIs",
+    "Postgres",
+    "Oracle",
+    "Linux/Unix",
+    "Shell Scripting",
+    "Cloud (GCP, AWS, RedHat eCP)",
+    "DevOps (Jenkins, Git, Rally, XL Release)",
     "Microservices",
-    "Docker",
-    "Kubernetes"
+    "Angular",
+    "JavaScript",
+    "CSS/HTML",
+    "API Gateway (Apigee)"
   ],
   "so_rep": "6.8k",
   "years": "10+",
   "badges": "Gold / Silver / Bronze",
-  "about": "Senior software engineer with expertise in Java, Spring, Linux, and DevOps. Experienced in architecting scalable backend systems, cloud migration, and automation. Passionate about open-source contributions, problem-solving, and sharing knowledge on StackOverflow.",
+  "about": "Full Stack Java Developer with over 10 years of experience across enterprise application development, API design, cloud platforms, and DevOps practices. Currently working as Senior Associate at Cognizant, leading cross-functional teams to deliver scalable and high-performance solutions. Passionate about problem-solving, automation, competitive programming, and sharing knowledge on StackOverflow.",
 
   "work": [
     {
-      "role": "Senior Software Engineer",
-      "company": "Cognizant Technology Solutions",
-      "period": "2021 – Present",
+      "role": "Senior Associate - Projects",
+      "company": "Cognizant",
+      "period": "Apr 2022 – Present",
       "location": "Kolkata, India",
-      "summary": "Leading initiatives in cloud transformation, DevOps automation, and enterprise backend development. Collaborating with cross-functional teams to deliver scalable microservices and cloud-native applications."
+      "summary": "Leading cross-functional teams to deliver quality feature releases, architecting solutions, developing APIs and microservices, and optimizing performance. Tools & Tech: Java 8, Spring Boot, Postgres, Amazon S3, Apigee Gateway, Rally, Jenkins, Git, JMeter, Postman, Confluence."
     },
     {
-      "role": "Software Engineer",
-      "company": "Capgemini",
-      "period": "2018 – 2021",
+      "role": "Associate",
+      "company": "Cognizant",
+      "period": "Apr 2019 – Apr 2022",
       "location": "Kolkata, India",
-      "summary": "Worked on enterprise-grade Java/Spring applications, RESTful APIs, and DevOps pipeline automation using Jenkins, Ansible, and Terraform."
+      "summary": "Developed enterprise-grade Java/Spring applications and APIs, customized solutions per client requirements, and ensured performance with JMeter. Tech stack: Java8, Spring, Hibernate5, JPA, Swagger2, Postgres."
     },
     {
-      "role": "System Engineer",
+      "role": "Database Administrator / Software Developer",
+      "company": "Silver Touch Technologies Ltd",
+      "period": "Sep 2016 – Mar 2019",
+      "location": "Kolkata, India",
+      "summary": "Worked on KoPT POMS project for port operations (cargo, billing, MIS). Responsibilities included design, development, and client interaction. Tech stack: Java, Spring, Hibernate, AngularJS, Oracle DB, Bootstrap, HTML5, CSS3."
+    },
+    {
+      "role": "Citizen Service Executive",
       "company": "Tata Consultancy Services",
-      "period": "2014 – 2018",
+      "period": "Dec 2015 – Jun 2016",
       "location": "Kolkata, India",
-      "summary": "Built and maintained core Java applications, optimized database queries, and supported large-scale production systems across BFSI domain projects."
+      "summary": "Enhanced Delhi Jal Board RMS project for consumer services, billing, grievance handling, and SSO integration. Tech stack: Java, JSP-Servlet, Struts2, Oracle PL/SQL, Oracle CC&B, SVN."
+    },
+    {
+      "role": "Trainee",
+      "company": "CMC LTD",
+      "period": "Jun 2015 – Oct 2015",
+      "location": "Kolkata, India",
+      "summary": "Completed Job Enabled Training Program in System Integration (Java)."
+    },
+    {
+      "role": "Programmer (Trainee)",
+      "company": "ESolz",
+      "period": "Jul 2014 – Oct 2014",
+      "location": "Kolkata, India",
+      "summary": "Initial hands-on training in Java and web development."
     }
   ],
 
@@ -46,7 +74,7 @@
       "question_title": "How can I delete a user in Linux when the system says it's currently used in a process?",
       "question_link": "https://stackoverflow.com/questions/28103045/how-can-i-delete-a-user-in-linux-when-the-system-says-its-currently-used-in-a-pr",
       "answer_link": "https://stackoverflow.com/a/28103066/3892259",
-      "score": 220,
+      "score": 75,
       "date": "2015-01-23",
       "excerpt": "To delete a user when it's in use, first kill the active processes using `pkill -u username`, then remove the user with `userdel -r username`."
     },
@@ -54,7 +82,7 @@
       "question_title": "How to pause/resume a process in Linux?",
       "question_link": "https://stackoverflow.com/questions/27844970/how-to-pause-resume-a-process-in-linux",
       "answer_link": "https://stackoverflow.com/a/27845022/3892259",
-      "score": 200,
+      "score": 63
       "date": "2015-01-08",
       "excerpt": "Use `kill -STOP <pid>` to pause a process and `kill -CONT <pid>` to resume it. These signals allow you to control jobs without killing them."
     },
@@ -62,7 +90,7 @@
       "question_title": "`pkill -f` doesn’t work for process killing",
       "question_link": "https://stackoverflow.com/questions/26902079/pkill-f-doesnt-work-for-process-killing",
       "answer_link": "https://stackoverflow.com/a/26902223/3892259",
-      "score": 180,
+      "score": 37,
       "date": "2014-11-13",
       "excerpt": "`pkill -f` matches against the full command line. If it's not working, make sure the string uniquely identifies the process or use `ps aux | grep` to verify."
     }
