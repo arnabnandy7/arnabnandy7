@@ -20,7 +20,7 @@
   <p>Clear  (পরিষ্কার)</p>
   🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:12 PM, Set: 05:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.555 <strong>PM10:</strong> 44.77</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.925 <strong>PM10:</strong> 45.14</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In an alternate universe, I totally did that. Just not in this one. 🛑❌ 
+  I have to trust my gut—and it's gently suggesting a no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
