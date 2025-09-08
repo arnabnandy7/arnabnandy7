@@ -17,15 +17,14 @@
 <div align="center">
   <p>Kolkata, India - 08/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:12 PM, Set: 05:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 44.2 °C  
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:12 PM, Set: 05:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 42.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.49 <strong>PM10:</strong> 42.92</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.195 <strong>PM10:</strong> 40.33</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-08 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 33.3 | 76 | 14.4 | 0 |
 | 2025-09-08 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 32.6 | 77 | 13.3 | 0 |
 | 2025-09-08 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.1 | 32.2 | 78 | 13.0 | 0 |
 | 2025-09-08 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.8 | 32.0 | 80 | 11.5 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.0 | 85 | 10.1 | 0 |
 | 2025-09-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.8 | 86 | 9.7 | 0 |
 | 2025-09-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 30.6 | 86 | 9.4 | 0 |
+| 2025-09-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 30.5 | 87 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is on strike. 🛑❌ 
+  I like to keep my expectations low by not doing anything. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
