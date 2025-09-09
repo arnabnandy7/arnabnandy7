@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 09/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:49 PM, Set: 06:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 41.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:49 PM, Set: 06:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 44.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.675 <strong>PM10:</strong> 35.52</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.935 <strong>PM10:</strong> 35.89</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-09 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.5 | 72 | 14.8 | 100 |
-| 2025-09-09 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.3 | 34.4 | 74 | 14.8 | 77 |
-| 2025-09-09 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.8 | 33.4 | 76 | 14.4 | 0 |
-| 2025-09-09 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.5 | 33.0 | 77 | 14.0 | 0 |
-| 2025-09-09 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.3 | 32.8 | 79 | 12.6 | 0 |
-| 2025-09-09 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.1 | 32.5 | 80 | 12.2 | 0 |
-| 2025-09-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.0 | 32.4 | 80 | 12.2 | 0 |
-| 2025-09-10 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.8 | 32.0 | 81 | 12.2 | 0 |
-| 2025-09-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 31.6 | 82 | 12.2 | 0 |
-| 2025-09-10 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.4 | 31.5 | 83 | 12.2 | 0 |
+| 2025-09-09 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.8 | 33.6 | 77 | 15.8 | 0 |
+| 2025-09-09 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 33.0 | 78 | 14.4 | 0 |
+| 2025-09-09 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.2 | 32.6 | 79 | 13.0 | 0 |
+| 2025-09-09 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.0 | 32.4 | 80 | 12.6 | 0 |
+| 2025-09-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.0 | 82 | 13.0 | 0 |
+| 2025-09-10 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.6 | 31.8 | 83 | 13.3 | 0 |
+| 2025-09-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 31.8 | 84 | 13.0 | 0 |
+| 2025-09-10 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.3 | 31.4 | 85 | 11.9 | 0 |
+| 2025-09-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 31.3 | 85 | 11.2 | 0 |
+| 2025-09-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.1 | 86 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Let's just assume I said no and move on. 🛑❌ 
+  My schedule is tighter than my jeans after the holidays. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
