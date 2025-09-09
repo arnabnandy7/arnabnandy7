@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 09/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:12 PM, Set: 05:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:49 PM, Set: 06:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.115 <strong>PM10:</strong> 40.515</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.485 <strong>PM10:</strong> 41.07</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.4 | 35.6 | 68 | 10.4 | 0 |
-| 2025-09-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.8 | 37.0 | 61 | 10.4 | 0 |
-| 2025-09-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 38.1 | 56 | 10.1 | 0 |
-| 2025-09-09 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.6 | 39.0 | 53 | 10.1 | 0 |
-| 2025-09-09 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.3 | 39.8 | 50 | 10.1 | 0 |
-| 2025-09-09 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.5 | 39.7 | 49 | 10.1 | 0 |
-| 2025-09-09 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.4 | 39.2 | 55 | 13.0 | 0 |
-| 2025-09-09 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.0 | 37.9 | 62 | 15.5 | 0 |
-| 2025-09-09 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 31.1 | 37.0 | 67 | 15.5 | 0 |
-| 2025-09-09 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.4 | 72 | 15.1 | 89 |
+| 2025-09-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.0 | 37.5 | 61 | 9.0 | 0 |
+| 2025-09-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 38.6 | 57 | 9.4 | 0 |
+| 2025-09-09 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.7 | 39.3 | 54 | 9.7 | 0 |
+| 2025-09-09 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 34.3 | 40.0 | 51 | 10.4 | 0 |
+| 2025-09-09 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.4 | 39.8 | 50 | 10.8 | 0 |
+| 2025-09-09 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.9 | 39.4 | 52 | 9.4 | 0 |
+| 2025-09-09 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.0 | 39.0 | 58 | 11.2 | 88 |
+| 2025-09-09 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 37.3 | 67 | 14.8 | 79 |
+| 2025-09-09 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.4 | 72 | 15.8 | 86 |
+| 2025-09-09 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.3 | 34.3 | 74 | 15.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The odds of me doing that are about the same as winning the lottery without buying a ticket. 🛑❌ 
+  Saying yes? I'd sooner challenge a kangaroo to a boxing match. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
