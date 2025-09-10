@@ -41,8 +41,8 @@ jobs:
           
       - name: Commit all files
         run: |
-          git config user.name arnabnandy7
-          git config user.email arnab_nandy7@yahoo.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Update fuel price download on ${{ env.DATE }}" || echo "Nothing to commit"
           git push origin main
