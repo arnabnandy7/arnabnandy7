@@ -18,14 +18,13 @@
   <p>Kolkata, India - 11/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 39.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 41.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.56 <strong>PM10:</strong> 35.335</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.005 <strong>PM10:</strong> 35.335</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-11 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.9 | 39.3 | 59 | 13.0 | 89 |
 | 2025-09-11 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.7 | 38.1 | 66 | 15.5 | 100 |
 | 2025-09-11 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.4 | 36.1 | 71 | 15.5 | 100 |
 | 2025-09-11 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.5 | 34.4 | 73 | 16.2 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-11 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.9 | 32.5 | 82 | 10.8 | 0 |
 | 2025-09-11 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.3 | 84 | 10.1 | 0 |
 | 2025-09-12 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 31.9 | 86 | 9.4 | 100 |
+| 2025-09-12 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 31.6 | 87 | 9.4 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My past experiences with yes have been traumatic. 🛑❌ 
+  I only work on commission, and this request doesn't pay in pizza. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
