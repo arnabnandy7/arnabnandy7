@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 11/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 39.4 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 38.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.525 <strong>PM10:</strong> 33.855</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.045 <strong>PM10:</strong> 32.745</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-11 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.4 | 36.1 | 71 | 15.5 | 100 |
-| 2025-09-11 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.5 | 34.4 | 73 | 16.2 | 0 |
-| 2025-09-11 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.8 | 33.5 | 77 | 14.4 | 0 |
-| 2025-09-11 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.3 | 33.0 | 79 | 13.0 | 0 |
-| 2025-09-11 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.1 | 32.7 | 81 | 11.9 | 0 |
-| 2025-09-11 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.9 | 32.5 | 82 | 10.8 | 0 |
-| 2025-09-11 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.3 | 84 | 10.1 | 0 |
-| 2025-09-12 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 31.9 | 86 | 9.4 | 100 |
-| 2025-09-12 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 31.6 | 87 | 9.4 | 100 |
-| 2025-09-12 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.9 | 31.1 | 88 | 9.4 | 100 |
+| 2025-09-11 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.1 | 34.1 | 76 | 15.1 | 0 |
+| 2025-09-11 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.8 | 33.8 | 78 | 13.7 | 0 |
+| 2025-09-11 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.5 | 33.6 | 80 | 13.0 | 0 |
+| 2025-09-11 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.3 | 33.3 | 82 | 10.8 | 0 |
+| 2025-09-11 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.1 | 33.1 | 83 | 9.7 | 0 |
+| 2025-09-12 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.7 | 85 | 9.4 | 65 |
+| 2025-09-12 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.6 | 32.3 | 86 | 9.4 | 0 |
+| 2025-09-12 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.4 | 31.9 | 87 | 9.4 | 0 |
+| 2025-09-12 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 31.7 | 87 | 9.0 | 0 |
+| 2025-09-12 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.1 | 31.4 | 88 | 7.9 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, volunteering for this isn't something I can commit to. 🛑❌ 
+  My answer is a no—freshly baked, just for you. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
