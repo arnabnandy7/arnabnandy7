@@ -18,9 +18,9 @@
   <p>Kolkata, India - 11/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 39.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.085 <strong>PM10:</strong> 28.305</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.16 <strong>PM10:</strong> 27.01</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I believe you have the wrong number; the person who says yes isn't available. 🛑❌ 
+  I’d love to, but I'm swamped with counting the ceiling tiles. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
