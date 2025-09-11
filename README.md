@@ -18,14 +18,13 @@
   <p>Kolkata, India - 11/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 38.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:10 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 38.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.045 <strong>PM10:</strong> 32.745</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.27 <strong>PM10:</strong> 29.415</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-11 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.1 | 34.1 | 76 | 15.1 | 0 |
 | 2025-09-11 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.8 | 33.8 | 78 | 13.7 | 0 |
 | 2025-09-11 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.5 | 33.6 | 80 | 13.0 | 0 |
 | 2025-09-11 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.3 | 33.3 | 82 | 10.8 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-12 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.4 | 31.9 | 87 | 9.4 | 0 |
 | 2025-09-12 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 31.7 | 87 | 9.0 | 0 |
 | 2025-09-12 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.1 | 31.4 | 88 | 7.9 | 100 |
+| 2025-09-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 31.3 | 88 | 7.6 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My answer is a no—freshly baked, just for you. 🛑❌ 
+  I'm not ignoring you—I'm giving you a very clear 'no'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
