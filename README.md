@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 12/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.81 <strong>PM10:</strong> 45.325</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.365 <strong>PM10:</strong> 45.695</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 38.3 | 63 | 15.1 | 100 |
-| 2025-09-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.2 | 63 | 14.0 | 100 |
-| 2025-09-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 37.6 | 66 | 14.0 | 100 |
-| 2025-09-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.2 | 37.3 | 68 | 15.1 | 100 |
-| 2025-09-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.3 | 36.1 | 71 | 14.8 | 100 |
-| 2025-09-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 34.1 | 77 | 13.0 | 100 |
-| 2025-09-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.2 | 32.8 | 79 | 12.2 | 0 |
-| 2025-09-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.0 | 32.4 | 81 | 12.6 | 0 |
-| 2025-09-12 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.8 | 32.2 | 82 | 12.2 | 0 |
-| 2025-09-12 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 27.6 | 31.9 | 84 | 11.5 | 0 |
+| 2025-09-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 38.3 | 60 | 16.9 | 66 |
+| 2025-09-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.9 | 37.5 | 62 | 16.9 | 66 |
+| 2025-09-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.6 | 36.3 | 69 | 16.9 | 88 |
+| 2025-09-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.5 | 34.9 | 75 | 15.5 | 61 |
+| 2025-09-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.9 | 33.9 | 78 | 14.8 | 0 |
+| 2025-09-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.4 | 33.2 | 80 | 13.3 | 0 |
+| 2025-09-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.1 | 32.8 | 81 | 13.3 | 0 |
+| 2025-09-12 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.9 | 32.4 | 82 | 13.0 | 0 |
+| 2025-09-12 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 27.7 | 32.0 | 83 | 11.9 | 0 |
+| 2025-09-12 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 31.8 | 84 | 10.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My gut feeling and I unanimously voted no. 🛑❌ 
+  Public me is out of office; please contact me never. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
