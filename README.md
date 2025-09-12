@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 12/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
+  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.295 <strong>PM10:</strong> 41.81</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 40.145 <strong>PM10:</strong> 43.475</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.0 | 37.7 | 61 | 12.2 | 0 |
 | 2025-09-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.7 | 38.6 | 59 | 13.3 | 100 |
 | 2025-09-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 38.6 | 60 | 14.0 | 100 |
 | 2025-09-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 38.3 | 63 | 15.1 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.3 | 36.1 | 71 | 14.8 | 100 |
 | 2025-09-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 34.1 | 77 | 13.0 | 100 |
 | 2025-09-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.2 | 32.8 | 79 | 12.2 | 0 |
+| 2025-09-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.0 | 32.4 | 81 | 12.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to deliver my answer in interpretive dance. *performs a NO* 🛑❌ 
+  The answer you seek is not available at this time (try again never). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
