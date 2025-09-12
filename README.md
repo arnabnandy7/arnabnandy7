@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 12/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.49 <strong>PM10:</strong> 29.785</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.07 <strong>PM10:</strong> 42.92</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.7 | 86 | 6.5 | 0 |
+| 2025-09-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 29.1 | 30.7 | 89 | 6.5 | 0 |
 | 2025-09-13 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 30.6 | 86 | 6.5 | 0 |
 | 2025-09-13 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 30.4 | 87 | 6.1 | 0 |
 | 2025-09-13 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.7 | 30.5 | 87 | 5.8 | 0 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I wear my refusal as a badge of honor. 🛑❌ 
+  My kids grounded me for trying to have a life. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
