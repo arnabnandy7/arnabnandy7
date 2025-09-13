@@ -18,23 +18,23 @@
   <p>Kolkata, India - 13/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 38.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 41.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.495 <strong>PM10:</strong> 25.345</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.68 <strong>PM10:</strong> 25.9</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-13 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 38.9 | 63 | 13.0 | 100 |
-| 2025-09-13 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.3 | 38.7 | 63 | 14.4 | 100 |
-| 2025-09-13 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 39.0 | 63 | 15.1 | 100 |
-| 2025-09-13 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 39.0 | 63 | 15.8 | 100 |
-| 2025-09-13 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.3 | 64 | 17.3 | 100 |
-| 2025-09-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.6 | 36.8 | 72 | 17.6 | 100 |
-| 2025-09-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.0 | 34.1 | 77 | 17.3 | 0 |
-| 2025-09-13 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.3 | 32.9 | 79 | 16.6 | 0 |
-| 2025-09-13 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.0 | 32.6 | 81 | 14.0 | 0 |
-| 2025-09-13 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.9 | 32.6 | 83 | 12.6 | 0 |
+| 2025-09-13 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 38.7 | 64 | 13.0 | 100 |
+| 2025-09-13 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.3 | 65 | 12.6 | 100 |
+| 2025-09-13 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 37.8 | 67 | 13.3 | 100 |
+| 2025-09-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.6 | 36.8 | 71 | 14.8 | 100 |
+| 2025-09-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.2 | 34.6 | 78 | 14.0 | 76 |
+| 2025-09-13 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.3 | 33.3 | 82 | 13.7 | 0 |
+| 2025-09-13 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.0 | 32.8 | 84 | 14.0 | 0 |
+| 2025-09-13 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.4 | 85 | 12.2 | 0 |
+| 2025-09-13 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.5 | 85 | 10.1 | 0 |
+| 2025-09-13 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 27.6 | 32.5 | 87 | 10.4 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I missed work because my bedroom was conducting a hostage situation with me as the hostage. 🛑❌ 
+  My heart says yes, but my soul says 'are you kidding?' 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
