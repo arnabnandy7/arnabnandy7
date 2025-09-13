@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 13/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:58 PM, Set: 09:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.19 <strong>PM10:</strong> 34.41</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.415 <strong>PM10:</strong> 31.635</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-13 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.8 | 35.6 | 75 | 10.4 | 100 |
-| 2025-09-13 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.8 | 37.0 | 70 | 12.2 | 100 |
-| 2025-09-13 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 37.8 | 67 | 13.3 | 100 |
-| 2025-09-13 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 38.7 | 63 | 13.0 | 100 |
-| 2025-09-13 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.2 | 64 | 14.0 | 100 |
-| 2025-09-13 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.4 | 64 | 14.8 | 100 |
-| 2025-09-13 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.3 | 65 | 15.8 | 100 |
-| 2025-09-13 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.0 | 37.3 | 69 | 15.8 | 100 |
-| 2025-09-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 36.2 | 74 | 15.5 | 80 |
-| 2025-09-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.9 | 34.3 | 79 | 15.1 | 0 |
+| 2025-09-13 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.2 | 37.4 | 68 | 11.5 | 100 |
+| 2025-09-13 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.2 | 66 | 13.3 | 100 |
+| 2025-09-13 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 38.9 | 63 | 13.0 | 100 |
+| 2025-09-13 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.3 | 38.7 | 63 | 14.4 | 100 |
+| 2025-09-13 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 39.0 | 63 | 15.1 | 100 |
+| 2025-09-13 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 39.0 | 63 | 15.8 | 100 |
+| 2025-09-13 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.3 | 64 | 17.3 | 100 |
+| 2025-09-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.6 | 36.8 | 72 | 17.6 | 100 |
+| 2025-09-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.0 | 34.1 | 77 | 17.3 | 0 |
+| 2025-09-13 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.3 | 32.9 | 79 | 16.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't; my ancestors' spirits would be displeased if I did. 🛑❌ 
+  Think of my refusal as a free lesson in handling rejection. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
