@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 13/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.08 <strong>PM10:</strong> 32.375</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.85 <strong>PM10:</strong> 40.33</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 31.1 | 89 | 8.3 | 100 |
+| 2025-09-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.2 | 31.1 | 89 | 8.3 | 100 |
 | 2025-09-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.9 | 90 | 9.0 | 100 |
 | 2025-09-14 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.6 | 91 | 9.0 | 100 |
 | 2025-09-14 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 30.6 | 91 | 8.3 | 0 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm having a 'me' time emergency. 🛑❌ 
+  My heart says maybe, but my brain threw a giant red flag. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
