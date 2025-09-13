@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 13/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 41.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 40.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.425 <strong>PM10:</strong> 21.83</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.685 <strong>PM10:</strong> 20.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.2 | 34.6 | 78 | 14.0 | 76 |
-| 2025-09-13 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.3 | 33.3 | 82 | 13.7 | 0 |
-| 2025-09-13 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.0 | 32.8 | 84 | 14.0 | 0 |
-| 2025-09-13 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.4 | 85 | 12.2 | 0 |
-| 2025-09-13 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.5 | 85 | 10.1 | 0 |
-| 2025-09-13 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 27.6 | 32.5 | 87 | 10.4 | 100 |
-| 2025-09-13 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 27.4 | 32.2 | 88 | 10.4 | 100 |
-| 2025-09-14 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 27.0 | 31.5 | 89 | 10.4 | 100 |
-| 2025-09-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.9 | 31.3 | 90 | 10.8 | 100 |
-| 2025-09-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.8 | 31.3 | 90 | 10.4 | 100 |
+| 2025-09-13 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.9 | 32.6 | 84 | 13.0 | 0 |
+| 2025-09-13 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.3 | 85 | 11.5 | 0 |
+| 2025-09-13 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 32.2 | 85 | 11.2 | 0 |
+| 2025-09-13 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.5 | 32.1 | 86 | 9.4 | 75 |
+| 2025-09-13 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 32.0 | 87 | 9.0 | 100 |
+| 2025-09-14 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.5 | 89 | 9.4 | 100 |
+| 2025-09-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.6 | 89 | 9.0 | 0 |
+| 2025-09-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 31.4 | 89 | 8.6 | 65 |
+| 2025-09-14 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 31.1 | 90 | 8.3 | 88 |
+| 2025-09-14 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 31.1 | 90 | 7.6 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on a strict 'no commitments' diet. 🛑❌ 
+  I'm in the process of rescheduling my procrastination for later. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
