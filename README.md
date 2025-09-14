@@ -18,14 +18,13 @@
   <p>Kolkata, India - 14/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.5 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.82 <strong>PM10:</strong> 33.3</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.375 <strong>PM10:</strong> 33.855</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-15 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.1 | 90 | 9.7 | 100 |
 | 2025-09-15 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 30.1 | 88 | 10.8 | 100 |
 | 2025-09-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.2 | 29.7 | 88 | 11.5 | 100 |
 | 2025-09-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.1 | 29.5 | 88 | 11.5 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 30.6 | 85 | 17.3 | 100 |
 | 2025-09-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 29.9 | 87 | 19.1 | 100 |
 | 2025-09-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.0 | 29.3 | 88 | 18.7 | 100 |
+| 2025-09-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 26.0 | 29.3 | 88 | 18.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm honored you thought of me, but I must respectfully and comically decline. 🛑❌ 
+  Actually, I was planning to count sand grains, which sounds more fun. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
