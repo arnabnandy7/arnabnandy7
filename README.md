@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 14/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"/>
-  <p>Light rain (হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 35.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.2 <strong>PM10:</strong> 24.235</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.905 <strong>PM10:</strong> 22.755</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 32.0 | 38.2 | 64 | 14.8 | 100 |
-| 2025-09-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 37.6 | 65 | 15.5 | 100 |
-| 2025-09-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 36.3 | 69 | 14.4 | 100 |
-| 2025-09-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 34.6 | 76 | 12.2 | 100 |
-| 2025-09-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.7 | 33.6 | 78 | 11.5 | 81 |
-| 2025-09-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 28.3 | 33.0 | 80 | 11.9 | 0 |
-| 2025-09-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 27.6 | 31.9 | 82 | 14.0 | 0 |
-| 2025-09-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.3 | 31.4 | 84 | 15.1 | 0 |
-| 2025-09-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 31.3 | 86 | 14.8 | 0 |
-| 2025-09-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.0 | 31.2 | 87 | 13.0 | 0 |
+| 2025-09-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 37.4 | 66 | 15.1 | 100 |
+| 2025-09-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.8 | 36.5 | 69 | 15.8 | 100 |
+| 2025-09-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.4 | 34.6 | 75 | 14.0 | 100 |
+| 2025-09-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.9 | 33.9 | 77 | 15.5 | 0 |
+| 2025-09-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 27.9 | 32.2 | 81 | 16.2 | 0 |
+| 2025-09-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.2 | 31.2 | 84 | 16.6 | 0 |
+| 2025-09-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 27.0 | 30.9 | 85 | 15.8 | 0 |
+| 2025-09-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 26.9 | 30.9 | 86 | 14.0 | 0 |
+| 2025-09-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.9 | 87 | 12.2 | 0 |
+| 2025-09-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.8 | 30.9 | 87 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a condition that prevents me from saying yes (it's called sanity). 🛑❌ 
+  Not my circus, not my monkeys—so definitely not my act to perform. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
