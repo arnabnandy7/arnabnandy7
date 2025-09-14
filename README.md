@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 14/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.1 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.91 <strong>PM10:</strong> 17.575</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.94 <strong>PM10:</strong> 25.715</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.9 | 33.9 | 77 | 15.5 | 0 |
-| 2025-09-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 27.9 | 32.2 | 81 | 16.2 | 0 |
-| 2025-09-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.2 | 31.2 | 84 | 16.6 | 0 |
-| 2025-09-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 27.0 | 30.9 | 85 | 15.8 | 0 |
-| 2025-09-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 26.9 | 30.9 | 86 | 14.0 | 0 |
-| 2025-09-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.9 | 87 | 12.2 | 0 |
-| 2025-09-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.8 | 30.9 | 87 | 10.4 | 0 |
-| 2025-09-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.7 | 30.8 | 88 | 10.1 | 0 |
-| 2025-09-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.7 | 88 | 10.4 | 80 |
-| 2025-09-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.6 | 30.6 | 88 | 10.1 | 100 |
+| 2025-09-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.2 | 86 | 15.1 | 0 |
+| 2025-09-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.7 | 30.7 | 87 | 13.7 | 0 |
+| 2025-09-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.6 | 30.4 | 88 | 12.6 | 0 |
+| 2025-09-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 30.6 | 88 | 11.2 | 0 |
+| 2025-09-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/266.png) Light drizzle | 26.5 | 30.4 | 90 | 10.4 | 100 |
+| 2025-09-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.2 | 91 | 9.7 | 100 |
+| 2025-09-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 30.1 | 92 | 7.9 | 100 |
+| 2025-09-15 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.0 | 29.8 | 92 | 7.9 | 100 |
+| 2025-09-15 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.0 | 90 | 10.4 | 100 |
+| 2025-09-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.2 | 29.8 | 89 | 11.5 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm the wrong person for the job; I'm the right person for saying no. 🛑❌ 
+  One of my pet peeves is doing stuff, so I simply don't. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
