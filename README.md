@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 14/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:51 PM, Set: 11:00 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"/>
+  <p>Light rain (হাল্কা বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.16 <strong>PM10:</strong> 27.38</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.16 <strong>PM10:</strong> 27.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-14 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.3 | 36.1 | 72 | 11.2 | 100 |
-| 2025-09-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 31.4 | 37.4 | 66 | 12.6 | 100 |
-| 2025-09-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.2 | 63 | 14.4 | 100 |
-| 2025-09-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 32.0 | 38.3 | 64 | 16.2 | 100 |
-| 2025-09-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.7 | 37.9 | 65 | 18.4 | 100 |
-| 2025-09-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 37.5 | 66 | 18.4 | 100 |
-| 2025-09-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.2 | 37.1 | 67 | 18.7 | 84 |
-| 2025-09-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.6 | 36.1 | 69 | 19.4 | 100 |
-| 2025-09-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.8 | 35.2 | 73 | 18.4 | 0 |
-| 2025-09-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.4 | 32.8 | 78 | 17.6 | 0 |
+| 2025-09-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 31.4 | 37.3 | 66 | 13.3 | 100 |
+| 2025-09-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 37.9 | 64 | 14.0 | 100 |
+| 2025-09-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 32.0 | 38.2 | 64 | 14.8 | 100 |
+| 2025-09-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 37.6 | 65 | 15.5 | 100 |
+| 2025-09-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 36.3 | 69 | 14.4 | 100 |
+| 2025-09-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 34.6 | 76 | 12.2 | 100 |
+| 2025-09-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.7 | 33.6 | 78 | 11.5 | 81 |
+| 2025-09-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 28.3 | 33.0 | 80 | 11.9 | 0 |
+| 2025-09-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 27.6 | 31.9 | 82 | 14.0 | 0 |
+| 2025-09-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.3 | 31.4 | 84 | 15.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to cancel; I've exceeded my people-ing quota for the week. 🛑❌ 
+  My oven and I have plans to bake and eat an entire cake. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
