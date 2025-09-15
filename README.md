@@ -18,23 +18,23 @@
   <p>Kolkata, India - 15/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.79 <strong>PM10:</strong> 27.195</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.385 <strong>PM10:</strong> 24.975</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-15 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.1 | 30.9 | 83 | 16.6 | 100 |
-| 2025-09-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 30.6 | 85 | 17.3 | 100 |
-| 2025-09-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 29.9 | 87 | 19.1 | 100 |
-| 2025-09-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.0 | 29.3 | 88 | 18.7 | 100 |
-| 2025-09-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 26.0 | 29.3 | 88 | 18.0 | 100 |
-| 2025-09-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 25.9 | 29.1 | 87 | 16.9 | 100 |
-| 2025-09-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 25.4 | 28.3 | 89 | 15.5 | 100 |
-| 2025-09-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 24.9 | 27.8 | 91 | 13.7 | 100 |
-| 2025-09-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 24.7 | 27.5 | 93 | 13.0 | 100 |
-| 2025-09-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 24.6 | 27.4 | 93 | 13.0 | 100 |
+| 2025-09-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 30.5 | 86 | 17.6 | 100 |
+| 2025-09-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 30.0 | 88 | 19.8 | 100 |
+| 2025-09-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.0 | 29.4 | 89 | 19.4 | 100 |
+| 2025-09-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.8 | 29.1 | 90 | 19.1 | 100 |
+| 2025-09-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.1 | 29.6 | 88 | 18.7 | 61 |
+| 2025-09-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.8 | 29.0 | 89 | 17.6 | 60 |
+| 2025-09-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.4 | 28.4 | 90 | 15.8 | 74 |
+| 2025-09-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.2 | 28.1 | 91 | 13.7 | 89 |
+| 2025-09-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.1 | 28.0 | 91 | 11.9 | 80 |
+| 2025-09-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.1 | 28.1 | 92 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The FBI called; they said me saying yes would be a national security risk. 🛑❌ 
+  I'd rather search for the purpose of life than attend. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
