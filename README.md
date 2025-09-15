@@ -15,19 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 14/09/2025</p>
+  <p>Kolkata, India - 15/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 31.5 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.9 <strong>PM10:</strong> 27.935</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.79 <strong>PM10:</strong> 27.195</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.1 | 29.5 | 88 | 11.5 | 100 |
-| 2025-09-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 30.0 | 87 | 11.9 | 100 |
-| 2025-09-15 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 30.6 | 85 | 14.0 | 100 |
 | 2025-09-15 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.1 | 30.9 | 83 | 16.6 | 100 |
 | 2025-09-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 30.6 | 85 | 17.3 | 100 |
 | 2025-09-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 29.9 | 87 | 19.1 | 100 |
@@ -35,6 +32,9 @@
 | 2025-09-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 26.0 | 29.3 | 88 | 18.0 | 100 |
 | 2025-09-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 25.9 | 29.1 | 87 | 16.9 | 100 |
 | 2025-09-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 25.4 | 28.3 | 89 | 15.5 | 100 |
+| 2025-09-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 24.9 | 27.8 | 91 | 13.7 | 100 |
+| 2025-09-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 24.7 | 27.5 | 93 | 13.0 | 100 |
+| 2025-09-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 24.6 | 27.4 | 93 | 13.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The coffee machine called in sick, so I'm incapable of agreeing to anything. 🛑❌ 
+  The FBI called; they said me saying yes would be a national security risk. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
