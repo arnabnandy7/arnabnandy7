@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 15/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 40.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.61 <strong>PM10:</strong> 20.165</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.05 <strong>PM10:</strong> 24.42</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.1 | 29.2 | 85 | 13.7 | 0 |
-| 2025-09-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 28.9 | 87 | 13.7 | 0 |
-| 2025-09-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.8 | 28.8 | 87 | 12.2 | 0 |
-| 2025-09-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.8 | 28.9 | 88 | 11.5 | 0 |
-| 2025-09-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.7 | 28.9 | 89 | 11.2 | 0 |
-| 2025-09-15 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 28.9 | 89 | 11.9 | 62 |
-| 2025-09-15 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 25.5 | 28.6 | 91 | 11.2 | 100 |
-| 2025-09-16 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.2 | 28.3 | 93 | 10.1 | 100 |
-| 2025-09-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.0 | 28.1 | 94 | 9.4 | 100 |
-| 2025-09-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.9 | 27.9 | 95 | 9.4 | 100 |
+| 2025-09-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.3 | 28.2 | 90 | 14.4 | 100 |
+| 2025-09-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.3 | 28.1 | 89 | 12.6 | 0 |
+| 2025-09-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.3 | 28.1 | 88 | 11.5 | 0 |
+| 2025-09-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.4 | 28.3 | 89 | 10.1 | 0 |
+| 2025-09-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.4 | 28.5 | 91 | 10.1 | 0 |
+| 2025-09-15 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.7 | 92 | 9.7 | 89 |
+| 2025-09-15 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 25.1 | 28.2 | 94 | 9.4 | 100 |
+| 2025-09-16 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.7 | 27.7 | 96 | 10.1 | 100 |
+| 2025-09-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 24.7 | 27.7 | 97 | 9.4 | 100 |
+| 2025-09-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.8 | 27.8 | 96 | 9.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I prefer to watch the grass grow at that time, sorry. 🛑❌ 
+  I would, but then I'd have to admit I was wrong about hating everything. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
