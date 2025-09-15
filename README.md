@@ -18,14 +18,13 @@
   <p>Kolkata, India - 15/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"/>
   <p>Cloudy  (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 40.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.015 <strong>PM10:</strong> 22.57</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.09 <strong>PM10:</strong> 21.645</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.3 | 28.1 | 88 | 11.5 | 0 |
 | 2025-09-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.4 | 28.3 | 89 | 10.1 | 0 |
 | 2025-09-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.4 | 28.5 | 91 | 10.1 | 0 |
 | 2025-09-15 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.7 | 92 | 9.7 | 89 |
@@ -35,6 +34,7 @@
 | 2025-09-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.8 | 27.8 | 96 | 9.0 | 100 |
 | 2025-09-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 24.9 | 28.1 | 96 | 9.4 | 100 |
 | 2025-09-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.0 | 28.2 | 95 | 10.4 | 100 |
+| 2025-09-16 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.1 | 28.4 | 94 | 10.8 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I were any more indifferent, I'd be a statue. 🛑❌ 
+  My Bat-Signal just lit up, gotta go save Gotham instead. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
