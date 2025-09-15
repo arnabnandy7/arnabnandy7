@@ -18,9 +18,9 @@
   <p>Kolkata, India - 15/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"/>
   <p>Patchy light rain (এক পশলা হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.42 <strong>PM10:</strong> 24.605</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.31 <strong>PM10:</strong> 23.68</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That sounds dangerous for my well-being (mostly my mental well-being). 🛑❌ 
+  Picture a skywriter writing 'NO' above your house—that's my answer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
