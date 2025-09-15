@@ -18,23 +18,23 @@
   <p>Kolkata, India - 15/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"/>
   <p>Patchy light rain (এক পশলা হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 01:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.31 <strong>PM10:</strong> 23.68</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.085 <strong>PM10:</strong> 26.64</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-15 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 25.1 | 28.2 | 94 | 9.4 | 100 |
-| 2025-09-16 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.7 | 27.7 | 96 | 10.1 | 100 |
-| 2025-09-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 24.7 | 27.7 | 97 | 9.4 | 100 |
-| 2025-09-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.8 | 27.8 | 96 | 9.0 | 100 |
-| 2025-09-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 24.9 | 28.1 | 96 | 9.4 | 100 |
-| 2025-09-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.0 | 28.2 | 95 | 10.4 | 100 |
-| 2025-09-16 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.1 | 28.4 | 94 | 10.8 | 100 |
-| 2025-09-16 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.6 | 28.8 | 91 | 13.3 | 100 |
-| 2025-09-16 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.8 | 29.2 | 90 | 13.0 | 100 |
-| 2025-09-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.0 | 29.5 | 89 | 13.3 | 100 |
+| 2025-09-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 25.2 | 28.3 | 93 | 8.6 | 100 |
+| 2025-09-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.9 | 28.0 | 95 | 9.0 | 100 |
+| 2025-09-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.1 | 28.3 | 94 | 9.4 | 100 |
+| 2025-09-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.4 | 28.6 | 93 | 10.1 | 100 |
+| 2025-09-16 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.7 | 28.9 | 90 | 14.0 | 100 |
+| 2025-09-16 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.5 | 28.6 | 90 | 16.2 | 100 |
+| 2025-09-16 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 25.2 | 28.4 | 93 | 16.2 | 100 |
+| 2025-09-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.1 | 28.2 | 93 | 15.5 | 100 |
+| 2025-09-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 25.2 | 28.3 | 93 | 12.2 | 100 |
+| 2025-09-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.3 | 28.5 | 92 | 9.7 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Picture a skywriter writing 'NO' above your house—that's my answer. 🛑❌ 
+  I have an irrational fear of accidentally enjoying obligations, so I avoid them. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
