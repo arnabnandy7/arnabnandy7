@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 16/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 18.0 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 29.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.975 <strong>PM10:</strong> 26.455</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.465 <strong>PM10:</strong> 17.205</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.6 | 31.9 | 83 | 14.0 | 0 |
-| 2025-09-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 30.8 | 86 | 13.0 | 100 |
-| 2025-09-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.4 | 30.1 | 89 | 12.2 | 100 |
-| 2025-09-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.0 | 89 | 11.9 | 0 |
-| 2025-09-16 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.1 | 29.6 | 89 | 11.2 | 84 |
-| 2025-09-16 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 29.1 | 92 | 9.4 | 100 |
-| 2025-09-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.9 | 94 | 8.6 | 100 |
-| 2025-09-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.4 | 28.9 | 94 | 8.3 | 100 |
-| 2025-09-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 29.2 | 92 | 10.1 | 100 |
-| 2025-09-17 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.3 | 91 | 12.6 | 100 |
+| 2025-09-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 31.8 | 82 | 13.3 | 0 |
+| 2025-09-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 30.7 | 87 | 12.2 | 100 |
+| 2025-09-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.3 | 88 | 11.2 | 72 |
+| 2025-09-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 29.9 | 88 | 11.2 | 100 |
+| 2025-09-16 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 29.8 | 88 | 10.4 | 0 |
+| 2025-09-16 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 29.6 | 89 | 10.4 | 100 |
+| 2025-09-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 25.9 | 29.5 | 91 | 9.4 | 100 |
+| 2025-09-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.4 | 92 | 8.6 | 100 |
+| 2025-09-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.4 | 92 | 8.6 | 100 |
+| 2025-09-17 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.9 | 29.4 | 91 | 10.1 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  As the meme goes, ain't nobody got time for that. 🛑❌ 
+  It sounds interesting, but I’m not the best person for this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
