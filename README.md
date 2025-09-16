@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 16/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
-  <p>Light rain (হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/266.png"/>
+  <p>Light drizzle (হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.425 <strong>PM10:</strong> 20.165</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.125 <strong>PM10:</strong> 24.235</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 25.9 | 29.5 | 91 | 9.4 | 100 |
-| 2025-09-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.4 | 92 | 8.6 | 100 |
-| 2025-09-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.4 | 92 | 8.6 | 100 |
-| 2025-09-17 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.9 | 29.4 | 91 | 10.1 | 100 |
-| 2025-09-17 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 29.4 | 91 | 11.9 | 100 |
-| 2025-09-17 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.6 | 29.1 | 92 | 12.6 | 100 |
-| 2025-09-17 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 25.5 | 28.9 | 93 | 11.5 | 100 |
-| 2025-09-17 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 25.7 | 29.2 | 93 | 11.5 | 100 |
-| 2025-09-17 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.5 | 30.4 | 90 | 15.8 | 100 |
-| 2025-09-17 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.8 | 30.9 | 88 | 15.5 | 100 |
+| 2025-09-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/266.png) Light drizzle | 25.7 | 29.3 | 93 | 8.3 | 100 |
+| 2025-09-17 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.7 | 29.3 | 92 | 9.7 | 100 |
+| 2025-09-17 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.6 | 29.1 | 93 | 12.2 | 100 |
+| 2025-09-17 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 29.0 | 93 | 12.6 | 100 |
+| 2025-09-17 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.4 | 28.9 | 94 | 11.5 | 86 |
+| 2025-09-17 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.9 | 29.6 | 92 | 11.5 | 0 |
+| 2025-09-17 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.9 | 31.2 | 88 | 12.6 | 0 |
+| 2025-09-17 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.6 | 32.3 | 86 | 12.2 | 68 |
+| 2025-09-17 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 28.6 | 34.0 | 81 | 13.3 | 100 |
+| 2025-09-17 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 30.2 | 36.2 | 74 | 15.1 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Is the sky green? No? There's my answer. 🛑❌ 
+  In the hero's journey of my life, I'm at the 'refusal of the call' stage. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
