@@ -18,9 +18,9 @@
   <p>Kolkata, India - 16/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
   <p>Light rain (হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.725 <strong>PM10:</strong> 16.28</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.425 <strong>PM10:</strong> 20.165</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is filled up through the next century, sorry. 🛑❌ 
+  Is the sky green? No? There's my answer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
