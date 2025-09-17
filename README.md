@@ -18,9 +18,9 @@
   <p>Kolkata, India - 17/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:56 AM, Set: 02:53 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:38 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 35.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:56 AM, Set: 02:53 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:38 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 37.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.825 <strong>PM10:</strong> 29.415</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.75 <strong>PM10:</strong> 30.525</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm sure it'll be a resounding success, but I'll be a distant admirer. 🛑❌ 
+  I'm stuck in a time loop of saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
