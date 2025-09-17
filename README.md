@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 17/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:56 AM, Set: 02:53 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:38 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:56 AM, Set: 02:53 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:38 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.94 <strong>PM10:</strong> 24.79</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.79 <strong>PM10:</strong> 26.64</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.5 | 38.9 | 62 | 16.2 | 100 |
 | 2025-09-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.1 | 62 | 17.6 | 100 |
 | 2025-09-17 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 32.1 | 38.5 | 64 | 18.7 | 100 |
 | 2025-09-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 37.2 | 68 | 18.7 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.7 | 32.7 | 86 | 15.5 | 100 |
 | 2025-09-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.4 | 32.1 | 87 | 16.9 | 100 |
 | 2025-09-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.3 | 32.0 | 87 | 15.8 | 100 |
+| 2025-09-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.3 | 31.9 | 88 | 15.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll take one for the team by not joining this effort. 🛑❌ 
+  I'm on bedrest until further notice, doctor's orders (my doctor is Dr. Seuss). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
