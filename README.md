@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 17/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"/>
-  <p>Patchy light rain (এক পশলা হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:56 AM, Set: 02:53 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:38 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:56 AM, Set: 02:53 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:38 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.26 <strong>PM10:</strong> 37.925</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.955 <strong>PM10:</strong> 47.545</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 26.4 | 30.4 | 90 | 10.4 | 100 |
+| 2025-09-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.4 | 30.4 | 89 | 10.4 | 100 |
 | 2025-09-18 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.1 | 29.9 | 91 | 9.4 | 100 |
 | 2025-09-18 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.1 | 29.8 | 91 | 9.4 | 100 |
 | 2025-09-18 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 29.7 | 92 | 10.1 | 100 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I believe you have the wrong number; the person who says yes isn't available. 🛑❌ 
+  I want to say yes, but my common sense is yelling 'no' repeatedly. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
