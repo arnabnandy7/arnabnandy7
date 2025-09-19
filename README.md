@@ -15,19 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 18/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
+  <p>Kolkata, India - 19/09/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
   🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:58 AM, Set: 03:35 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:37 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.535 <strong>PM10:</strong> 62.715</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.61 <strong>PM10:</strong> 61.79</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-19 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 26.4 | 30.2 | 89 | 6.5 | 100 |
-| 2025-09-19 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.4 | 32.0 | 86 | 7.2 | 100 |
-| 2025-09-19 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.3 | 34.7 | 76 | 6.8 | 100 |
 | 2025-09-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 36.6 | 69 | 6.8 | 100 |
 | 2025-09-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.1 | 64 | 7.9 | 100 |
 | 2025-09-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 39.1 | 60 | 9.4 | 100 |
@@ -35,6 +32,9 @@
 | 2025-09-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.9 | 40.6 | 56 | 9.4 | 100 |
 | 2025-09-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 33.6 | 40.3 | 57 | 7.9 | 100 |
 | 2025-09-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 40.3 | 60 | 6.8 | 100 |
+| 2025-09-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.6 | 39.9 | 64 | 6.8 | 100 |
+| 2025-09-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.8 | 39.0 | 68 | 7.6 | 100 |
+| 2025-09-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.6 | 36.7 | 72 | 8.3 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I tried to get excited about it and pulled a muscle. 🛑❌ 
+  Me, myself, and I had a meeting; we unanimously decided to decline. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
