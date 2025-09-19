@@ -18,14 +18,13 @@
   <p>Kolkata, India - 19/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:57 AM, Set: 04:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:57 AM, Set: 04:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 39.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 73.075 <strong>PM10:</strong> 73.815</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 72.15 <strong>PM10:</strong> 73.075</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-19 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.9 | 33.1 | 86 | 9.4 | 0 |
 | 2025-09-19 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.7 | 32.7 | 87 | 9.7 | 0 |
 | 2025-09-20 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 32.4 | 88 | 9.4 | 0 |
 | 2025-09-20 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 32.1 | 88 | 8.6 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-20 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.1 | 31.4 | 88 | 5.0 | 0 |
 | 2025-09-20 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.2 | 33.4 | 84 | 5.0 | 0 |
 | 2025-09-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.6 | 35.4 | 77 | 6.1 | 73 |
+| 2025-09-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.0 | 37.6 | 71 | 7.2 | 82 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm at peace with saying no. 🛑❌ 
+  The police told me I'm too interesting to attend normal gatherings. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
