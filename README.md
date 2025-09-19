@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 19/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:58 AM, Set: 03:35 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:37 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
+  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:57 AM, Set: 04:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.61 <strong>PM10:</strong> 61.79</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.91 <strong>PM10:</strong> 57.905</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 36.6 | 69 | 6.8 | 100 |
-| 2025-09-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.1 | 64 | 7.9 | 100 |
-| 2025-09-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 39.1 | 60 | 9.4 | 100 |
-| 2025-09-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 40.1 | 58 | 9.7 | 100 |
-| 2025-09-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.9 | 40.6 | 56 | 9.4 | 100 |
-| 2025-09-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 33.6 | 40.3 | 57 | 7.9 | 100 |
-| 2025-09-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 40.3 | 60 | 6.8 | 100 |
-| 2025-09-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.6 | 39.9 | 64 | 6.8 | 100 |
-| 2025-09-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.8 | 39.0 | 68 | 7.6 | 100 |
-| 2025-09-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.6 | 36.7 | 72 | 8.3 | 100 |
+| 2025-09-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.0 | 38.3 | 64 | 7.9 | 100 |
+| 2025-09-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.9 | 39.2 | 59 | 8.3 | 100 |
+| 2025-09-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 33.4 | 39.9 | 57 | 8.3 | 100 |
+| 2025-09-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.7 | 40.3 | 56 | 7.2 | 66 |
+| 2025-09-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 39.8 | 57 | 5.8 | 100 |
+| 2025-09-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 39.8 | 59 | 6.1 | 78 |
+| 2025-09-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.7 | 40.3 | 65 | 5.4 | 100 |
+| 2025-09-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 39.2 | 67 | 5.4 | 100 |
+| 2025-09-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.9 | 37.1 | 69 | 6.8 | 88 |
+| 2025-09-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 30.1 | 36.0 | 74 | 8.6 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me, myself, and I had a meeting; we unanimously decided to decline. 🛑❌ 
+  My fridge and I have couples therapy at that time. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
