@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 21/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.4 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 85.285 <strong>PM10:</strong> 85.47</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 86.58 <strong>PM10:</strong> 86.765</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-22 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.1 | 31.4 | 86 | 6.1 | 100 |
+| 2025-09-22 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.2 | 31.4 | 84 | 6.1 | 100 |
 | 2025-09-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.3 | 86 | 5.0 | 100 |
 | 2025-09-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 27.1 | 31.2 | 85 | 4.0 | 100 |
 | 2025-09-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.1 | 31.0 | 85 | 3.2 | 100 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I only say yes during solar eclipses, and there's none scheduled. 🛑❌ 
+  I don't have enough mana for that quest. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
