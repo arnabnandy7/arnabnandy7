@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 21/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 38.4 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 39.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 111.555 <strong>PM10:</strong> 111.925</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 115.07 <strong>PM10:</strong> 115.07</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.9 | 34.4 | 79 | 9.7 | 100 |
 | 2025-09-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.5 | 33.7 | 81 | 10.8 | 100 |
 | 2025-09-21 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 33.1 | 83 | 11.5 | 100 |
 | 2025-09-21 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.7 | 32.5 | 86 | 11.2 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.3 | 31.8 | 86 | 6.8 | 75 |
 | 2025-09-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.2 | 31.6 | 86 | 7.2 | 100 |
 | 2025-09-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.3 | 31.6 | 86 | 5.4 | 100 |
+| 2025-09-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 27.0 | 31.1 | 87 | 4.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No' is the new 'yes'—I'm just staying on trend. 🛑❌ 
+  I'm going to have to decline faster than a cheetah on energy drinks. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
