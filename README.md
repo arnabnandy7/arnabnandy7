@@ -18,9 +18,9 @@
   <p>Kolkata, India - 21/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"/>
   <p>Patchy light rain (এক পশলা হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 38.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 95.275 <strong>PM10:</strong> 95.645</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 83.62 <strong>PM10:</strong> 83.99</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The thought of doing that gave me a phantom backache. I'll pass. 🛑❌ 
+  I checked my availability and the results came back negative. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
