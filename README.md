@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 21/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 35.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:46 AM, Set: 05:16 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 35.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 88.985 <strong>PM10:</strong> 89.355</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 95.275 <strong>PM10:</strong> 95.645</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.6 | 40.8 | 59 | 9.0 | 0 |
-| 2025-09-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.3 | 41.9 | 57 | 10.4 | 100 |
-| 2025-09-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 34.6 | 42.3 | 56 | 9.4 | 100 |
-| 2025-09-21 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 33.6 | 40.8 | 59 | 9.4 | 100 |
-| 2025-09-21 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.9 | 40.2 | 63 | 9.7 | 100 |
-| 2025-09-21 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 39.4 | 69 | 9.0 | 100 |
-| 2025-09-21 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.4 | 36.8 | 74 | 10.4 | 0 |
-| 2025-09-21 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.4 | 35.2 | 78 | 13.0 | 0 |
-| 2025-09-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.8 | 34.3 | 81 | 13.0 | 0 |
-| 2025-09-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 33.6 | 82 | 12.2 | 100 |
+| 2025-09-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.8 | 40.2 | 55 | 5.8 | 100 |
+| 2025-09-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.7 | 40.0 | 56 | 5.0 | 100 |
+| 2025-09-21 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 39.8 | 56 | 3.2 | 61 |
+| 2025-09-21 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.1 | 39.9 | 60 | 2.2 | 100 |
+| 2025-09-21 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 38.6 | 68 | 4.7 | 100 |
+| 2025-09-21 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.3 | 36.0 | 72 | 7.2 | 100 |
+| 2025-09-21 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.7 | 35.3 | 75 | 9.0 | 100 |
+| 2025-09-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.2 | 34.6 | 77 | 10.8 | 68 |
+| 2025-09-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.6 | 33.9 | 81 | 11.5 | 72 |
+| 2025-09-21 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 28.3 | 33.4 | 83 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No' is just 'on' spelled backwards, and I'm off. 🛑❌ 
+  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
