@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Kolkata, India - 22/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"/>
-  <p>Light rain (হাল্কা বৃষ্টিপাত)</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
   🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 32.4 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.875 <strong>PM10:</strong> 51.615</p>
@@ -25,8 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 27.3 | 29.8 | 100 | 3.6 | 100 |
-| 2025-09-23 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.3 | 91 | 5.4 | 100 |
 | 2025-09-23 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.6 | 28.9 | 92 | 7.2 | 100 |
 | 2025-09-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.3 | 28.6 | 93 | 7.6 | 100 |
 | 2025-09-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.1 | 28.3 | 94 | 7.2 | 100 |
@@ -35,6 +33,8 @@
 | 2025-09-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 33.5 | 81 | 8.3 | 100 |
 | 2025-09-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 29.7 | 35.5 | 76 | 10.1 | 100 |
 | 2025-09-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.8 | 37.2 | 71 | 10.8 | 100 |
+| 2025-09-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.8 | 38.3 | 66 | 11.5 | 100 |
+| 2025-09-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 38.5 | 63 | 12.6 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I speak fluent sarcasm, so my interpretation of your question is a hard no. 🛑❌ 
+  Saying yes would break the laws of physics in my personal universe. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
