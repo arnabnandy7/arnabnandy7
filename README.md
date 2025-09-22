@@ -18,14 +18,13 @@
   <p>Kolkata, India - 22/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"/>
   <p>Cloudy  (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.9 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.555 <strong>PM10:</strong> 37.74</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-22 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.7 | 31.0 | 90 | 6.5 | 0 |
 | 2025-09-22 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.6 | 30.8 | 90 | 6.1 | 0 |
 | 2025-09-23 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.5 | 30.6 | 90 | 5.4 | 0 |
 | 2025-09-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.5 | 30.4 | 90 | 4.7 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 26.3 | 30.1 | 90 | 4.3 | 100 |
 | 2025-09-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.0 | 31.3 | 88 | 5.4 | 100 |
 | 2025-09-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/299.png) Moderate rain at times | 27.8 | 32.5 | 84 | 6.5 | 100 |
+| 2025-09-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.0 | 34.4 | 79 | 8.3 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll join you on the 32nd of this month. 🛑❌ 
+  My goldfish is getting married that day, I have to attend. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
