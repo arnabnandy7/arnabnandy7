@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 22/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"/>
-  <p>Patchy light rain in area with thunder (এলাকায় বজ্রবিদ্যুত সহ অনিয়মিত হাল্কা বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 83.805 <strong>PM10:</strong> 83.99</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.995 <strong>PM10:</strong> 79.18</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 28.3 | 33.1 | 81 | 11.9 | 100 |
 | 2025-09-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.8 | 30.8 | 87 | 9.0 | 100 |
 | 2025-09-22 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 30.2 | 90 | 7.9 | 100 |
 | 2025-09-22 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 30.0 | 90 | 6.1 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-22 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.9 | 29.5 | 91 | 4.3 | 0 |
 | 2025-09-23 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.8 | 29.3 | 91 | 4.3 | 0 |
 | 2025-09-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.7 | 29.0 | 91 | 4.0 | 0 |
+| 2025-09-23 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.6 | 28.9 | 91 | 2.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is full of blank spaces reserved for me-time. 🛑❌ 
+  I'd rather walk on Lego bricks for an hour straight. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
