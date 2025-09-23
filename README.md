@@ -15,19 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 22/09/2025</p>
+  <p>Kolkata, India - 23/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 30.3 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:38 AM, Set: 05:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 28.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 59.385 <strong>PM10:</strong> 60.31</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 49.395 <strong>PM10:</strong> 50.32</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.1 | 28.3 | 94 | 7.2 | 100 |
-| 2025-09-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.9 | 29.6 | 91 | 6.1 | 88 |
-| 2025-09-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.3 | 31.5 | 85 | 6.8 | 100 |
 | 2025-09-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 33.5 | 81 | 8.3 | 100 |
 | 2025-09-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 29.7 | 35.5 | 76 | 10.1 | 100 |
 | 2025-09-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.8 | 37.2 | 71 | 10.8 | 100 |
@@ -35,6 +32,9 @@
 | 2025-09-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 38.5 | 63 | 12.6 | 100 |
 | 2025-09-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 31.3 | 37.4 | 67 | 13.7 | 100 |
 | 2025-09-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 30.3 | 36.3 | 73 | 13.0 | 100 |
+| 2025-09-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/299.png) Moderate rain at times | 29.3 | 35.1 | 79 | 11.2 | 100 |
+| 2025-09-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.7 | 34.3 | 82 | 8.3 | 100 |
+| 2025-09-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.0 | 33.1 | 84 | 7.6 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life coach advised me to eliminate stressors, starting with this. 🛑❌ 
+  I'm doing intermittent fasting from responsibilities; today's a fasting day. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
