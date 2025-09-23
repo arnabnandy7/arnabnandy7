@@ -18,9 +18,9 @@
   <p>Kolkata, India - 23/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:29 AM, Set: 06:17 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:29 AM, Set: 06:17 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.63 <strong>PM10:</strong> 37.37</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.895 <strong>PM10:</strong> 31.265</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Do pigs fly? Only then would I do that. 🛑❌ 
+  No, in the most heartfelt, humorous way possible. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
