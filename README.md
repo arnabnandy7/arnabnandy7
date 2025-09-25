@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 25/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.93 <strong>PM10:</strong> 33.855</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.92 <strong>PM10:</strong> 43.845</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-26 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.7 | 30.7 | 87 | 6.8 | 100 |
+| 2025-09-26 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.1 | 30.7 | 89 | 6.8 | 100 |
 | 2025-09-26 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 30.1 | 90 | 9.0 | 100 |
 | 2025-09-26 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.9 | 29.6 | 92 | 9.7 | 100 |
 | 2025-09-26 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 29.8 | 91 | 9.7 | 100 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I lack the necessary enthusiasm to even pretend to consider that. 🛑❌ 
+  I'm waiting for a sign from the universe... oh, there it is: it says no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
