@@ -18,7 +18,7 @@
   <p>Kolkata, India - 25/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
   <p>Cloudy  (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.5 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.54 <strong>PM10:</strong> 53.465</p>
 
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My evil twin might be interested; too bad they're busy too. 🛑❌ 
+  The public transportation in my living room is currently not operational. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
