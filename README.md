@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 25/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:20 AM, Set: 06:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:31 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 46.99 <strong>PM10:</strong> 48.655</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.74 <strong>PM10:</strong> 39.035</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 35.1 | 74 | 12.2 | 0 |
-| 2025-09-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.9 | 36.6 | 68 | 13.7 | 0 |
-| 2025-09-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.9 | 38.1 | 64 | 15.5 | 0 |
-| 2025-09-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.6 | 39.3 | 62 | 15.1 | 74 |
-| 2025-09-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 39.6 | 62 | 14.8 | 100 |
-| 2025-09-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 39.5 | 64 | 14.0 | 68 |
-| 2025-09-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 39.1 | 67 | 12.6 | 100 |
-| 2025-09-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 31.5 | 38.3 | 69 | 12.2 | 100 |
-| 2025-09-25 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.9 | 38.0 | 73 | 10.8 | 100 |
-| 2025-09-25 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.5 | 35.3 | 77 | 9.7 | 100 |
+| 2025-09-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.1 | 37.8 | 70 | 12.2 | 0 |
+| 2025-09-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.2 | 39.0 | 65 | 13.7 | 76 |
+| 2025-09-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 39.3 | 63 | 14.4 | 67 |
+| 2025-09-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.0 | 38.4 | 64 | 15.8 | 0 |
+| 2025-09-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.1 | 38.4 | 63 | 14.4 | 87 |
+| 2025-09-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.2 | 38.5 | 63 | 13.0 | 100 |
+| 2025-09-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 38.5 | 64 | 11.5 | 72 |
+| 2025-09-25 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 38.2 | 70 | 9.0 | 100 |
+| 2025-09-25 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.8 | 35.2 | 74 | 9.0 | 100 |
+| 2025-09-25 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.0 | 34.1 | 77 | 10.4 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to pretend I didn't hear that request and carry on not doing it. 🛑❌ 
+  The spirit is willing, but the flesh has already ordered takeout and settled in. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
