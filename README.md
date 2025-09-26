@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 26/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:05 AM, Set: 08:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 23.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:05 AM, Set: 08:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 22.3 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.46 <strong>PM10:</strong> 22.94</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.795 <strong>PM10:</strong> 20.165</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.9 | 34.2 | 79 | 17.6 | 0 |
-| 2025-09-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.3 | 33.3 | 82 | 16.9 | 0 |
-| 2025-09-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.8 | 32.5 | 84 | 16.9 | 0 |
-| 2025-09-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.4 | 32.0 | 86 | 18.0 | 0 |
-| 2025-09-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.5 | 88 | 17.3 | 89 |
-| 2025-09-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 31.3 | 89 | 17.3 | 0 |
-| 2025-09-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 31.1 | 89 | 18.4 | 84 |
-| 2025-09-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.7 | 30.9 | 89 | 19.1 | 0 |
-| 2025-09-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.9 | 89 | 20.9 | 87 |
-| 2025-09-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.7 | 90 | 20.5 | 69 |
+| 2025-09-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 33.9 | 79 | 18.0 | 0 |
+| 2025-09-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.2 | 33.0 | 81 | 18.0 | 0 |
+| 2025-09-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 32.3 | 84 | 19.8 | 0 |
+| 2025-09-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 32.0 | 85 | 20.2 | 0 |
+| 2025-09-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 32.1 | 85 | 19.8 | 0 |
+| 2025-09-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.5 | 31.8 | 84 | 18.4 | 0 |
+| 2025-09-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.2 | 31.5 | 86 | 18.4 | 0 |
+| 2025-09-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.5 | 87 | 18.0 | 78 |
+| 2025-09-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 31.3 | 89 | 18.7 | 73 |
+| 2025-09-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 31.1 | 90 | 18.4 | 63 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm saving my energy for an epic nap. 🛑❌ 
+  My motivation and that task are like two magnets repelling each other. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
