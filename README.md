@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 26/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"/>
-  <p>Cloudy  (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:05 AM, Set: 08:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:05 AM, Set: 08:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.91 <strong>PM10:</strong> 16.835</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.755 <strong>PM10:</strong> 23.68</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.2 | 31.5 | 86 | 18.4 | 0 |
-| 2025-09-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.5 | 87 | 18.0 | 78 |
-| 2025-09-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 31.3 | 89 | 18.7 | 73 |
-| 2025-09-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 31.1 | 90 | 18.4 | 63 |
-| 2025-09-27 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.9 | 91 | 17.3 | 76 |
-| 2025-09-27 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.5 | 30.7 | 91 | 16.9 | 100 |
-| 2025-09-27 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.5 | 30.6 | 90 | 17.3 | 100 |
-| 2025-09-27 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.2 | 31.7 | 88 | 18.7 | 88 |
-| 2025-09-27 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.0 | 33.3 | 85 | 20.2 | 100 |
-| 2025-09-27 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 34.6 | 82 | 21.6 | 100 |
+| 2025-09-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.3 | 31.9 | 87 | 18.0 | 0 |
+| 2025-09-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.4 | 87 | 15.8 | 0 |
+| 2025-09-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 30.9 | 88 | 15.5 | 80 |
+| 2025-09-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 30.2 | 91 | 14.8 | 100 |
+| 2025-09-27 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 29.9 | 92 | 15.8 | 100 |
+| 2025-09-27 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.7 | 29.4 | 94 | 14.8 | 100 |
+| 2025-09-27 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 25.5 | 29.1 | 95 | 14.8 | 100 |
+| 2025-09-27 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 25.9 | 29.8 | 94 | 15.5 | 100 |
+| 2025-09-27 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 31.2 | 91 | 16.2 | 100 |
+| 2025-09-27 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.6 | 34.5 | 84 | 19.1 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm overbooked with underachieving. 🛑❌ 
+  I'm waiting for the last minute, and it hasn't arrived for this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
