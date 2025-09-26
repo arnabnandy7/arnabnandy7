@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 26/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:05 AM, Set: 08:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 42.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
+  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:05 AM, Set: 08:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 40.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.97 <strong>PM10:</strong> 32.375</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.49 <strong>PM10:</strong> 30.34</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 39.3 | 67 | 24.5 | 100 |
-| 2025-09-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.8 | 38.8 | 68 | 23.4 | 0 |
 | 2025-09-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.1 | 38.1 | 71 | 21.6 | 100 |
 | 2025-09-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 36.5 | 76 | 19.8 | 69 |
 | 2025-09-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.9 | 34.2 | 79 | 17.6 | 0 |
@@ -35,6 +33,8 @@
 | 2025-09-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.4 | 32.0 | 86 | 18.0 | 0 |
 | 2025-09-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.5 | 88 | 17.3 | 89 |
 | 2025-09-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 31.3 | 89 | 17.3 | 0 |
+| 2025-09-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 31.1 | 89 | 18.4 | 84 |
+| 2025-09-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.7 | 30.9 | 89 | 19.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would violate the Geneva Convention of Introverts if I agreed. 🛑❌ 
+  I have to keep an eye on my gingerbread house, you know how it is. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
