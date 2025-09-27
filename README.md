@@ -18,14 +18,13 @@
   <p>Kolkata, India - 27/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:00 AM, Set: 08:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 39.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:00 AM, Set: 08:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.7 °C  
 
   <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.765 <strong>PM10:</strong> 14.245</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 31.6 | 87 | 12.2 | 0 |
 | 2025-09-27 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 31.3 | 88 | 10.4 | 0 |
 | 2025-09-27 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.7 | 31.0 | 89 | 9.7 | 0 |
 | 2025-09-27 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.6 | 30.9 | 90 | 9.0 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-28 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 30.1 | 91 | 8.3 | 86 |
 | 2025-09-28 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 30.0 | 91 | 8.3 | 100 |
 | 2025-09-28 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.1 | 29.8 | 92 | 8.3 | 100 |
+| 2025-09-28 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.0 | 31.5 | 89 | 9.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even the angel on my shoulder is like, 'nah, dude'. 🛑❌ 
+  Honestly, chewing glass sounds more fun than saying yes to this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
