@@ -18,14 +18,13 @@
   <p>Kolkata, India - 27/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:00 AM, Set: 08:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 38.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:00 AM, Set: 08:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 39.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.245 <strong>PM10:</strong> 17.205</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.17 <strong>PM10:</strong> 18.13</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-27 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.4 | 37.1 | 75 | 19.4 | 100 |
 | 2025-09-27 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 38.3 | 70 | 19.4 | 100 |
 | 2025-09-27 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.8 | 67 | 19.1 | 100 |
 | 2025-09-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.2 | 38.1 | 70 | 18.7 | 100 |
@@ -35,6 +34,7 @@
 | 2025-09-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 33.7 | 82 | 12.2 | 0 |
 | 2025-09-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.8 | 32.7 | 85 | 11.9 | 0 |
 | 2025-09-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.4 | 32.1 | 87 | 11.5 | 0 |
+| 2025-09-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.1 | 31.7 | 88 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Zombies may attack if I leave the house, I saw it in a documentary (okay, it was a zombie movie). 🛑❌ 
+  My willpower to do that got stuck in traffic and won't make it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
