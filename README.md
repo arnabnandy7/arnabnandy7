@@ -18,9 +18,9 @@
   <p>Kolkata, India - 27/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
   <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:00 AM, Set: 08:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 18.0 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 42.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:00 AM, Set: 08:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 42.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.76 <strong>PM10:</strong> 20.905</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.39 <strong>PM10:</strong> 21.09</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My Bat-Signal just lit up, gotta go save Gotham instead. 🛑❌ 
+  I can't; I've got Festivus grievances to air that day. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
