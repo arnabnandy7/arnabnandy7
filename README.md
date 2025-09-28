@@ -18,9 +18,9 @@
   <p>Kolkata, India - 28/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
   <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:54 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 38.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:54 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 39.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.42 <strong>PM10:</strong> 26.455</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.83 <strong>PM10:</strong> 24.79</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm roleplaying as a recluse currently. 🛑❌ 
+  My enthusiasm filed for bankruptcy, so I can't invest in that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
