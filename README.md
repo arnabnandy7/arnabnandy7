@@ -18,9 +18,9 @@
   <p>Kolkata, India - 28/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:54 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 40.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:54 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 44.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.205 <strong>PM10:</strong> 20.165</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.65 <strong>PM10:</strong> 19.24</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I already took a melatonin. It's lights out for me. 🛑❌ 
+  I'm allergic to fun—break out in sarcasm. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
