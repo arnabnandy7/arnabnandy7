@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 28/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
-  <p>Mist (হাল্কা কুয়াশা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:55 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:54 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.61 <strong>PM10:</strong> 58.09</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-29 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 29.0 | 29.3 | 89 | 6.1 | 0 |
 | 2025-09-29 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 29.2 | 85 | 5.4 | 0 |
 | 2025-09-29 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.0 | 29.0 | 86 | 4.7 | 0 |
 | 2025-09-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 28.9 | 86 | 4.0 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-29 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 34.0 | 71 | 3.2 | 0 |
 | 2025-09-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.7 | 36.0 | 67 | 2.9 | 0 |
 | 2025-09-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.7 | 37.5 | 63 | 2.9 | 100 |
+| 2025-09-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.5 | 60 | 3.6 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Spell check suggests I say N-O. 🛑❌ 
+  I must protect my sanity at all costs—so no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
