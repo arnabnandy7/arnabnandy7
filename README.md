@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 29/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:54 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:48 AM, Set: 10:25 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.54 <strong>PM10:</strong> 54.76</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.61 <strong>PM10:</strong> 59.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-29 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 34.0 | 71 | 3.2 | 0 |
-| 2025-09-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.7 | 36.0 | 67 | 2.9 | 0 |
-| 2025-09-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.7 | 37.5 | 63 | 2.9 | 100 |
-| 2025-09-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.5 | 60 | 3.6 | 100 |
-| 2025-09-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 39.0 | 59 | 5.8 | 100 |
-| 2025-09-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.6 | 38.9 | 60 | 7.6 | 100 |
-| 2025-09-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 38.8 | 63 | 7.6 | 100 |
-| 2025-09-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 38.5 | 64 | 6.1 | 100 |
-| 2025-09-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.9 | 37.7 | 72 | 7.9 | 100 |
-| 2025-09-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.9 | 34.1 | 79 | 10.4 | 0 |
+| 2025-09-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.8 | 36.3 | 67 | 3.2 | 0 |
+| 2025-09-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.9 | 37.9 | 63 | 2.9 | 100 |
+| 2025-09-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 39.0 | 60 | 2.9 | 100 |
+| 2025-09-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 39.5 | 58 | 4.7 | 100 |
+| 2025-09-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 39.5 | 58 | 5.8 | 100 |
+| 2025-09-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.6 | 39.1 | 62 | 6.1 | 100 |
+| 2025-09-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.2 | 37.8 | 70 | 8.6 | 100 |
+| 2025-09-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.4 | 35.2 | 78 | 11.2 | 100 |
+| 2025-09-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.8 | 32.3 | 83 | 10.1 | 100 |
+| 2025-09-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.5 | 31.7 | 84 | 8.6 | 75 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Respectfully, I'm going to ghost this opportunity. 🛑❌ 
+  I promised myself I'd only decide things after coffee; too bad it's already no-o'clock. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
