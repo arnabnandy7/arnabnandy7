@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 29/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:48 AM, Set: 10:25 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 40.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:48 AM, Set: 10:25 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 40.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.45 <strong>PM10:</strong> 28.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.25 <strong>PM10:</strong> 29.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 31.5 | 81 | 10.4 | 0 |
 | 2025-09-29 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 30.9 | 81 | 10.4 | 0 |
 | 2025-09-30 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.3 | 82 | 10.4 | 0 |
 | 2025-09-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 29.9 | 82 | 10.1 | 0 |
@@ -35,6 +34,7 @@
 | 2025-09-30 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 28.9 | 83 | 7.6 | 0 |
 | 2025-09-30 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 30.4 | 82 | 6.8 | 0 |
 | 2025-09-30 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 32.8 | 74 | 7.2 | 0 |
+| 2025-09-30 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 35.2 | 69 | 7.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've made a vow to avoid any form of productivity. 🛑❌ 
+  I have a black belt in avoidance, and I'd hate to waste it (so, no). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
