@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 30/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:39 PM, Set: 11:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:25 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 39.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:39 PM, Set: 11:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:25 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 38.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 71.15 <strong>PM10:</strong> 71.65</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 64.65 <strong>PM10:</strong> 64.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-09-30 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.7 | 41.0 | 52 | 3.2 | 80 |
-| 2025-09-30 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.2 | 40.2 | 53 | 3.6 | 100 |
-| 2025-09-30 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 33.2 | 40.3 | 60 | 5.8 | 100 |
-| 2025-09-30 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.5 | 39.4 | 63 | 7.2 | 0 |
-| 2025-09-30 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 31.9 | 38.4 | 65 | 6.5 | 0 |
-| 2025-09-30 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 31.3 | 36.7 | 64 | 5.8 | 100 |
-| 2025-09-30 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 31.0 | 36.4 | 66 | 7.6 | 0 |
-| 2025-09-30 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 30.4 | 35.9 | 69 | 9.4 | 0 |
-| 2025-09-30 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.8 | 35.4 | 74 | 10.8 | 100 |
-| 2025-09-30 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.5 | 35.0 | 76 | 10.4 | 0 |
+| 2025-09-30 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.9 | 40.8 | 49 | 4.0 | 0 |
+| 2025-09-30 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.2 | 40.5 | 53 | 6.8 | 65 |
+| 2025-09-30 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.1 | 39.9 | 60 | 8.6 | 0 |
+| 2025-09-30 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 32.0 | 38.5 | 65 | 10.4 | 0 |
+| 2025-09-30 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 31.2 | 36.8 | 66 | 10.4 | 0 |
+| 2025-09-30 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 30.9 | 36.3 | 66 | 9.4 | 0 |
+| 2025-09-30 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 30.8 | 36.0 | 67 | 8.6 | 0 |
+| 2025-09-30 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 30.5 | 35.6 | 68 | 9.0 | 0 |
+| 2025-09-30 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 30.1 | 35.3 | 71 | 9.4 | 0 |
+| 2025-09-30 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 29.6 | 34.8 | 73 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've donated all my free time to non-doing causes. 🛑❌ 
+  I didn't choose the no life; the no life chose me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
