@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 30/09/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:39 PM, Set: 11:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:25 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/389.png"/>
+  <p>Moderate or heavy rain with thunder (এলাকায় বজ্রবিদ্যুত সহ অনিয়মিত মাঝারি ও ভারী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:39 PM, Set: 11:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:25 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.95 <strong>PM10:</strong> 61.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 68.35 <strong>PM10:</strong> 68.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-01 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.8 | 33.8 | 78 | 6.8 | 0 |
+| 2025-10-01 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/389.png) Moderate or heavy rain with thunder | 29.1 | 33.8 | 84 | 6.8 | 0 |
 | 2025-10-01 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.4 | 33.2 | 80 | 6.8 | 0 |
 | 2025-10-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.0 | 32.6 | 82 | 7.2 | 0 |
 | 2025-10-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.7 | 32.0 | 83 | 7.2 | 0 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm currently booked for the next decade in pretending to be productive. 🛑❌ 
+  I was abducted by aliens yesterday and they gave me strict instructions to avoid that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
