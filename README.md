@@ -18,9 +18,9 @@
   <p>Kolkata, India - 30/09/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"/>
   <p>Cloudy  (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:39 PM, Set: 11:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:25 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:39 PM, Set: 11:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:25 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 38.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.65 <strong>PM10:</strong> 38.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.95 <strong>PM10:</strong> 37.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My laziness is in full bloom, and I cannot uproot it for this. 🛑❌ 
+  I must regretfully decline as I have many diabolical laughs to practice. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
