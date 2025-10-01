@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 01/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:28 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:24 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 35.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:28 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:24 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 38.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.45 <strong>PM10:</strong> 53.75</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.65 <strong>PM10:</strong> 50.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.5 | 40.4 | 58 | 15.5 | 100 |
-| 2025-10-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 39.7 | 60 | 15.1 | 100 |
-| 2025-10-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 38.9 | 63 | 16.6 | 100 |
-| 2025-10-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.4 | 37.9 | 68 | 17.6 | 100 |
-| 2025-10-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.5 | 74 | 18.0 | 100 |
-| 2025-10-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 33.4 | 81 | 15.1 | 0 |
-| 2025-10-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.8 | 32.8 | 85 | 13.0 | 0 |
-| 2025-10-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.7 | 32.6 | 86 | 11.5 | 0 |
-| 2025-10-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.6 | 32.4 | 86 | 10.8 | 0 |
-| 2025-10-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.3 | 31.9 | 87 | 11.9 | 0 |
+| 2025-10-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 39.9 | 59 | 16.2 | 100 |
+| 2025-10-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.9 | 39.3 | 60 | 16.6 | 100 |
+| 2025-10-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.9 | 38.3 | 65 | 17.3 | 100 |
+| 2025-10-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.6 | 74 | 17.3 | 100 |
+| 2025-10-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.4 | 33.1 | 80 | 14.0 | 0 |
+| 2025-10-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.9 | 32.6 | 84 | 12.6 | 0 |
+| 2025-10-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.6 | 32.5 | 86 | 12.2 | 0 |
+| 2025-10-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 32.3 | 87 | 11.2 | 0 |
+| 2025-10-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.4 | 32.1 | 87 | 10.4 | 0 |
+| 2025-10-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 31.7 | 87 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't—I promised Netflix I'd stay in and watch movies. 🛑❌ 
+  Yes, you may interpret my silence as a no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
