@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 02/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.15 <strong>PM10:</strong> 12.55</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.55 <strong>PM10:</strong> 11.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.0 | 28.4 | 96 | 11.2 | 100 |
+| 2025-10-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.3 | 28.4 | 94 | 11.2 | 100 |
 | 2025-10-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.1 | 28.5 | 96 | 10.8 | 100 |
 | 2025-10-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.2 | 28.6 | 96 | 10.8 | 75 |
 | 2025-10-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.1 | 28.5 | 96 | 11.2 | 63 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My energy and I are currently in a long-distance relationship. 🛑❌ 
+  My brain is like a parrot that only knows one word: 'no'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
