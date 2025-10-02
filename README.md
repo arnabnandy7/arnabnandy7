@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 02/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"/>
-  <p>Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:28 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:24 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 20.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.75 <strong>PM10:</strong> 14.35</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.45 <strong>PM10:</strong> 11.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-02 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 27.2 | 31.7 | 88 | 18.4 | 100 |
-| 2025-10-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.2 | 31.7 | 88 | 15.8 | 100 |
-| 2025-10-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 28.3 | 33.3 | 83 | 19.4 | 100 |
-| 2025-10-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.2 | 33.2 | 83 | 17.3 | 100 |
-| 2025-10-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.9 | 32.6 | 83 | 16.2 | 100 |
-| 2025-10-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.6 | 32.1 | 85 | 18.4 | 100 |
-| 2025-10-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.4 | 31.8 | 85 | 19.1 | 100 |
-| 2025-10-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.6 | 32.1 | 85 | 18.4 | 100 |
-| 2025-10-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.5 | 32.0 | 85 | 16.9 | 79 |
-| 2025-10-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 30.8 | 88 | 15.5 | 71 |
+| 2025-10-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.6 | 30.8 | 91 | 16.6 | 100 |
+| 2025-10-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.2 | 31.8 | 88 | 17.3 | 100 |
+| 2025-10-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.1 | 33.2 | 84 | 18.7 | 100 |
+| 2025-10-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.7 | 33.9 | 80 | 19.1 | 100 |
+| 2025-10-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.6 | 33.7 | 80 | 19.1 | 100 |
+| 2025-10-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.4 | 33.5 | 81 | 18.0 | 100 |
+| 2025-10-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 32.9 | 83 | 15.1 | 100 |
+| 2025-10-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.6 | 32.1 | 84 | 15.1 | 100 |
+| 2025-10-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.9 | 86 | 16.6 | 100 |
+| 2025-10-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.4 | 87 | 16.6 | 65 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In my day, we didn't have to do things we didn't want to (and I'm keeping it that way). 🛑❌ 
+  My bio on Twitter says 'Often says no', gotta stay on brand. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
