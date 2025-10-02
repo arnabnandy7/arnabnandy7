@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 02/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
   <p>Mist (হাল্কা কুয়াশা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.6 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.05 <strong>PM10:</strong> 11.45</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.35 <strong>PM10:</strong> 10.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.2 | 28.6 | 96 | 10.8 | 75 |
-| 2025-10-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.1 | 28.5 | 96 | 11.2 | 63 |
 | 2025-10-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/143.png) Mist | 25.1 | 28.5 | 95 | 11.2 | 0 |
 | 2025-10-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 25.9 | 29.7 | 94 | 11.2 | 0 |
 | 2025-10-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 27.5 | 32.3 | 87 | 15.1 | 100 |
@@ -35,6 +33,8 @@
 | 2025-10-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 35.9 | 77 | 23.0 | 100 |
 | 2025-10-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 36.0 | 77 | 24.1 | 100 |
 | 2025-10-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 35.8 | 76 | 24.8 | 100 |
+| 2025-10-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.5 | 35.2 | 77 | 22.7 | 100 |
+| 2025-10-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 34.1 | 80 | 20.2 | 78 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in the No Witness Protection Program (I say no and then hide). 🛑❌ 
+  I didn't show up because I prefer to be fashionably absent. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
