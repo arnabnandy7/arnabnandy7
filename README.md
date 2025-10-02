@@ -18,23 +18,23 @@
   <p>Kolkata, India - 02/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.75 <strong>PM10:</strong> 7.25</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.05 <strong>PM10:</strong> 8.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.7 | 33.9 | 80 | 19.1 | 100 |
-| 2025-10-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.6 | 33.7 | 80 | 19.1 | 100 |
-| 2025-10-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.4 | 33.5 | 81 | 18.0 | 100 |
-| 2025-10-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 32.9 | 83 | 15.1 | 100 |
-| 2025-10-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.6 | 32.1 | 84 | 15.1 | 100 |
-| 2025-10-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.9 | 86 | 16.6 | 100 |
-| 2025-10-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.4 | 87 | 16.6 | 65 |
-| 2025-10-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 29.9 | 89 | 16.6 | 0 |
-| 2025-10-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 29.9 | 90 | 15.8 | 0 |
-| 2025-10-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.1 | 29.8 | 90 | 15.1 | 67 |
+| 2025-10-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 30.3 | 90 | 18.0 | 100 |
+| 2025-10-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.1 | 29.9 | 91 | 15.1 | 100 |
+| 2025-10-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.0 | 29.8 | 92 | 14.0 | 100 |
+| 2025-10-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 30.3 | 90 | 14.0 | 100 |
+| 2025-10-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 30.0 | 90 | 11.9 | 100 |
+| 2025-10-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 30.1 | 90 | 13.0 | 85 |
+| 2025-10-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 29.9 | 90 | 14.8 | 0 |
+| 2025-10-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.0 | 29.5 | 91 | 15.1 | 0 |
+| 2025-10-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.9 | 29.4 | 91 | 15.5 | 0 |
+| 2025-10-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.8 | 29.3 | 92 | 15.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a dinner date with a pizza and it would be jealous if I cancel. 🛑❌ 
+  I wear my refusal as a badge of honor. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
