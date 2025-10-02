@@ -18,14 +18,13 @@
   <p>Kolkata, India - 02/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.15 <strong>PM10:</strong> 10.85</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.45 <strong>PM10:</strong> 10.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.5 | 93 | 15.8 | 100 |
 | 2025-10-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.5 | 93 | 17.6 | 100 |
 | 2025-10-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.7 | 29.3 | 93 | 16.9 | 100 |
 | 2025-10-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.3 | 28.7 | 94 | 14.0 | 100 |
@@ -35,6 +34,7 @@
 | 2025-10-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 24.8 | 27.9 | 96 | 13.0 | 67 |
 | 2025-10-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.6 | 29.1 | 94 | 14.0 | 0 |
 | 2025-10-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.2 | 31.8 | 88 | 15.8 | 100 |
+| 2025-10-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 28.9 | 34.6 | 81 | 19.4 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I’ve tried doing too much before, and this feels like déjà vu. 🛑❌ 
+  I'm not ignoring you—I'm giving you a firm no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
