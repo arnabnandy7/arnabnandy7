@@ -25,8 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.3 | 28.4 | 94 | 11.2 | 100 |
-| 2025-10-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.1 | 28.5 | 96 | 10.8 | 100 |
 | 2025-10-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.2 | 28.6 | 96 | 10.8 | 75 |
 | 2025-10-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.1 | 28.5 | 96 | 11.2 | 63 |
 | 2025-10-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/143.png) Mist | 25.1 | 28.5 | 95 | 11.2 | 0 |
@@ -35,6 +33,8 @@
 | 2025-10-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 34.3 | 81 | 19.4 | 100 |
 | 2025-10-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 35.4 | 77 | 21.6 | 100 |
 | 2025-10-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 35.9 | 77 | 23.0 | 100 |
+| 2025-10-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 36.0 | 77 | 24.1 | 100 |
+| 2025-10-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 35.8 | 76 | 24.8 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain is like a parrot that only knows one word: 'no'. 🛑❌ 
+  I'm taking a mental health year (starting now), so I have to decline. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
