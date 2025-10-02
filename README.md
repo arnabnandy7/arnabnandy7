@@ -18,9 +18,9 @@
   <p>Kolkata, India - 02/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 40.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.05 <strong>PM10:</strong> 8.35</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.45 <strong>PM10:</strong> 8.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I wear my refusal as a badge of honor. 🛑❌ 
+  Yes is such a small word for such a life-changing event, I'm not ready. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
