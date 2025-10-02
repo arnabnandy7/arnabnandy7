@@ -18,23 +18,23 @@
   <p>Kolkata, India - 02/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 12:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.75 <strong>PM10:</strong> 11.25</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.15 <strong>PM10:</strong> 12.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 29.5 | 93 | 17.6 | 100 |
-| 2025-10-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.7 | 29.3 | 93 | 16.9 | 100 |
-| 2025-10-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.3 | 28.7 | 94 | 14.0 | 100 |
-| 2025-10-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.9 | 28.2 | 96 | 11.9 | 100 |
-| 2025-10-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.7 | 27.8 | 97 | 10.8 | 100 |
-| 2025-10-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.6 | 27.7 | 97 | 11.2 | 100 |
-| 2025-10-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 24.8 | 27.9 | 96 | 13.0 | 67 |
-| 2025-10-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.6 | 29.1 | 94 | 14.0 | 0 |
-| 2025-10-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.2 | 31.8 | 88 | 15.8 | 100 |
-| 2025-10-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 28.9 | 34.6 | 81 | 19.4 | 100 |
+| 2025-10-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.0 | 28.4 | 96 | 11.2 | 100 |
+| 2025-10-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.1 | 28.5 | 96 | 10.8 | 100 |
+| 2025-10-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.2 | 28.6 | 96 | 10.8 | 75 |
+| 2025-10-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.1 | 28.5 | 96 | 11.2 | 63 |
+| 2025-10-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/143.png) Mist | 25.1 | 28.5 | 95 | 11.2 | 0 |
+| 2025-10-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 25.9 | 29.7 | 94 | 11.2 | 0 |
+| 2025-10-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 27.5 | 32.3 | 87 | 15.1 | 100 |
+| 2025-10-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 34.3 | 81 | 19.4 | 100 |
+| 2025-10-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 35.4 | 77 | 21.6 | 100 |
+| 2025-10-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 35.9 | 77 | 23.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm experiencing a heavy downpour of laziness. 🛑❌ 
+  My energy and I are currently in a long-distance relationship. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
