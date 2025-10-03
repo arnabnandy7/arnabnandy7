@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 03/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:52 PM, Set: 01:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:52 PM, Set: 01:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.4 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.45 <strong>PM10:</strong> 16.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.15 <strong>PM10:</strong> 18.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-04 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.6 | 29.2 | 93 | 12.6 | 100 |
+| 2025-10-04 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.2 | 29.2 | 94 | 12.6 | 100 |
 | 2025-10-04 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 29.0 | 94 | 12.2 | 100 |
 | 2025-10-04 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.8 | 94 | 11.5 | 100 |
 | 2025-10-04 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.8 | 94 | 11.9 | 100 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm just following the saying 'do what you love' — and I love saying no. 🛑❌ 
+  The coffee machine called in sick, so I'm incapable of agreeing to anything. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
