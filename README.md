@@ -18,15 +18,13 @@
   <p>Kolkata, India - 03/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:52 PM, Set: 01:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:52 PM, Set: 01:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.8 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.05 <strong>PM10:</strong> 10.55</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.15 <strong>PM10:</strong> 13.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-03 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.1 | 30.0 | 92 | 12.6 | 100 |
-| 2025-10-03 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 29.7 | 93 | 11.5 | 100 |
 | 2025-10-03 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 29.5 | 93 | 11.9 | 100 |
 | 2025-10-04 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 29.3 | 94 | 11.5 | 100 |
 | 2025-10-04 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 29.1 | 94 | 11.5 | 100 |
@@ -35,6 +33,8 @@
 | 2025-10-04 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.9 | 94 | 12.6 | 100 |
 | 2025-10-04 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.4 | 28.8 | 94 | 13.3 | 100 |
 | 2025-10-04 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 26.4 | 30.4 | 91 | 14.8 | 100 |
+| 2025-10-04 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.0 | 33.2 | 85 | 20.2 | 100 |
+| 2025-10-04 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.1 | 34.9 | 80 | 24.5 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm stuck in an internet rabbit hole and I can't find the exit. 🛑❌ 
+  I'm declining out of an abundance of apathy. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
