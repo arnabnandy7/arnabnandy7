@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 03/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:52 PM, Set: 01:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:52 PM, Set: 01:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 36.4 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.25 <strong>PM10:</strong> 7.35</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.85 <strong>PM10:</strong> 8.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.6 | 78 | 21.6 | 100 |
-| 2025-10-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.5 | 78 | 21.2 | 100 |
-| 2025-10-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 34.4 | 79 | 20.5 | 100 |
-| 2025-10-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 34.1 | 80 | 20.2 | 78 |
-| 2025-10-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.2 | 33.2 | 82 | 18.7 | 88 |
-| 2025-10-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.4 | 32.0 | 85 | 15.8 | 65 |
-| 2025-10-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 31.4 | 88 | 12.6 | 63 |
-| 2025-10-03 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 31.0 | 89 | 11.5 | 62 |
-| 2025-10-03 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.7 | 90 | 11.9 | 84 |
-| 2025-10-03 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 30.5 | 91 | 12.6 | 80 |
+| 2025-10-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 33.4 | 84 | 19.8 | 100 |
+| 2025-10-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 33.7 | 84 | 19.1 | 84 |
+| 2025-10-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 33.4 | 84 | 19.4 | 84 |
+| 2025-10-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.7 | 32.5 | 85 | 18.0 | 70 |
+| 2025-10-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.0 | 31.4 | 88 | 16.2 | 61 |
+| 2025-10-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.7 | 30.9 | 90 | 13.7 | 0 |
+| 2025-10-03 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 30.5 | 91 | 11.9 | 0 |
+| 2025-10-03 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 30.2 | 92 | 11.2 | 0 |
+| 2025-10-03 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.1 | 30.0 | 93 | 11.2 | 74 |
+| 2025-10-03 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 29.8 | 93 | 11.2 | 74 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  At this point, I don’t have the bandwidth to do this justice. 🛑❌ 
+  At my age, my give-a-darn is busted. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
