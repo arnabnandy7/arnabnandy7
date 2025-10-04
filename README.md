@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Kolkata, India - 04/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
-  <p>Mist (হাল্কা কুয়াশা)</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
   🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:30 PM, Set: 02:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.35 <strong>PM10:</strong> 18.05</p>
@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-05 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 28.1 | 29.9 | 94 | 14.0 | 81 |
 | 2025-10-05 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 29.8 | 92 | 13.3 | 65 |
 | 2025-10-05 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 29.6 | 92 | 12.2 | 83 |
 | 2025-10-05 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 25.8 | 29.5 | 93 | 11.5 | 100 |
@@ -35,6 +34,7 @@
 | 2025-10-05 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.4 | 35.3 | 78 | 20.2 | 65 |
 | 2025-10-05 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.3 | 36.3 | 73 | 20.9 | 100 |
 | 2025-10-05 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 37.4 | 69 | 21.2 | 100 |
+| 2025-10-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 37.7 | 68 | 21.2 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm working on a petition to ban requests like this. 🛑❌ 
+  I'm avoiding fun until further notice. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
