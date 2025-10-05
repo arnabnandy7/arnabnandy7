@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:06 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:06 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.75 <strong>PM10:</strong> 16.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.25 <strong>PM10:</strong> 16.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.0 | 85 | 5.0 | 0 |
 | 2025-10-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.8 | 86 | 5.8 | 0 |
 | 2025-10-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.8 | 30.6 | 86 | 4.7 | 0 |
 | 2025-10-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.7 | 30.4 | 86 | 3.2 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.1 | 29.5 | 88 | 5.4 | 0 |
 | 2025-10-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/299.png) Moderate rain at times | 25.7 | 28.9 | 89 | 6.5 | 100 |
 | 2025-10-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.4 | 28.5 | 91 | 9.0 | 100 |
+| 2025-10-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.5 | 91 | 9.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I respect the opportunity, but I know my limits—and this would stretch them too far. 🛑❌ 
+  Sleep and I have a standing date, can't break it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
