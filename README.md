@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 05/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:06 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:06 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.95 <strong>PM10:</strong> 22.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.15 <strong>PM10:</strong> 26.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 30.2 | 86 | 2.9 | 0 |
-| 2025-10-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 30.0 | 87 | 1.1 | 0 |
-| 2025-10-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.3 | 29.8 | 87 | 3.2 | 0 |
-| 2025-10-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.1 | 29.5 | 88 | 5.4 | 0 |
-| 2025-10-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/299.png) Moderate rain at times | 25.7 | 28.9 | 89 | 6.5 | 100 |
-| 2025-10-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.4 | 28.5 | 91 | 9.0 | 100 |
-| 2025-10-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.5 | 91 | 9.0 | 100 |
-| 2025-10-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.9 | 29.2 | 89 | 6.8 | 0 |
-| 2025-10-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 26.5 | 30.0 | 86 | 4.3 | 100 |
-| 2025-10-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 27.5 | 31.6 | 82 | 3.2 | 100 |
+| 2025-10-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 29.6 | 87 | 4.0 | 100 |
+| 2025-10-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 29.2 | 88 | 5.4 | 100 |
+| 2025-10-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 28.9 | 88 | 5.0 | 100 |
+| 2025-10-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.7 | 28.9 | 89 | 5.4 | 0 |
+| 2025-10-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.6 | 28.7 | 89 | 6.8 | 0 |
+| 2025-10-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 29.8 | 88 | 7.2 | 0 |
+| 2025-10-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.4 | 31.5 | 82 | 8.6 | 0 |
+| 2025-10-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.6 | 33.1 | 77 | 7.2 | 100 |
+| 2025-10-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.6 | 34.5 | 72 | 4.7 | 100 |
+| 2025-10-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 36.1 | 67 | 7.2 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to turn that invitation into an inviti-NOPE. 🛑❌ 
+  They say 'follow your dreams' — and my dream is to not do that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
