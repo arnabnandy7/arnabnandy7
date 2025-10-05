@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 05/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"/>
-  <p>Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:06 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 32.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:06 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.2 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.75 <strong>PM10:</strong> 13.55</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.05 <strong>PM10:</strong> 15.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 27.9 | 32.5 | 82 | 7.9 | 100 |
-| 2025-10-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.6 | 31.9 | 84 | 7.6 | 0 |
-| 2025-10-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.3 | 31.5 | 85 | 7.9 | 0 |
-| 2025-10-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.0 | 31.1 | 87 | 8.3 | 0 |
-| 2025-10-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 30.8 | 88 | 7.9 | 0 |
-| 2025-10-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 30.4 | 88 | 6.8 | 0 |
-| 2025-10-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 30.2 | 88 | 5.8 | 0 |
-| 2025-10-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 30.0 | 88 | 6.1 | 0 |
-| 2025-10-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.1 | 29.6 | 89 | 6.1 | 0 |
-| 2025-10-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.0 | 29.3 | 89 | 6.1 | 0 |
+| 2025-10-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.1 | 31.0 | 85 | 5.0 | 0 |
+| 2025-10-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.8 | 86 | 5.8 | 0 |
+| 2025-10-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.8 | 30.6 | 86 | 4.7 | 0 |
+| 2025-10-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.7 | 30.4 | 86 | 3.2 | 0 |
+| 2025-10-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 30.2 | 86 | 2.9 | 0 |
+| 2025-10-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 30.0 | 87 | 1.1 | 0 |
+| 2025-10-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.3 | 29.8 | 87 | 3.2 | 0 |
+| 2025-10-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 26.1 | 29.5 | 88 | 5.4 | 0 |
+| 2025-10-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/299.png) Moderate rain at times | 25.7 | 28.9 | 89 | 6.5 | 100 |
+| 2025-10-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.4 | 28.5 | 91 | 9.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I meant to say yes, but all that came out was no. 🛑❌ 
+  I have too much on my plate, and I'm on a no-carb diet (no extra tasks). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
