@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 06/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:43 PM, Set: 04:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:43 PM, Set: 04:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.15 <strong>PM10:</strong> 25.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.25 <strong>PM10:</strong> 28.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.9 | 37.0 | 60 | 9.7 | 100 |
-| 2025-10-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 36.9 | 60 | 9.7 | 100 |
-| 2025-10-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 35.9 | 67 | 5.8 | 100 |
-| 2025-10-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.6 | 34.6 | 72 | 4.3 | 100 |
-| 2025-10-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.9 | 32.2 | 81 | 10.8 | 100 |
-| 2025-10-06 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 30.1 | 86 | 13.0 | 76 |
-| 2025-10-06 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.0 | 29.4 | 88 | 10.1 | 0 |
-| 2025-10-06 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.1 | 29.5 | 87 | 8.3 | 0 |
-| 2025-10-06 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.1 | 29.4 | 87 | 9.0 | 0 |
-| 2025-10-06 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.0 | 29.3 | 87 | 8.6 | 0 |
+| 2025-10-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 36.8 | 60 | 10.4 | 100 |
+| 2025-10-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 36.2 | 64 | 9.4 | 100 |
+| 2025-10-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 35.9 | 66 | 4.7 | 100 |
+| 2025-10-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.0 | 70 | 1.4 | 100 |
+| 2025-10-06 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.6 | 32.6 | 73 | 1.8 | 0 |
+| 2025-10-06 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 28.1 | 31.8 | 75 | 3.6 | 0 |
+| 2025-10-06 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.7 | 31.4 | 78 | 5.4 | 0 |
+| 2025-10-06 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 27.2 | 30.8 | 81 | 7.6 | 0 |
+| 2025-10-06 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.9 | 30.5 | 83 | 8.6 | 0 |
+| 2025-10-06 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.2 | 85 | 8.6 | 81 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I performed a risk assessment and the results said 'no'. 🛑❌ 
+  For safety reasons, I'm required to stay away from that kind of excitement. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
