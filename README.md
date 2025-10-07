@@ -18,14 +18,13 @@
   <p>Kolkata, India - 07/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
   <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:21 PM, Set: 05:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 39.6 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:21 PM, Set: 05:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 40.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 55.35 <strong>PM10:</strong> 56.25</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 51.35 <strong>PM10:</strong> 53.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-07 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.0 | 35.0 | 69 | 1.4 | 100 |
 | 2025-10-07 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 33.9 | 75 | 3.2 | 100 |
 | 2025-10-07 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.7 | 31.5 | 80 | 5.8 | 100 |
 | 2025-10-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.9 | 30.4 | 83 | 7.9 | 100 |
@@ -35,6 +34,7 @@
 | 2025-10-07 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.0 | 29.1 | 86 | 7.9 | 0 |
 | 2025-10-07 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.7 | 28.7 | 88 | 8.3 | 0 |
 | 2025-10-08 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 28.4 | 89 | 7.9 | 0 |
+| 2025-10-08 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.3 | 28.2 | 90 | 6.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  One of my pet peeves is doing stuff, so I simply don't. 🛑❌ 
+  Astrologically, I'm a No-rgo or a Libra-thinks-not (one of those). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
