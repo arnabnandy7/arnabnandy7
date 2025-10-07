@@ -18,9 +18,9 @@
   <p>Kolkata, India - 07/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/356.png"/>
   <p>Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:21 PM, Set: 05:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 36.2 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:21 PM, Set: 05:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 36.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.65 <strong>PM10:</strong> 77.95</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.65 <strong>PM10:</strong> 61.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I do it, you'll spend more time fixing my mistakes. 🛑❌ 
+  My schedule has a built-in 'nope' feature. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
