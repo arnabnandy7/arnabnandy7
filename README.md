@@ -15,19 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 07/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:21 PM, Set: 05:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
+  <p>Kolkata, India - 08/10/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:21 PM, Set: 05:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.65 <strong>PM10:</strong> 61.35</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.55 <strong>PM10:</strong> 63.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-08 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 27.9 | 89 | 7.2 | 0 |
-| 2025-10-08 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.1 | 29.3 | 87 | 6.8 | 0 |
-| 2025-10-08 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.7 | 31.6 | 79 | 7.2 | 0 |
 | 2025-10-08 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.3 | 33.6 | 71 | 7.6 | 100 |
 | 2025-10-08 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.5 | 35.0 | 65 | 7.9 | 100 |
 | 2025-10-08 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 35.8 | 61 | 8.3 | 100 |
@@ -35,6 +32,9 @@
 | 2025-10-08 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.2 | 36.7 | 56 | 5.8 | 100 |
 | 2025-10-08 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 36.4 | 56 | 2.9 | 100 |
 | 2025-10-08 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 35.9 | 63 | 2.5 | 100 |
+| 2025-10-08 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 34.7 | 68 | 5.4 | 100 |
+| 2025-10-08 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 33.2 | 72 | 7.6 | 100 |
+| 2025-10-08 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.3 | 31.9 | 73 | 7.9 | 88 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a fear of change, so I'm sticking with saying no. 🛑❌ 
+  My inner peace committee vetoed this idea unanimously. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
