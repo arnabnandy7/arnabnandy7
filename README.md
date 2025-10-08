@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 08/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:03 PM, Set: 06:28 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:18 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:03 PM, Set: 06:28 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:18 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 47.95 <strong>PM10:</strong> 48.25</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.65 <strong>PM10:</strong> 57.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.1 | 27.7 | 88 | 6.5 | 0 |
-| 2025-10-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 27.6 | 88 | 6.5 | 0 |
 | 2025-10-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 27.5 | 88 | 6.1 | 0 |
 | 2025-10-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 29.0 | 85 | 5.0 | 0 |
 | 2025-10-09 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 31.1 | 78 | 5.8 | 0 |
@@ -35,6 +33,8 @@
 | 2025-10-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 35.8 | 58 | 9.0 | 0 |
 | 2025-10-09 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.4 | 36.5 | 53 | 10.1 | 0 |
 | 2025-10-09 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.9 | 36.8 | 51 | 10.4 | 0 |
+| 2025-10-09 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 33.2 | 36.9 | 49 | 10.8 | 0 |
+| 2025-10-09 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 33.1 | 36.8 | 49 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Sorry, it's my annual day of rest... like the Sabbath, but for laziness. 🛑❌ 
+  If I had a lucky penny for every time I said no, I'd be rich. Speaking of which, no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
