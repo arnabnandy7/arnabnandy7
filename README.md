@@ -18,15 +18,13 @@
   <p>Kolkata, India - 09/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:50 PM, Set: 07:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:50 PM, Set: 07:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 37.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 64.85 <strong>PM10:</strong> 65.35</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.05 <strong>PM10:</strong> 53.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-09 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.9 | 36.3 | 57 | 9.0 | 100 |
-| 2025-10-09 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.5 | 35.6 | 58 | 7.6 | 100 |
 | 2025-10-09 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.1 | 35.4 | 60 | 5.0 | 64 |
 | 2025-10-09 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.2 | 34.8 | 67 | 3.2 | 77 |
 | 2025-10-09 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.9 | 32.4 | 69 | 1.8 | 70 |
@@ -35,6 +33,8 @@
 | 2025-10-09 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 30.6 | 76 | 2.5 | 0 |
 | 2025-10-09 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.1 | 30.1 | 77 | 2.5 | 0 |
 | 2025-10-09 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 29.7 | 78 | 2.9 | 0 |
+| 2025-10-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 29.3 | 79 | 3.2 | 0 |
+| 2025-10-10 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 29.0 | 80 | 2.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've never been so sure of anything as I am of saying no. 🛑❌ 
+  Accepting that offer would cause a glitch in the Matrix. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
