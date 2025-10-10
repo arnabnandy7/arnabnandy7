@@ -18,23 +18,23 @@
   <p>Kolkata, India - 10/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:43 PM, Set: 08:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:43 PM, Set: 08:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 66.55 <strong>PM10:</strong> 67.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 74.85 <strong>PM10:</strong> 75.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-10 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 28.9 | 84 | 4.0 | 100 |
-| 2025-10-11 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 28.7 | 84 | 4.3 | 100 |
-| 2025-10-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 28.6 | 85 | 4.3 | 100 |
-| 2025-10-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.6 | 28.4 | 85 | 4.0 | 85 |
-| 2025-10-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.2 | 27.8 | 86 | 5.8 | 70 |
-| 2025-10-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.9 | 27.3 | 86 | 7.9 | 100 |
-| 2025-10-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.6 | 26.9 | 87 | 9.4 | 0 |
-| 2025-10-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.2 | 27.6 | 85 | 9.4 | 0 |
-| 2025-10-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.9 | 29.4 | 74 | 13.0 | 0 |
-| 2025-10-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.2 | 30.7 | 66 | 14.4 | 0 |
+| 2025-10-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.6 | 28.0 | 80 | 9.7 | 100 |
+| 2025-10-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.3 | 27.6 | 81 | 10.1 | 100 |
+| 2025-10-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.1 | 27.2 | 80 | 10.4 | 70 |
+| 2025-10-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.8 | 26.8 | 79 | 10.4 | 0 |
+| 2025-10-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.6 | 26.5 | 78 | 10.4 | 0 |
+| 2025-10-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.0 | 27.0 | 79 | 10.4 | 0 |
+| 2025-10-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 26.7 | 28.9 | 71 | 14.0 | 0 |
+| 2025-10-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 28.2 | 30.5 | 64 | 15.5 | 0 |
+| 2025-10-11 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.5 | 32.0 | 58 | 15.5 | 0 |
+| 2025-10-11 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.5 | 33.1 | 55 | 14.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would climb Mount Everest barefoot before I'd agree to that. 🛑❌ 
+  Disclaimer: Any agreement on my part is void where fun is prohibited. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
