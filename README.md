@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 10/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:43 PM, Set: 08:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:43 PM, Set: 08:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 74.85 <strong>PM10:</strong> 75.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 82.85 <strong>PM10:</strong> 83.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.6 | 28.0 | 80 | 9.7 | 100 |
+| 2025-10-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 26.3 | 28.0 | 94 | 9.7 | 100 |
 | 2025-10-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.3 | 27.6 | 81 | 10.1 | 100 |
 | 2025-10-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.1 | 27.2 | 80 | 10.4 | 70 |
 | 2025-10-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.8 | 26.8 | 79 | 10.4 | 0 |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Disclaimer: Any agreement on my part is void where fun is prohibited. 🛑❌ 
+  Yes, you may interpret my silence as a no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
