@@ -15,26 +15,26 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 09/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:50 PM, Set: 07:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
+  <p>Kolkata, India - 10/10/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:43 PM, Set: 08:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 51.75 <strong>PM10:</strong> 53.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.25 <strong>PM10:</strong> 77.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 29.3 | 77 | 4.0 | 0 |
-| 2025-10-10 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 29.0 | 78 | 4.7 | 0 |
-| 2025-10-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.3 | 28.7 | 77 | 3.6 | 0 |
-| 2025-10-10 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 28.6 | 77 | 3.6 | 0 |
-| 2025-10-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.2 | 28.6 | 76 | 4.7 | 0 |
-| 2025-10-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.4 | 28.7 | 75 | 5.8 | 0 |
-| 2025-10-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.5 | 28.8 | 74 | 6.1 | 0 |
-| 2025-10-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.6 | 29.1 | 75 | 6.5 | 0 |
-| 2025-10-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 27.0 | 29.7 | 76 | 7.9 | 0 |
-| 2025-10-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.5 | 30.6 | 75 | 8.3 | 0 |
+| 2025-10-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.5 | 34.6 | 63 | 9.4 | 62 |
+| 2025-10-10 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.1 | 34.4 | 66 | 8.6 | 100 |
+| 2025-10-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.8 | 34.3 | 68 | 8.3 | 100 |
+| 2025-10-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.4 | 33.7 | 70 | 7.9 | 100 |
+| 2025-10-10 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 28.5 | 32.0 | 71 | 7.2 | 0 |
+| 2025-10-10 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 31.1 | 74 | 7.2 | 61 |
+| 2025-10-10 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 30.6 | 77 | 6.5 | 84 |
+| 2025-10-10 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.0 | 79 | 5.4 | 74 |
+| 2025-10-10 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 29.6 | 81 | 4.3 | 82 |
+| 2025-10-10 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 29.5 | 81 | 3.2 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The mothership is coming to pick me up any minute now. 🛑❌ 
+  I have to update my social media status to 'busy not doing that'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
