@@ -17,10 +17,10 @@
 <div align="center">
   <p>Kolkata, India - 11/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:42 PM, Set: 09:55 AM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:15 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 37.3 °C  
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:42 PM, Set: 09:55 AM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:15 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 33.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.05 <strong>PM10:</strong> 22.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.95 <strong>PM10:</strong> 24.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My intuition tells me this isn't the day I start being helpful. 🛑❌ 
+  Today, I only speak in negatives. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
