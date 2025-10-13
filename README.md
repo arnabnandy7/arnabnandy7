@@ -18,14 +18,13 @@
   <p>Kolkata, India - 13/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:00 PM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 34.1 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:00 PM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 95.65 <strong>PM10:</strong> 100.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 82.15 <strong>PM10:</strong> 89.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-13 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 33.4 | 51 | 13.7 | 0 |
 | 2025-10-13 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 33.4 | 56 | 12.2 | 0 |
 | 2025-10-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 31.8 | 63 | 10.1 | 0 |
 | 2025-10-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 29.2 | 66 | 9.0 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-13 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 27.0 | 74 | 9.0 | 0 |
 | 2025-10-13 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.7 | 74 | 8.3 | 0 |
 | 2025-10-13 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.4 | 75 | 8.6 | 0 |
+| 2025-10-14 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.1 | 75 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I celebrate Opposite Day by doing the opposite of what you ask. 🛑❌ 
+  My competence is on vacation right now. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
