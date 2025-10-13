@@ -18,9 +18,9 @@
   <p>Kolkata, India - 13/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:00 PM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 29.9 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 10:50 PM, Set: 12:00 PM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 28.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 81.45 <strong>PM10:</strong> 85.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 86.75 <strong>PM10:</strong> 90.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If you rearrange the letters of 'yes', you get 'sye'—which is exactly how much sense it would make for me to do this. 🛑❌ 
+  I'm the designated stay-at-home person this week. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
