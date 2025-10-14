@@ -18,14 +18,13 @@
   <p>Kolkata, India - 14/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 12:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 31.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:53 PM, Set: 12:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 31.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.85 <strong>PM10:</strong> 53.15</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 49.35 <strong>PM10:</strong> 53.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.6 | 73 | 10.1 | 0 |
 | 2025-10-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.3 | 73 | 10.4 | 0 |
 | 2025-10-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 25.9 | 73 | 10.4 | 0 |
 | 2025-10-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 25.6 | 73 | 10.4 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 24.8 | 75 | 9.4 | 0 |
 | 2025-10-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.6 | 77 | 10.1 | 0 |
 | 2025-10-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.9 | 25.0 | 79 | 10.4 | 0 |
+| 2025-10-15 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 26.7 | 71 | 12.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Just in case you missed it: N as in No, O as in Oh-no-not-today. 🛑❌ 
+  I'm on a secret mission to avoid anything you just asked. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
