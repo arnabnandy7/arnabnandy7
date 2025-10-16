@@ -18,14 +18,13 @@
   <p>Kolkata, India - 16/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:52 AM, Set: 02:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 27.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:52 AM, Set: 02:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 25.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 103.05 <strong>PM10:</strong> 105.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 112.15 <strong>PM10:</strong> 114.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-17 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.7 | 77 | 9.7 | 0 |
 | 2025-10-17 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 24.6 | 78 | 8.6 | 0 |
 | 2025-10-17 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.0 | 25.1 | 78 | 8.3 | 0 |
 | 2025-10-17 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 26.7 | 70 | 9.4 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 32.7 | 51 | 8.6 | 0 |
 | 2025-10-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 33.2 | 49 | 7.6 | 0 |
 | 2025-10-17 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 33.5 | 48 | 7.2 | 0 |
+| 2025-10-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 33.5 | 48 | 7.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The winds of fate blew and I got hit in the face with a 'no'. 🛑❌ 
+  My will to participate has left the building. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
