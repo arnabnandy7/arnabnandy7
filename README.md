@@ -17,24 +17,24 @@
 <div align="center">
   <p>Kolkata, India - 18/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 38.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.35 <strong>PM10:</strong> 58.35</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.95 <strong>PM10:</strong> 62.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.5 | 32.6 | 62 | 4.0 | 0 |
-| 2025-10-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.9 | 31.8 | 65 | 2.2 | 0 |
-| 2025-10-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 31.2 | 67 | 1.8 | 0 |
-| 2025-10-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 30.7 | 69 | 2.2 | 0 |
-| 2025-10-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.4 | 30.0 | 71 | 4.3 | 0 |
-| 2025-10-18 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 29.4 | 73 | 7.2 | 0 |
-| 2025-10-18 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 28.9 | 75 | 8.6 | 0 |
-| 2025-10-19 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 28.3 | 76 | 9.4 | 0 |
-| 2025-10-19 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.6 | 78 | 9.0 | 0 |
-| 2025-10-19 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 27.3 | 79 | 9.0 | 0 |
+| 2025-10-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.3 | 31.1 | 67 | 2.5 | 0 |
+| 2025-10-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 30.7 | 69 | 3.6 | 0 |
+| 2025-10-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 29.9 | 72 | 6.1 | 0 |
+| 2025-10-18 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 29.3 | 73 | 7.6 | 0 |
+| 2025-10-18 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 28.7 | 75 | 8.3 | 0 |
+| 2025-10-19 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 28.1 | 77 | 8.3 | 0 |
+| 2025-10-19 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.6 | 79 | 8.6 | 0 |
+| 2025-10-19 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 27.3 | 80 | 9.0 | 0 |
+| 2025-10-19 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 27.0 | 81 | 8.6 | 0 |
+| 2025-10-19 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.8 | 82 | 8.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  At this point, I don’t have the bandwidth to do this justice. 🛑❌ 
+  Picture me enthusiastically not doing that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
