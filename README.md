@@ -18,14 +18,13 @@
   <p>Kolkata, India - 18/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 37.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.85 <strong>PM10:</strong> 58.95</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.85 <strong>PM10:</strong> 58.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 30.7 | 69 | 3.6 | 0 |
 | 2025-10-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 29.9 | 72 | 6.1 | 0 |
 | 2025-10-18 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 29.3 | 73 | 7.6 | 0 |
 | 2025-10-18 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 28.7 | 75 | 8.3 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-19 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 27.0 | 81 | 8.6 | 0 |
 | 2025-10-19 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.8 | 82 | 8.6 | 0 |
 | 2025-10-19 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.6 | 82 | 9.4 | 0 |
+| 2025-10-19 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 27.6 | 82 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Please know that my decision isn’t a reflection of you—just my own boundaries. 🛑❌ 
+  My will to do that is in the shop for repairs. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
