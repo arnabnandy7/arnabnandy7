@@ -18,9 +18,9 @@
   <p>Kolkata, India - 18/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 36.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 98.85 <strong>PM10:</strong> 100.55</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 95.65 <strong>PM10:</strong> 97.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd love to, but then who will save the world while I'm gone? 🛑❌ 
+  That’s not something I can prioritize at the moment. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
