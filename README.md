@@ -15,26 +15,26 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 18/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:42 AM, Set: 03:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
+  <p>Kolkata, India - 19/10/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:33 AM, Set: 03:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 37.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 139.15 <strong>PM10:</strong> 139.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 93.25 <strong>PM10:</strong> 93.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-19 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.4 | 84 | 10.1 | 0 |
-| 2025-10-19 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 27.4 | 83 | 10.1 | 0 |
-| 2025-10-19 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 29.8 | 75 | 13.3 | 0 |
-| 2025-10-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 32.3 | 68 | 14.0 | 0 |
-| 2025-10-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 34.3 | 63 | 14.4 | 0 |
-| 2025-10-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 35.7 | 59 | 13.7 | 0 |
-| 2025-10-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.3 | 36.4 | 54 | 13.0 | 0 |
-| 2025-10-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 36.7 | 50 | 13.0 | 0 |
-| 2025-10-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 36.6 | 47 | 12.6 | 0 |
-| 2025-10-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.1 | 36.2 | 47 | 12.6 | 0 |
+| 2025-10-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 36.4 | 47 | 12.6 | 0 |
+| 2025-10-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.0 | 36.1 | 47 | 12.2 | 0 |
+| 2025-10-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 36.0 | 50 | 11.2 | 0 |
+| 2025-10-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 34.5 | 58 | 9.4 | 0 |
+| 2025-10-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.1 | 31.7 | 61 | 8.6 | 0 |
+| 2025-10-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 30.8 | 63 | 7.2 | 0 |
+| 2025-10-19 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 30.2 | 64 | 5.0 | 0 |
+| 2025-10-19 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.6 | 29.7 | 65 | 2.5 | 0 |
+| 2025-10-19 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 29.0 | 67 | 4.7 | 0 |
+| 2025-10-19 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 28.5 | 69 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The last time I tried, I got a papercut on my soul. 🛑❌ 
+  This is a guilt-free no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
