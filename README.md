@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:23 AM, Set: 04:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 37.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:23 AM, Set: 04:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 36.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.75 <strong>PM10:</strong> 28.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.95 <strong>PM10:</strong> 26.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.4 | 29.2 | 63 | 5.4 | 0 |
 | 2025-10-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 28.6 | 65 | 5.0 | 0 |
 | 2025-10-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 28.1 | 67 | 6.5 | 0 |
 | 2025-10-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.0 | 27.7 | 69 | 6.1 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-21 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.4 | 75 | 7.6 | 0 |
 | 2025-10-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.1 | 77 | 8.3 | 0 |
 | 2025-10-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 25.9 | 79 | 9.4 | 0 |
+| 2025-10-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 25.7 | 80 | 10.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm devoting that time slot to contemplating the meaning of life. It's a charity case really. 🛑❌ 
+  The fate of the potato chip I'm about to eat is in my hands, I can't abandon it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
