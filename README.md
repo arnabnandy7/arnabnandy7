@@ -17,24 +17,24 @@
 <div align="center">
   <p>Kolkata, India - 20/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:33 AM, Set: 03:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.4 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:23 AM, Set: 04:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 106.05 <strong>PM10:</strong> 108.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 99.55 <strong>PM10:</strong> 102.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 31.0 | 68 | 13.0 | 0 |
-| 2025-10-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 32.6 | 61 | 13.7 | 0 |
-| 2025-10-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 33.7 | 54 | 13.7 | 0 |
-| 2025-10-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 34.4 | 48 | 14.0 | 0 |
-| 2025-10-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 34.7 | 45 | 13.7 | 0 |
-| 2025-10-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 34.8 | 43 | 13.0 | 0 |
-| 2025-10-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 34.8 | 42 | 12.6 | 0 |
-| 2025-10-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.3 | 34.9 | 48 | 10.8 | 0 |
-| 2025-10-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.5 | 33.2 | 55 | 8.3 | 0 |
-| 2025-10-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 30.4 | 59 | 6.1 | 0 |
+| 2025-10-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 33.9 | 54 | 13.7 | 0 |
+| 2025-10-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 34.8 | 47 | 13.3 | 0 |
+| 2025-10-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 34.9 | 43 | 13.7 | 0 |
+| 2025-10-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 34.7 | 42 | 13.0 | 0 |
+| 2025-10-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 34.7 | 42 | 11.9 | 0 |
+| 2025-10-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 34.9 | 46 | 10.4 | 0 |
+| 2025-10-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 32.6 | 54 | 8.6 | 0 |
+| 2025-10-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 30.2 | 57 | 7.6 | 0 |
+| 2025-10-20 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.6 | 29.2 | 60 | 6.1 | 0 |
+| 2025-10-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 28.6 | 63 | 4.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm experiencing JOMO (Joy Of Missing Out) for this event. 🛑❌ 
+  I got your message, but unfortunately, my spam filter caught it under 'unwanted tasks'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
