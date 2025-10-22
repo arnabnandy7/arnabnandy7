@@ -15,19 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 21/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
+  <p>Kolkata, India - 22/10/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
   🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:14 AM, Set: 04:50 PM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 26.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 96.35 <strong>PM10:</strong> 96.55</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 95.65 <strong>PM10:</strong> 96.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.1 | 25.1 | 72 | 8.6 | 0 |
-| 2025-10-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 25.6 | 72 | 9.0 | 0 |
-| 2025-10-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 27.5 | 65 | 10.1 | 0 |
 | 2025-10-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 29.6 | 59 | 10.8 | 0 |
 | 2025-10-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 31.5 | 53 | 11.2 | 0 |
 | 2025-10-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 32.8 | 49 | 11.5 | 0 |
@@ -35,6 +32,9 @@
 | 2025-10-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 33.7 | 41 | 11.2 | 0 |
 | 2025-10-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 33.9 | 39 | 10.8 | 0 |
 | 2025-10-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.6 | 33.6 | 39 | 10.4 | 0 |
+| 2025-10-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.1 | 33.7 | 43 | 9.4 | 0 |
+| 2025-10-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 31.8 | 51 | 8.3 | 0 |
+| 2025-10-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.1 | 29.2 | 54 | 8.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My future self wrote me a note: ‘Please don’t do this again.’ 🛑❌ 
+  I'm going to deliver my answer in interpretive dance. *performs a NO* 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
