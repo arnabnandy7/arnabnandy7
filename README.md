@@ -18,14 +18,13 @@
   <p>Kolkata, India - 22/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:06 AM, Set: 05:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:06 AM, Set: 05:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.85 <strong>PM10:</strong> 79.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 80.45 <strong>PM10:</strong> 80.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 33.7 | 41 | 11.2 | 0 |
 | 2025-10-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 33.9 | 39 | 10.8 | 0 |
 | 2025-10-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.6 | 33.6 | 39 | 10.4 | 0 |
 | 2025-10-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.1 | 33.7 | 43 | 9.4 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-22 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 27.7 | 60 | 9.0 | 0 |
 | 2025-10-22 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.0 | 27.2 | 62 | 7.2 | 0 |
 | 2025-10-22 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.6 | 26.9 | 62 | 6.5 | 0 |
+| 2025-10-22 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 26.5 | 63 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me agreeing? That's like dividing by zero—dangerous and not allowed. 🛑❌ 
+  This is a guilt-free no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
