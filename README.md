@@ -18,14 +18,13 @@
   <p>Kolkata, India - 22/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:06 AM, Set: 05:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 34.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:06 AM, Set: 05:24 PM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.85 <strong>PM10:</strong> 38.45</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 46.05 <strong>PM10:</strong> 46.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-22 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 26.7 | 64 | 5.8 | 0 |
 | 2025-10-22 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 26.4 | 64 | 5.8 | 0 |
 | 2025-10-23 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 26.2 | 64 | 5.4 | 0 |
 | 2025-10-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.0 | 64 | 5.8 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 25.0 | 68 | 8.6 | 0 |
 | 2025-10-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.8 | 25.5 | 69 | 8.3 | 0 |
 | 2025-10-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 27.4 | 62 | 9.0 | 0 |
+| 2025-10-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 29.6 | 56 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to consult Doctor Strange about attending (he foresaw that I don't). 🛑❌ 
+  Improv theater time: I play a person who says no. End scene. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
