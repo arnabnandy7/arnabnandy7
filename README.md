@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 23/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:59 AM, Set: 06:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 34.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:59 AM, Set: 06:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.45 <strong>PM10:</strong> 45.75</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.55 <strong>PM10:</strong> 37.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 32.5 | 50 | 5.8 | 0 |
 | 2025-10-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.6 | 29.8 | 53 | 6.1 | 0 |
 | 2025-10-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.8 | 28.9 | 55 | 7.2 | 0 |
 | 2025-10-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 28.4 | 57 | 6.5 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.9 | 27.1 | 61 | 2.2 | 0 |
 | 2025-10-24 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 26.8 | 62 | 3.2 | 0 |
 | 2025-10-24 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 26.4 | 63 | 5.4 | 0 |
+| 2025-10-24 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.1 | 64 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't shock my system with responsibility like that; doctor’s orders. 🛑❌ 
+  I've donated all my free time to non-doing causes. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
