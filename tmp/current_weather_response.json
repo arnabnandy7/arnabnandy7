@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>502 Bad Gateway</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" sizes="16x16" href="https://bunnynetassets.b-cdn.net/error.png" />
-    <script src="https://bunny.net/lib/jquery/jquery.min.js"></script>
-    <script src="https://cdn.statuspage.io/se-v2.js"></script>
-    <link rel="stylesheet" href="https://bunnynetassets.b-cdn.net/error.css">
-</head>
-<body>
-    <div class="hero"><div class="content"><div class="alert-details"><h3 class="alert">ERROR 502</h3><h1>Bad Gateway</h1><h3>We could not establish a connection to api.weatherapi.com</h3></div><div class="row cards"><div class="col-md g-md-1"><div class="card"> <img src="https://bunnynetassets.b-cdn.net/icons/you.svg" alt="Card Icon" /><h2>You</h2> <small>IP: 20.168.119.24</small></div></div><div class="col-md-1 g-md-1 icons"> <img src="https://bunnynetassets.b-cdn.net/icons/arrow.svg" class="img-fluid"></div><div class="col-md g-1"><div class="card"> <img src="https://bunnynetassets.b-cdn.net/icons/bunny.svg" alt="Card Icon" /><h2>bunny.net</h2> <small>Edge Network</small></div></div><div class="col-md-1 g-md-1 icons"> <img src="https://bunnynetassets.b-cdn.net/icons/x.svg" class="img-fluid"></div><div class="col-md g-1"><div class="card"> <img src="https://bunnynetassets.b-cdn.net/icons/origin.svg" alt="Card Icon" /><h2>api.weatherapi.com</h2> <small>Your Destination</small></div></div></div> </div></div><div class="final-details"><div class="box"><h1>What happened?</h1><div class="description">There was a problem that occured while connecting to api.weatherapi.com origin server. The server hosting the website might be unavailable.</div></div><div class="box"><h1>What can I do?</h1><div class="description">If you are a visitor, please try again in a few minutes. If you are the administrator, please check your origin server status.</div></div></div>
-</body>
-</html>
+{"location":{"name":"Bara Bazar","region":"West Bengal","country":"India","lat":22.567,"lon":88.35,"tz_id":"Asia/Kolkata","localtime_epoch":1761210027,"localtime":"2025-10-23 14:30"},"current":{"last_updated_epoch":1761209100,"last_updated":"2025-10-23 14:15","temp_c":33.0,"temp_f":91.4,"is_day":1,"condition":{"text":"Mist","icon":"//cdn.weatherapi.com/weather/64x64/day/143.png","code":1030},"wind_mph":5.1,"wind_kph":8.3,"wind_degree":347,"wind_dir":"NNW","pressure_mb":1009.0,"pressure_in":29.8,"precip_mm":0.0,"precip_in":0.0,"humidity":44,"cloud":25,"feelslike_c":34.2,"feelslike_f":93.6,"windchill_c":33.0,"windchill_f":91.3,"heatindex_c":34.1,"heatindex_f":93.5,"dewpoint_c":17.1,"dewpoint_f":62.8,"vis_km":4.8,"vis_miles":2.0,"uv":3.0,"gust_mph":6.3,"gust_kph":10.1,"air_quality":{"co":671.85,"no2":11.15,"o3":173.0,"so2":16.55,"pm2_5":45.45,"pm10":45.75,"us-epa-index":3,"gb-defra-index":5}}}
