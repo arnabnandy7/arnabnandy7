@@ -18,14 +18,13 @@
   <p>Kolkata, India - 23/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:59 AM, Set: 06:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 32.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:59 AM, Set: 06:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 32.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 106.75 <strong>PM10:</strong> 107.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 106.05 <strong>PM10:</strong> 106.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 32.9 | 43 | 7.6 | 0 |
 | 2025-10-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 33.4 | 40 | 7.9 | 0 |
 | 2025-10-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 33.6 | 38 | 7.9 | 0 |
 | 2025-10-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 33.6 | 37 | 7.6 | 0 |
@@ -35,6 +34,7 @@
 | 2025-10-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 28.4 | 53 | 7.2 | 0 |
 | 2025-10-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 27.9 | 55 | 6.1 | 0 |
 | 2025-10-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 27.6 | 57 | 4.7 | 0 |
+| 2025-10-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 27.3 | 57 | 2.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The winds of fate blew and I got hit in the face with a 'no'. 🛑❌ 
+  Picture a skywriter writing 'NO' above your house—that's my answer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
