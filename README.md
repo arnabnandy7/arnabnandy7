@@ -15,33 +15,33 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 23/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:59 AM, Set: 06:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 33.2 °C  
+  <p>Kolkata, India - 24/10/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:53 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 33.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.15 <strong>PM10:</strong> 32.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.65 <strong>PM10:</strong> 35.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 27.3 | 59 | 3.2 | 0 |
-| 2025-10-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 27.0 | 60 | 3.6 | 0 |
-| 2025-10-24 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 26.6 | 61 | 5.0 | 0 |
-| 2025-10-24 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.2 | 63 | 6.5 | 0 |
-| 2025-10-24 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.9 | 64 | 8.3 | 0 |
-| 2025-10-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 25.6 | 65 | 7.9 | 0 |
-| 2025-10-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.3 | 66 | 7.2 | 0 |
-| 2025-10-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.2 | 66 | 6.8 | 0 |
-| 2025-10-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 25.9 | 66 | 6.8 | 0 |
-| 2025-10-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 27.6 | 58 | 7.6 | 0 |
+| 2025-10-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.7 | 32.8 | 51 | 2.2 | 0 |
+| 2025-10-24 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 30.2 | 54 | 1.4 | 0 |
+| 2025-10-24 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.9 | 29.2 | 57 | 3.6 | 0 |
+| 2025-10-24 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 28.6 | 58 | 5.4 | 0 |
+| 2025-10-24 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 28.1 | 59 | 5.8 | 0 |
+| 2025-10-24 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 27.7 | 60 | 5.0 | 0 |
+| 2025-10-24 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 27.3 | 60 | 3.2 | 0 |
+| 2025-10-24 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 27.1 | 61 | 3.2 | 0 |
+| 2025-10-25 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 26.7 | 62 | 4.0 | 0 |
+| 2025-10-25 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 26.4 | 63 | 5.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
   🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹88.01 | 📉 L: ₹88.01 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹303000.0 <br>₿ BTC: ₹5656600.0 | 📈 H: ₹5656600.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹50001.0 | 📈 H: ₹50001.0 | 📉 L: ₹50001.0 <br> 
 
   ## 🔋 Fuel Prices  
-  ⛽ Petrol: ₹103.94 ➖ 🛢️ Diesel: ₹90.76 ➖
+  ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My gut feeling started doing the Macarena when you asked (that's a no dance). 🛑❌ 
+  I need to maintain my air of mystery by not showing up. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
