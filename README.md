@@ -18,7 +18,7 @@
   <p>Kolkata, India - 24/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:53 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:53 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.75 <strong>PM10:</strong> 34.95</p>
 
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I want to say yes, but my common sense is yelling 'no' repeatedly. 🛑❌ 
+  I'm trying to be more intentional with what I agree to, and this doesn’t quite fit. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
