@@ -18,7 +18,7 @@
   <p>Kolkata, India - 25/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:47 AM, Set: 07:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 28.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:47 AM, Set: 07:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 29.3 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 63.75 <strong>PM10:</strong> 63.95</p>
 
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹85.2 | 📈 H: ₹87.5 | 📉 L: ₹82.67 <br>♦ ETH: ₹327901.0 | 📈 H: ₹339499.9 | 📉 L: ₹298501.0 <br>₿ BTC: ₹9350942.0 | 📈 H: ₹9600999.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹92341.34 | 📈 H: ₹150000.0 | 📉 L: ₹50001.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹85.18 | 📈 H: ₹87.5 | 📉 L: ₹82.67 <br>♦ ETH: ₹329002.9 | 📈 H: ₹339499.9 | 📉 L: ₹298501.0 <br>₿ BTC: ₹9400000.0 | 📈 H: ₹9600999.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹94990.0 | 📈 H: ₹150000.0 | 📉 L: ₹50001.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That isn't on my bucket list; in fact, it's on my chuck-it list. 🛑❌ 
+  As compatible as ice cream and hot soup—best kept separate. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
