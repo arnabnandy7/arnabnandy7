@@ -18,14 +18,13 @@
   <p>Kolkata, India - 25/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:47 AM, Set: 07:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:47 AM, Set: 07:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 33.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.45 <strong>PM10:</strong> 45.95</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.95 <strong>PM10:</strong> 45.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-25 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.9 | 29.5 | 59 | 3.6 | 0 |
 | 2025-10-25 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 29.0 | 61 | 2.5 | 0 |
 | 2025-10-25 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 28.6 | 63 | 1.8 | 0 |
 | 2025-10-25 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 28.1 | 65 | 2.9 | 0 |
@@ -35,10 +34,11 @@
 | 2025-10-26 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.3 | 26.8 | 67 | 5.0 | 0 |
 | 2025-10-26 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.9 | 26.4 | 68 | 8.6 | 0 |
 | 2025-10-26 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.5 | 26.1 | 69 | 9.0 | 0 |
+| 2025-10-26 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.3 | 25.9 | 69 | 7.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹86.5 | 📈 H: ₹87.99 | 📉 L: ₹76.7 <br>♦ ETH: ₹326590.0 | 📈 H: ₹339499.9 | 📉 L: ₹298501.0 <br>₿ BTC: ₹9403781.0 | 📈 H: ₹9600999.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹93123.66 | 📈 H: ₹150000.0 | 📉 L: ₹50001.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹86.0 | 📈 H: ₹87.99 | 📉 L: ₹76.7 <br>♦ ETH: ₹326601.0 | 📈 H: ₹339499.9 | 📉 L: ₹298501.0 <br>₿ BTC: ₹9444888.0 | 📈 H: ₹9600999.0 | 📉 L: ₹5656600.0 <br>⚡ BNB: ₹93148.0 | 📈 H: ₹150000.0 | 📉 L: ₹50001.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life is a choose-your-own-adventure, and I flipped to the page where I say no. 🛑❌ 
+  I'll attend in spirit. Specifically, the spirit of 'not there'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
