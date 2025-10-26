@@ -18,9 +18,9 @@
   <p>Kolkata, India - 26/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:41 AM, Set: 08:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 31.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:41 AM, Set: 08:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.05 <strong>PM10:</strong> 45.45</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.65 <strong>PM10:</strong> 44.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹86.5 | 📈 H: ₹87.0 | 📉 L: ₹84.28 <br>♦ ETH: ₹343045.8 | 📈 H: ₹352543.0 | 📉 L: ₹316000.0 <br>₿ BTC: ₹9640000.0 | 📈 H: ₹9720000.0 | 📉 L: ₹8681000.0 <br>⚡ BNB: ₹98500.0 | 📈 H: ₹99000.0 | 📉 L: ₹92000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹86.46 | 📈 H: ₹87.1 | 📉 L: ₹84.28 <br>♦ ETH: ₹350000.0 | 📈 H: ₹352543.0 | 📉 L: ₹322128.0 <br>₿ BTC: ₹9630000.0 | 📈 H: ₹9785280.0 | 📉 L: ₹8681000.0 <br>⚡ BNB: ₹95200.0 | 📈 H: ₹99000.0 | 📉 L: ₹92310.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I checked the terms and conditions of my life, and it says 'nope'. 🛑❌ 
+  I've got to defrost the iceberg in my freezer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
