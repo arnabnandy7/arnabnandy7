@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-27 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 33.6 | 44 | 12.6 | 0 |
 | 2025-10-27 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 34.5 | 42 | 12.2 | 0 |
 | 2025-10-27 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 35.0 | 40 | 11.5 | 0 |
 | 2025-10-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 35.4 | 40 | 10.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-10-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.5 | 31.0 | 53 | 8.6 | 0 |
 | 2025-10-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 30.2 | 54 | 8.6 | 0 |
 | 2025-10-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.3 | 29.7 | 55 | 7.6 | 0 |
+| 2025-10-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 29.3 | 56 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹86.35 | 📈 H: ₹87.25 | 📉 L: ₹84.28 <br>♦ ETH: ₹360100.0 | 📈 H: ₹361029.1 | 📉 L: ₹326500.0 <br>₿ BTC: ₹9898023.0 | 📈 H: ₹9934971.0 | 📉 L: ₹8681000.0 <br>⚡ BNB: ₹98500.28 | 📈 H: ₹99000.0 | 📉 L: ₹92352.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹86.4 | 📈 H: ₹87.25 | 📉 L: ₹84.28 <br>♦ ETH: ₹361615.8 | 📈 H: ₹362000.0 | 📉 L: ₹326500.0 <br>₿ BTC: ₹9898050.0 | 📈 H: ₹9939563.0 | 📉 L: ₹8681000.0 <br>⚡ BNB: ₹98000.0 | 📈 H: ₹99000.0 | 📉 L: ₹92352.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My phone's calendar just facepalmed at me for even considering it. 🛑❌ 
+  I swore an oath that I must decline all requests on a whim. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
