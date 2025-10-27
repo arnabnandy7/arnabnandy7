@@ -18,27 +18,27 @@
   <p>Kolkata, India - 27/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:33 AM, Set: 09:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:33 AM, Set: 09:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 37.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.45 <strong>PM10:</strong> 39.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.95 <strong>PM10:</strong> 39.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.5 | 31.0 | 52 | 8.6 | 0 |
-| 2025-10-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.9 | 30.3 | 53 | 7.9 | 0 |
-| 2025-10-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 29.8 | 54 | 7.2 | 0 |
-| 2025-10-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.8 | 29.1 | 57 | 6.1 | 0 |
-| 2025-10-27 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.1 | 28.5 | 60 | 6.5 | 0 |
-| 2025-10-27 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 28.2 | 63 | 5.4 | 0 |
-| 2025-10-27 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 27.7 | 66 | 2.9 | 0 |
-| 2025-10-28 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.9 | 27.4 | 66 | 4.0 | 0 |
-| 2025-10-28 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.0 | 67 | 6.5 | 0 |
-| 2025-10-28 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 26.5 | 66 | 9.0 | 0 |
+| 2025-10-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.5 | 31.3 | 54 | 9.4 | 0 |
+| 2025-10-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.9 | 30.5 | 55 | 9.0 | 0 |
+| 2025-10-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 29.9 | 56 | 7.9 | 0 |
+| 2025-10-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 29.4 | 57 | 6.8 | 0 |
+| 2025-10-27 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 28.8 | 58 | 5.8 | 0 |
+| 2025-10-27 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 28.2 | 61 | 4.7 | 0 |
+| 2025-10-27 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 27.7 | 64 | 3.2 | 0 |
+| 2025-10-28 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 27.3 | 66 | 1.1 | 0 |
+| 2025-10-28 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.0 | 66 | 5.8 | 0 |
+| 2025-10-28 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 26.6 | 66 | 7.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹87.79 | 📈 H: ₹88.5 | 📉 L: ₹84.99 <br>♦ ETH: ₹361999.9 | 📈 H: ₹362000.0 | 📉 L: ₹330073.1 <br>₿ BTC: ₹9956163.0 | 📈 H: ₹9966867.0 | 📉 L: ₹8681000.0 <br>⚡ BNB: ₹97919.58 | 📈 H: ₹100000.0 | 📉 L: ₹93549.33 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.0 | 📈 H: ₹89.0 | 📉 L: ₹84.99 <br>♦ ETH: ₹359736.0 | 📈 H: ₹368828.2 | 📉 L: ₹330073.1 <br>₿ BTC: ₹9990943.0 | 📈 H: ₹9990943.0 | 📉 L: ₹8681000.0 <br>⚡ BNB: ₹100000.0 | 📈 H: ₹100000.0 | 📉 L: ₹93661.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  With all due respect, no way, José. 🛑❌ 
+  I would join, but then I'd have to recruit you into my plans and you wouldn't like that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
