@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.8 | 34.4 | 49 | 13.3 | 0 |
 | 2025-10-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.6 | 35.4 | 48 | 12.6 | 0 |
 | 2025-10-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.1 | 36.1 | 47 | 11.9 | 0 |
 | 2025-10-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.4 | 36.5 | 46 | 12.2 | 0 |
@@ -35,10 +34,11 @@
 | 2025-10-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 30.1 | 33.0 | 59 | 9.0 | 0 |
 | 2025-10-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.3 | 32.3 | 63 | 9.0 | 100 |
 | 2025-10-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.2 | 31.1 | 69 | 10.4 | 68 |
+| 2025-10-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.5 | 30.4 | 73 | 10.1 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.01 | 📈 H: ₹89.1 | 📉 L: ₹86.01 <br>♦ ETH: ₹354010.2 | 📈 H: ₹369997.9 | 📉 L: ₹350000.1 <br>₿ BTC: ₹9943153.0 | 📈 H: ₹10101000.0 | 📉 L: ₹9275000.0 <br>⚡ BNB: ₹98039.2 | 📈 H: ₹102200.0 | 📉 L: ₹94800.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹87.97 | 📈 H: ₹89.1 | 📉 L: ₹86.01 <br>♦ ETH: ₹354800.0 | 📈 H: ₹369997.9 | 📉 L: ₹350000.1 <br>₿ BTC: ₹9944527.0 | 📈 H: ₹10101000.0 | 📉 L: ₹9275000.0 <br>⚡ BNB: ₹100979.99 | 📈 H: ₹102200.0 | 📉 L: ₹94800.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My friends would have a heart attack if I suddenly said yes to things. 🛑❌ 
+  Just in case you missed it: N as in No, O as in Oh-no-not-today. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
