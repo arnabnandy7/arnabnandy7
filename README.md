@@ -18,14 +18,13 @@
   <p>Kolkata, India - 28/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:21 AM, Set: 10:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 30.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:21 AM, Set: 10:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.65 <strong>PM10:</strong> 10.65</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.55 <strong>PM10:</strong> 11.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 29.6 | 70 | 11.2 | 0 |
 | 2025-10-28 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 29.3 | 73 | 10.4 | 0 |
 | 2025-10-28 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 29.0 | 75 | 9.7 | 0 |
 | 2025-10-29 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 26.4 | 28.8 | 76 | 8.6 | 0 |
@@ -35,10 +34,11 @@
 | 2025-10-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.1 | 28.7 | 80 | 9.7 | 0 |
 | 2025-10-29 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.8 | 28.3 | 81 | 10.1 | 0 |
 | 2025-10-29 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.2 | 28.9 | 81 | 10.4 | 0 |
+| 2025-10-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.7 | 30.9 | 74 | 14.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.69 | 📈 H: ₹89.0 | 📉 L: ₹87.0 <br>♦ ETH: ₹360150.6 | 📈 H: ₹369997.9 | 📉 L: ₹350000.1 <br>₿ BTC: ₹10177243.0 | 📈 H: ₹10178238.0 | 📉 L: ₹9775000.0 <br>⚡ BNB: ₹99150.0 | 📈 H: ₹102000.0 | 📉 L: ₹97410.89 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.66 | 📈 H: ₹89.0 | 📉 L: ₹87.0 <br>♦ ETH: ₹361150.0 | 📈 H: ₹369997.9 | 📉 L: ₹350000.1 <br>₿ BTC: ₹10167000.0 | 📈 H: ₹10178238.0 | 📉 L: ₹9775000.0 <br>⚡ BNB: ₹99100.16 | 📈 H: ₹102000.0 | 📉 L: ₹97410.89 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The word 'yes' gives me hives; I'm avoiding an allergic reaction. 🛑❌ 
+  Look on the bright side: at least I'm consistent in saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
