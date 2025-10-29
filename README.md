@@ -15,30 +15,30 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 28/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:21 AM, Set: 10:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.7 °C  
+  <p>Kolkata, India - 29/10/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:21 AM, Set: 10:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.15 <strong>PM10:</strong> 31.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.65 <strong>PM10:</strong> 24.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-29 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 25.8 | 28.5 | 83 | 7.2 | 100 |
-| 2025-10-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 28.3 | 84 | 9.0 | 77 |
-| 2025-10-29 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.2 | 84 | 10.1 | 68 |
-| 2025-10-29 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.8 | 28.5 | 84 | 10.4 | 69 |
-| 2025-10-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.0 | 28.8 | 83 | 10.1 | 62 |
 | 2025-10-29 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 29.3 | 82 | 10.1 | 100 |
 | 2025-10-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 27.0 | 30.0 | 78 | 11.5 | 100 |
 | 2025-10-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 29.9 | 80 | 12.2 | 100 |
 | 2025-10-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.3 | 28.0 | 88 | 15.5 | 100 |
 | 2025-10-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 24.7 | 27.2 | 88 | 15.5 | 100 |
+| 2025-10-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 24.1 | 26.5 | 90 | 14.0 | 100 |
+| 2025-10-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 24.0 | 26.4 | 90 | 13.7 | 100 |
+| 2025-10-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 24.8 | 27.1 | 86 | 14.8 | 56 |
+| 2025-10-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 24.6 | 27.0 | 87 | 14.0 | 0 |
+| 2025-10-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 24.1 | 26.4 | 89 | 11.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.52 | 📈 H: ₹89.0 | 📉 L: ₹87.53 <br>♦ ETH: ₹353000.0 | 📈 H: ₹365898.9 | 📉 L: ₹350000.1 <br>₿ BTC: ₹10000000.0 | 📈 H: ₹10178238.0 | 📉 L: ₹9775000.0 <br>⚡ BNB: ₹98800.0 | 📈 H: ₹102000.0 | 📉 L: ₹97410.89 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.63 | 📈 H: ₹89.0 | 📉 L: ₹87.63 <br>♦ ETH: ₹351500.0 | 📈 H: ₹365863.4 | 📉 L: ₹350000.1 <br>₿ BTC: ₹9882000.0 | 📈 H: ₹10178238.0 | 📉 L: ₹9775000.0 <br>⚡ BNB: ₹98800.0 | 📈 H: ₹100990.09 | 📉 L: ₹97410.89 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That idea and I go together like oil and water. 🛑❌ 
+  My tarot cards all just collectively sighed. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
