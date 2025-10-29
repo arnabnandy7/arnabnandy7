@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 29/10/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
-  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:05 PM, Set: 11:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:01 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:05 PM, Set: 11:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:01 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.2 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.05 <strong>PM10:</strong> 8.75</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.95 <strong>PM10:</strong> 9.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.0 | 30.0 | 78 | 7.2 | 100 |
-| 2025-10-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.2 | 29.0 | 82 | 8.6 | 100 |
-| 2025-10-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 28.3 | 84 | 10.8 | 100 |
-| 2025-10-29 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.3 | 27.8 | 84 | 10.4 | 87 |
-| 2025-10-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.0 | 27.4 | 85 | 10.1 | 0 |
-| 2025-10-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.9 | 27.2 | 85 | 9.7 | 0 |
-| 2025-10-29 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.7 | 27.0 | 86 | 9.4 | 0 |
-| 2025-10-30 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.5 | 26.9 | 87 | 9.0 | 0 |
-| 2025-10-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.4 | 26.8 | 88 | 9.0 | 0 |
-| 2025-10-30 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 24.4 | 26.8 | 89 | 7.9 | 0 |
+| 2025-10-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 28.8 | 85 | 10.8 | 64 |
+| 2025-10-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.6 | 28.5 | 87 | 10.8 | 0 |
+| 2025-10-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.4 | 88 | 10.1 | 67 |
+| 2025-10-29 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.4 | 88 | 9.4 | 81 |
+| 2025-10-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 25.3 | 28.2 | 88 | 9.4 | 0 |
+| 2025-10-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.1 | 27.9 | 89 | 9.7 | 0 |
+| 2025-10-29 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.0 | 27.7 | 89 | 8.3 | 0 |
+| 2025-10-30 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.9 | 27.6 | 89 | 7.2 | 76 |
+| 2025-10-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.9 | 27.5 | 90 | 6.8 | 65 |
+| 2025-10-30 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.8 | 27.4 | 90 | 6.8 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.66 | 📈 H: ₹89.1 | 📉 L: ₹87.72 <br>♦ ETH: ₹356576.9 | 📈 H: ₹365863.4 | 📉 L: ₹350000.0 <br>₿ BTC: ₹9835107.0 | 📈 H: ₹10178238.0 | 📉 L: ₹9830000.0 <br>⚡ BNB: ₹96398.18 | 📈 H: ₹100940.24 | 📉 L: ₹96010.15 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹88.42 | 📈 H: ₹89.1 | 📉 L: ₹87.72 <br>♦ ETH: ₹355555.0 | 📈 H: ₹365863.4 | 📉 L: ₹350000.0 <br>₿ BTC: ₹9999899.0 | 📈 H: ₹10178238.0 | 📉 L: ₹9830000.0 <br>⚡ BNB: ₹96410.0 | 📈 H: ₹100940.24 | 📉 L: ₹96010.15 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd agree, but I just forgot what you asked, so... no. 🛑❌ 
+  I'd join, but I'm only here to provide witty refusals. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
