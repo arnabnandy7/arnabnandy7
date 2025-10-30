@@ -18,9 +18,9 @@
   <p>Kolkata, India - 30/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:46 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:46 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.25 <strong>PM10:</strong> 41.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.65 <strong>PM10:</strong> 36.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.22 | 📈 H: ₹91.0 | 📉 L: ₹88.57 <br>♦ ETH: ₹337005.1 | 📈 H: ₹352690.6 | 📉 L: ₹335000.0 <br>₿ BTC: ₹9686444.0 | 📈 H: ₹9988988.0 | 📉 L: ₹9000000.0 <br>⚡ BNB: ₹95690.0 | 📈 H: ₹100001.54 | 📉 L: ₹93717.79 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.01 | 📈 H: ₹91.05 | 📉 L: ₹88.57 <br>♦ ETH: ₹337005.1 | 📈 H: ₹352690.6 | 📉 L: ₹335000.0 <br>₿ BTC: ₹9760836.0 | 📈 H: ₹9988988.0 | 📉 L: ₹9000000.0 <br>⚡ BNB: ₹98317.56 | 📈 H: ₹100001.54 | 📉 L: ₹93717.79 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm hard at work doing nothing at all. 🛑❌ 
+  I'd prefer not to injure my will to live by saying yes. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
