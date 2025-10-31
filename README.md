@@ -18,15 +18,13 @@
   <p>Kolkata, India - 31/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:24 PM, Set: 12:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:24 PM, Set: 12:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 46.95 <strong>PM10:</strong> 48.85</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.45 <strong>PM10:</strong> 43.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 28.8 | 92 | 9.4 | 100 |
-| 2025-11-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.6 | 91 | 9.0 | 100 |
 | 2025-11-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.1 | 28.1 | 92 | 9.0 | 100 |
 | 2025-11-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.7 | 29.0 | 90 | 8.6 | 100 |
 | 2025-11-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.7 | 31.8 | 81 | 10.4 | 100 |
@@ -35,10 +33,12 @@
 | 2025-11-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.5 | 36.6 | 62 | 9.4 | 100 |
 | 2025-11-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 37.5 | 57 | 9.7 | 100 |
 | 2025-11-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 38.1 | 54 | 10.1 | 54 |
+| 2025-11-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 38.0 | 53 | 11.2 | 53 |
+| 2025-11-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 37.6 | 58 | 9.7 | 75 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.15 | 📈 H: ₹91.2 | 📉 L: ₹88.11 <br>♦ ETH: ₹338535.0 | 📈 H: ₹350000.0 | 📉 L: ₹335000.1 <br>₿ BTC: ₹9910098.0 | 📈 H: ₹9935280.0 | 📉 L: ₹9559026.0 <br>⚡ BNB: ₹98999.99 | 📈 H: ₹99667.7 | 📉 L: ₹94109.41 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.1 | 📈 H: ₹91.0 | 📉 L: ₹88.11 <br>♦ ETH: ₹349715.9 | 📈 H: ₹350000.0 | 📉 L: ₹335000.1 <br>₿ BTC: ₹9626911.0 | 📈 H: ₹9935280.0 | 📉 L: ₹9559026.0 <br>⚡ BNB: ₹98999.99 | 📈 H: ₹99667.7 | 📉 L: ₹94109.41 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't—my flux capacitor is on the fritz and I can't make it in time. 🛑❌ 
+  Sounds thrilling! I'm already tired just thinking about it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
