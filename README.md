@@ -18,9 +18,9 @@
   <p>Kolkata, India - 31/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:24 PM, Set: 12:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:24 PM, Set: 12:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.45 <strong>PM10:</strong> 43.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.85 <strong>PM10:</strong> 37.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.1 | 📈 H: ₹91.0 | 📉 L: ₹88.11 <br>♦ ETH: ₹349715.9 | 📈 H: ₹350000.0 | 📉 L: ₹335000.1 <br>₿ BTC: ₹9626911.0 | 📈 H: ₹9935280.0 | 📉 L: ₹9559026.0 <br>⚡ BNB: ₹98999.99 | 📈 H: ₹99667.7 | 📉 L: ₹94109.41 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.11 | 📈 H: ₹90.99 | 📉 L: ₹88.11 <br>♦ ETH: ₹338535.0 | 📈 H: ₹350000.0 | 📉 L: ₹335000.1 <br>₿ BTC: ₹9910094.0 | 📈 H: ₹9935280.0 | 📉 L: ₹9559026.0 <br>⚡ BNB: ₹98999.99 | 📈 H: ₹99667.7 | 📉 L: ₹94109.41 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Sounds thrilling! I'm already tired just thinking about it. 🛑❌ 
+  I have to consult Doctor Strange about attending (he foresaw that I don't). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
