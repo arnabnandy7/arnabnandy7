@@ -18,14 +18,13 @@
   <p>Kolkata, India - 31/10/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:24 PM, Set: 12:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:24 PM, Set: 12:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.15 <strong>PM10:</strong> 20.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.35 <strong>PM10:</strong> 20.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-10-31 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 30.0 | 87 | 11.2 | 64 |
 | 2025-10-31 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 29.8 | 88 | 10.8 | 100 |
 | 2025-10-31 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 29.3 | 90 | 10.4 | 83 |
 | 2025-11-01 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 29.3 | 91 | 10.1 | 100 |
@@ -35,10 +34,11 @@
 | 2025-11-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 28.6 | 91 | 9.0 | 100 |
 | 2025-11-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.1 | 28.1 | 92 | 9.0 | 100 |
 | 2025-11-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.7 | 29.0 | 90 | 8.6 | 100 |
+| 2025-11-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.7 | 31.8 | 81 | 10.4 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.71 | 📈 H: ₹91.2 | 📉 L: ₹89.21 <br>♦ ETH: ₹341200.0 | 📈 H: ₹349998.9 | 📉 L: ₹335000.0 <br>₿ BTC: ₹9905000.0 | 📈 H: ₹9907796.0 | 📉 L: ₹9000000.0 <br>⚡ BNB: ₹99290.07 | 📈 H: ₹99667.7 | 📉 L: ₹93717.79 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.43 | 📈 H: ₹91.2 | 📉 L: ₹89.21 <br>♦ ETH: ₹342500.0 | 📈 H: ₹349998.9 | 📉 L: ₹335000.1 <br>₿ BTC: ₹9810000.0 | 📈 H: ₹9927052.0 | 📉 L: ₹9000000.0 <br>⚡ BNB: ₹97421.51 | 📈 H: ₹99667.7 | 📉 L: ₹93717.79 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain's hard drive is full; there's no room for that task. 🛑❌ 
+  Aliens invited me to a galaxy party, and I already RSVP'd yes to them. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
