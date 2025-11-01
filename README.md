@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 01/11/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:59 PM, Set: 01:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:59 PM, Set: 01:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 28.1 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.95 <strong>PM10:</strong> 23.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.8 | 26.1 | 90 | 13.3 | 100 |
-| 2025-11-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.5 | 25.8 | 90 | 11.9 | 100 |
 | 2025-11-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 23.3 | 25.6 | 90 | 11.5 | 100 |
 | 2025-11-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 23.7 | 25.9 | 87 | 10.1 | 0 |
 | 2025-11-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 24.4 | 26.5 | 83 | 14.4 | 0 |
@@ -35,10 +33,12 @@
 | 2025-11-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 27.8 | 30.3 | 68 | 13.7 | 0 |
 | 2025-11-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.1 | 32.0 | 63 | 15.1 | 0 |
 | 2025-11-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.2 | 31.8 | 61 | 13.7 | 74 |
+| 2025-11-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.4 | 31.9 | 59 | 13.3 | 0 |
+| 2025-11-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.2 | 33.1 | 58 | 14.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.48 | 📈 H: ₹90.7 | 📉 L: ₹88.76 <br>♦ ETH: ₹348000.0 | 📈 H: ₹350007.5 | 📉 L: ₹338000.0 <br>₿ BTC: ₹9900000.0 | 📈 H: ₹9919899.0 | 📉 L: ₹9621081.0 <br>⚡ BNB: ₹96019.47 | 📈 H: ₹98999.99 | 📉 L: ₹95500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.62 | 📈 H: ₹90.7 | 📉 L: ₹88.93 <br>♦ ETH: ₹345000.0 | 📈 H: ₹350007.5 | 📉 L: ₹338000.0 <br>₿ BTC: ₹9814601.0 | 📈 H: ₹9919899.0 | 📉 L: ₹9621081.0 <br>⚡ BNB: ₹96019.47 | 📈 H: ₹98999.99 | 📉 L: ₹95500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm the wrong person for the job; I'm the right person for saying no. 🛑❌ 
+  Actually, I was planning to count sand grains, which sounds more fun. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
