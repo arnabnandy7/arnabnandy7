@@ -20,12 +20,11 @@
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
   🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:59 PM, Set: 01:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.15 <strong>PM10:</strong> 24.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.95 <strong>PM10:</strong> 23.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.1 | 26.5 | 91 | 14.0 | 74 |
 | 2025-11-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.8 | 26.1 | 90 | 13.3 | 100 |
 | 2025-11-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.5 | 25.8 | 90 | 11.9 | 100 |
 | 2025-11-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 23.3 | 25.6 | 90 | 11.5 | 100 |
@@ -35,10 +34,11 @@
 | 2025-11-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.5 | 28.7 | 73 | 14.8 | 0 |
 | 2025-11-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 27.8 | 30.3 | 68 | 13.7 | 0 |
 | 2025-11-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.1 | 32.0 | 63 | 15.1 | 0 |
+| 2025-11-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.2 | 31.8 | 61 | 13.7 | 74 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.02 | 📈 H: ₹90.7 | 📉 L: ₹88.67 <br>♦ ETH: ₹348749.9 | 📈 H: ₹350007.5 | 📉 L: ₹338000.0 <br>₿ BTC: ₹9900000.0 | 📈 H: ₹9919899.0 | 📉 L: ₹9621081.0 <br>⚡ BNB: ₹96000.01 | 📈 H: ₹98999.99 | 📉 L: ₹95500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.48 | 📈 H: ₹90.7 | 📉 L: ₹88.76 <br>♦ ETH: ₹348000.0 | 📈 H: ₹350007.5 | 📉 L: ₹338000.0 <br>₿ BTC: ₹9900000.0 | 📈 H: ₹9919899.0 | 📉 L: ₹9621081.0 <br>⚡ BNB: ₹96019.47 | 📈 H: ₹98999.99 | 📉 L: ₹95500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My friends would have a heart attack if I suddenly said yes to things. 🛑❌ 
+  I'm the wrong person for the job; I'm the right person for saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
