@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.5 | 36.6 | 62 | 9.4 | 100 |
 | 2025-11-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 37.5 | 57 | 9.7 | 100 |
 | 2025-11-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 38.1 | 54 | 10.1 | 54 |
 | 2025-11-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 38.0 | 53 | 11.2 | 53 |
@@ -35,10 +34,11 @@
 | 2025-11-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.0 | 33.9 | 65 | 9.7 | 64 |
 | 2025-11-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.2 | 32.9 | 69 | 10.4 | 100 |
 | 2025-11-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.1 | 31.7 | 74 | 10.8 | 100 |
+| 2025-11-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 30.9 | 78 | 10.1 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.0 | 📈 H: ₹90.99 | 📉 L: ₹88.11 <br>♦ ETH: ₹340104.3 | 📈 H: ₹350000.0 | 📉 L: ₹335567.6 <br>₿ BTC: ₹9872998.0 | 📈 H: ₹9935280.0 | 📉 L: ₹9562974.0 <br>⚡ BNB: ₹96000.0 | 📈 H: ₹99667.7 | 📉 L: ₹94467.95 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.44 | 📈 H: ₹90.99 | 📉 L: ₹88.11 <br>♦ ETH: ₹338000.0 | 📈 H: ₹350000.0 | 📉 L: ₹335567.6 <br>₿ BTC: ₹9744503.0 | 📈 H: ₹9935280.0 | 📉 L: ₹9562974.0 <br>⚡ BNB: ₹95500.01 | 📈 H: ₹99667.7 | 📉 L: ₹94467.95 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Please excuse me, my brain is currently out of order. 🛑❌ 
+  I'd say yes, but then it wouldn't be fair to the others when I excel effortlessly. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
