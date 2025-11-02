@@ -20,13 +20,11 @@
   <p>Clear  (পরিষ্কার)</p>
   🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:35 PM, Set: 02:01 AM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 28.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.25 <strong>PM10:</strong> 32.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.85 <strong>PM10:</strong> 34.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 26.3 | 79 | 11.2 | 0 |
-| 2025-11-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 25.9 | 81 | 10.8 | 0 |
 | 2025-11-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.6 | 84 | 9.7 | 0 |
 | 2025-11-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.5 | 86 | 9.4 | 0 |
 | 2025-11-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 25.3 | 88 | 9.7 | 0 |
@@ -35,10 +33,12 @@
 | 2025-11-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.8 | 90 | 9.4 | 0 |
 | 2025-11-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.7 | 90 | 9.0 | 0 |
 | 2025-11-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.9 | 25.1 | 88 | 8.3 | 0 |
+| 2025-11-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 26.6 | 79 | 10.4 | 0 |
+| 2025-11-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 28.3 | 70 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.21 | 📈 H: ₹90.5 | 📉 L: ₹89.1 <br>♦ ETH: ₹344675.1 | 📈 H: ₹350007.5 | 📉 L: ₹341600.1 <br>₿ BTC: ₹9919670.0 | 📈 H: ₹9989987.0 | 📉 L: ₹9703000.0 <br>⚡ BNB: ₹96268.01 | 📈 H: ₹98671.87 | 📉 L: ₹95765.92 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.01 | 📈 H: ₹90.5 | 📉 L: ₹89.1 <br>♦ ETH: ₹344675.0 | 📈 H: ₹349290.0 | 📉 L: ₹341600.1 <br>₿ BTC: ₹9777199.0 | 📈 H: ₹9989987.0 | 📉 L: ₹9703000.0 <br>⚡ BNB: ₹97839.0 | 📈 H: ₹98671.87 | 📉 L: ₹95765.95 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain is at full capacity with useless information, there's no room for new tasks. 🛑❌ 
+  My personal assistant (who's imaginary) already declined for me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
