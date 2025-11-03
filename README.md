@@ -18,14 +18,13 @@
   <p>Kolkata, India - 03/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:12 PM, Set: 03:02 AM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 26.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:12 PM, Set: 03:02 AM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 27.2 °C  
 
   <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 89.35 <strong>PM10:</strong> 89.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 30.7 | 50 | 16.2 | 0 |
 | 2025-11-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 31.0 | 44 | 16.9 | 0 |
 | 2025-11-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 31.0 | 41 | 16.9 | 0 |
 | 2025-11-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 30.7 | 39 | 17.6 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.6 | 26.3 | 49 | 11.2 | 0 |
 | 2025-11-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 25.8 | 50 | 10.1 | 0 |
 | 2025-11-03 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.5 | 51 | 9.7 | 0 |
+| 2025-11-03 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.2 | 52 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.22 | 📈 H: ₹90.5 | 📉 L: ₹89.13 <br>♦ ETH: ₹340999.8 | 📈 H: ₹352000.0 | 📉 L: ₹340999.8 <br>₿ BTC: ₹9800009.0 | 📈 H: ₹9989987.0 | 📉 L: ₹9770000.0 <br>⚡ BNB: ₹96000.0 | 📈 H: ₹98098.19 | 📉 L: ₹95667.85 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.6 | 📈 H: ₹90.74 | 📉 L: ₹89.13 <br>♦ ETH: ₹339966.0 | 📈 H: ₹352000.0 | 📉 L: ₹338000.0 <br>₿ BTC: ₹9700000.0 | 📈 H: ₹9989987.0 | 📉 L: ₹9700000.0 <br>⚡ BNB: ₹95400.0 | 📈 H: ₹98098.19 | 📉 L: ₹95400.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My couch has declared a no-travel zone and I'm abiding. 🛑❌ 
+  My knee-jerk reaction is no, and my knee is feeling particularly jerky. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
