@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 03/11/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
-  <p>Mist (হাল্কা কুয়াশা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:12 PM, Set: 03:02 AM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 26.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:12 PM, Set: 03:02 AM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 26.3 °C  
 
   <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 151.75 <strong>PM10:</strong> 185.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-04 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 25.3 | 24.5 | 79 | 9.4 | 0 |
-| 2025-11-04 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 62 | 9.4 | 0 |
 | 2025-11-04 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 63 | 9.4 | 0 |
 | 2025-11-04 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 64 | 9.4 | 0 |
 | 2025-11-04 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 66 | 9.4 | 0 |
@@ -35,10 +33,12 @@
 | 2025-11-04 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 25.9 | 55 | 11.2 | 0 |
 | 2025-11-04 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 27.3 | 50 | 11.9 | 0 |
 | 2025-11-04 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 28.3 | 47 | 13.0 | 0 |
+| 2025-11-04 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 29.0 | 45 | 13.0 | 0 |
+| 2025-11-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 29.4 | 43 | 13.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.7 | 📈 H: ₹92.0 | 📉 L: ₹89.7 <br>♦ ETH: ₹327500.0 | 📈 H: ₹352000.0 | 📉 L: ₹320000.0 <br>₿ BTC: ₹9610005.0 | 📈 H: ₹9938000.0 | 📉 L: ₹9012700.0 <br>⚡ BNB: ₹93875.0 | 📈 H: ₹97751.09 | 📉 L: ₹89999.99 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.0 | 📈 H: ₹92.0 | 📉 L: ₹89.7 <br>♦ ETH: ₹332999.6 | 📈 H: ₹352000.0 | 📉 L: ₹320000.0 <br>₿ BTC: ₹9613001.0 | 📈 H: ₹9938000.0 | 📉 L: ₹9012700.0 <br>⚡ BNB: ₹93875.0 | 📈 H: ₹97751.09 | 📉 L: ₹89999.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain highlighted that request and hit the delete key. 🛑❌ 
+  Saying yes is on my list of things to quit. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
