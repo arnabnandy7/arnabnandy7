@@ -18,14 +18,13 @@
   <p>Kolkata, India - 04/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:52 PM, Set: 04:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 28.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:52 PM, Set: 04:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 28.3 °C  
 
   <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 100.05 <strong>PM10:</strong> 131.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 25.2 | 54 | 7.6 | 0 |
 | 2025-11-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 25.0 | 55 | 7.6 | 0 |
 | 2025-11-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 24.8 | 56 | 7.2 | 0 |
 | 2025-11-04 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.6 | 58 | 7.2 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-05 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 64 | 10.4 | 0 |
 | 2025-11-05 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 65 | 8.3 | 0 |
 | 2025-11-05 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 66 | 7.6 | 0 |
+| 2025-11-05 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.6 | 20.6 | 67 | 7.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.58 | 📈 H: ₹92.0 | 📉 L: ₹90.21 <br>♦ ETH: ₹316256.0 | 📈 H: ₹339355.6 | 📉 L: ₹311033.0 <br>₿ BTC: ₹9510088.0 | 📈 H: ₹9824997.0 | 📉 L: ₹9399999.0 <br>⚡ BNB: ₹86100.0 | 📈 H: ₹93967.99 | 📉 L: ₹86100.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.17 | 📈 H: ₹92.0 | 📉 L: ₹90.36 <br>♦ ETH: ₹319022.5 | 📈 H: ₹338731.7 | 📉 L: ₹311033.0 <br>₿ BTC: ₹9341001.0 | 📈 H: ₹9824983.0 | 📉 L: ₹9321000.0 <br>⚡ BNB: ₹86101.0 | 📈 H: ₹93967.99 | 📉 L: ₹86100.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Aliens invited me to a galaxy party, and I already RSVP'd yes to them. 🛑❌ 
+  I promised my online friends I'd keep the server alive by staying on. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
