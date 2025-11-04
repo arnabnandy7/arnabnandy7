@@ -18,9 +18,9 @@
   <p>Kolkata, India - 04/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:52 PM, Set: 04:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 25.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:52 PM, Set: 04:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 25.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 143.35 <strong>PM10:</strong> 168.05</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 137.25 <strong>PM10:</strong> 160.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.01 | 📈 H: ₹93.2 | 📉 L: ₹90.51 <br>♦ ETH: ₹305361.7 | 📈 H: ₹334900.3 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9300699.0 | 📈 H: ₹9801914.0 | 📉 L: ₹9265000.0 <br>⚡ BNB: ₹86000.0 | 📈 H: ₹93856.22 | 📉 L: ₹80723.03 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.01 | 📈 H: ₹93.2 | 📉 L: ₹90.51 <br>♦ ETH: ₹295500.1 | 📈 H: ₹334900.3 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9300000.0 | 📈 H: ₹9801914.0 | 📉 L: ₹9265000.0 <br>⚡ BNB: ₹86000.0 | 📈 H: ₹93856.22 | 📉 L: ₹80723.03 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In a different season of life, I might say yes—but not right now. 🛑❌ 
+  I want to say yes, but my common sense is yelling 'no' repeatedly. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
