@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-04 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 28.4 | 46 | 13.0 | 0 |
 | 2025-11-04 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 29.2 | 42 | 13.3 | 0 |
 | 2025-11-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 29.5 | 39 | 13.3 | 0 |
 | 2025-11-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 29.5 | 38 | 13.7 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-04 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.3 | 26.2 | 52 | 11.5 | 0 |
 | 2025-11-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 25.9 | 53 | 10.4 | 0 |
 | 2025-11-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 25.6 | 53 | 8.3 | 0 |
+| 2025-11-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 25.4 | 53 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.52 | 📈 H: ₹92.0 | 📉 L: ₹89.76 <br>♦ ETH: ₹329026.1 | 📈 H: ₹344352.6 | 📉 L: ₹320000.0 <br>₿ BTC: ₹9700517.0 | 📈 H: ₹9875999.0 | 📉 L: ₹9012700.0 <br>⚡ BNB: ₹90011.04 | 📈 H: ₹96000.0 | 📉 L: ₹89999.99 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.13 | 📈 H: ₹92.0 | 📉 L: ₹89.76 <br>♦ ETH: ₹329200.0 | 📈 H: ₹340000.0 | 📉 L: ₹320000.0 <br>₿ BTC: ₹9795000.0 | 📈 H: ₹9875999.0 | 📉 L: ₹9012700.0 <br>⚡ BNB: ₹90011.04 | 📈 H: ₹95500.0 | 📉 L: ₹89999.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I were any more indifferent, I'd be a statue. 🛑❌ 
+  I would join, but then I'd have to recruit you into my plans and you wouldn't like that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
