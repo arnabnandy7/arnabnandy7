@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 28.0 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 27.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 93.25 <strong>PM10:</strong> 106.05</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 117.75 <strong>PM10:</strong> 131.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.7 | 56 | 7.9 | 0 |
 | 2025-11-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 24.6 | 57 | 7.6 | 0 |
 | 2025-11-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 58 | 7.2 | 0 |
 | 2025-11-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 59 | 6.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.2 | 21.2 | 63 | 5.8 | 0 |
 | 2025-11-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.6 | 25.1 | 56 | 6.5 | 0 |
 | 2025-11-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 26.3 | 49 | 7.9 | 0 |
+| 2025-11-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 27.7 | 45 | 8.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.67 | 📈 H: ₹93.38 | 📉 L: ₹91.13 <br>♦ ETH: ₹316000.0 | 📈 H: ₹317000.0 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9650100.0 | 📈 H: ₹9689999.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹89000.0 | 📈 H: ₹89982.0 | 📉 L: ₹80723.03 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.7 | 📈 H: ₹93.38 | 📉 L: ₹91.25 <br>♦ ETH: ₹323241.0 | 📈 H: ₹323370.4 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9709378.0 | 📈 H: ₹9709378.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹87418.05 | 📈 H: ₹90075.14 | 📉 L: ₹80723.03 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My inner voice is just screaming 'NOOOO' Darth Vader-style. 🛑❌ 
+  I'm having an out-of-body experience and I'm not back yet. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
