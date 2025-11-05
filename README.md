@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 29.2 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 62% | 🌡️ <strong>Feels Like:</strong> 29.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.15 <strong>PM10:</strong> 93.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 81.65 <strong>PM10:</strong> 96.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.0 | 52 | 5.0 | 0 |
 | 2025-11-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.8 | 54 | 6.8 | 0 |
 | 2025-11-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.7 | 56 | 7.9 | 0 |
 | 2025-11-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 24.6 | 57 | 7.6 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 62 | 6.1 | 0 |
 | 2025-11-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 63 | 6.1 | 0 |
 | 2025-11-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.2 | 21.2 | 63 | 5.8 | 0 |
+| 2025-11-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.6 | 25.1 | 56 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.0 | 📈 H: ₹93.2 | 📉 L: ₹91.06 <br>♦ ETH: ₹311172.9 | 📈 H: ₹324998.6 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9529733.0 | 📈 H: ₹9599995.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹88366.93 | 📈 H: ₹88736.47 | 📉 L: ₹80723.03 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.62 | 📈 H: ₹93.2 | 📉 L: ₹91.06 <br>♦ ETH: ₹307000.0 | 📈 H: ₹324998.6 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9510089.0 | 📈 H: ₹9689027.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹89675.42 | 📈 H: ₹89675.42 | 📉 L: ₹80723.03 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm deferring my yes until a year that doesn't exist. 🛑❌ 
+  Do pigs fly? Only then would I do that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
