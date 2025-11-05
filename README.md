@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 05/11/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 49% | 🌡️ <strong>Feels Like:</strong> 29.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 31.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 103.55 <strong>PM10:</strong> 122.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 101.25 <strong>PM10:</strong> 115.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 27.5 | 47 | 8.6 | 0 |
-| 2025-11-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 26.1 | 48 | 8.3 | 0 |
-| 2025-11-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 25.7 | 50 | 7.6 | 0 |
-| 2025-11-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 25.4 | 51 | 7.2 | 0 |
-| 2025-11-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 25.2 | 52 | 7.2 | 0 |
-| 2025-11-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.9 | 54 | 7.2 | 0 |
-| 2025-11-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 24.7 | 56 | 8.3 | 0 |
-| 2025-11-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 24.6 | 58 | 9.0 | 0 |
-| 2025-11-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 59 | 9.0 | 0 |
-| 2025-11-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 61 | 9.4 | 0 |
+| 2025-11-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 26.0 | 48 | 8.3 | 0 |
+| 2025-11-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 25.6 | 49 | 6.5 | 0 |
+| 2025-11-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 25.4 | 50 | 4.7 | 0 |
+| 2025-11-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.2 | 51 | 3.2 | 0 |
+| 2025-11-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.0 | 52 | 5.0 | 0 |
+| 2025-11-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.8 | 54 | 6.8 | 0 |
+| 2025-11-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.7 | 56 | 7.9 | 0 |
+| 2025-11-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 24.6 | 57 | 7.6 | 0 |
+| 2025-11-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 58 | 7.2 | 0 |
+| 2025-11-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 59 | 6.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.24 | 📈 H: ₹93.2 | 📉 L: ₹91.02 <br>♦ ETH: ₹307000.0 | 📈 H: ₹324998.6 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9325410.0 | 📈 H: ₹9555904.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹84751.79 | 📈 H: ₹88475.14 | 📉 L: ₹80723.03 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.51 | 📈 H: ₹93.2 | 📉 L: ₹91.02 <br>♦ ETH: ₹304000.0 | 📈 H: ₹324998.6 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9305408.0 | 📈 H: ₹9550247.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹88444.71 | 📈 H: ₹88475.14 | 📉 L: ₹80723.03 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The frog I was supposed to kiss to become a prince gave me a rain check. 🛑❌ 
+  I'm part of a top-secret project called Project No. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
