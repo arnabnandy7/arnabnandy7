@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 27.9 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:36 PM, Set: 05:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 55% | 🌡️ <strong>Feels Like:</strong> 28.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 120.95 <strong>PM10:</strong> 135.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 118.15 <strong>PM10:</strong> 130.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 29.5 | 35 | 11.5 | 0 |
 | 2025-11-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.8 | 29.3 | 36 | 10.8 | 0 |
 | 2025-11-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 29.2 | 41 | 9.7 | 0 |
 | 2025-11-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 27.5 | 47 | 8.6 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 25.2 | 52 | 7.2 | 0 |
 | 2025-11-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.9 | 54 | 7.2 | 0 |
 | 2025-11-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 24.7 | 56 | 8.3 | 0 |
+| 2025-11-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 24.6 | 58 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.5 | 📈 H: ₹93.2 | 📉 L: ₹91.02 <br>♦ ETH: ₹307000.0 | 📈 H: ₹324998.6 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9301005.0 | 📈 H: ₹9611927.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹84050.0 | 📈 H: ₹88889.0 | 📉 L: ₹80723.03 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.21 | 📈 H: ₹93.2 | 📉 L: ₹91.02 <br>♦ ETH: ₹301651.1 | 📈 H: ₹324998.6 | 📉 L: ₹294300.5 <br>₿ BTC: ₹9487416.0 | 📈 H: ₹9600000.0 | 📉 L: ₹9200000.0 <br>⚡ BNB: ₹84050.01 | 📈 H: ₹88889.0 | 📉 L: ₹80723.03 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I only operate heavy machinery (like my couch) under supervision, so I can't go. 🛑❌ 
+  I just came down with a severe case of Not-Today-itis. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
