@@ -18,9 +18,9 @@
   <p>Kolkata, India - 06/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 05:28 PM, Set: 06:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 05:28 PM, Set: 06:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 62% | 🌡️ <strong>Feels Like:</strong> 31.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 76.95 <strong>PM10:</strong> 84.25</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.35 <strong>PM10:</strong> 69.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.04 | 📈 H: ₹93.5 | 📉 L: ₹92.31 <br>♦ ETH: ₹315567.5 | 📈 H: ₹323370.4 | 📉 L: ₹302000.0 <br>₿ BTC: ₹9600000.0 | 📈 H: ₹9794000.0 | 📉 L: ₹9305409.0 <br>⚡ BNB: ₹90971.8 | 📈 H: ₹90980.9 | 📉 L: ₹84766.97 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.07 | 📈 H: ₹93.5 | 📉 L: ₹92.33 <br>♦ ETH: ₹315000.0 | 📈 H: ₹323370.4 | 📉 L: ₹302000.0 <br>₿ BTC: ₹9635377.0 | 📈 H: ₹9794000.0 | 📉 L: ₹9305409.0 <br>⚡ BNB: ₹86236.14 | 📈 H: ₹90980.9 | 📉 L: ₹84766.97 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My destiny lies elsewhere—specifically, on my couch. 🛑❌ 
+  I need to finish an intense session of doing nothing at all. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
