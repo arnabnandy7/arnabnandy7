@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 05:28 PM, Set: 06:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 29.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 05:28 PM, Set: 06:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.85 <strong>PM10:</strong> 62.05</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.65 <strong>PM10:</strong> 63.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-06 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 25.9 | 57 | 4.7 | 0 |
 | 2025-11-06 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.7 | 58 | 6.1 | 0 |
 | 2025-11-06 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.4 | 61 | 6.8 | 0 |
 | 2025-11-06 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.2 | 64 | 9.4 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.7 | 75 | 11.2 | 0 |
 | 2025-11-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.6 | 76 | 9.4 | 0 |
 | 2025-11-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 24.6 | 75 | 9.7 | 0 |
+| 2025-11-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.6 | 24.8 | 74 | 9.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.97 | 📈 H: ₹93.5 | 📉 L: ₹92.28 <br>♦ ETH: ₹314999.9 | 📈 H: ₹323370.4 | 📉 L: ₹302000.0 <br>₿ BTC: ₹9558468.0 | 📈 H: ₹9794000.0 | 📉 L: ₹9400000.0 <br>⚡ BNB: ₹86689.21 | 📈 H: ₹90980.9 | 📉 L: ₹84766.97 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.66 | 📈 H: ₹93.5 | 📉 L: ₹92.28 <br>♦ ETH: ₹310124.6 | 📈 H: ₹323370.4 | 📉 L: ₹302000.0 <br>₿ BTC: ₹9558468.0 | 📈 H: ₹9794000.0 | 📉 L: ₹9400000.0 <br>⚡ BNB: ₹86027.81 | 📈 H: ₹90980.9 | 📉 L: ₹84766.97 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My current philosophy: if it requires pants, it's a no. 🛑❌ 
+  The police told me I'm too interesting to attend normal gatherings. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
