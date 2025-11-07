@@ -20,7 +20,7 @@
   <p>Clear  (পরিষ্কার)</p>
   🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:25 PM, Set: 07:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 25.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 105.15 <strong>PM10:</strong> 108.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 111.65 <strong>PM10:</strong> 114.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.26 | 📈 H: ₹93.41 | 📉 L: ₹92.04 <br>♦ ETH: ₹314945.8 | 📈 H: ₹317481.9 | 📉 L: ₹298000.0 <br>₿ BTC: ₹9449840.0 | 📈 H: ₹9499976.0 | 📉 L: ₹9223799.0 <br>⚡ BNB: ₹86608.66 | 📈 H: ₹90000.0 | 📉 L: ₹85242.9 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.15 | 📈 H: ₹93.41 | 📉 L: ₹92.04 <br>♦ ETH: ₹317936.4 | 📈 H: ₹317936.4 | 📉 L: ₹298000.0 <br>₿ BTC: ₹9430394.0 | 📈 H: ₹9500000.0 | 📉 L: ₹9223799.0 <br>⚡ BNB: ₹87000.01 | 📈 H: ₹90000.0 | 📉 L: ₹85242.9 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My secret lair needs tending to at that time. 🛑❌ 
+  How about I promise to think about it? (I won't, but it sounds polite.) 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
