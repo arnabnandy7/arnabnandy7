@@ -18,14 +18,13 @@
   <p>Kolkata, India - 07/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:25 PM, Set: 07:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 30.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:25 PM, Set: 07:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 29.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.45 <strong>PM10:</strong> 59.75</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 63.05 <strong>PM10:</strong> 65.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-07 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 25.1 | 65 | 11.9 | 0 |
 | 2025-11-07 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 24.8 | 64 | 13.0 | 0 |
 | 2025-11-08 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.6 | 64 | 13.7 | 0 |
 | 2025-11-08 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 63 | 13.3 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-08 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 61 | 13.3 | 0 |
 | 2025-11-08 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.1 | 20.1 | 63 | 13.3 | 0 |
 | 2025-11-08 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.4 | 24.6 | 55 | 15.5 | 0 |
+| 2025-11-08 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 25.5 | 47 | 18.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.6 | 📈 H: ₹93.58 | 📉 L: ₹92.04 <br>♦ ETH: ₹304796.6 | 📈 H: ₹314585.6 | 📉 L: ₹298000.0 <br>₿ BTC: ₹9311835.0 | 📈 H: ₹9648989.0 | 📉 L: ₹9223799.0 <br>⚡ BNB: ₹86500.0 | 📈 H: ₹89000.0 | 📉 L: ₹86500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.54 | 📈 H: ₹93.55 | 📉 L: ₹92.04 <br>♦ ETH: ₹304970.8 | 📈 H: ₹313891.4 | 📉 L: ₹298000.0 <br>₿ BTC: ₹9400000.0 | 📈 H: ₹9500797.0 | 📉 L: ₹9223799.0 <br>⚡ BNB: ₹88000.0 | 📈 H: ₹89000.0 | 📉 L: ₹86050.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, pursuing this isn't something I can commit to. 🛑❌ 
+  Channeling Opposite Nike: 'Just don't do it.' 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
