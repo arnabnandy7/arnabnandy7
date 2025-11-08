@@ -17,16 +17,14 @@
 <div align="center">
   <p>Kolkata, India - 08/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:30 PM, Set: 08:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 38% | 🌡️ <strong>Feels Like:</strong> 31.4 °C  
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:30 PM, Set: 08:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 40% | 🌡️ <strong>Feels Like:</strong> 29.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.05 <strong>PM10:</strong> 60.35</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 46.95 <strong>PM10:</strong> 55.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-08 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 25.7 | 48 | 13.0 | 0 |
-| 2025-11-08 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 25.3 | 50 | 12.2 | 0 |
 | 2025-11-08 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.0 | 51 | 12.2 | 0 |
 | 2025-11-08 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 24.7 | 53 | 13.0 | 0 |
 | 2025-11-08 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 22.0 | 56 | 12.6 | 0 |
@@ -35,10 +33,12 @@
 | 2025-11-09 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 60 | 13.0 | 0 |
 | 2025-11-09 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.6 | 59 | 13.3 | 0 |
 | 2025-11-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.1 | 19.1 | 57 | 12.6 | 0 |
+| 2025-11-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.6 | 18.6 | 55 | 12.6 | 0 |
+| 2025-11-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 55 | 12.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.69 | 📈 H: ₹93.27 | 📉 L: ₹91.42 <br>♦ ETH: ₹317850.0 | 📈 H: ₹320000.0 | 📉 L: ₹298000.0 <br>₿ BTC: ₹9449999.0 | 📈 H: ₹9600000.0 | 📉 L: ₹9223799.0 <br>⚡ BNB: ₹89500.0 | 📈 H: ₹92000.0 | 📉 L: ₹85242.9 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.1 | 📈 H: ₹93.27 | 📉 L: ₹91.42 <br>♦ ETH: ₹313713.0 | 📈 H: ₹320000.0 | 📉 L: ₹298559.4 <br>₿ BTC: ₹9443619.0 | 📈 H: ₹9600000.0 | 📉 L: ₹9223799.0 <br>⚡ BNB: ₹91500.0 | 📈 H: ₹92000.0 | 📉 L: ₹85242.9 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do. 🛑❌ 
+  I didn't choose the no life; the no life chose me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
