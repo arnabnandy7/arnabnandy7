@@ -15,19 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 08/11/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:30 PM, Set: 08:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
+  <p>Kolkata, India - 09/11/2025</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:30 PM, Set: 08:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.95 <strong>PM10:</strong> 81.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.35 <strong>PM10:</strong> 78.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 55 | 11.2 | 0 |
-| 2025-11-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.2 | 18.3 | 58 | 11.2 | 0 |
-| 2025-11-09 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.8 | 20.8 | 52 | 12.2 | 0 |
 | 2025-11-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.2 | 24.7 | 47 | 13.3 | 0 |
 | 2025-11-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 25.6 | 43 | 14.0 | 0 |
 | 2025-11-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 26.7 | 39 | 15.1 | 0 |
@@ -35,10 +32,13 @@
 | 2025-11-09 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 28.0 | 34 | 16.6 | 0 |
 | 2025-11-09 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 28.3 | 33 | 16.2 | 0 |
 | 2025-11-09 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 28.2 | 33 | 15.5 | 0 |
+| 2025-11-09 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 27.9 | 38 | 14.4 | 0 |
+| 2025-11-09 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 26.2 | 46 | 13.0 | 0 |
+| 2025-11-09 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 25.2 | 48 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.0 | 📈 H: ₹92.66 | 📉 L: ₹91.42 <br>♦ ETH: ₹315395.5 | 📈 H: ₹320000.0 | 📉 L: ₹310049.6 <br>₿ BTC: ₹9365486.0 | 📈 H: ₹9600000.0 | 📉 L: ₹9241143.0 <br>⚡ BNB: ₹89750.0 | 📈 H: ₹92000.0 | 📉 L: ₹87000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.82 | 📈 H: ₹92.66 | 📉 L: ₹91.42 <br>♦ ETH: ₹310752.3 | 📈 H: ₹320000.0 | 📉 L: ₹306074.8 <br>₿ BTC: ₹9443616.0 | 📈 H: ₹9490710.0 | 📉 L: ₹9241143.0 <br>⚡ BNB: ₹90000.0 | 📈 H: ₹92450.0 | 📉 L: ₹88052.84 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm communicating with extraterrestrials at that time, Earth events must wait. 🛑❌ 
+  Can I take a rain check and then lose it forever? 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
