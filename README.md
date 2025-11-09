@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 09/11/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:37 PM, Set: 09:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:46 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 25.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:37 PM, Set: 09:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:46 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 25.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 97.95 <strong>PM10:</strong> 103.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 127.55 <strong>PM10:</strong> 133.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.7 | 62 | 10.1 | 0 |
+| 2025-11-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 24.4 | 19.7 | 65 | 10.1 | 0 |
 | 2025-11-10 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 63 | 10.4 | 0 |
 | 2025-11-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.9 | 18.9 | 64 | 10.4 | 0 |
 | 2025-11-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 63 | 10.8 | 0 |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.09 | 📈 H: ₹92.62 | 📉 L: ₹91.13 <br>♦ ETH: ₹322000.0 | 📈 H: ₹325925.9 | 📉 L: ₹306074.8 <br>₿ BTC: ₹9484852.0 | 📈 H: ₹9599000.0 | 📉 L: ₹9314138.0 <br>⚡ BNB: ₹90019.0 | 📈 H: ₹92450.0 | 📉 L: ₹89500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.33 | 📈 H: ₹92.62 | 📉 L: ₹91.13 <br>♦ ETH: ₹325431.0 | 📈 H: ₹325925.9 | 📉 L: ₹306074.8 <br>₿ BTC: ₹9650000.0 | 📈 H: ₹9650000.0 | 📉 L: ₹9314139.0 <br>⚡ BNB: ₹90020.0 | 📈 H: ₹92450.0 | 📉 L: ₹89601.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Emergency! I just ran out of chocolate, and that's all I can handle right now. 🛑❌ 
+  My brain highlighted that request and hit the delete key. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
