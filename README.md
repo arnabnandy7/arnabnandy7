@@ -18,9 +18,9 @@
   <p>Kolkata, India - 11/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:46 PM, Set: 11:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:47 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 20.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:46 PM, Set: 11:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:47 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 20.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 154.55 <strong>PM10:</strong> 170.35</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 156.85 <strong>PM10:</strong> 172.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.47 | 📈 H: ₹92.69 | 📉 L: ₹91.56 <br>♦ ETH: ₹319600.0 | 📈 H: ₹334497.1 | 📉 L: ₹316948.7 <br>₿ BTC: ₹9468000.0 | 📈 H: ₹9850000.0 | 📉 L: ₹9468000.0 <br>⚡ BNB: ₹89102.0 | 📈 H: ₹92499.99 | 📉 L: ₹89102.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.6 | 📈 H: ₹92.69 | 📉 L: ₹91.56 <br>♦ ETH: ₹315066.5 | 📈 H: ₹334497.1 | 📉 L: ₹315066.5 <br>₿ BTC: ₹9582220.0 | 📈 H: ₹9850000.0 | 📉 L: ₹9468000.0 <br>⚡ BNB: ₹89102.0 | 📈 H: ₹92499.99 | 📉 L: ₹89102.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll have to decline; I'm too busy being fabulous elsewhere. 🛑❌ 
+  The answer you seek is not available at this time (try again never). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
