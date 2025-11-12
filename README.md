@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 25.6 | 32 | 13.7 | 0 |
 | 2025-11-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 26.2 | 29 | 13.7 | 0 |
 | 2025-11-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 26.6 | 28 | 14.4 | 0 |
 | 2025-11-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.8 | 27 | 14.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 24.4 | 40 | 11.2 | 0 |
 | 2025-11-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 24.2 | 42 | 10.1 | 0 |
 | 2025-11-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.8 | 21.8 | 44 | 9.0 | 0 |
+| 2025-11-12 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 45 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.18 | 📈 H: ₹92.74 | 📉 L: ₹91.56 <br>♦ ETH: ₹315071.5 | 📈 H: ₹334497.1 | 📉 L: ₹315066.5 <br>₿ BTC: ₹9582000.0 | 📈 H: ₹9831011.0 | 📉 L: ₹9468000.0 <br>⚡ BNB: ₹87700.0 | 📈 H: ₹92499.99 | 📉 L: ₹87700.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.95 | 📈 H: ₹92.74 | 📉 L: ₹91.56 <br>♦ ETH: ₹315072.1 | 📈 H: ₹330995.2 | 📉 L: ₹315066.5 <br>₿ BTC: ₹9500000.0 | 📈 H: ₹9728389.0 | 📉 L: ₹9468000.0 <br>⚡ BNB: ₹87700.0 | 📈 H: ₹92499.99 | 📉 L: ₹87700.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In the time it took you to ask, I already decided no. 🛑❌ 
+  I got lost on the way to 'yes' and ended up at 'no'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
