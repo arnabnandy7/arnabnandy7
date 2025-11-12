@@ -18,14 +18,13 @@
   <p>Kolkata, India - 12/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:44 PM, Set: 12:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:48 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 24.4 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:44 PM, Set: 12:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:48 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 24.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 91.65 <strong>PM10:</strong> 106.55</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 97.95 <strong>PM10:</strong> 110.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-12 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.3 | 50 | 9.7 | 0 |
 | 2025-11-12 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.7 | 53 | 10.4 | 0 |
 | 2025-11-13 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 55 | 10.1 | 0 |
 | 2025-11-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 58 | 10.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-13 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 65 | 9.4 | 0 |
 | 2025-11-13 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.7 | 17.7 | 63 | 9.7 | 0 |
 | 2025-11-13 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.2 | 20.2 | 52 | 10.1 | 0 |
+| 2025-11-13 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.5 | 24.3 | 43 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.89 | 📈 H: ₹92.74 | 📉 L: ₹91.56 <br>♦ ETH: ₹321465.4 | 📈 H: ₹329638.6 | 📉 L: ₹315066.5 <br>₿ BTC: ₹9490808.0 | 📈 H: ₹9685393.0 | 📉 L: ₹9461013.0 <br>⚡ BNB: ₹87532.31 | 📈 H: ₹90000.0 | 📉 L: ₹87017.41 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.09 | 📈 H: ₹92.74 | 📉 L: ₹91.56 <br>♦ ETH: ₹316350.3 | 📈 H: ₹329638.6 | 📉 L: ₹315066.5 <br>₿ BTC: ₹9461052.0 | 📈 H: ₹9685393.0 | 📉 L: ₹9461013.0 <br>⚡ BNB: ₹87066.14 | 📈 H: ₹89991.0 | 📉 L: ₹87017.41 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm on a mission to maintain zero commitments. 🛑❌ 
+  I need to prioritize my priorities, which currently are sleeping and snacking. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
