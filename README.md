@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 26.1 | 41 | 12.6 | 0 |
 | 2025-11-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 26.8 | 36 | 12.6 | 0 |
 | 2025-11-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 27.3 | 34 | 12.6 | 0 |
 | 2025-11-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.5 | 32 | 12.6 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 24.9 | 45 | 11.2 | 0 |
 | 2025-11-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 24.6 | 48 | 11.5 | 0 |
 | 2025-11-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 24.4 | 49 | 11.5 | 0 |
+| 2025-11-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 51 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.0 | 📈 H: ₹93.79 | 📉 L: ₹92.2 <br>♦ ETH: ₹295243.7 | 📈 H: ₹305505.8 | 📉 L: ₹285239.9 <br>₿ BTC: ₹9050000.0 | 📈 H: ₹9300000.0 | 📉 L: ₹8801887.0 <br>⚡ BNB: ₹87000.0 | 📈 H: ₹87000.0 | 📉 L: ₹84000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.77 | 📈 H: ₹93.79 | 📉 L: ₹92.2 <br>♦ ETH: ₹296036.4 | 📈 H: ₹305505.8 | 📉 L: ₹285239.9 <br>₿ BTC: ₹9049095.0 | 📈 H: ₹9249997.0 | 📉 L: ₹8801887.0 <br>⚡ BNB: ₹87000.0 | 📈 H: ₹87000.0 | 📉 L: ₹84000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That idea and I go together like oil and water. 🛑❌ 
+  Even the angel on my shoulder is like, 'nah, dude'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
