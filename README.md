@@ -17,28 +17,28 @@
 <div align="center">
   <p>Kolkata, India - 16/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:30 AM, Set: 01:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:49 AM | <strong>Sunset:</strong> 04:53 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 19.4 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:20 AM, Set: 02:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 24.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 141.45 <strong>PM10:</strong> 145.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 122.35 <strong>PM10:</strong> 125.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.8 | 24.6 | 49 | 14.0 | 0 |
-| 2025-11-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 25.5 | 45 | 13.3 | 0 |
-| 2025-11-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 26.4 | 41 | 13.0 | 0 |
-| 2025-11-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 26.8 | 36 | 12.2 | 0 |
-| 2025-11-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 27.3 | 34 | 11.9 | 0 |
-| 2025-11-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.5 | 33 | 11.9 | 0 |
-| 2025-11-16 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 27.4 | 33 | 12.2 | 0 |
-| 2025-11-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 27.1 | 36 | 11.9 | 0 |
-| 2025-11-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 25.8 | 44 | 10.8 | 0 |
-| 2025-11-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 24.9 | 46 | 9.7 | 0 |
+| 2025-11-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 26.4 | 41 | 12.6 | 0 |
+| 2025-11-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 27.1 | 36 | 12.6 | 0 |
+| 2025-11-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 27.5 | 34 | 12.6 | 0 |
+| 2025-11-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 27.8 | 33 | 12.6 | 0 |
+| 2025-11-16 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 27.7 | 33 | 13.0 | 0 |
+| 2025-11-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 27.3 | 34 | 11.9 | 0 |
+| 2025-11-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 25.9 | 42 | 11.2 | 0 |
+| 2025-11-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.9 | 44 | 11.5 | 0 |
+| 2025-11-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.6 | 47 | 11.2 | 0 |
+| 2025-11-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.5 | 49 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.95 | 📈 H: ₹93.52 | 📉 L: ₹92.55 <br>♦ ETH: ₹293507.0 | 📈 H: ₹299503.0 | 📉 L: ₹291000.2 <br>₿ BTC: ₹8949105.0 | 📈 H: ₹9050000.0 | 📉 L: ₹8848414.0 <br>⚡ BNB: ₹84052.88 | 📈 H: ₹88741.13 | 📉 L: ₹84005.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.95 | 📈 H: ₹93.52 | 📉 L: ₹92.55 <br>♦ ETH: ₹298000.1 | 📈 H: ₹299503.0 | 📉 L: ₹291000.2 <br>₿ BTC: ₹8903300.0 | 📈 H: ₹9050000.0 | 📉 L: ₹8848414.0 <br>⚡ BNB: ₹84052.88 | 📈 H: ₹88741.13 | 📉 L: ₹84005.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll take one for the team by not joining this effort. 🛑❌ 
+  I'm communicating with extraterrestrials at that time, Earth events must wait. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
