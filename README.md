@@ -18,9 +18,9 @@
   <p>Kolkata, India - 16/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:20 AM, Set: 02:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 24.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:20 AM, Set: 02:21 PM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 67.65 <strong>PM10:</strong> 70.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 83.25 <strong>PM10:</strong> 86.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.34 | 📈 H: ₹93.38 | 📉 L: ₹92.58 <br>♦ ETH: ₹290558.1 | 📈 H: ₹300029.9 | 📉 L: ₹290558.1 <br>₿ BTC: ₹8900000.0 | 📈 H: ₹8999920.0 | 📉 L: ₹8842025.0 <br>⚡ BNB: ₹85899.0 | 📈 H: ₹88741.13 | 📉 L: ₹84005.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.3 | 📈 H: ₹93.45 | 📉 L: ₹92.58 <br>♦ ETH: ₹290115.9 | 📈 H: ₹300029.9 | 📉 L: ₹285000.0 <br>₿ BTC: ₹8800584.0 | 📈 H: ₹8999920.0 | 📉 L: ₹8795600.0 <br>⚡ BNB: ₹85101.0 | 📈 H: ₹88400.1 | 📉 L: ₹84005.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The universe gave me a sign to say no (it was a neon sign, very clear). 🛑❌ 
+  I'm waiting for my bubble wrap suit to arrive before I attempt such things. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
