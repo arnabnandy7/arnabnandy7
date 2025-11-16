@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 26.4 | 41 | 12.6 | 0 |
 | 2025-11-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 27.1 | 36 | 12.6 | 0 |
 | 2025-11-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 27.5 | 34 | 12.6 | 0 |
 | 2025-11-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 27.8 | 33 | 12.6 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.9 | 44 | 11.5 | 0 |
 | 2025-11-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.6 | 47 | 11.2 | 0 |
 | 2025-11-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.5 | 49 | 11.2 | 0 |
+| 2025-11-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 51 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.95 | 📈 H: ₹93.52 | 📉 L: ₹92.55 <br>♦ ETH: ₹298000.1 | 📈 H: ₹299503.0 | 📉 L: ₹291000.2 <br>₿ BTC: ₹8903300.0 | 📈 H: ₹9050000.0 | 📉 L: ₹8848414.0 <br>⚡ BNB: ₹84052.88 | 📈 H: ₹88741.13 | 📉 L: ₹84005.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.31 | 📈 H: ₹93.5 | 📉 L: ₹92.55 <br>♦ ETH: ₹298000.1 | 📈 H: ₹299503.0 | 📉 L: ₹291000.2 <br>₿ BTC: ₹8949990.0 | 📈 H: ₹9050000.0 | 📉 L: ₹8848414.0 <br>⚡ BNB: ₹85440.14 | 📈 H: ₹88741.13 | 📉 L: ₹84005.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm communicating with extraterrestrials at that time, Earth events must wait. 🛑❌ 
+  I have to cancel; I've exceeded my people-ing quota for the week. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
