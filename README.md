@@ -20,12 +20,11 @@
   <p>Clear  (পরিষ্কার)</p>
   🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:11 AM, Set: 02:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 25.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.25 <strong>PM10:</strong> 33.75</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.35 <strong>PM10:</strong> 39.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 58 | 11.2 | 0 |
 | 2025-11-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 61 | 10.8 | 0 |
 | 2025-11-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.3 | 20.3 | 64 | 11.2 | 0 |
 | 2025-11-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.0 | 20.0 | 67 | 10.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-18 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 75 | 11.5 | 0 |
 | 2025-11-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.1 | 19.1 | 74 | 10.4 | 0 |
 | 2025-11-18 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.6 | 21.6 | 64 | 11.5 | 0 |
+| 2025-11-18 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 25.3 | 57 | 13.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.93 | 📈 H: ₹93.7 | 📉 L: ₹92.72 <br>♦ ETH: ₹291900.8 | 📈 H: ₹298763.6 | 📉 L: ₹283000.0 <br>₿ BTC: ₹8764655.0 | 📈 H: ₹8989083.0 | 📉 L: ₹8747750.0 <br>⚡ BNB: ₹84200.01 | 📈 H: ₹87491.25 | 📉 L: ₹84200.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.06 | 📈 H: ₹93.7 | 📉 L: ₹92.72 <br>♦ ETH: ₹288000.3 | 📈 H: ₹298763.6 | 📉 L: ₹283000.0 <br>₿ BTC: ₹8669248.0 | 📈 H: ₹8988183.0 | 📉 L: ₹8669248.0 <br>⚡ BNB: ₹84190.0 | 📈 H: ₹87491.25 | 📉 L: ₹84059.77 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm following the principle of least effort, which means I have to decline. 🛑❌ 
+  Saying no is my superpower, and I'm using it to save my free time. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
