@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 26.7 | 41 | 11.9 | 0 |
 | 2025-11-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 27.2 | 36 | 11.2 | 0 |
 | 2025-11-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 27.6 | 32 | 9.7 | 0 |
 | 2025-11-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 27.8 | 31 | 9.0 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.1 | 42 | 8.6 | 0 |
 | 2025-11-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 24.8 | 44 | 8.6 | 0 |
 | 2025-11-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.9 | 24.6 | 47 | 9.0 | 0 |
+| 2025-11-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.5 | 50 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.35 | 📈 H: ₹93.7 | 📉 L: ₹92.72 <br>♦ ETH: ₹280462.1 | 📈 H: ₹298763.6 | 📉 L: ₹278002.0 <br>₿ BTC: ₹8461229.0 | 📈 H: ₹8988183.0 | 📉 L: ₹8409214.0 <br>⚡ BNB: ₹84000.0 | 📈 H: ₹87491.0 | 📉 L: ₹82500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.47 | 📈 H: ₹93.8 | 📉 L: ₹92.72 <br>♦ ETH: ₹283000.0 | 📈 H: ₹298763.6 | 📉 L: ₹278002.0 <br>₿ BTC: ₹8410002.0 | 📈 H: ₹8988183.0 | 📉 L: ₹8409214.0 <br>⚡ BNB: ₹83130.0 | 📈 H: ₹87491.0 | 📉 L: ₹82500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I admire your persistence in asking, but it's still a no. 🛑❌ 
+  I'm in the middle of a very delicate 'doing nothing' ritual. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
