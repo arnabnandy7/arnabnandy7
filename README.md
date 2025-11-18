@@ -18,9 +18,9 @@
   <p>Kolkata, India - 18/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:01 AM, Set: 03:25 PM)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 40% | 🌡️ <strong>Feels Like:</strong> 28.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:01 AM, Set: 03:25 PM)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 40% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.25 <strong>PM10:</strong> 27.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.25 <strong>PM10:</strong> 25.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.05 | 📈 H: ₹94.0 | 📉 L: ₹92.72 <br>♦ ETH: ₹286000.0 | 📈 H: ₹298733.8 | 📉 L: ₹278002.0 <br>₿ BTC: ₹8522129.0 | 📈 H: ₹8987282.0 | 📉 L: ₹8380547.0 <br>⚡ BNB: ₹83761.57 | 📈 H: ₹87264.64 | 📉 L: ₹82500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.15 | 📈 H: ₹94.0 | 📉 L: ₹92.86 <br>♦ ETH: ₹285999.0 | 📈 H: ₹296288.1 | 📉 L: ₹278002.0 <br>₿ BTC: ₹8538125.0 | 📈 H: ₹8985482.0 | 📉 L: ₹8380547.0 <br>⚡ BNB: ₹83520.72 | 📈 H: ₹87264.64 | 📉 L: ₹82500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm already living in the fast lane of doing nothing, so I can't slow down for that. 🛑❌ 
+  I signed up for a 'Just Say No' workshop and I need to practice. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
