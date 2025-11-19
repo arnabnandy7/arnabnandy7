@@ -17,28 +17,28 @@
 <div align="center">
   <p>Kolkata, India - 19/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:01 AM, Set: 03:25 PM)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:54 AM, Set: 04:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 79.75 <strong>PM10:</strong> 81.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 72.05 <strong>PM10:</strong> 73.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 25.4 | 50 | 10.4 | 0 |
-| 2025-11-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 26.7 | 44 | 11.5 | 0 |
-| 2025-11-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 27.5 | 38 | 11.2 | 0 |
-| 2025-11-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 28.1 | 34 | 10.8 | 0 |
-| 2025-11-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.5 | 31 | 9.7 | 0 |
-| 2025-11-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 28.8 | 30 | 9.0 | 0 |
-| 2025-11-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 28.9 | 30 | 8.6 | 0 |
-| 2025-11-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.5 | 31 | 6.5 | 0 |
-| 2025-11-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 27.0 | 38 | 7.2 | 0 |
-| 2025-11-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 25.7 | 41 | 7.6 | 0 |
+| 2025-11-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 26.2 | 43 | 10.8 | 0 |
+| 2025-11-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 27.1 | 38 | 10.1 | 0 |
+| 2025-11-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 27.8 | 35 | 10.4 | 0 |
+| 2025-11-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 28.3 | 33 | 9.7 | 0 |
+| 2025-11-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 28.6 | 31 | 9.4 | 0 |
+| 2025-11-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 28.6 | 31 | 7.6 | 0 |
+| 2025-11-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 28.3 | 32 | 7.6 | 0 |
+| 2025-11-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 26.8 | 39 | 8.3 | 0 |
+| 2025-11-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 25.5 | 41 | 8.6 | 0 |
+| 2025-11-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 25.1 | 43 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.24 | 📈 H: ₹94.0 | 📉 L: ₹92.91 <br>♦ ETH: ₹290305.6 | 📈 H: ₹295120.7 | 📉 L: ₹279999.5 <br>₿ BTC: ₹8650001.0 | 📈 H: ₹8888888.0 | 📉 L: ₹8380547.0 <br>⚡ BNB: ₹87300.0 | 📈 H: ₹87300.0 | 📉 L: ₹83105.73 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.26 | 📈 H: ₹94.0 | 📉 L: ₹92.91 <br>♦ ETH: ₹288030.3 | 📈 H: ₹295120.7 | 📉 L: ₹279999.5 <br>₿ BTC: ₹8650000.0 | 📈 H: ₹8888888.0 | 📉 L: ₹8380547.0 <br>⚡ BNB: ₹85250.0 | 📈 H: ₹87603.19 | 📉 L: ₹83105.73 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm hard at work doing nothing at all. 🛑❌ 
+  I need to sit by the phone in case Hogwarts calls. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
