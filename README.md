@@ -18,9 +18,9 @@
   <p>Kolkata, India - 19/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:54 AM, Set: 04:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 25.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:54 AM, Set: 04:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 25.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.55 <strong>PM10:</strong> 35.65</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.75 <strong>PM10:</strong> 53.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.34 | 📈 H: ₹93.7 | 📉 L: ₹92.91 <br>♦ ETH: ₹279026.0 | 📈 H: ₹295120.7 | 📉 L: ₹279000.0 <br>₿ BTC: ₹8390000.0 | 📈 H: ₹8888888.0 | 📉 L: ₹8376405.0 <br>⚡ BNB: ₹83800.0 | 📈 H: ₹87890.0 | 📉 L: ₹83775.15 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.47 | 📈 H: ₹93.7 | 📉 L: ₹92.91 <br>♦ ETH: ₹272125.3 | 📈 H: ₹295091.4 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8293535.0 | 📈 H: ₹8865038.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹83130.0 | 📈 H: ₹87890.0 | 📉 L: ₹83130.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Improv theater time: I play a person who says no. End scene. 🛑❌ 
+  'No.' I'm giving that answer five stars. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
