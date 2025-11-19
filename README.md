@@ -18,15 +18,13 @@
   <p>Kolkata, India - 19/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:54 AM, Set: 04:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:54 AM, Set: 04:01 PM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 97.45 <strong>PM10:</strong> 98.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 98.85 <strong>PM10:</strong> 101.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-20 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 53 | 9.0 | 0 |
-| 2025-11-20 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 54 | 9.7 | 0 |
 | 2025-11-20 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.6 | 56 | 10.1 | 0 |
 | 2025-11-20 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.8 | 19.8 | 58 | 9.4 | 0 |
 | 2025-11-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.2 | 24.5 | 51 | 10.1 | 0 |
@@ -35,6 +33,8 @@
 | 2025-11-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 27.5 | 36 | 13.0 | 0 |
 | 2025-11-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 28.1 | 33 | 12.2 | 0 |
 | 2025-11-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.6 | 32 | 11.9 | 0 |
+| 2025-11-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 28.9 | 32 | 11.5 | 0 |
+| 2025-11-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 28.9 | 33 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Yes is such a small word for such a life-changing event, I'm not ready. 🛑❌ 
+  My dog will only let me out of the house if it's for walks, not work. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
