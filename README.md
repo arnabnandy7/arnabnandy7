@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:48 AM, Set: 04:40 PM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 48% | 🌡️ <strong>Feels Like:</strong> 27.2 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:48 AM, Set: 04:40 PM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 48% | 🌡️ <strong>Feels Like:</strong> 27.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.15 <strong>PM10:</strong> 36.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.45 <strong>PM10:</strong> 37.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.7 | 45 | 7.6 | 0 |
 | 2025-11-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.6 | 46 | 6.5 | 0 |
 | 2025-11-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 24.5 | 46 | 5.8 | 0 |
 | 2025-11-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.4 | 47 | 5.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.0 | 20.0 | 54 | 8.3 | 0 |
 | 2025-11-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.6 | 55 | 7.2 | 0 |
 | 2025-11-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 56 | 7.6 | 0 |
+| 2025-11-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.7 | 19.7 | 58 | 7.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.73 | 📈 H: ₹94.01 | 📉 L: ₹92.71 <br>♦ ETH: ₹278279.6 | 📈 H: ₹289042.7 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8589999.0 | 📈 H: ₹8705498.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹84000.0 | 📈 H: ₹85900.0 | 📉 L: ₹82054.95 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.77 | 📈 H: ₹94.01 | 📉 L: ₹92.71 <br>♦ ETH: ₹278279.0 | 📈 H: ₹289042.7 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8575031.0 | 📈 H: ₹8705498.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹84000.0 | 📈 H: ₹85900.0 | 📉 L: ₹82054.95 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No' is my happy place. 🛑❌ 
+  I have a duty to uphold: keep my couch from feeling lonely. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
