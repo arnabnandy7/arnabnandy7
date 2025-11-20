@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:48 AM, Set: 04:40 PM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 27.5 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:48 AM, Set: 04:40 PM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 40% | 🌡️ <strong>Feels Like:</strong> 28.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.15 <strong>PM10:</strong> 76.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 72.75 <strong>PM10:</strong> 73.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.3 | 28.2 | 30 | 12.6 | 0 |
 | 2025-11-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 28.0 | 29 | 13.0 | 0 |
 | 2025-11-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 27.5 | 30 | 13.0 | 0 |
 | 2025-11-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 25.9 | 37 | 11.2 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 24.3 | 42 | 5.8 | 0 |
 | 2025-11-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.3 | 43 | 5.0 | 0 |
 | 2025-11-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 24.2 | 44 | 5.8 | 0 |
+| 2025-11-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.5 | 45 | 6.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.91 | 📈 H: ₹94.01 | 📉 L: ₹93.06 <br>♦ ETH: ₹285000.0 | 📈 H: ₹289999.9 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8548501.0 | 📈 H: ₹8705498.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹85000.0 | 📈 H: ₹87710.37 | 📉 L: ₹82600.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.81 | 📈 H: ₹94.01 | 📉 L: ₹93.07 <br>♦ ETH: ₹280665.4 | 📈 H: ₹289999.9 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8548501.0 | 📈 H: ₹8705498.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹85000.0 | 📈 H: ₹86094.68 | 📉 L: ₹82600.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I had a nickel for every time I said no, I'd have a lot of nickels. 🛑❌ 
+  I'm pretty sure saying yes is forbidden in this galaxy. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
