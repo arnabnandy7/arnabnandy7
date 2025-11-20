@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:48 AM, Set: 04:40 PM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 25.6 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:48 AM, Set: 04:41 PM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 51% | 🌡️ <strong>Feels Like:</strong> 26.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 82.85 <strong>PM10:</strong> 84.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 74.45 <strong>PM10:</strong> 75.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 27.5 | 33 | 11.5 | 0 |
 | 2025-11-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 28.0 | 32 | 11.9 | 0 |
 | 2025-11-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.3 | 28.2 | 30 | 12.6 | 0 |
 | 2025-11-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 28.0 | 29 | 13.0 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-20 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 24.6 | 40 | 9.0 | 0 |
 | 2025-11-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.4 | 42 | 7.6 | 0 |
 | 2025-11-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 24.3 | 42 | 5.8 | 0 |
+| 2025-11-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.3 | 43 | 5.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.82 | 📈 H: ₹94.01 | 📉 L: ₹93.04 <br>♦ ETH: ₹285000.0 | 📈 H: ₹289999.9 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8550000.0 | 📈 H: ₹8645745.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹82600.0 | 📈 H: ₹87741.23 | 📉 L: ₹82600.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.8 | 📈 H: ₹94.01 | 📉 L: ₹93.04 <br>♦ ETH: ₹285000.0 | 📈 H: ₹289999.9 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8578413.0 | 📈 H: ₹8645745.0 | 📉 L: ₹8250001.0 <br>⚡ BNB: ₹83450.0 | 📈 H: ₹87710.62 | 📉 L: ₹82600.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I got your message, but unfortunately, my spam filter caught it under 'unwanted tasks'. 🛑❌ 
+  It sounds interesting, but I’m not the best person for this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
