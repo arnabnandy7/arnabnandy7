@@ -18,9 +18,9 @@
   <p>Kolkata, India - 22/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 06:14 PM)  <br>🌅 <strong>Sunrise:</strong> 05:54 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 27.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 06:14 PM)  <br>🌅 <strong>Sunrise:</strong> 05:54 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 27.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 89.75 <strong>PM10:</strong> 91.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.65 <strong>PM10:</strong> 80.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.76 | 📈 H: ₹94.27 | 📉 L: ₹93.32 <br>♦ ETH: ₹254547.9 | 📈 H: ₹263000.0 | 📉 L: ₹249576.1 <br>₿ BTC: ₹7809658.0 | 📈 H: ₹8128256.0 | 📉 L: ₹7657906.0 <br>⚡ BNB: ₹75050.25 | 📈 H: ₹80991.9 | 📉 L: ₹71261.47 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.9 | 📈 H: ₹94.27 | 📉 L: ₹93.32 <br>♦ ETH: ₹254600.0 | 📈 H: ₹263000.0 | 📉 L: ₹249576.1 <br>₿ BTC: ₹7850001.0 | 📈 H: ₹8128256.0 | 📉 L: ₹7657906.0 <br>⚡ BNB: ₹75045.0 | 📈 H: ₹78678.36 | 📉 L: ₹71261.47 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in social stealth mode, so I must decline any invitations. 🛑❌ 
+  I missed the train of thought that would make me go. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
