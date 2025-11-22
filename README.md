@@ -18,9 +18,9 @@
   <p>Kolkata, India - 22/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:37 AM, Set: 06:14 PM)  <br>🌅 <strong>Sunrise:</strong> 05:54 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 25.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 06:14 PM)  <br>🌅 <strong>Sunrise:</strong> 05:54 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 25.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 83.05 <strong>PM10:</strong> 85.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 84.95 <strong>PM10:</strong> 87.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.7 | 📈 H: ₹94.27 | 📉 L: ₹93.05 <br>♦ ETH: ₹258474.5 | 📈 H: ₹263000.0 | 📉 L: ₹252334.1 <br>₿ BTC: ₹7996333.0 | 📈 H: ₹8128256.0 | 📉 L: ₹7699999.0 <br>⚡ BNB: ₹78639.99 | 📈 H: ₹78678.36 | 📉 L: ₹75007.5 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.56 | 📈 H: ₹94.27 | 📉 L: ₹93.05 <br>♦ ETH: ₹256155.5 | 📈 H: ₹263000.0 | 📉 L: ₹252334.1 <br>₿ BTC: ₹7879681.0 | 📈 H: ₹8128256.0 | 📉 L: ₹7699999.0 <br>⚡ BNB: ₹78639.99 | 📈 H: ₹78678.36 | 📉 L: ₹75007.5 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I didn't choose the no life; the no life chose me. 🛑❌ 
+  I'm doing you a favor by not coming and stealing the spotlight. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
