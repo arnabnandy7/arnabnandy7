@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:28 AM, Set: 07:07 PM)  <br>🌅 <strong>Sunrise:</strong> 05:55 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:28 AM, Set: 07:07 PM)  <br>🌅 <strong>Sunrise:</strong> 05:55 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 25.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 222.55 <strong>PM10:</strong> 225.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 220.65 <strong>PM10:</strong> 223.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 27.0 | 40 | 10.8 | 0 |
-| 2025-11-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 27.6 | 36 | 11.9 | 0 |
-| 2025-11-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 28.0 | 34 | 12.6 | 0 |
-| 2025-11-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 28.2 | 32 | 13.0 | 0 |
-| 2025-11-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 27.9 | 32 | 12.6 | 0 |
-| 2025-11-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.5 | 32 | 11.9 | 0 |
-| 2025-11-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 26.1 | 38 | 10.8 | 0 |
-| 2025-11-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 25.1 | 39 | 9.4 | 0 |
-| 2025-11-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.7 | 40 | 10.1 | 0 |
-| 2025-11-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 24.6 | 40 | 9.4 | 0 |
+| 2025-11-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 27.6 | 36 | 12.2 | 0 |
+| 2025-11-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 28.0 | 34 | 13.0 | 0 |
+| 2025-11-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 28.2 | 32 | 13.3 | 0 |
+| 2025-11-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 27.9 | 32 | 13.0 | 0 |
+| 2025-11-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 27.5 | 33 | 12.2 | 0 |
+| 2025-11-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 26.0 | 39 | 10.4 | 0 |
+| 2025-11-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.0 | 40 | 9.4 | 0 |
+| 2025-11-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 24.7 | 40 | 10.1 | 0 |
+| 2025-11-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.5 | 41 | 9.7 | 0 |
+| 2025-11-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.4 | 41 | 8.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.31 | 📈 H: ₹94.18 | 📉 L: ₹93.05 <br>♦ ETH: ₹264708.6 | 📈 H: ₹264788.1 | 📉 L: ₹253352.8 <br>₿ BTC: ₹8070606.0 | 📈 H: ₹8070606.0 | 📉 L: ₹7699999.0 <br>⚡ BNB: ₹79000.0 | 📈 H: ₹79000.0 | 📉 L: ₹75007.5 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.4 | 📈 H: ₹94.15 | 📉 L: ₹93.05 <br>♦ ETH: ₹267500.0 | 📈 H: ₹267500.0 | 📉 L: ₹253352.8 <br>₿ BTC: ₹8120921.0 | 📈 H: ₹8120921.0 | 📉 L: ₹7699999.0 <br>⚡ BNB: ₹79396.16 | 📈 H: ₹79396.16 | 📉 L: ₹75007.5 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I missed the train of thought that would make me go. 🛑❌ 
+  I'm overbooked with underachieving. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
