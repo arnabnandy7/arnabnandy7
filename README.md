@@ -18,9 +18,9 @@
   <p>Kolkata, India - 23/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:28 AM, Set: 07:07 PM)  <br>🌅 <strong>Sunrise:</strong> 05:55 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:28 AM, Set: 07:07 PM)  <br>🌅 <strong>Sunrise:</strong> 05:55 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 171.25 <strong>PM10:</strong> 174.55</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 181.05 <strong>PM10:</strong> 184.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.56 | 📈 H: ₹94.0 | 📉 L: ₹92.67 <br>♦ ETH: ₹267000.0 | 📈 H: ₹267500.0 | 📉 L: ₹255344.1 <br>₿ BTC: ₹8201275.0 | 📈 H: ₹8210500.0 | 📉 L: ₹7885178.0 <br>⚡ BNB: ₹77543.54 | 📈 H: ₹81592.5 | 📉 L: ₹75920.18 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.9 | 📈 H: ₹94.0 | 📉 L: ₹92.67 <br>♦ ETH: ₹264947.2 | 📈 H: ₹267500.0 | 📉 L: ₹255344.1 <br>₿ BTC: ₹8208858.0 | 📈 H: ₹8210500.0 | 📉 L: ₹7885179.0 <br>⚡ BNB: ₹77543.54 | 📈 H: ₹81592.5 | 📉 L: ₹75920.18 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My life is like a sitcom about avoiding responsibility, and I can't break character. 🛑❌ 
+  As an acronym, my answer is N.O. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
