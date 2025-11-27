@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-27 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 26.1 | 43 | 11.9 | 0 |
 | 2025-11-27 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 26.6 | 37 | 10.1 | 0 |
 | 2025-11-27 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 27.0 | 33 | 8.6 | 0 |
 | 2025-11-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.3 | 30 | 8.3 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 24.8 | 38 | 8.3 | 0 |
 | 2025-11-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 24.5 | 40 | 8.6 | 0 |
 | 2025-11-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 24.3 | 42 | 8.6 | 0 |
+| 2025-11-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 22.0 | 44 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.23 | 📈 H: ₹93.74 | 📉 L: ₹93.11 <br>♦ ETH: ₹282977.6 | 📈 H: ₹285736.5 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8550000.0 | 📈 H: ₹8575000.0 | 📉 L: ₹8054499.0 <br>⚡ BNB: ₹81548.15 | 📈 H: ₹84000.0 | 📉 L: ₹78324.48 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.0 | 📈 H: ₹93.68 | 📉 L: ₹92.84 <br>♦ ETH: ₹281616.0 | 📈 H: ₹285736.5 | 📉 L: ₹268000.0 <br>₿ BTC: ₹8406732.0 | 📈 H: ₹8575000.0 | 📉 L: ₹8054499.0 <br>⚡ BNB: ₹81548.15 | 📈 H: ₹84000.0 | 📉 L: ₹78324.48 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm currently observing National No Day, it's a personal holiday. 🛑❌ 
+  The fortune cookie said 'No' just last night. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
