@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 28/11/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:56 AM, Set: 11:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 42% | 🌡️ <strong>Feels Like:</strong> 27.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:56 AM, Set: 11:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 33% | 🌡️ <strong>Feels Like:</strong> 27.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 69.05 <strong>PM10:</strong> 69.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.65 <strong>PM10:</strong> 26.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 26.2 | 36 | 7.6 | 0 |
-| 2025-11-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 25.2 | 38 | 8.3 | 0 |
-| 2025-11-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.8 | 41 | 7.9 | 0 |
-| 2025-11-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 24.6 | 43 | 7.2 | 0 |
-| 2025-11-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.4 | 45 | 4.0 | 0 |
+| 2025-11-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 25.3 | 39 | 7.6 | 0 |
+| 2025-11-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 24.9 | 41 | 7.9 | 0 |
+| 2025-11-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 24.6 | 43 | 5.8 | 0 |
+| 2025-11-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 24.4 | 46 | 2.9 | 0 |
 | 2025-11-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 48 | 3.2 | 0 |
-| 2025-11-28 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 50 | 5.0 | 0 |
-| 2025-11-28 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 52 | 5.0 | 0 |
-| 2025-11-29 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.3 | 20.3 | 53 | 5.0 | 0 |
-| 2025-11-29 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 54 | 5.8 | 0 |
+| 2025-11-28 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 50 | 3.6 | 0 |
+| 2025-11-28 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 51 | 4.3 | 0 |
+| 2025-11-29 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 52 | 4.0 | 0 |
+| 2025-11-29 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 53 | 4.7 | 0 |
+| 2025-11-29 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 53 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.21 | 📈 H: ₹93.23 | 📉 L: ₹92.13 <br>♦ ETH: ₹280923.9 | 📈 H: ₹281897.0 | 📉 L: ₹274576.2 <br>₿ BTC: ₹8447904.0 | 📈 H: ₹8536396.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹83250.0 | 📈 H: ₹83750.0 | 📉 L: ₹80900.48 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.28 | 📈 H: ₹93.23 | 📉 L: ₹92.13 <br>♦ ETH: ₹280000.0 | 📈 H: ₹281897.0 | 📉 L: ₹274576.2 <br>₿ BTC: ₹8447904.0 | 📈 H: ₹8536395.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹81000.0 | 📈 H: ₹83750.0 | 📉 L: ₹80040.01 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm closing the door on that idea (literally and figuratively). 🛑❌ 
+  If I said yes, people might expect me to do it again. Perish the thought. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
