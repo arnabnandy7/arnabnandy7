@@ -18,9 +18,9 @@
   <p>Kolkata, India - 28/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:56 AM, Set: 11:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 33% | 🌡️ <strong>Feels Like:</strong> 27.2 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:56 AM, Set: 11:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 35% | 🌡️ <strong>Feels Like:</strong> 27.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.65 <strong>PM10:</strong> 26.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.55 <strong>PM10:</strong> 22.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.28 | 📈 H: ₹93.23 | 📉 L: ₹92.13 <br>♦ ETH: ₹280000.0 | 📈 H: ₹281897.0 | 📉 L: ₹274576.2 <br>₿ BTC: ₹8447904.0 | 📈 H: ₹8536395.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹81000.0 | 📈 H: ₹83750.0 | 📉 L: ₹80040.01 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.16 | 📈 H: ₹93.23 | 📉 L: ₹92.13 <br>♦ ETH: ₹278026.7 | 📈 H: ₹281897.0 | 📉 L: ₹274576.2 <br>₿ BTC: ₹8447905.0 | 📈 H: ₹8536391.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹81000.0 | 📈 H: ₹83750.0 | 📉 L: ₹80040.01 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, people might expect me to do it again. Perish the thought. 🛑❌ 
+  Sleep and I have a standing date, can't break it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
