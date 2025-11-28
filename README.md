@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 26.7 | 41 | 10.1 | 0 |
 | 2025-11-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 27.2 | 35 | 9.0 | 0 |
 | 2025-11-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 27.4 | 32 | 7.9 | 0 |
 | 2025-11-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 27.7 | 30 | 7.9 | 0 |
@@ -35,10 +34,11 @@
 | 2025-11-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 25.2 | 38 | 8.3 | 0 |
 | 2025-11-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.8 | 41 | 7.9 | 0 |
 | 2025-11-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 24.6 | 43 | 7.2 | 0 |
+| 2025-11-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.4 | 45 | 4.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.17 | 📈 H: ₹93.31 | 📉 L: ₹92.3 <br>♦ ETH: ₹279813.1 | 📈 H: ₹282977.6 | 📉 L: ₹275138.3 <br>₿ BTC: ₹8415955.0 | 📈 H: ₹8575000.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹81000.01 | 📈 H: ₹83750.0 | 📉 L: ₹81000.01 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.82 | 📈 H: ₹93.31 | 📉 L: ₹92.3 <br>♦ ETH: ₹279500.0 | 📈 H: ₹282089.6 | 📉 L: ₹275138.3 <br>₿ BTC: ₹8500000.0 | 📈 H: ₹8574999.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹80900.48 | 📈 H: ₹83750.0 | 📉 L: ₹80900.48 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm too cool for that (and by too cool, I mean too lazy). 🛑❌ 
+  I could list 1000 reasons why I'm saying no, but I'll spare you. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
