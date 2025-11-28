@@ -17,28 +17,28 @@
 <div align="center">
   <p>Kolkata, India - 28/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:21 AM, Set: 10:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:57 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 19.0 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:56 AM, Set: 11:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 19.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 141.95 <strong>PM10:</strong> 147.05</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 140.55 <strong>PM10:</strong> 145.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-11-28 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.3 | 24.9 | 52 | 10.1 | 0 |
-| 2025-11-28 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 25.9 | 46 | 11.2 | 0 |
-| 2025-11-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 26.8 | 39 | 10.8 | 0 |
-| 2025-11-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 27.3 | 34 | 9.4 | 0 |
-| 2025-11-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.4 | 30 | 7.2 | 0 |
-| 2025-11-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 27.6 | 29 | 5.8 | 0 |
-| 2025-11-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 27.7 | 28 | 6.1 | 0 |
-| 2025-11-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 27.5 | 28 | 5.0 | 0 |
-| 2025-11-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 26.2 | 34 | 6.1 | 0 |
-| 2025-11-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 25.2 | 36 | 6.5 | 0 |
+| 2025-11-28 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 25.9 | 47 | 10.8 | 0 |
+| 2025-11-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 26.7 | 41 | 10.1 | 0 |
+| 2025-11-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 27.2 | 35 | 9.0 | 0 |
+| 2025-11-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 27.4 | 32 | 7.9 | 0 |
+| 2025-11-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 27.7 | 30 | 7.9 | 0 |
+| 2025-11-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 27.8 | 29 | 7.6 | 0 |
+| 2025-11-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 27.5 | 30 | 6.8 | 0 |
+| 2025-11-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 26.2 | 36 | 7.6 | 0 |
+| 2025-11-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 25.2 | 38 | 8.3 | 0 |
+| 2025-11-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.8 | 41 | 7.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.71 | 📈 H: ₹93.48 | 📉 L: ₹92.3 <br>♦ ETH: ₹281000.0 | 📈 H: ₹285736.5 | 📉 L: ₹275138.3 <br>₿ BTC: ₹8376238.0 | 📈 H: ₹8575000.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹81873.18 | 📈 H: ₹84000.0 | 📉 L: ₹81548.15 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.73 | 📈 H: ₹93.31 | 📉 L: ₹92.3 <br>♦ ETH: ₹279813.1 | 📈 H: ₹285736.0 | 📉 L: ₹275138.3 <br>₿ BTC: ₹8413996.0 | 📈 H: ₹8575000.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹81000.01 | 📈 H: ₹83750.0 | 📉 L: ₹81000.01 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even my shadow decided to stay home, so I will too. 🛑❌ 
+  My destiny lies elsewhere—specifically, on my couch. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
