@@ -18,9 +18,9 @@
   <p>Kolkata, India - 29/11/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:30 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:59 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 25.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:30 PM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:59 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 25.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.85 <strong>PM10:</strong> 39.85</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.45 <strong>PM10:</strong> 40.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.1 | 📈 H: ₹92.48 | 📉 L: ₹91.0 <br>♦ ETH: ₹271927.0 | 📈 H: ₹284971.4 | 📉 L: ₹271000.0 <br>₿ BTC: ₹8233919.0 | 📈 H: ₹8448537.0 | 📉 L: ₹8129553.0 <br>⚡ BNB: ₹79495.0 | 📈 H: ₹82771.91 | 📉 L: ₹79495.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.11 | 📈 H: ₹92.48 | 📉 L: ₹91.0 <br>♦ ETH: ₹272600.0 | 📈 H: ₹284438.2 | 📉 L: ₹271000.0 <br>₿ BTC: ₹8239565.0 | 📈 H: ₹8448537.0 | 📉 L: ₹8129553.0 <br>⚡ BNB: ₹79609.64 | 📈 H: ₹82771.91 | 📉 L: ₹79495.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd volunteer, but the incompetence fee I charge is quite high. 🛑❌ 
+  Me, myself, and I had a meeting; we unanimously decided to decline. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
