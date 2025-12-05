@@ -18,9 +18,9 @@
   <p>Kolkata, India - 05/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:07 PM, Set: 06:17 AM)  <br>🌅 <strong>Sunrise:</strong> 06:02 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 24.6 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:07 PM, Set: 06:17 AM)  <br>🌅 <strong>Sunrise:</strong> 06:02 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 24.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 80.45 <strong>PM10:</strong> 82.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.35 <strong>PM10:</strong> 76.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.03 | 📈 H: ₹90.7 | 📉 L: ₹90.0 <br>♦ ETH: ₹283189.6 | 📈 H: ₹290600.0 | 📉 L: ₹280000.0 <br>₿ BTC: ₹8216930.0 | 📈 H: ₹8400001.0 | 📉 L: ₹7677680.0 <br>⚡ BNB: ₹79726.37 | 📈 H: ₹83371.32 | 📉 L: ₹79607.7 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.06 | 📈 H: ₹90.7 | 📉 L: ₹90.0 <br>♦ ETH: ₹281756.7 | 📈 H: ₹290600.0 | 📉 L: ₹280000.0 <br>₿ BTC: ₹8184577.0 | 📈 H: ₹8400001.0 | 📉 L: ₹7677680.0 <br>⚡ BNB: ₹81500.0 | 📈 H: ₹83307.17 | 📉 L: ₹79607.7 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My family booked me for a game of hide-and-seek and I'm the missing piece. 🛑❌ 
+  While I appreciate it, volunteering for this isn't something I can commit to. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
