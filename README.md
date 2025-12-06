@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 24.1 | 28 | 14.0 | 0 |
 | 2025-12-06 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.6 | 24.7 | 25 | 14.4 | 0 |
 | 2025-12-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 25.2 | 23 | 14.4 | 0 |
 | 2025-12-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 25.5 | 22 | 15.5 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-06 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 23.5 | 32 | 11.5 | 0 |
 | 2025-12-06 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 34 | 10.4 | 0 |
 | 2025-12-06 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 36 | 10.4 | 0 |
+| 2025-12-06 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.0 | 20.0 | 37 | 10.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.26 | 📈 H: ₹90.7 | 📉 L: ₹90.0 <br>♦ ETH: ₹272775.1 | 📈 H: ₹287550.0 | 📉 L: ₹270294.2 <br>₿ BTC: ₹8092000.0 | 📈 H: ₹8350003.0 | 📉 L: ₹7677680.0 <br>⚡ BNB: ₹79572.41 | 📈 H: ₹82215.69 | 📉 L: ₹79000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.27 | 📈 H: ₹90.7 | 📉 L: ₹90.0 <br>♦ ETH: ₹272775.1 | 📈 H: ₹287550.0 | 📉 L: ₹270294.2 <br>₿ BTC: ₹8092000.0 | 📈 H: ₹8350000.0 | 📉 L: ₹7677680.0 <br>⚡ BNB: ₹80983.81 | 📈 H: ₹82215.69 | 📉 L: ₹79000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
+  The dishes threatened to revolt if I leave them again. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
