@@ -18,9 +18,9 @@
   <p>Kolkata, India - 06/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:14 PM, Set: 07:27 AM)  <br>🌅 <strong>Sunrise:</strong> 06:03 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:14 PM, Set: 07:27 AM)  <br>🌅 <strong>Sunrise:</strong> 06:03 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 20.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.65 <strong>PM10:</strong> 80.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.35 <strong>PM10:</strong> 80.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.07 | 📈 H: ₹90.4 | 📉 L: ₹90.01 <br>♦ ETH: ₹274814.3 | 📈 H: ₹283199.8 | 📉 L: ₹270222.6 <br>₿ BTC: ₹8095031.0 | 📈 H: ₹8218553.0 | 📉 L: ₹7878000.0 <br>⚡ BNB: ₹79204.75 | 📈 H: ₹80983.81 | 📉 L: ₹79000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.65 | 📈 H: ₹90.4 | 📉 L: ₹89.63 <br>♦ ETH: ₹272771.4 | 📈 H: ₹283199.8 | 📉 L: ₹270222.6 <br>₿ BTC: ₹8100000.0 | 📈 H: ₹8217731.0 | 📉 L: ₹7878000.0 <br>⚡ BNB: ₹79439.62 | 📈 H: ₹80983.81 | 📉 L: ₹79000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm sorry, I can't hear you over the sound of me not doing that. 🛑❌ 
+  My core competency is avoiding things, and I really need to focus on it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
