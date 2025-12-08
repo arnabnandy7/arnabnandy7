@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 08/12/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:30 PM, Set: 09:23 AM)  <br>🌅 <strong>Sunrise:</strong> 06:04 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 23.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:30 PM, Set: 09:23 AM)  <br>🌅 <strong>Sunrise:</strong> 06:04 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 23.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 86.05 <strong>PM10:</strong> 89.05</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 86.95 <strong>PM10:</strong> 89.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-08 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 29 | 8.3 | 0 |
 | 2025-12-08 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 19.9 | 19.9 | 30 | 7.9 | 0 |
 | 2025-12-08 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 19.4 | 19.4 | 32 | 8.6 | 0 |
 | 2025-12-08 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 18.9 | 18.9 | 33 | 10.1 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 17.1 | 17.1 | 43 | 9.7 | 0 |
 | 2025-12-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 16.8 | 16.8 | 45 | 9.7 | 0 |
 | 2025-12-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 16.5 | 16.5 | 45 | 9.4 | 0 |
+| 2025-12-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 16.6 | 16.6 | 45 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.85 | 📈 H: ₹90.39 | 📉 L: ₹89.8 <br>♦ ETH: ₹279695.0 | 📈 H: ₹284000.0 | 📉 L: ₹265371.6 <br>₿ BTC: ₹8181136.0 | 📈 H: ₹8290500.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹81017.09 | 📈 H: ₹81948.18 | 📉 L: ₹79908.49 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹89.83 | 📈 H: ₹90.39 | 📉 L: ₹89.8 <br>♦ ETH: ₹283971.6 | 📈 H: ₹284000.0 | 📉 L: ₹265371.6 <br>₿ BTC: ₹8200000.0 | 📈 H: ₹8290500.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹81158.52 | 📈 H: ₹81948.18 | 📉 L: ₹79908.49 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm currently managing too many crises—adding another might cause a meltdown. 🛑❌ 
+  I would, but then I'd have to admit I was wrong about hating everything. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
