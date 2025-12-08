@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-08 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 24.1 | 23.6 | 24 | 11.9 | 0 |
 | 2025-12-08 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.4 | 24.2 | 21 | 12.2 | 0 |
 | 2025-12-08 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy  | 26.3 | 24.7 | 20 | 11.9 | 0 |
 | 2025-12-08 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.8 | 25.1 | 19 | 11.5 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-08 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 23.1 | 26 | 9.4 | 0 |
 | 2025-12-08 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.8 | 21.8 | 27 | 9.0 | 0 |
 | 2025-12-08 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 29 | 9.0 | 0 |
+| 2025-12-08 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 30 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.05 | 📈 H: ₹90.39 | 📉 L: ₹90.0 <br>♦ ETH: ₹279781.6 | 📈 H: ₹284000.0 | 📉 L: ₹265371.6 <br>₿ BTC: ₹8241803.0 | 📈 H: ₹8290500.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹80946.78 | 📈 H: ₹81948.18 | 📉 L: ₹79876.06 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.03 | 📈 H: ₹90.39 | 📉 L: ₹90.0 <br>♦ ETH: ₹283163.9 | 📈 H: ₹284000.0 | 📉 L: ₹265371.6 <br>₿ BTC: ₹8241000.0 | 📈 H: ₹8290500.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹80942.29 | 📈 H: ₹81948.18 | 📉 L: ₹79876.06 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm way too popular with tasks I haven't done yet. 🛑❌ 
+  I'd volunteer, but the incompetence fee I charge is quite high. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
