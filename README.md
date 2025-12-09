@@ -18,14 +18,13 @@
   <p>Kolkata, India - 09/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:33 PM, Set: 10:08 AM)  <br>🌅 <strong>Sunrise:</strong> 06:05 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 19.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:33 PM, Set: 10:08 AM)  <br>🌅 <strong>Sunrise:</strong> 06:05 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 18.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 178.75 <strong>PM10:</strong> 180.15</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 175.45 <strong>PM10:</strong> 176.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 49 | 10.4 | 0 |
 | 2025-12-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 50 | 10.8 | 0 |
 | 2025-12-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.0 | 17.0 | 49 | 10.8 | 0 |
 | 2025-12-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.9 | 17.0 | 50 | 11.5 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 25.2 | 31 | 15.1 | 0 |
 | 2025-12-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 25.9 | 28 | 14.4 | 0 |
 | 2025-12-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.4 | 25 | 15.5 | 0 |
+| 2025-12-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 26.7 | 23 | 14.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.02 | 📈 H: ₹90.99 | 📉 L: ₹89.43 <br>♦ ETH: ₹296936.9 | 📈 H: ₹303000.0 | 📉 L: ₹277025.8 <br>₿ BTC: ₹8325860.0 | 📈 H: ₹8442710.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹82206.56 | 📈 H: ₹83000.0 | 📉 L: ₹79116.4 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.5 | 📈 H: ₹90.99 | 📉 L: ₹89.43 <br>♦ ETH: ₹296936.9 | 📈 H: ₹303000.0 | 📉 L: ₹277025.8 <br>₿ BTC: ₹8284270.0 | 📈 H: ₹8442710.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹82212.18 | 📈 H: ₹83000.0 | 📉 L: ₹79116.4 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I go, who will hold down the fort? (The fort being my couch). 🛑❌ 
+  I'll put this request on my to-do list right after 'learn teleportation'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
