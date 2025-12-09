@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.01 | 📈 H: ₹90.99 | 📉 L: ₹89.43 <br>♦ ETH: ₹303000.0 | 📈 H: ₹303000.0 | 📉 L: ₹277025.8 <br>₿ BTC: ₹8400404.0 | 📈 H: ₹8442710.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹83000.0 | 📈 H: ₹83000.0 | 📉 L: ₹79116.4 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.59 | 📈 H: ₹90.99 | 📉 L: ₹89.43 <br>♦ ETH: ₹302997.3 | 📈 H: ₹303000.0 | 📉 L: ₹277025.8 <br>₿ BTC: ₹8423166.0 | 📈 H: ₹8442710.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹82330.03 | 📈 H: ₹83000.0 | 📉 L: ₹79116.4 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, attempting this isn't something I can commit to. 🛑❌ 
+  This request is above my emotional pay grade. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
