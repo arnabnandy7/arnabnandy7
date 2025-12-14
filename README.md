@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 14/12/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:07 AM, Set: 12:54 PM)  <br>🌅 <strong>Sunrise:</strong> 06:08 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 25.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:07 AM, Set: 12:54 PM)  <br>🌅 <strong>Sunrise:</strong> 06:08 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 42% | 🌡️ <strong>Feels Like:</strong> 26.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.55 <strong>PM10:</strong> 42.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.65 <strong>PM10:</strong> 28.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.4 | 28 | 7.6 | 0 |
 | 2025-12-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 24.3 | 31 | 7.6 | 0 |
 | 2025-12-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.0 | 33 | 7.6 | 0 |
 | 2025-12-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 23.8 | 34 | 7.9 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 40 | 6.5 | 0 |
 | 2025-12-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.8 | 41 | 7.9 | 0 |
 | 2025-12-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.1 | 19.1 | 43 | 9.4 | 0 |
+| 2025-12-15 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 45 | 9.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.37 | 📈 H: ₹91.29 | 📉 L: ₹90.15 <br>♦ ETH: ₹280063.9 | 📈 H: ₹283999.8 | 📉 L: ₹280000.0 <br>₿ BTC: ₹8106627.0 | 📈 H: ₹8277454.0 | 📉 L: ₹8088501.0 <br>⚡ BNB: ₹80534.72 | 📈 H: ₹81500.0 | 📉 L: ₹80129.22 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.71 | 📈 H: ₹90.99 | 📉 L: ₹90.15 <br>♦ ETH: ₹280063.9 | 📈 H: ₹283999.8 | 📉 L: ₹280000.0 <br>₿ BTC: ₹8094238.0 | 📈 H: ₹8277452.0 | 📉 L: ₹8088501.0 <br>⚡ BNB: ₹80274.71 | 📈 H: ₹81500.0 | 📉 L: ₹80129.22 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would climb Mount Everest barefoot before I'd agree to that. 🛑❌ 
+  I have a scheduling conflict with the rest of my life. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
