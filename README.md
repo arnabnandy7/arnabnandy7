@@ -17,28 +17,28 @@
 <div align="center">
   <p>Kolkata, India - 14/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:16 AM, Set: 12:23 PM)  <br>🌅 <strong>Sunrise:</strong> 06:07 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 17.1 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:07 AM, Set: 12:54 PM)  <br>🌅 <strong>Sunrise:</strong> 06:08 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 17.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 125.65 <strong>PM10:</strong> 130.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 122.85 <strong>PM10:</strong> 127.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-14 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.5 | 19.5 | 44 | 8.3 | 0 |
-| 2025-12-14 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.2 | 23.9 | 38 | 9.0 | 0 |
-| 2025-12-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 24.6 | 33 | 10.4 | 0 |
-| 2025-12-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 25.4 | 30 | 11.2 | 0 |
-| 2025-12-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 26.1 | 27 | 10.8 | 0 |
-| 2025-12-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 26.5 | 25 | 9.4 | 0 |
-| 2025-12-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 26.8 | 23 | 9.0 | 0 |
-| 2025-12-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 26.9 | 22 | 8.6 | 0 |
-| 2025-12-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 26.7 | 23 | 7.6 | 0 |
-| 2025-12-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.5 | 25.6 | 28 | 7.2 | 0 |
+| 2025-12-14 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.7 | 21.7 | 40 | 9.0 | 0 |
+| 2025-12-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 24.5 | 35 | 9.7 | 0 |
+| 2025-12-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 25.2 | 32 | 10.1 | 0 |
+| 2025-12-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.5 | 25.6 | 29 | 8.6 | 0 |
+| 2025-12-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 26.0 | 25 | 8.6 | 0 |
+| 2025-12-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 26.4 | 23 | 7.9 | 0 |
+| 2025-12-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 26.6 | 22 | 8.3 | 0 |
+| 2025-12-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 26.4 | 23 | 6.5 | 0 |
+| 2025-12-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 25.3 | 27 | 5.0 | 0 |
+| 2025-12-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 24.2 | 30 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.26 | 📈 H: ₹91.3 | 📉 L: ₹90.15 <br>♦ ETH: ₹280035.9 | 📈 H: ₹283999.9 | 📉 L: ₹279000.1 <br>₿ BTC: ₹8200000.0 | 📈 H: ₹8291726.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹80329.74 | 📈 H: ₹81500.0 | 📉 L: ₹79752.92 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.25 | 📈 H: ₹91.3 | 📉 L: ₹90.15 <br>♦ ETH: ₹283422.0 | 📈 H: ₹283999.8 | 📉 L: ₹279022.1 <br>₿ BTC: ₹8109809.0 | 📈 H: ₹8287492.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹80609.98 | 📈 H: ₹81500.0 | 📉 L: ₹79752.92 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No' is the new 'yes'—I'm just staying on trend. 🛑❌ 
+  I'm allergic to obligations and break out in excuses. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
