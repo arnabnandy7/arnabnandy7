@@ -18,27 +18,27 @@
   <p>Kolkata, India - 15/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:57 AM, Set: 01:26 PM)  <br>🌅 <strong>Sunrise:</strong> 06:09 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 24.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:57 AM, Set: 01:26 PM)  <br>🌅 <strong>Sunrise:</strong> 06:09 AM | <strong>Sunset:</strong> 04:54 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 24.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 66.75 <strong>PM10:</strong> 68.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.25 <strong>PM10:</strong> 42.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.2 | 23 | 10.8 | 0 |
-| 2025-12-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 25.2 | 28 | 9.0 | 0 |
-| 2025-12-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.1 | 30 | 8.3 | 0 |
-| 2025-12-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 23.8 | 32 | 7.9 | 0 |
-| 2025-12-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 23.6 | 33 | 6.8 | 0 |
-| 2025-12-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.5 | 34 | 7.2 | 0 |
-| 2025-12-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 36 | 7.9 | 0 |
-| 2025-12-15 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 37 | 7.9 | 0 |
-| 2025-12-15 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 38 | 8.3 | 0 |
-| 2025-12-16 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 40 | 8.6 | 0 |
+| 2025-12-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 25.4 | 27 | 8.6 | 0 |
+| 2025-12-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 24.3 | 30 | 8.6 | 0 |
+| 2025-12-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 24.0 | 32 | 7.9 | 0 |
+| 2025-12-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 23.8 | 33 | 7.6 | 0 |
+| 2025-12-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.9 | 21.9 | 34 | 7.9 | 0 |
+| 2025-12-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.3 | 36 | 7.9 | 0 |
+| 2025-12-15 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 37 | 7.9 | 0 |
+| 2025-12-15 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 38 | 8.3 | 0 |
+| 2025-12-16 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.6 | 39 | 8.3 | 0 |
+| 2025-12-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.0 | 41 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.55 | 📈 H: ₹90.76 | 📉 L: ₹90.1 <br>♦ ETH: ₹282436.1 | 📈 H: ₹284429.4 | 📉 L: ₹277000.0 <br>₿ BTC: ₹8064977.0 | 📈 H: ₹8231998.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹79999.0 | 📈 H: ₹81111.0 | 📉 L: ₹78694.29 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.55 | 📈 H: ₹90.99 | 📉 L: ₹90.1 <br>♦ ETH: ₹285000.0 | 📈 H: ₹285000.0 | 📉 L: ₹277000.0 <br>₿ BTC: ₹8072053.0 | 📈 H: ₹8226023.0 | 📉 L: ₹8036541.0 <br>⚡ BNB: ₹80039.77 | 📈 H: ₹80703.23 | 📉 L: ₹78694.29 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm observing a personal holiday called Nope-vember. 🛑❌ 
+  I'm in the middle of a high-stakes Tetris game (yes, it's very serious). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
