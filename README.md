@@ -18,9 +18,9 @@
   <p>Kolkata, India - 16/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:49 AM, Set: 02:01 PM)  <br>🌅 <strong>Sunrise:</strong> 06:09 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 19.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:49 AM, Set: 02:01 PM)  <br>🌅 <strong>Sunrise:</strong> 06:09 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 137.75 <strong>PM10:</strong> 141.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 137.25 <strong>PM10:</strong> 141.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.05 | 📈 H: ₹91.85 | 📉 L: ₹90.12 <br>♦ ETH: ₹268200.0 | 📈 H: ₹288879.7 | 📉 L: ₹268168.9 <br>₿ BTC: ₹7920000.0 | 📈 H: ₹8185075.0 | 📉 L: ₹7920000.0 <br>⚡ BNB: ₹77812.34 | 📈 H: ₹80703.23 | 📉 L: ₹75523.06 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.15 | 📈 H: ₹91.85 | 📉 L: ₹90.12 <br>♦ ETH: ₹271117.6 | 📈 H: ₹288879.7 | 📉 L: ₹265680.9 <br>₿ BTC: ₹7830000.0 | 📈 H: ₹8185075.0 | 📉 L: ₹7800005.0 <br>⚡ BNB: ₹78850.71 | 📈 H: ₹80703.23 | 📉 L: ₹75523.06 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My lawyer (who is imaginary) advises against it. 🛑❌ 
+  I'm waiting for a rich benefactor to fund my yeses. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
