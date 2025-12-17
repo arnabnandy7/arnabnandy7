@@ -18,27 +18,27 @@
   <p>Kolkata, India - 17/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:42 AM, Set: 02:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 24.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:42 AM, Set: 02:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 24.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 135.45 <strong>PM10:</strong> 137.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 112.65 <strong>PM10:</strong> 117.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.5 | 25 | 14.8 | 0 |
-| 2025-12-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.9 | 24.7 | 30 | 11.9 | 0 |
-| 2025-12-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 23.9 | 33 | 10.1 | 0 |
-| 2025-12-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 23.8 | 36 | 9.7 | 0 |
-| 2025-12-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 38 | 10.1 | 0 |
-| 2025-12-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 40 | 9.7 | 0 |
-| 2025-12-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 42 | 9.0 | 0 |
-| 2025-12-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 44 | 9.4 | 0 |
-| 2025-12-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.0 | 46 | 11.2 | 0 |
-| 2025-12-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 49 | 11.9 | 0 |
+| 2025-12-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 24.8 | 29 | 11.9 | 0 |
+| 2025-12-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.0 | 32 | 10.8 | 0 |
+| 2025-12-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 23.7 | 34 | 10.1 | 0 |
+| 2025-12-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.5 | 36 | 10.4 | 0 |
+| 2025-12-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 37 | 10.1 | 0 |
+| 2025-12-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 38 | 9.0 | 0 |
+| 2025-12-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.0 | 20.0 | 39 | 8.6 | 0 |
+| 2025-12-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 41 | 9.4 | 0 |
+| 2025-12-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 43 | 11.2 | 0 |
+| 2025-12-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 45 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.2 | 📈 H: ₹91.99 | 📉 L: ₹90.6 <br>♦ ETH: ₹267000.0 | 📈 H: ₹271670.0 | 📉 L: ₹266000.0 <br>₿ BTC: ₹7850857.0 | 📈 H: ₹8100000.0 | 📉 L: ₹7840486.0 <br>⚡ BNB: ₹78415.48 | 📈 H: ₹80182.86 | 📉 L: ₹76446.48 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.3 | 📈 H: ₹91.99 | 📉 L: ₹90.6 <br>♦ ETH: ₹267000.0 | 📈 H: ₹271670.0 | 📉 L: ₹266000.0 <br>₿ BTC: ₹7868450.0 | 📈 H: ₹8100000.0 | 📉 L: ₹7840486.0 <br>⚡ BNB: ₹78410.95 | 📈 H: ₹80182.86 | 📉 L: ₹76446.48 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm the emergency contact for my TV, so I must remain available. 🛑❌ 
+  In the hero's journey of my life, I'm at the 'refusal of the call' stage. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
