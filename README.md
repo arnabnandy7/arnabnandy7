@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 17/12/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
-  <p>Mist (হাল্কা কুয়াশা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:42 AM, Set: 02:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:42 AM, Set: 02:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 04:55 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 20.0 °C  
 
   <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 150.75 <strong>PM10:</strong> 156.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 20.2 | 18.2 | 68 | 11.5 | 0 |
 | 2025-12-18 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 47 | 11.5 | 0 |
 | 2025-12-18 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 50 | 10.8 | 0 |
 | 2025-12-18 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.1 | 17.1 | 53 | 10.1 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-18 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.4 | 21.4 | 43 | 9.4 | 0 |
 | 2025-12-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 24.4 | 38 | 9.7 | 0 |
 | 2025-12-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 25.1 | 34 | 10.1 | 0 |
+| 2025-12-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 25.7 | 31 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.51 | 📈 H: ₹91.71 | 📉 L: ₹90.6 <br>♦ ETH: ₹257000.0 | 📈 H: ₹278234.5 | 📉 L: ₹255000.1 <br>₿ BTC: ₹7822972.0 | 📈 H: ₹8197673.0 | 📉 L: ₹7800000.0 <br>⚡ BNB: ₹76111.63 | 📈 H: ₹79187.87 | 📉 L: ₹76111.63 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.76 | 📈 H: ₹91.76 | 📉 L: ₹90.6 <br>♦ ETH: ₹258645.7 | 📈 H: ₹278234.5 | 📉 L: ₹255000.1 <br>₿ BTC: ₹7872326.0 | 📈 H: ₹8197673.0 | 📉 L: ₹7800000.0 <br>⚡ BNB: ₹76756.62 | 📈 H: ₹79187.87 | 📉 L: ₹76111.63 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In an alternate universe, I totally did that. Just not in this one. 🛑❌ 
+  I'm in the middle of a high-stakes Tetris game (yes, it's very serious). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
