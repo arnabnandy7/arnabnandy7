@@ -18,14 +18,13 @@
   <p>Kolkata, India - 18/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:36 AM, Set: 03:23 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 24.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:36 AM, Set: 03:23 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 54% | 🌡️ <strong>Feels Like:</strong> 24.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 134.95 <strong>PM10:</strong> 137.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 130.35 <strong>PM10:</strong> 132.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 26.0 | 32 | 9.4 | 0 |
 | 2025-12-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 26.3 | 30 | 8.3 | 0 |
 | 2025-12-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 26.5 | 29 | 8.3 | 0 |
 | 2025-12-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 26.3 | 29 | 6.5 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 24.1 | 40 | 8.3 | 0 |
 | 2025-12-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 42 | 7.9 | 0 |
 | 2025-12-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 43 | 9.0 | 0 |
+| 2025-12-18 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 44 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.78 | 📈 H: ₹91.8 | 📉 L: ₹90.8 <br>♦ ETH: ₹260500.0 | 📈 H: ₹278234.5 | 📉 L: ₹255000.1 <br>₿ BTC: ₹7905880.0 | 📈 H: ₹8197673.0 | 📉 L: ₹7800000.0 <br>⚡ BNB: ₹75866.59 | 📈 H: ₹79187.87 | 📉 L: ₹75749.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.69 | 📈 H: ₹91.8 | 📉 L: ₹91.0 <br>♦ ETH: ₹260757.7 | 📈 H: ₹278234.5 | 📉 L: ₹255000.1 <br>₿ BTC: ₹7918928.0 | 📈 H: ₹8197673.0 | 📉 L: ₹7800000.0 <br>⚡ BNB: ₹76212.42 | 📈 H: ₹79187.87 | 📉 L: ₹75749.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Let's pencil it in for the 12th of Never. 🛑❌ 
+  Insert an orchestra sound: dun dun dun NO. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
