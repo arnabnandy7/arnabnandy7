@@ -18,9 +18,9 @@
   <p>Kolkata, India - 19/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:31 AM, Set: 04:10 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 54% | 🌡️ <strong>Feels Like:</strong> 25.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:31 AM, Set: 04:10 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.15 <strong>PM10:</strong> 38.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.45 <strong>PM10:</strong> 37.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.71 | 📈 H: ₹92.5 | 📉 L: ₹91.3 <br>♦ ETH: ₹271574.4 | 📈 H: ₹274999.5 | 📉 L: ₹258000.1 <br>₿ BTC: ₹8068639.0 | 📈 H: ₹8197400.0 | 📉 L: ₹7800000.0 <br>⚡ BNB: ₹77547.61 | 📈 H: ₹78557.34 | 📉 L: ₹75619.78 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.0 | 📈 H: ₹92.5 | 📉 L: ₹91.3 <br>♦ ETH: ₹270649.3 | 📈 H: ₹274999.5 | 📉 L: ₹258000.1 <br>₿ BTC: ₹8018937.0 | 📈 H: ₹8197400.0 | 📉 L: ₹7800000.0 <br>⚡ BNB: ₹77216.21 | 📈 H: ₹78557.34 | 📉 L: ₹75619.78 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I gave all my free time to someone else; I'm running a deficit. 🛑❌ 
+  My reflexes are honed to automatically decline invites. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
