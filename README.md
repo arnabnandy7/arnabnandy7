@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 17.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 88.85 <strong>PM10:</strong> 92.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 105.65 <strong>PM10:</strong> 108.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.9 | 45 | 3.2 | 0 |
 | 2025-12-21 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 46 | 4.7 | 0 |
 | 2025-12-21 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 46 | 6.5 | 0 |
 | 2025-12-21 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 48 | 7.9 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.1 | 17.1 | 51 | 7.6 | 0 |
 | 2025-12-21 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 45 | 7.2 | 0 |
 | 2025-12-21 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.9 | 21.9 | 38 | 8.3 | 0 |
+| 2025-12-21 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.0 | 24.4 | 34 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.57 | 📈 H: ₹92.39 | 📉 L: ₹91.11 <br>♦ ETH: ₹270759.2 | 📈 H: ₹275944.5 | 📉 L: ₹268413.8 <br>₿ BTC: ₹8086733.0 | 📈 H: ₹8098885.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹77536.41 | 📈 H: ₹78998.98 | 📉 L: ₹76100.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.21 | 📈 H: ₹92.39 | 📉 L: ₹91.11 <br>♦ ETH: ₹272106.8 | 📈 H: ₹275944.5 | 📉 L: ₹268413.8 <br>₿ BTC: ₹8027598.0 | 📈 H: ₹8098885.0 | 📉 L: ₹7960001.0 <br>⚡ BNB: ₹77549.13 | 📈 H: ₹78998.98 | 📉 L: ₹76100.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It's not procrastination if I never planned on doing it. 🛑❌ 
+  I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
