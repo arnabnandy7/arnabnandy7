@@ -18,9 +18,9 @@
   <p>Kolkata, India - 20/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 16.2 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 16.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 179.15 <strong>PM10:</strong> 181.95</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 172.65 <strong>PM10:</strong> 175.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.78 | 📈 H: ₹92.5 | 📉 L: ₹91.68 <br>♦ ETH: ₹274900.0 | 📈 H: ₹276431.4 | 📉 L: ₹261838.7 <br>₿ BTC: ₹8098885.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹77811.18 | 📈 H: ₹78998.98 | 📉 L: ₹76638.36 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.71 | 📈 H: ₹92.5 | 📉 L: ₹91.68 <br>♦ ETH: ₹274800.0 | 📈 H: ₹276431.4 | 📉 L: ₹266835.6 <br>₿ BTC: ₹8097249.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹77811.18 | 📈 H: ₹78998.98 | 📉 L: ₹76638.36 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm choosing Netflix over stress, sorry. 🛑❌ 
+  I tried seeing it from your perspective, but I still have to say no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
