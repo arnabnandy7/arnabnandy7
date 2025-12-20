@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 18.4 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 17.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.85 <strong>PM10:</strong> 61.35</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 58.35 <strong>PM10:</strong> 62.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 40 | 5.0 | 0 |
 | 2025-12-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 42 | 2.9 | 0 |
 | 2025-12-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 44 | 2.5 | 0 |
 | 2025-12-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.9 | 45 | 3.2 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 49 | 8.3 | 0 |
 | 2025-12-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 50 | 8.6 | 0 |
 | 2025-12-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 51 | 7.9 | 0 |
+| 2025-12-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.1 | 17.1 | 51 | 7.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.45 | 📈 H: ₹92.39 | 📉 L: ₹91.11 <br>♦ ETH: ₹270377.7 | 📈 H: ₹276431.4 | 📉 L: ₹268413.8 <br>₿ BTC: ₹8009019.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹77335.61 | 📈 H: ₹78998.98 | 📉 L: ₹76100.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.46 | 📈 H: ₹92.39 | 📉 L: ₹91.11 <br>♦ ETH: ₹270477.7 | 📈 H: ₹275972.3 | 📉 L: ₹268413.8 <br>₿ BTC: ₹8016499.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹77454.63 | 📈 H: ₹78998.98 | 📉 L: ₹76100.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My guild in World of Warcraft needs me to farm 'No' potions. 🛑❌ 
+  If there were an award for avoiding participation, I'd be the frontrunner. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
