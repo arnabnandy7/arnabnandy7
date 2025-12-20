@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 18.3 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 19.3 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 166.15 <strong>PM10:</strong> 168.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 143.35 <strong>PM10:</strong> 144.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 26.1 | 30 | 8.6 | 0 |
 | 2025-12-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 26.2 | 29 | 7.9 | 0 |
 | 2025-12-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 26.1 | 29 | 7.6 | 0 |
 | 2025-12-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.6 | 25.4 | 33 | 7.9 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 42 | 9.4 | 0 |
 | 2025-12-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 43 | 8.6 | 0 |
 | 2025-12-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 45 | 7.6 | 0 |
+| 2025-12-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 47 | 7.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.52 | 📈 H: ₹92.5 | 📉 L: ₹91.11 <br>♦ ETH: ₹270804.6 | 📈 H: ₹276431.4 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8098885.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹77461.86 | 📈 H: ₹78998.98 | 📉 L: ₹76840.72 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.6 | 📈 H: ₹92.5 | 📉 L: ₹91.11 <br>♦ ETH: ₹274614.9 | 📈 H: ₹276431.4 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8013009.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7901583.0 <br>⚡ BNB: ₹76167.08 | 📈 H: ₹78998.98 | 📉 L: ₹76167.08 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My enthusiasm filed for bankruptcy, so I can't invest in that. 🛑❌ 
+  I'm brainstorming how to take over the world, and I need full concentration. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
