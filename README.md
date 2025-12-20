@@ -17,28 +17,28 @@
 <div align="center">
   <p>Kolkata, India - 20/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:31 AM, Set: 04:10 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:56 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 16.3 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 06:24 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 06:11 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 16.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 191.75 <strong>PM10:</strong> 196.45</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 189.45 <strong>PM10:</strong> 193.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.6 | 19.6 | 46 | 6.5 | 0 |
-| 2025-12-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.1 | 24.0 | 39 | 8.6 | 0 |
-| 2025-12-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 24.6 | 35 | 9.0 | 0 |
-| 2025-12-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 25.4 | 31 | 9.7 | 0 |
-| 2025-12-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.9 | 29 | 8.6 | 0 |
-| 2025-12-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 26.3 | 27 | 6.8 | 0 |
-| 2025-12-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.6 | 25 | 5.8 | 0 |
-| 2025-12-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 26.7 | 24 | 6.1 | 0 |
-| 2025-12-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.6 | 25 | 6.1 | 0 |
-| 2025-12-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 25.7 | 29 | 6.1 | 0 |
+| 2025-12-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.3 | 21.3 | 45 | 10.4 | 0 |
+| 2025-12-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.3 | 24.5 | 40 | 10.8 | 0 |
+| 2025-12-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 25.1 | 37 | 11.2 | 0 |
+| 2025-12-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 25.5 | 34 | 10.4 | 0 |
+| 2025-12-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 25.8 | 32 | 9.0 | 0 |
+| 2025-12-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 26.1 | 30 | 8.6 | 0 |
+| 2025-12-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 26.2 | 29 | 7.9 | 0 |
+| 2025-12-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 26.1 | 29 | 7.6 | 0 |
+| 2025-12-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.6 | 25.4 | 33 | 7.9 | 0 |
+| 2025-12-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 24.4 | 36 | 8.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.78 | 📈 H: ₹92.5 | 📉 L: ₹91.68 <br>♦ ETH: ₹272000.1 | 📈 H: ₹276431.4 | 📉 L: ₹258000.1 <br>₿ BTC: ₹8050805.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7818417.0 <br>⚡ BNB: ₹77917.37 | 📈 H: ₹78998.98 | 📉 L: ₹75635.54 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.77 | 📈 H: ₹92.5 | 📉 L: ₹91.68 <br>♦ ETH: ₹272000.0 | 📈 H: ₹276431.4 | 📉 L: ₹258000.1 <br>₿ BTC: ₹8098885.0 | 📈 H: ₹8161741.0 | 📉 L: ₹7830123.0 <br>⚡ BNB: ₹77917.37 | 📈 H: ₹78998.98 | 📉 L: ₹75635.54 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I performed a risk assessment and the results said 'no'. 🛑❌ 
+  It's a no from me, dawg. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
