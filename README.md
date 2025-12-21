@@ -18,14 +18,13 @@
   <p>Kolkata, India - 21/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:15 AM, Set: 05:58 PM)  <br>🌅 <strong>Sunrise:</strong> 06:12 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 13.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:15 AM, Set: 05:58 PM)  <br>🌅 <strong>Sunrise:</strong> 06:12 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 15.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 129.35 <strong>PM10:</strong> 132.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 127.95 <strong>PM10:</strong> 131.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-21 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.0 | 24.1 | 41 | 10.8 | 0 |
 | 2025-12-21 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 24.5 | 38 | 10.1 | 0 |
 | 2025-12-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 24.9 | 36 | 9.4 | 0 |
 | 2025-12-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 25.2 | 34 | 6.8 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-21 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 25.0 | 33 | 6.1 | 0 |
 | 2025-12-21 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 24.1 | 36 | 6.5 | 0 |
 | 2025-12-21 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 23.9 | 37 | 8.3 | 0 |
+| 2025-12-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 39 | 8.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.21 | 📈 H: ₹92.27 | 📉 L: ₹91.11 <br>♦ ETH: ₹270565.1 | 📈 H: ₹275944.5 | 📉 L: ₹268413.8 <br>₿ BTC: ₹8098074.0 | 📈 H: ₹8098885.0 | 📉 L: ₹8008000.0 <br>⚡ BNB: ₹77549.13 | 📈 H: ₹78998.98 | 📉 L: ₹76100.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.24 | 📈 H: ₹92.27 | 📉 L: ₹91.11 <br>♦ ETH: ₹269300.1 | 📈 H: ₹275944.5 | 📉 L: ₹268413.8 <br>₿ BTC: ₹8008019.0 | 📈 H: ₹8098885.0 | 📉 L: ₹8008000.0 <br>⚡ BNB: ₹77091.15 | 📈 H: ₹78998.98 | 📉 L: ₹76100.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I tried doing something similar once; let's just say the fire department got involved. 🛑❌ 
+  My fairy godmother said I should stay home or I'll turn into a pumpkin. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
