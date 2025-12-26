@@ -18,27 +18,27 @@
   <p>Kolkata, India - 26/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:57 AM, Set: 09:43 PM)  <br>🌅 <strong>Sunrise:</strong> 06:14 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 12.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:31 AM, Set: 10:38 PM)  <br>🌅 <strong>Sunrise:</strong> 06:14 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 12.3 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 183.35 <strong>PM10:</strong> 187.15</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 175.95 <strong>PM10:</strong> 179.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-26 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.9 | 16.9 | 50 | 8.3 | 0 |
-| 2025-12-26 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.6 | 19.6 | 42 | 10.8 | 0 |
-| 2025-12-26 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.0 | 22.0 | 37 | 12.2 | 0 |
-| 2025-12-26 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.8 | 24.2 | 32 | 14.0 | 0 |
-| 2025-12-26 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 24.7 | 28 | 14.4 | 0 |
-| 2025-12-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 25.1 | 25 | 14.8 | 0 |
-| 2025-12-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.4 | 23 | 14.8 | 0 |
-| 2025-12-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 25.4 | 23 | 15.5 | 0 |
-| 2025-12-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.5 | 25.2 | 23 | 14.8 | 0 |
-| 2025-12-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 24.4 | 28 | 11.2 | 0 |
+| 2025-12-26 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.2 | 17.2 | 50 | 10.8 | 0 |
+| 2025-12-26 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.5 | 19.6 | 42 | 12.2 | 0 |
+| 2025-12-26 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.5 | 21.5 | 35 | 13.3 | 0 |
+| 2025-12-26 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.2 | 23.7 | 29 | 14.8 | 0 |
+| 2025-12-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 24.0 | 26 | 14.0 | 0 |
+| 2025-12-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 24.3 | 24 | 14.0 | 0 |
+| 2025-12-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 24.4 | 24 | 13.7 | 0 |
+| 2025-12-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 24.3 | 24 | 13.7 | 0 |
+| 2025-12-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.4 | 23.8 | 29 | 10.1 | 0 |
+| 2025-12-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.1 | 21.1 | 33 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.2 | 📈 H: ₹91.7 | 📉 L: ₹91.2 <br>♦ ETH: ₹265184.2 | 📈 H: ₹270810.9 | 📉 L: ₹265184.2 <br>₿ BTC: ₹8000090.0 | 📈 H: ₹8061758.0 | 📉 L: ₹7900000.0 <br>⚡ BNB: ₹76500.0 | 📈 H: ₹77906.24 | 📉 L: ₹76500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.21 | 📈 H: ₹91.7 | 📉 L: ₹91.2 <br>♦ ETH: ₹268486.1 | 📈 H: ₹270810.9 | 📉 L: ₹265184.2 <br>₿ BTC: ₹7923874.0 | 📈 H: ₹8061758.0 | 📉 L: ₹7900000.0 <br>⚡ BNB: ₹76500.0 | 📈 H: ₹77906.24 | 📉 L: ₹76500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My cat is giving me the 'don't you dare go out' look. 🛑❌ 
+  I’ve made peace with declining things that don’t energize me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
