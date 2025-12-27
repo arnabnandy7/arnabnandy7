@@ -18,27 +18,27 @@
   <p>Kolkata, India - 27/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:04 AM, Set: 11:35 PM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:01 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 23.6 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:04 AM, Set: 11:35 PM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 23.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 130.35 <strong>PM10:</strong> 131.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 116.75 <strong>PM10:</strong> 118.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-27 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 24.7 | 27 | 11.9 | 0 |
-| 2025-12-27 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 24.1 | 32 | 10.4 | 0 |
-| 2025-12-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 36 | 9.7 | 0 |
-| 2025-12-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.3 | 20.4 | 39 | 9.7 | 0 |
-| 2025-12-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 42 | 8.3 | 0 |
-| 2025-12-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 45 | 8.3 | 0 |
-| 2025-12-27 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.3 | 48 | 8.3 | 0 |
-| 2025-12-27 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.9 | 17.9 | 51 | 7.9 | 0 |
-| 2025-12-27 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.5 | 54 | 6.8 | 0 |
-| 2025-12-28 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.2 | 17.2 | 57 | 6.8 | 0 |
+| 2025-12-27 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.7 | 24.3 | 28 | 9.4 | 0 |
+| 2025-12-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 23.5 | 31 | 9.4 | 0 |
+| 2025-12-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 34 | 8.6 | 0 |
+| 2025-12-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 36 | 7.9 | 0 |
+| 2025-12-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.8 | 38 | 7.9 | 0 |
+| 2025-12-27 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 41 | 7.9 | 0 |
+| 2025-12-27 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 43 | 7.2 | 0 |
+| 2025-12-27 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.3 | 45 | 6.8 | 0 |
+| 2025-12-28 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.0 | 18.0 | 47 | 6.5 | 0 |
+| 2025-12-28 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.6 | 49 | 7.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.81 | 📈 H: ₹91.73 | 📉 L: ₹90.7 <br>♦ ETH: ₹266000.0 | 📈 H: ₹272100.0 | 📉 L: ₹264000.1 <br>₿ BTC: ₹7895001.0 | 📈 H: ₹8148362.0 | 📉 L: ₹7890993.0 <br>⚡ BNB: ₹75628.81 | 📈 H: ₹76981.6 | 📉 L: ₹75000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.86 | 📈 H: ₹91.73 | 📉 L: ₹90.7 <br>♦ ETH: ₹266000.0 | 📈 H: ₹272100.0 | 📉 L: ₹264000.1 <br>₿ BTC: ₹7950000.0 | 📈 H: ₹8148362.0 | 📉 L: ₹7890993.0 <br>⚡ BNB: ₹75762.47 | 📈 H: ₹76999.97 | 📉 L: ₹75000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Negative. Full stop. 🛑❌ 
+  My calendar is on strike. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
