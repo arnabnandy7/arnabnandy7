@@ -18,27 +18,27 @@
   <p>Kolkata, India - 29/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:16 PM, Set: 12:33 AM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 17.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:16 PM, Set: 12:33 AM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 18.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 137.75 <strong>PM10:</strong> 138.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 105.85 <strong>PM10:</strong> 107.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.6 | 24.2 | 19 | 12.6 | 0 |
-| 2025-12-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.8 | 23.4 | 23 | 9.4 | 0 |
-| 2025-12-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 26 | 8.6 | 0 |
-| 2025-12-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 28 | 7.9 | 0 |
-| 2025-12-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 30 | 7.2 | 0 |
-| 2025-12-29 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.9 | 18.9 | 31 | 6.8 | 0 |
-| 2025-12-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.4 | 32 | 6.5 | 0 |
-| 2025-12-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 34 | 6.8 | 0 |
-| 2025-12-29 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.1 | 17.1 | 36 | 7.2 | 0 |
-| 2025-12-30 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.6 | 16.6 | 38 | 7.6 | 0 |
+| 2025-12-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.7 | 24.0 | 24 | 9.7 | 0 |
+| 2025-12-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 23.0 | 26 | 8.3 | 0 |
+| 2025-12-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 28 | 7.2 | 0 |
+| 2025-12-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 29 | 7.6 | 0 |
+| 2025-12-29 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 30 | 6.5 | 0 |
+| 2025-12-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 31 | 5.0 | 0 |
+| 2025-12-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 32 | 6.1 | 0 |
+| 2025-12-29 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 34 | 6.5 | 0 |
+| 2025-12-30 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.6 | 17.6 | 35 | 6.8 | 0 |
+| 2025-12-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 37 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.25 | 📈 H: ₹91.5 | 📉 L: ₹90.03 <br>♦ ETH: ₹270454.4 | 📈 H: ₹275000.0 | 📉 L: ₹262876.3 <br>₿ BTC: ₹8111194.0 | 📈 H: ₹8147547.0 | 📉 L: ₹7891141.0 <br>⚡ BNB: ₹77183.15 | 📈 H: ₹78499.99 | 📉 L: ₹76188.08 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.56 | 📈 H: ₹91.5 | 📉 L: ₹90.03 <br>♦ ETH: ₹270373.2 | 📈 H: ₹275000.0 | 📉 L: ₹262876.3 <br>₿ BTC: ₹7926808.0 | 📈 H: ₹8147547.0 | 📉 L: ₹7891141.0 <br>⚡ BNB: ₹76353.49 | 📈 H: ₹78499.99 | 📉 L: ₹76188.08 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My guardian unicorn says I shouldn't. 🛑❌ 
+  I'm introverting so hard right now, I can't stop to do that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
