@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 30/12/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:59 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 20.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:59 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 20.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 99.15 <strong>PM10:</strong> 100.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 99.15 <strong>PM10:</strong> 101.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-30 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.7 | 23.7 | 21 | 9.0 | 0 |
 | 2025-12-30 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 22.6 | 23 | 7.6 | 0 |
 | 2025-12-30 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 24 | 6.5 | 0 |
 | 2025-12-30 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 25 | 4.0 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-30 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.9 | 17.9 | 30 | 2.5 | 0 |
 | 2025-12-31 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.2 | 17.2 | 33 | 5.8 | 0 |
 | 2025-12-31 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.5 | 16.5 | 34 | 6.8 | 0 |
+| 2025-12-31 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.9 | 15.9 | 35 | 7.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.52 | 📈 H: ₹91.79 | 📉 L: ₹90.38 <br>♦ ETH: ₹267779.0 | 📈 H: ₹271490.1 | 📉 L: ₹263000.0 <br>₿ BTC: ₹7907629.0 | 📈 H: ₹8009297.0 | 📉 L: ₹7823102.0 <br>⚡ BNB: ₹78000.0 | 📈 H: ₹78227.48 | 📉 L: ₹76285.23 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.46 | 📈 H: ₹91.79 | 📉 L: ₹90.38 <br>♦ ETH: ₹268135.1 | 📈 H: ₹270472.7 | 📉 L: ₹263000.0 <br>₿ BTC: ₹7915931.0 | 📈 H: ₹8009297.0 | 📉 L: ₹7823102.0 <br>⚡ BNB: ₹78000.0 | 📈 H: ₹78227.48 | 📉 L: ₹76285.23 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would say yes, but then I'd have to wake up from my daydream, and reality is far less pleasant. 🛑❌ 
+  The fabric of my being just isn't woven for that request. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
