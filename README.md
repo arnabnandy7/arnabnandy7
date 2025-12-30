@@ -18,9 +18,9 @@
   <p>Kolkata, India - 30/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:59 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 13.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:59 PM, Set: 01:36 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 13.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 210.85 <strong>PM10:</strong> 211.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 194.55 <strong>PM10:</strong> 195.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.42 | 📈 H: ₹91.79 | 📉 L: ₹90.03 <br>♦ ETH: ₹266092.2 | 📈 H: ₹275000.0 | 📉 L: ₹263000.0 <br>₿ BTC: ₹7864032.0 | 📈 H: ₹8147547.0 | 📉 L: ₹7823102.0 <br>⚡ BNB: ₹76693.98 | 📈 H: ₹78499.99 | 📉 L: ₹76285.23 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.51 | 📈 H: ₹91.79 | 📉 L: ₹90.03 <br>♦ ETH: ₹265182.0 | 📈 H: ₹275000.0 | 📉 L: ₹263000.0 <br>₿ BTC: ₹7864375.0 | 📈 H: ₹8113485.0 | 📉 L: ₹7823102.0 <br>⚡ BNB: ₹76810.99 | 📈 H: ₹78499.99 | 📉 L: ₹76285.23 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I need to conserve my remaining brain cell. 🛑❌ 
+  It's not procrastination if I never planned on doing it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
