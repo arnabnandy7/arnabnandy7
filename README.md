@@ -17,15 +17,14 @@
 <div align="center">
   <p>Kolkata, India - 31/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 10.8 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 10.3 °C  
 
-  <p><strong>AQI:</strong> Hazardous <strong>PM2.5:</strong> 276.55 <strong>PM10:</strong> 278.35</p>
+  <p><strong>AQI:</strong> Hazardous <strong>PM2.5:</strong> 283.05 <strong>PM10:</strong> 284.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-31 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.8 | 16.8 | 35 | 9.4 | 0 |
 | 2025-12-31 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 28 | 9.7 | 0 |
 | 2025-12-31 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.4 | 21.4 | 24 | 10.8 | 0 |
 | 2025-12-31 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.1 | 22.8 | 21 | 11.2 | 0 |
@@ -35,10 +34,11 @@
 | 2025-12-31 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 24.1 | 18 | 12.2 | 0 |
 | 2025-12-31 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.2 | 22 | 8.3 | 0 |
 | 2025-12-31 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.1 | 21.1 | 24 | 7.6 | 0 |
+| 2025-12-31 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 25 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.46 | 📈 H: ₹90.79 | 📉 L: ₹90.42 <br>♦ ETH: ₹267972.5 | 📈 H: ₹271721.0 | 📉 L: ₹264500.0 <br>₿ BTC: ₹8030193.0 | 📈 H: ₹8070000.0 | 📉 L: ₹7864032.0 <br>⚡ BNB: ₹77536.39 | 📈 H: ₹78000.0 | 📉 L: ₹76693.98 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.46 | 📈 H: ₹90.79 | 📉 L: ₹90.42 <br>♦ ETH: ₹268214.0 | 📈 H: ₹271721.0 | 📉 L: ₹264500.0 <br>₿ BTC: ₹7953086.0 | 📈 H: ₹8070000.0 | 📉 L: ₹7864032.0 <br>⚡ BNB: ₹77400.17 | 📈 H: ₹78000.0 | 📉 L: ₹76693.98 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm not ghosting you; I'm giving you a firm no. 🛑❌ 
+  I have to stay put to prevent the zombie outbreak from starting (long story). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
