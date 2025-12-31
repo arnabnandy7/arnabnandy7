@@ -18,14 +18,13 @@
   <p>Kolkata, India - 31/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 18.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 120.55 <strong>PM10:</strong> 124.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 121.95 <strong>PM10:</strong> 126.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2025-12-31 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.3 | 20.4 | 26 | 6.8 | 0 |
 | 2025-12-31 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 27 | 5.4 | 0 |
 | 2025-12-31 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.0 | 28 | 5.0 | 0 |
 | 2025-12-31 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.3 | 30 | 4.3 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-01 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.0 | 16.0 | 35 | 6.8 | 0 |
 | 2026-01-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.4 | 15.4 | 36 | 7.2 | 0 |
 | 2026-01-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.9 | 15.1 | 38 | 6.1 | 0 |
+| 2026-01-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.6 | 14.9 | 39 | 5.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.33 | 📈 H: ₹91.0 | 📉 L: ₹90.2 <br>♦ ETH: ₹270890.0 | 📈 H: ₹271721.0 | 📉 L: ₹265577.9 <br>₿ BTC: ₹8030190.0 | 📈 H: ₹8070000.0 | 📉 L: ₹7906377.0 <br>⚡ BNB: ₹77734.43 | 📈 H: ₹78100.49 | 📉 L: ₹77181.25 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.32 | 📈 H: ₹91.0 | 📉 L: ₹90.2 <br>♦ ETH: ₹272000.0 | 📈 H: ₹272000.0 | 📉 L: ₹265577.9 <br>₿ BTC: ₹7999630.0 | 📈 H: ₹8070000.0 | 📉 L: ₹7906377.0 <br>⚡ BNB: ₹78499.99 | 📈 H: ₹78499.99 | 📉 L: ₹77181.25 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Does a fish need a bicycle? That's how much I need to do this. 🛑❌ 
+  In theory I could, but let's stick to reality where I won't. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
