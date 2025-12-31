@@ -18,14 +18,13 @@
   <p>Kolkata, India - 31/12/2025</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 12.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 12.1 °C  
 
   <p><strong>AQI:</strong> Hazardous <strong>PM2.5:</strong> 275.55 <strong>PM10:</strong> 279.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.9 | 15.1 | 38 | 6.1 | 0 |
 | 2026-01-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.6 | 14.9 | 39 | 5.0 | 0 |
 | 2026-01-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 14.5 | 15.0 | 40 | 4.3 | 0 |
 | 2026-01-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.0 | 17.0 | 35 | 3.6 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.6 | 24.2 | 20 | 7.2 | 0 |
 | 2026-01-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.0 | 18 | 7.6 | 0 |
 | 2026-01-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 25.7 | 17 | 8.6 | 0 |
+| 2026-01-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.0 | 17 | 7.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.32 | 📈 H: ₹91.0 | 📉 L: ₹90.1 <br>♦ ETH: ₹267434.3 | 📈 H: ₹272000.0 | 📉 L: ₹266411.7 <br>₿ BTC: ₹7895868.0 | 📈 H: ₹8030193.0 | 📉 L: ₹7864032.0 <br>⚡ BNB: ₹79000.0 | 📈 H: ₹79000.0 | 📉 L: ₹77308.02 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.31 | 📈 H: ₹91.0 | 📉 L: ₹90.1 <br>♦ ETH: ₹267434.3 | 📈 H: ₹272000.0 | 📉 L: ₹266411.7 <br>₿ BTC: ₹7895868.0 | 📈 H: ₹8030193.0 | 📉 L: ₹7864032.0 <br>⚡ BNB: ₹79000.0 | 📈 H: ₹79000.0 | 📉 L: ₹77308.02 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm coming down with something; it's called laziness. 🛑❌ 
+  I'd prefer not to injure my will to live by saying yes. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
