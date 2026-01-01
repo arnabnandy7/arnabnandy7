@@ -5,7 +5,7 @@
 <p align="center">
   🌱 Exploring the ever-evolving world of cloud technologies ☁️<br/>
   👯 Open to new creative collaborations and exciting projects<br/>
-  🎯 2025 Mission: Ignite more stars in the Open Source galaxy<br/>
+  🎯 2026 Mission: Ignite more stars in the Open Source galaxy<br/>
   ⚡ Fun fact: I thrive in the adrenaline rush of online coding contests<br/>
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
@@ -15,18 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 31/12/2025</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 12.1 °C  
+  <p>Kolkata, India - 01/01/2026</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:48 PM, Set: 02:42 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 12.2 °C  
 
-  <p><strong>AQI:</strong> Hazardous <strong>PM2.5:</strong> 275.55 <strong>PM10:</strong> 279.35</p>
+  <p><strong>AQI:</strong> Hazardous <strong>PM2.5:</strong> 270.05 <strong>PM10:</strong> 273.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.6 | 14.9 | 39 | 5.0 | 0 |
-| 2026-01-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 14.5 | 15.0 | 40 | 4.3 | 0 |
 | 2026-01-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.0 | 17.0 | 35 | 3.6 | 0 |
 | 2026-01-01 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.6 | 19.6 | 30 | 2.9 | 0 |
 | 2026-01-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.1 | 22.9 | 26 | 3.6 | 0 |
@@ -35,10 +33,12 @@
 | 2026-01-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.0 | 18 | 7.6 | 0 |
 | 2026-01-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 25.7 | 17 | 8.6 | 0 |
 | 2026-01-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.0 | 17 | 7.9 | 0 |
+| 2026-01-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 25.9 | 18 | 6.8 | 0 |
+| 2026-01-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 24.7 | 22 | 5.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.31 | 📈 H: ₹91.0 | 📉 L: ₹90.1 <br>♦ ETH: ₹267434.3 | 📈 H: ₹272000.0 | 📉 L: ₹266411.7 <br>₿ BTC: ₹7895868.0 | 📈 H: ₹8030193.0 | 📉 L: ₹7864032.0 <br>⚡ BNB: ₹79000.0 | 📈 H: ₹79000.0 | 📉 L: ₹77308.02 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.35 | 📈 H: ₹91.0 | 📉 L: ₹90.1 <br>♦ ETH: ₹267434.3 | 📈 H: ₹272000.0 | 📉 L: ₹266411.7 <br>₿ BTC: ₹7895868.0 | 📈 H: ₹8030193.0 | 📉 L: ₹7864032.0 <br>⚡ BNB: ₹79000.0 | 📈 H: ₹79000.0 | 📉 L: ₹77308.02 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd prefer not to injure my will to live by saying yes. 🛑❌ 
+  That would be a dream come true. Too bad I'm awake and saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
