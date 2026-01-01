@@ -18,27 +18,27 @@
   <p>Kolkata, India - 01/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:45 PM, Set: 03:52 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 22.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:45 PM, Set: 03:52 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 22.6 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 152.65 <strong>PM10:</strong> 155.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 113.35 <strong>PM10:</strong> 117.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.5 | 24.8 | 17 | 8.6 | 0 |
-| 2026-01-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 23.7 | 21 | 6.8 | 0 |
-| 2026-01-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.0 | 22.6 | 24 | 7.6 | 0 |
-| 2026-01-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 25 | 7.6 | 0 |
-| 2026-01-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.0 | 20.0 | 27 | 7.9 | 0 |
-| 2026-01-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 28 | 7.6 | 0 |
-| 2026-01-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.6 | 18.6 | 29 | 7.2 | 0 |
-| 2026-01-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 30 | 6.5 | 0 |
-| 2026-01-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 31 | 6.1 | 0 |
-| 2026-01-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 32 | 5.4 | 0 |
+| 2026-01-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 24.2 | 21 | 6.5 | 0 |
+| 2026-01-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 22.9 | 24 | 6.5 | 0 |
+| 2026-01-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.5 | 26 | 6.8 | 0 |
+| 2026-01-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 27 | 6.1 | 0 |
+| 2026-01-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 29 | 5.4 | 0 |
+| 2026-01-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 30 | 5.0 | 0 |
+| 2026-01-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 30 | 4.7 | 0 |
+| 2026-01-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 31 | 5.0 | 0 |
+| 2026-01-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.9 | 17.9 | 33 | 4.7 | 0 |
+| 2026-01-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.5 | 34 | 3.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.12 | 📈 H: ₹91.36 | 📉 L: ₹90.0 <br>♦ ETH: ₹267323.6 | 📈 H: ₹272000.0 | 📉 L: ₹266266.2 <br>₿ BTC: ₹7872927.0 | 📈 H: ₹8030193.0 | 📉 L: ₹7850000.0 <br>⚡ BNB: ₹77176.14 | 📈 H: ₹79000.0 | 📉 L: ₹77170.77 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.19 | 📈 H: ₹91.36 | 📉 L: ₹90.0 <br>♦ ETH: ₹266671.3 | 📈 H: ₹272000.0 | 📉 L: ₹266266.2 <br>₿ BTC: ₹7852922.0 | 📈 H: ₹8030193.0 | 📉 L: ₹7850000.0 <br>⚡ BNB: ₹76870.89 | 📈 H: ₹79000.0 | 📉 L: ₹76870.89 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm honored you thought of me, but I must respectfully and comically decline. 🛑❌ 
+  Unfortunately, I'm volunteering as a taste-tester for my pet's new diet. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
