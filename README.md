@@ -18,14 +18,13 @@
   <p>Kolkata, India - 01/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:45 PM, Set: 03:52 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:45 PM, Set: 03:52 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 16.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 146.65 <strong>PM10:</strong> 149.35</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 169.85 <strong>PM10:</strong> 172.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 31 | 5.0 | 0 |
 | 2026-01-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.9 | 17.9 | 33 | 4.7 | 0 |
 | 2026-01-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.5 | 34 | 3.6 | 0 |
 | 2026-01-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.1 | 17.1 | 35 | 5.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.0 | 15.0 | 40 | 7.9 | 0 |
 | 2026-01-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.3 | 17.3 | 37 | 6.8 | 0 |
 | 2026-01-02 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.2 | 20.2 | 31 | 7.2 | 0 |
+| 2026-01-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.6 | 23.1 | 26 | 7.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.43 | 📈 H: ₹91.36 | 📉 L: ₹90.0 <br>♦ ETH: ₹267602.3 | 📈 H: ₹270000.0 | 📉 L: ₹266266.2 <br>₿ BTC: ₹7908558.0 | 📈 H: ₹7997942.0 | 📉 L: ₹7850000.0 <br>⚡ BNB: ₹77024.69 | 📈 H: ₹79000.0 | 📉 L: ₹76870.89 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.3 | 📈 H: ₹91.36 | 📉 L: ₹90.0 <br>♦ ETH: ₹268064.7 | 📈 H: ₹270000.0 | 📉 L: ₹266266.2 <br>₿ BTC: ₹7906086.0 | 📈 H: ₹7997942.0 | 📉 L: ₹7850000.0 <br>⚡ BNB: ₹76977.98 | 📈 H: ₹79000.0 | 📉 L: ₹76870.89 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No.' I'm giving that answer five stars. 🛑❌ 
+  'No' is just 'on' spelled backwards, and I'm off. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
