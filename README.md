@@ -18,14 +18,13 @@
   <p>Kolkata, India - 03/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:58 PM, Set: 06:08 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 18.3 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:58 PM, Set: 06:08 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 79.75 <strong>PM10:</strong> 83.05</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 88.65 <strong>PM10:</strong> 91.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-03 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 33 | 5.8 | 0 |
 | 2026-01-03 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 34 | 2.5 | 0 |
 | 2026-01-03 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.9 | 17.9 | 35 | 4.7 | 0 |
 | 2026-01-04 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 36 | 6.5 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-04 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.7 | 15.7 | 42 | 6.5 | 0 |
 | 2026-01-04 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.5 | 15.5 | 43 | 6.5 | 0 |
 | 2026-01-04 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.4 | 15.4 | 44 | 6.5 | 0 |
+| 2026-01-04 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.6 | 17.6 | 40 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.2 | 📈 H: ₹91.34 | 📉 L: ₹90.01 <br>♦ ETH: ₹282111.0 | 📈 H: ₹285000.0 | 📉 L: ₹273794.1 <br>₿ BTC: ₹8088757.0 | 📈 H: ₹8197643.0 | 📉 L: ₹7995002.0 <br>⚡ BNB: ₹78635.14 | 📈 H: ₹80000.0 | 📉 L: ₹78097.23 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.4 | 📈 H: ₹91.22 | 📉 L: ₹90.03 <br>♦ ETH: ₹281000.0 | 📈 H: ₹285000.0 | 📉 L: ₹273794.1 <br>₿ BTC: ₹8121893.0 | 📈 H: ₹8197643.0 | 📉 L: ₹8012568.0 <br>⚡ BNB: ₹78635.14 | 📈 H: ₹80000.0 | 📉 L: ₹78097.23 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've made a vow to avoid any form of productivity. 🛑❌ 
+  I'm waiting for a rich benefactor to fund my yeses. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
