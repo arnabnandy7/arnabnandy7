@@ -18,9 +18,9 @@
   <p>Kolkata, India - 04/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:08 PM, Set: 07:07 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 13.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:08 PM, Set: 07:07 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 15.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 218.75 <strong>PM10:</strong> 221.15</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 214.55 <strong>PM10:</strong> 216.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.28 | 📈 H: ₹91.21 | 📉 L: ₹90.11 <br>♦ ETH: ₹282605.1 | 📈 H: ₹285000.0 | 📉 L: ₹273794.1 <br>₿ BTC: ₹8237200.0 | 📈 H: ₹8237200.0 | 📉 L: ₹8012568.0 <br>⚡ BNB: ₹79637.27 | 📈 H: ₹79645.26 | 📉 L: ₹78097.23 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.95 | 📈 H: ₹91.0 | 📉 L: ₹90.13 <br>♦ ETH: ₹284000.0 | 📈 H: ₹285000.0 | 📉 L: ₹273794.1 <br>₿ BTC: ₹8184656.0 | 📈 H: ₹8250000.0 | 📉 L: ₹8012568.0 <br>⚡ BNB: ₹79400.73 | 📈 H: ₹79653.24 | 📉 L: ₹78097.23 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Effort is currently not supported by my operating system. 🛑❌ 
+  My dog will only let me out of the house if it's for walks, not work. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
