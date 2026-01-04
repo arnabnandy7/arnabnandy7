@@ -15,18 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 03/01/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
+  <p>Kolkata, India - 04/01/2026</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
   🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:58 PM, Set: 06:08 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 15.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 210.35 <strong>PM10:</strong> 212.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 212.25 <strong>PM10:</strong> 214.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-04 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.5 | 15.5 | 43 | 6.5 | 0 |
-| 2026-01-04 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.4 | 15.4 | 44 | 6.5 | 0 |
 | 2026-01-04 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.6 | 17.6 | 40 | 5.8 | 0 |
 | 2026-01-04 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.1 | 20.1 | 34 | 5.8 | 0 |
 | 2026-01-04 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.3 | 23.4 | 30 | 6.1 | 0 |
@@ -35,10 +33,12 @@
 | 2026-01-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.1 | 24 | 9.0 | 0 |
 | 2026-01-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.5 | 24 | 9.0 | 0 |
 | 2026-01-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 25.6 | 25 | 9.4 | 0 |
+| 2026-01-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.6 | 26 | 10.4 | 0 |
+| 2026-01-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 25.0 | 30 | 10.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.25 | 📈 H: ₹91.21 | 📉 L: ₹90.11 <br>♦ ETH: ₹281000.0 | 📈 H: ₹283517.9 | 📉 L: ₹273794.1 <br>₿ BTC: ₹8197600.0 | 📈 H: ₹8197600.0 | 📉 L: ₹8012568.0 <br>⚡ BNB: ₹78879.92 | 📈 H: ₹79645.26 | 📉 L: ₹78097.23 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.25 | 📈 H: ₹91.21 | 📉 L: ₹90.11 <br>♦ ETH: ₹283518.2 | 📈 H: ₹283518.2 | 📉 L: ₹273794.1 <br>₿ BTC: ₹8237200.0 | 📈 H: ₹8237200.0 | 📉 L: ₹8012568.0 <br>⚡ BNB: ₹78879.92 | 📈 H: ₹79645.26 | 📉 L: ₹78097.23 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My schedule is full: I'm alphabetizing my snacks. 🛑❌ 
+  Sorry, I need to iron my underwear that night. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
