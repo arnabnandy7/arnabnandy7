@@ -18,27 +18,27 @@
   <p>Kolkata, India - 05/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:08 PM, Set: 07:07 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 10.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:14 PM, Set: 07:57 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 11.7 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 167.05 <strong>PM10:</strong> 170.85</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 177.35 <strong>PM10:</strong> 181.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-05 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.7 | 16.7 | 43 | 7.6 | 0 |
-| 2026-01-05 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 37 | 10.1 | 0 |
-| 2026-01-05 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.6 | 21.6 | 33 | 11.2 | 0 |
-| 2026-01-05 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 23.8 | 28 | 12.6 | 0 |
-| 2026-01-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.9 | 24.3 | 25 | 14.0 | 0 |
-| 2026-01-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 24.7 | 24 | 15.1 | 0 |
-| 2026-01-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.0 | 23 | 16.6 | 0 |
-| 2026-01-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.0 | 23 | 17.3 | 0 |
-| 2026-01-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.7 | 22 | 16.9 | 0 |
-| 2026-01-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 24.0 | 25 | 13.7 | 0 |
+| 2026-01-05 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.7 | 16.7 | 57 | 10.8 | 0 |
+| 2026-01-05 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.0 | 19.0 | 48 | 13.0 | 0 |
+| 2026-01-05 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.0 | 21.0 | 38 | 15.8 | 0 |
+| 2026-01-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.6 | 23.4 | 29 | 16.9 | 0 |
+| 2026-01-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.4 | 24 | 17.3 | 0 |
+| 2026-01-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 23.5 | 21 | 17.3 | 0 |
+| 2026-01-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.5 | 23.6 | 21 | 16.9 | 0 |
+| 2026-01-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 23.5 | 22 | 16.2 | 0 |
+| 2026-01-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.8 | 23.2 | 26 | 13.0 | 0 |
+| 2026-01-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 30 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.71 | 📈 H: ₹91.5 | 📉 L: ₹90.25 <br>♦ ETH: ₹283576.2 | 📈 H: ₹286971.1 | 📉 L: ₹281500.0 <br>₿ BTC: ₹8289000.0 | 📈 H: ₹8289000.0 | 📉 L: ₹8071145.0 <br>⚡ BNB: ₹80510.88 | 📈 H: ₹81018.0 | 📉 L: ₹79096.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.56 | 📈 H: ₹91.5 | 📉 L: ₹90.25 <br>♦ ETH: ₹288064.5 | 📈 H: ₹288064.5 | 📉 L: ₹281500.0 <br>₿ BTC: ₹8388178.0 | 📈 H: ₹8388178.0 | 📉 L: ₹8182001.0 <br>⚡ BNB: ₹81000.0 | 📈 H: ₹81018.0 | 📉 L: ₹79096.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I go, who will hold down the fort? (The fort being my couch). 🛑❌ 
+  I can't say yes; it would jeopardize my standing in the Procrastinators Hall of Fame. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
