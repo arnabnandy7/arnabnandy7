@@ -18,27 +18,27 @@
   <p>Kolkata, India - 06/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:14 PM, Set: 07:57 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 7.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:15 PM, Set: 08:40 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 7.5 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 162.95 <strong>PM10:</strong> 165.25</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 155.95 <strong>PM10:</strong> 158.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.3 | 15.3 | 52 | 11.2 | 0 |
-| 2026-01-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.2 | 18.2 | 43 | 13.0 | 0 |
-| 2026-01-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.8 | 20.8 | 36 | 14.0 | 0 |
-| 2026-01-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.7 | 23.4 | 29 | 14.4 | 0 |
-| 2026-01-06 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.1 | 23.7 | 24 | 14.8 | 0 |
-| 2026-01-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 24.0 | 21 | 15.8 | 0 |
-| 2026-01-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 24.2 | 20 | 16.6 | 0 |
-| 2026-01-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 24.3 | 18 | 16.2 | 0 |
-| 2026-01-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 24.1 | 18 | 16.2 | 0 |
-| 2026-01-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 23.2 | 21 | 13.0 | 0 |
+| 2026-01-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.2 | 15.2 | 56 | 13.0 | 0 |
+| 2026-01-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.8 | 17.8 | 46 | 14.0 | 0 |
+| 2026-01-06 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.0 | 20.0 | 38 | 14.0 | 0 |
+| 2026-01-06 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.7 | 21.7 | 31 | 14.0 | 0 |
+| 2026-01-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.0 | 23.3 | 26 | 14.8 | 0 |
+| 2026-01-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.3 | 23 | 15.1 | 0 |
+| 2026-01-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.0 | 23.3 | 21 | 15.8 | 0 |
+| 2026-01-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.0 | 20 | 16.2 | 0 |
+| 2026-01-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.3 | 22.7 | 23 | 13.3 | 0 |
+| 2026-01-06 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 27 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.69 | 📈 H: ₹91.48 | 📉 L: ₹90.36 <br>♦ ETH: ₹293500.0 | 📈 H: ₹293500.0 | 📉 L: ₹282555.1 <br>₿ BTC: ₹8433724.0 | 📈 H: ₹8535394.0 | 📉 L: ₹8280071.0 <br>⚡ BNB: ₹82900.0 | 📈 H: ₹82900.0 | 📉 L: ₹79700.99 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.62 | 📈 H: ₹91.48 | 📉 L: ₹90.36 <br>♦ ETH: ₹289042.9 | 📈 H: ₹293500.0 | 📉 L: ₹282555.1 <br>₿ BTC: ₹8500000.0 | 📈 H: ₹8535394.0 | 📉 L: ₹8280071.0 <br>⚡ BNB: ₹82900.0 | 📈 H: ₹82900.0 | 📉 L: ₹79700.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm a terrible liar, so I won't pretend I want to do that. 🛑❌ 
+  I’d hate to step out and melt; I'm made of sugar and sarcasm. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
