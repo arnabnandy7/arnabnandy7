@@ -18,27 +18,27 @@
   <p>Kolkata, India - 07/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:13 PM, Set: 09:17 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 43% | 🌡️ <strong>Feels Like:</strong> 22.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:13 PM, Set: 09:17 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 46% | 🌡️ <strong>Feels Like:</strong> 22.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 127.95 <strong>PM10:</strong> 130.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 119.15 <strong>PM10:</strong> 122.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-07 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.5 | 23.5 | 21 | 16.6 | 0 |
-| 2026-01-07 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.0 | 23.1 | 24 | 13.3 | 0 |
-| 2026-01-07 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 28 | 11.2 | 0 |
-| 2026-01-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.9 | 18.9 | 30 | 10.1 | 0 |
-| 2026-01-07 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 32 | 9.4 | 0 |
-| 2026-01-07 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 33 | 8.6 | 0 |
-| 2026-01-07 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 34 | 7.9 | 0 |
-| 2026-01-07 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.4 | 16.4 | 35 | 8.3 | 0 |
-| 2026-01-07 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.9 | 15.9 | 36 | 10.4 | 0 |
-| 2026-01-08 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.1 | 15.1 | 37 | 11.5 | 0 |
+| 2026-01-07 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 23.2 | 23 | 14.0 | 0 |
+| 2026-01-07 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 27 | 11.5 | 0 |
+| 2026-01-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 29 | 8.6 | 0 |
+| 2026-01-07 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 30 | 5.4 | 0 |
+| 2026-01-07 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 31 | 3.2 | 0 |
+| 2026-01-07 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 31 | 4.7 | 0 |
+| 2026-01-07 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 33 | 8.6 | 0 |
+| 2026-01-07 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.5 | 16.5 | 35 | 10.1 | 0 |
+| 2026-01-08 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.7 | 15.7 | 37 | 10.8 | 0 |
+| 2026-01-08 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.1 | 15.1 | 40 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.72 | 📈 H: ₹91.5 | 📉 L: ₹90.33 <br>♦ ETH: ₹295095.0 | 📈 H: ₹296698.4 | 📉 L: ₹288059.4 <br>₿ BTC: ₹8400000.0 | 📈 H: ₹8491833.0 | 📉 L: ₹8280901.0 <br>⚡ BNB: ₹82032.98 | 📈 H: ₹82999.98 | 📉 L: ₹81002.79 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.94 | 📈 H: ₹91.5 | 📉 L: ₹90.33 <br>♦ ETH: ₹292111.0 | 📈 H: ₹296698.4 | 📉 L: ₹288436.0 <br>₿ BTC: ₹8318517.0 | 📈 H: ₹8491833.0 | 📉 L: ₹8280901.0 <br>⚡ BNB: ₹81741.46 | 📈 H: ₹82999.98 | 📉 L: ₹81083.26 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar at work has a big red 'NOPE' on that date. 🛑❌ 
+  'No.' I'm giving that answer five stars. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
