@@ -18,14 +18,13 @@
   <p>Kolkata, India - 08/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:07 PM, Set: 09:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 13.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:07 PM, Set: 09:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 12.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 132.65 <strong>PM10:</strong> 135.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 146.15 <strong>PM10:</strong> 148.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 13.9 | 12.9 | 40 | 12.6 | 0 |
 | 2026-01-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 13.4 | 12.4 | 43 | 12.6 | 0 |
 | 2026-01-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 13.0 | 11.9 | 45 | 12.2 | 0 |
 | 2026-01-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 12.7 | 11.6 | 46 | 11.5 | 0 |
@@ -35,6 +34,7 @@
 | 2026-01-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.2 | 20.3 | 29 | 12.6 | 0 |
 | 2026-01-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.2 | 22.9 | 26 | 14.0 | 0 |
 | 2026-01-09 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.3 | 22 | 15.5 | 0 |
+| 2026-01-09 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 23.7 | 19 | 16.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have too much on my plate, and I'm on a no-carb diet (no extra tasks). 🛑❌ 
+  This request is above my emotional pay grade. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
