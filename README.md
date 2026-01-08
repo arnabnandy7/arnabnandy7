@@ -18,27 +18,27 @@
   <p>Kolkata, India - 08/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:13 PM, Set: 09:17 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 87% | 🌡️ <strong>Feels Like:</strong> 9.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:07 PM, Set: 09:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 87% | 🌡️ <strong>Feels Like:</strong> 9.4 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 194.05 <strong>PM10:</strong> 195.95</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 178.25 <strong>PM10:</strong> 180.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-08 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.1 | 15.1 | 49 | 11.5 | 0 |
-| 2026-01-08 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.2 | 18.2 | 40 | 14.4 | 0 |
-| 2026-01-08 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.9 | 20.9 | 34 | 15.8 | 0 |
-| 2026-01-08 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.0 | 23.5 | 28 | 16.9 | 0 |
-| 2026-01-08 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.5 | 23.8 | 22 | 17.6 | 0 |
-| 2026-01-08 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 24.1 | 19 | 17.6 | 0 |
-| 2026-01-08 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 24.6 | 18 | 19.1 | 0 |
-| 2026-01-08 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 24.7 | 17 | 19.1 | 0 |
-| 2026-01-08 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 24.3 | 17 | 20.2 | 0 |
-| 2026-01-08 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 23.3 | 20 | 15.8 | 0 |
+| 2026-01-08 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.1 | 17.1 | 41 | 16.6 | 0 |
+| 2026-01-08 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.9 | 19.9 | 33 | 16.6 | 0 |
+| 2026-01-08 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.1 | 23.0 | 27 | 18.0 | 0 |
+| 2026-01-08 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.6 | 23.2 | 23 | 18.7 | 0 |
+| 2026-01-08 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 23.6 | 19 | 19.1 | 0 |
+| 2026-01-08 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 23.9 | 18 | 19.4 | 0 |
+| 2026-01-08 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 24.0 | 17 | 19.1 | 0 |
+| 2026-01-08 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 23.7 | 17 | 18.0 | 0 |
+| 2026-01-08 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.3 | 22.8 | 21 | 15.1 | 0 |
+| 2026-01-08 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 24 | 12.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.75 | 📈 H: ₹91.51 | 📉 L: ₹90.37 <br>♦ ETH: ₹287000.0 | 📈 H: ₹296698.4 | 📉 L: ₹284203.6 <br>₿ BTC: ₹8300000.0 | 📈 H: ₹8429796.0 | 📉 L: ₹8225000.0 <br>⚡ BNB: ₹80754.37 | 📈 H: ₹82749.0 | 📉 L: ₹80754.37 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.75 | 📈 H: ₹91.51 | 📉 L: ₹90.37 <br>♦ ETH: ₹286357.2 | 📈 H: ₹296698.3 | 📉 L: ₹284203.6 <br>₿ BTC: ₹8236084.0 | 📈 H: ₹8428998.0 | 📉 L: ₹8225000.0 <br>⚡ BNB: ₹81310.94 | 📈 H: ₹82749.0 | 📉 L: ₹80754.37 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My motto is 'Just say no', and I'm very loyal to my motto. 🛑❌ 
+  Me doing that would be like a chicken trying to do algebra. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
