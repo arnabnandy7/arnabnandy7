@@ -18,14 +18,13 @@
   <p>Kolkata, India - 08/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:07 PM, Set: 09:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 43% | 🌡️ <strong>Feels Like:</strong> 21.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:07 PM, Set: 09:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 33% | 🌡️ <strong>Feels Like:</strong> 22.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 114.05 <strong>PM10:</strong> 114.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 107.95 <strong>PM10:</strong> 109.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-08 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 24.0 | 17 | 19.1 | 0 |
 | 2026-01-08 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 23.7 | 17 | 18.0 | 0 |
 | 2026-01-08 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.3 | 22.8 | 21 | 15.1 | 0 |
 | 2026-01-08 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 24 | 12.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-08 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.4 | 16.4 | 31 | 11.5 | 0 |
 | 2026-01-08 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.8 | 15.8 | 32 | 11.9 | 0 |
 | 2026-01-08 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.1 | 15.1 | 34 | 12.2 | 0 |
+| 2026-01-09 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.6 | 13.8 | 36 | 13.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.0 | 📈 H: ₹91.51 | 📉 L: ₹90.53 <br>♦ ETH: ₹282099.8 | 📈 H: ₹296690.0 | 📉 L: ₹280890.9 <br>₿ BTC: ₹8235886.0 | 📈 H: ₹8400000.0 | 📉 L: ₹8139655.0 <br>⚡ BNB: ₹79827.72 | 📈 H: ₹82749.0 | 📉 L: ₹79827.72 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.86 | 📈 H: ₹91.51 | 📉 L: ₹90.53 <br>♦ ETH: ₹284203.6 | 📈 H: ₹295070.1 | 📉 L: ₹280850.0 <br>₿ BTC: ₹8235886.0 | 📈 H: ₹8400000.0 | 📉 L: ₹8139655.0 <br>⚡ BNB: ₹79557.9 | 📈 H: ₹82749.0 | 📉 L: ₹79557.9 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't—my flux capacitor is on the fritz and I can't make it in time. 🛑❌ 
+  I only operate heavy machinery (like my couch) under supervision, so I can't go. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
