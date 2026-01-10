@@ -18,9 +18,9 @@
   <p>Kolkata, India - 10/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 12.0 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 13.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 118.85 <strong>PM10:</strong> 120.55</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 110.25 <strong>PM10:</strong> 111.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.75 | 📈 H: ₹91.35 | 📉 L: ₹90.41 <br>♦ ETH: ₹277607.6 | 📈 H: ₹282110.4 | 📉 L: ₹276111.0 <br>₿ BTC: ₹8205000.0 | 📈 H: ₹8272034.0 | 📉 L: ₹8068844.0 <br>⚡ BNB: ₹80475.72 | 📈 H: ₹81558.16 | 📉 L: ₹78274.25 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.65 | 📈 H: ₹91.35 | 📉 L: ₹90.41 <br>♦ ETH: ₹276722.9 | 📈 H: ₹282110.4 | 📉 L: ₹276111.0 <br>₿ BTC: ₹8205100.0 | 📈 H: ₹8272034.0 | 📉 L: ₹8068844.0 <br>⚡ BNB: ₹81452.67 | 📈 H: ₹81452.67 | 📉 L: ₹78274.25 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I help you, I'll feel obligated to help others, and that's a slippery slope I'm avoiding. 🛑❌ 
+  My laziness is in full bloom, and I cannot uproot it for this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
