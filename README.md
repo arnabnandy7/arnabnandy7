@@ -17,15 +17,14 @@
 <div align="center">
   <p>Kolkata, India - 10/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 10.7 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 11.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 141.05 <strong>PM10:</strong> 143.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 129.85 <strong>PM10:</strong> 131.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.7 | 15.7 | 34 | 13.3 | 0 |
 | 2026-01-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.3 | 18.3 | 29 | 13.0 | 0 |
 | 2026-01-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.4 | 20.4 | 26 | 13.0 | 0 |
 | 2026-01-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.0 | 22.6 | 24 | 12.6 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 23.5 | 21 | 14.4 | 0 |
 | 2026-01-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.1 | 23.1 | 24 | 12.2 | 0 |
 | 2026-01-10 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.5 | 28 | 11.2 | 0 |
+| 2026-01-10 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 19.3 | 19.3 | 30 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.79 | 📈 H: ₹91.2 | 📉 L: ₹90.41 <br>♦ ETH: ₹277762.0 | 📈 H: ₹282110.4 | 📉 L: ₹276111.0 <br>₿ BTC: ₹8205100.0 | 📈 H: ₹8272034.0 | 📉 L: ₹8068844.0 <br>⚡ BNB: ₹80475.72 | 📈 H: ₹81558.16 | 📉 L: ₹78274.25 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.79 | 📈 H: ₹91.2 | 📉 L: ₹90.41 <br>♦ ETH: ₹277761.9 | 📈 H: ₹282110.4 | 📉 L: ₹276111.0 <br>₿ BTC: ₹8205100.0 | 📈 H: ₹8272034.0 | 📉 L: ₹8068844.0 <br>⚡ BNB: ₹80475.72 | 📈 H: ₹81558.16 | 📉 L: ₹78274.25 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I helped, I'd be robbing you of the chance to do it yourself. 🛑❌ 
+  My GPS recommended I stay home to avoid bad decisions. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
