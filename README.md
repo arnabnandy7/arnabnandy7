@@ -18,14 +18,13 @@
   <p>Kolkata, India - 10/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 21.2 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 19.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 65.55 <strong>PM10:</strong> 68.35</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.75 <strong>PM10:</strong> 65.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-10 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 19.1 | 19.1 | 29 | 9.0 | 0 |
 | 2026-01-10 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 18.2 | 18.2 | 31 | 9.0 | 0 |
 | 2026-01-10 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 17.5 | 17.5 | 32 | 10.4 | 0 |
 | 2026-01-10 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 16.7 | 16.7 | 34 | 11.9 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.7 | 13.9 | 35 | 12.6 | 0 |
 | 2026-01-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.3 | 13.6 | 35 | 11.9 | 0 |
 | 2026-01-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.0 | 13.2 | 37 | 11.9 | 0 |
+| 2026-01-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.8 | 14.2 | 37 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.58 | 📈 H: ₹91.35 | 📉 L: ₹90.41 <br>♦ ETH: ₹277177.2 | 📈 H: ₹282109.0 | 📉 L: ₹276027.9 <br>₿ BTC: ₹8119912.0 | 📈 H: ₹8263849.0 | 📉 L: ₹8068844.0 <br>⚡ BNB: ₹80668.97 | 📈 H: ₹82336.2 | 📉 L: ₹78274.25 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.65 | 📈 H: ₹91.35 | 📉 L: ₹90.41 <br>♦ ETH: ₹277094.5 | 📈 H: ₹282109.0 | 📉 L: ₹276027.9 <br>₿ BTC: ₹8119935.0 | 📈 H: ₹8263849.0 | 📉 L: ₹8068844.0 <br>⚡ BNB: ₹80788.87 | 📈 H: ₹82336.2 | 📉 L: ₹78274.25 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to stay home and make sure gravity continues to work. (Someone has to.) 🛑❌ 
+  I'm on a mission to maintain zero commitments. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
