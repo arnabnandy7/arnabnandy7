@@ -18,27 +18,27 @@
   <p>Kolkata, India - 11/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:51 PM, Set: 10:53 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 16.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 11:26 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 13.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 149.85 <strong>PM10:</strong> 151.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 143.35 <strong>PM10:</strong> 145.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.9 | 15.9 | 39 | 10.1 | 0 |
-| 2026-01-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.3 | 18.3 | 35 | 12.2 | 0 |
-| 2026-01-11 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.3 | 21.3 | 31 | 16.2 | 0 |
-| 2026-01-11 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.4 | 23.6 | 27 | 17.6 | 0 |
-| 2026-01-11 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.9 | 24.1 | 24 | 19.4 | 0 |
-| 2026-01-11 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.6 | 21 | 20.2 | 0 |
-| 2026-01-11 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 24.9 | 20 | 19.4 | 0 |
-| 2026-01-11 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.1 | 19 | 19.1 | 0 |
-| 2026-01-11 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 24.9 | 19 | 19.1 | 0 |
-| 2026-01-11 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 24.2 | 22 | 16.2 | 0 |
+| 2026-01-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.2 | 17.2 | 34 | 14.4 | 0 |
+| 2026-01-11 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.6 | 19.6 | 30 | 15.1 | 0 |
+| 2026-01-11 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.9 | 21.9 | 26 | 15.1 | 0 |
+| 2026-01-11 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 23.2 | 23 | 14.8 | 0 |
+| 2026-01-11 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 23.6 | 21 | 14.0 | 0 |
+| 2026-01-11 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 24.1 | 19 | 14.8 | 0 |
+| 2026-01-11 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 24.3 | 18 | 16.2 | 0 |
+| 2026-01-11 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 24.1 | 19 | 17.6 | 0 |
+| 2026-01-11 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 23.5 | 22 | 14.0 | 0 |
+| 2026-01-11 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.5 | 25 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.51 | 📈 H: ₹91.35 | 📉 L: ₹90.41 <br>♦ ETH: ₹277888.1 | 📈 H: ₹281443.9 | 📉 L: ₹276027.9 <br>₿ BTC: ₹8242999.0 | 📈 H: ₹8263849.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹81285.21 | 📈 H: ₹82336.2 | 📉 L: ₹79515.9 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.87 | 📈 H: ₹91.35 | 📉 L: ₹90.41 <br>♦ ETH: ₹276888.3 | 📈 H: ₹281443.9 | 📉 L: ₹276027.9 <br>₿ BTC: ₹8243000.0 | 📈 H: ₹8263849.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹81113.14 | 📈 H: ₹82336.2 | 📉 L: ₹79515.9 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My enthusiasm is on backorder, and the delivery date keeps getting pushed. 🛑❌ 
+  I'm currently managing too many crises—adding another might cause a meltdown. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
