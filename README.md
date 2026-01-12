@@ -18,27 +18,27 @@
   <p>Kolkata, India - 12/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:42 AM, Set: 11:59 AM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 23.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:42 AM, Set: 11:59 AM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 23.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 104.95 <strong>PM10:</strong> 105.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 88.85 <strong>PM10:</strong> 90.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 24.3 | 19 | 17.6 | 0 |
-| 2026-01-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 23.6 | 22 | 13.3 | 0 |
-| 2026-01-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.5 | 26 | 11.5 | 0 |
-| 2026-01-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 28 | 10.4 | 0 |
-| 2026-01-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 29 | 10.4 | 0 |
-| 2026-01-12 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.3 | 31 | 10.4 | 0 |
-| 2026-01-12 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.6 | 17.6 | 34 | 10.4 | 0 |
-| 2026-01-12 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 35 | 11.2 | 0 |
-| 2026-01-12 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.3 | 16.3 | 37 | 11.5 | 0 |
-| 2026-01-13 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.8 | 15.8 | 38 | 11.5 | 0 |
+| 2026-01-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 23.9 | 21 | 14.8 | 0 |
+| 2026-01-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.9 | 22.0 | 25 | 11.9 | 0 |
+| 2026-01-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 27 | 10.8 | 0 |
+| 2026-01-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 29 | 11.9 | 0 |
+| 2026-01-12 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 32 | 11.9 | 0 |
+| 2026-01-12 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.8 | 34 | 11.5 | 0 |
+| 2026-01-12 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.2 | 17.2 | 36 | 11.9 | 0 |
+| 2026-01-12 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.6 | 16.6 | 37 | 12.2 | 0 |
+| 2026-01-13 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.0 | 16.0 | 39 | 12.6 | 0 |
+| 2026-01-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.4 | 15.5 | 41 | 12.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.61 | 📈 H: ₹91.19 | 📉 L: ₹90.3 <br>♦ ETH: ₹279842.6 | 📈 H: ₹285000.0 | 📉 L: ₹278222.1 <br>₿ BTC: ₹8196740.0 | 📈 H: ₹8312621.0 | 📉 L: ₹8100847.0 <br>⚡ BNB: ₹82499.99 | 📈 H: ₹82500.0 | 📉 L: ₹80687.7 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.61 | 📈 H: ₹91.19 | 📉 L: ₹90.3 <br>♦ ETH: ₹279923.0 | 📈 H: ₹285000.0 | 📉 L: ₹278606.7 <br>₿ BTC: ₹8153399.0 | 📈 H: ₹8312621.0 | 📉 L: ₹8100847.0 <br>⚡ BNB: ₹80952.4 | 📈 H: ₹82500.0 | 📉 L: ₹80715.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In a different season of life, I might say yes—but not right now. 🛑❌ 
+  My procrastination coach said I'm not ready for actual tasks yet. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
