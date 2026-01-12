@@ -18,27 +18,27 @@
   <p>Kolkata, India - 12/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: No moonrise, Set: 11:26 AM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 15.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:42 AM, Set: 11:59 AM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 11.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 189.95 <strong>PM10:</strong> 191.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 176.85 <strong>PM10:</strong> 178.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.6 | 15.6 | 50 | 11.2 | 0 |
-| 2026-01-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.9 | 18.9 | 42 | 15.1 | 0 |
-| 2026-01-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.7 | 21.7 | 35 | 17.6 | 0 |
-| 2026-01-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.9 | 29 | 19.4 | 0 |
-| 2026-01-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 24.3 | 24 | 19.1 | 0 |
-| 2026-01-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 24.7 | 21 | 19.1 | 0 |
-| 2026-01-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.0 | 19 | 19.4 | 0 |
-| 2026-01-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 25.2 | 18 | 19.4 | 0 |
-| 2026-01-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 24.9 | 18 | 18.7 | 0 |
-| 2026-01-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 24.0 | 21 | 15.5 | 0 |
+| 2026-01-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.6 | 17.6 | 41 | 15.8 | 0 |
+| 2026-01-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.5 | 20.5 | 34 | 16.9 | 0 |
+| 2026-01-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.7 | 23.3 | 28 | 18.4 | 0 |
+| 2026-01-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 23.6 | 23 | 18.4 | 0 |
+| 2026-01-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 24.0 | 20 | 19.1 | 0 |
+| 2026-01-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.4 | 19 | 19.1 | 0 |
+| 2026-01-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 24.6 | 18 | 18.4 | 0 |
+| 2026-01-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 24.3 | 19 | 17.6 | 0 |
+| 2026-01-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 23.6 | 22 | 13.3 | 0 |
+| 2026-01-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.5 | 26 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.73 | 📈 H: ₹90.9 | 📉 L: ₹90.3 <br>♦ ETH: ₹280433.8 | 📈 H: ₹282360.0 | 📉 L: ₹276888.3 <br>₿ BTC: ₹8242999.0 | 📈 H: ₹8243000.0 | 📉 L: ₹8100847.0 <br>⚡ BNB: ₹81012.66 | 📈 H: ₹82500.0 | 📉 L: ₹80687.7 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.73 | 📈 H: ₹90.9 | 📉 L: ₹90.3 <br>♦ ETH: ₹281228.4 | 📈 H: ₹282360.0 | 📉 L: ₹276888.3 <br>₿ BTC: ₹8194792.0 | 📈 H: ₹8243722.0 | 📉 L: ₹8100847.0 <br>⚡ BNB: ₹81012.66 | 📈 H: ₹82500.0 | 📉 L: ₹80687.7 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It's one of the signs of the apocalypse if I say yes, let's avoid that. 🛑❌ 
+  Did I just hear myself volunteer? No, so I'll keep it that way. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
