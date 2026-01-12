@@ -18,14 +18,13 @@
   <p>Kolkata, India - 12/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:42 AM, Set: 11:59 AM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 18.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:42 AM, Set: 11:59 AM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 18.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 63.05 <strong>PM10:</strong> 63.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.85 <strong>PM10:</strong> 76.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-12 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.2 | 17.2 | 36 | 11.9 | 0 |
 | 2026-01-12 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.6 | 16.6 | 37 | 12.2 | 0 |
 | 2026-01-13 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.0 | 16.0 | 39 | 12.6 | 0 |
 | 2026-01-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.4 | 15.5 | 41 | 12.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-13 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 13.3 | 12.3 | 45 | 12.2 | 0 |
 | 2026-01-13 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 12.9 | 11.9 | 45 | 12.2 | 0 |
 | 2026-01-13 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 14.9 | 14.4 | 40 | 11.5 | 0 |
+| 2026-01-13 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.1 | 18.1 | 32 | 13.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.55 | 📈 H: ₹91.2 | 📉 L: ₹90.5 <br>♦ ETH: ₹282807.3 | 📈 H: ₹285000.0 | 📉 L: ₹276915.9 <br>₿ BTC: ₹8277488.0 | 📈 H: ₹8312621.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹82400.0 | 📈 H: ₹82499.99 | 📉 L: ₹80715.69 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.6 | 📈 H: ₹91.2 | 📉 L: ₹90.5 <br>♦ ETH: ₹281417.3 | 📈 H: ₹285000.0 | 📉 L: ₹276915.9 <br>₿ BTC: ₹8265000.0 | 📈 H: ₹8312621.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹82400.0 | 📈 H: ₹82499.99 | 📉 L: ₹80715.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The gods of procrastination demand I sacrifice this task by not doing it. 🛑❌ 
+  I don't have the bandwidth (or any other width) for that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
