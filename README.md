@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 13/01/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:35 AM, Set: 12:36 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 23.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:35 AM, Set: 12:36 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 23.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 83.55 <strong>PM10:</strong> 84.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 71.85 <strong>PM10:</strong> 72.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 23.9 | 21 | 11.9 | 0 |
 | 2026-01-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 22.7 | 25 | 10.8 | 0 |
 | 2026-01-13 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 26 | 9.7 | 0 |
 | 2026-01-13 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 28 | 9.4 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-13 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.1 | 17.1 | 36 | 11.2 | 0 |
 | 2026-01-14 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.6 | 16.6 | 38 | 11.5 | 0 |
 | 2026-01-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.0 | 16.0 | 39 | 12.6 | 0 |
+| 2026-01-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.3 | 15.3 | 40 | 12.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.65 | 📈 H: ₹91.31 | 📉 L: ₹90.5 <br>♦ ETH: ₹283911.2 | 📈 H: ₹284000.0 | 📉 L: ₹276915.9 <br>₿ BTC: ₹8272227.0 | 📈 H: ₹8388372.0 | 📉 L: ₹8100001.0 <br>⚡ BNB: ₹81653.26 | 📈 H: ₹82499.99 | 📉 L: ₹80166.04 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.75 | 📈 H: ₹91.31 | 📉 L: ₹90.5 <br>♦ ETH: ₹283911.2 | 📈 H: ₹284000.0 | 📉 L: ₹277229.4 <br>₿ BTC: ₹8384999.0 | 📈 H: ₹8388372.0 | 📉 L: ₹8144944.0 <br>⚡ BNB: ₹81562.95 | 📈 H: ₹82499.99 | 📉 L: ₹80166.04 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm closing the door on that idea (literally and figuratively). 🛑❌ 
+  I'm stuck in an internet rabbit hole and I can't find the exit. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
