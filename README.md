@@ -17,15 +17,14 @@
 <div align="center">
   <p>Kolkata, India - 14/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:29 AM, Set: 01:18 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 23.2 °C  
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:29 AM, Set: 01:18 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 73.05 <strong>PM10:</strong> 74.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 70.65 <strong>PM10:</strong> 71.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 31 | 8.3 | 0 |
 | 2026-01-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.4 | 19.4 | 32 | 7.2 | 0 |
 | 2026-01-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 33 | 6.8 | 0 |
 | 2026-01-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 34 | 8.3 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-15 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.2 | 15.2 | 43 | 10.8 | 0 |
 | 2026-01-15 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.6 | 14.0 | 45 | 10.8 | 0 |
 | 2026-01-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.1 | 13.5 | 45 | 10.8 | 0 |
+| 2026-01-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 13.7 | 13.0 | 44 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.8 | 📈 H: ₹91.37 | 📉 L: ₹90.08 <br>♦ ETH: ₹298334.7 | 📈 H: ₹303000.0 | 📉 L: ₹281850.2 <br>₿ BTC: ₹8599000.0 | 📈 H: ₹8599000.0 | 📉 L: ₹8270691.0 <br>⚡ BNB: ₹83652.45 | 📈 H: ₹85500.0 | 📉 L: ₹81716.81 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.9 | 📈 H: ₹91.37 | 📉 L: ₹90.08 <br>♦ ETH: ₹296291.2 | 📈 H: ₹303000.0 | 📉 L: ₹282187.3 <br>₿ BTC: ₹8549700.0 | 📈 H: ₹8599000.0 | 📉 L: ₹8280844.0 <br>⚡ BNB: ₹83822.66 | 📈 H: ₹85500.0 | 📉 L: ₹81929.41 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No' is just 'on' spelled backwards, and I'm off. 🛑❌ 
+  I'm exercising my right to say no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
