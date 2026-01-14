@@ -18,27 +18,27 @@
   <p>Kolkata, India - 14/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:29 AM, Set: 01:18 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 22.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:29 AM, Set: 01:18 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:12 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 23.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 104.25 <strong>PM10:</strong> 104.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 87.95 <strong>PM10:</strong> 88.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 24.0 | 21 | 11.2 | 0 |
-| 2026-01-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 24.0 | 21 | 10.8 | 0 |
-| 2026-01-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.1 | 23.6 | 24 | 10.8 | 0 |
-| 2026-01-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 28 | 10.1 | 0 |
-| 2026-01-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 30 | 9.4 | 0 |
-| 2026-01-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.4 | 19.4 | 32 | 8.3 | 0 |
-| 2026-01-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 33 | 7.9 | 0 |
-| 2026-01-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 34 | 7.9 | 0 |
-| 2026-01-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.5 | 36 | 9.0 | 0 |
-| 2026-01-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 37 | 9.0 | 0 |
+| 2026-01-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 24.0 | 23 | 11.5 | 0 |
+| 2026-01-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.9 | 21.9 | 27 | 10.8 | 0 |
+| 2026-01-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 29 | 9.7 | 0 |
+| 2026-01-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 31 | 8.3 | 0 |
+| 2026-01-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.4 | 19.4 | 32 | 7.2 | 0 |
+| 2026-01-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 33 | 6.8 | 0 |
+| 2026-01-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 34 | 8.3 | 0 |
+| 2026-01-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.5 | 36 | 8.6 | 0 |
+| 2026-01-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.7 | 16.7 | 38 | 9.0 | 0 |
+| 2026-01-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.9 | 15.9 | 41 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.3 | 📈 H: ₹91.37 | 📉 L: ₹90.08 <br>♦ ETH: ₹300313.8 | 📈 H: ₹303000.0 | 📉 L: ₹281249.5 <br>₿ BTC: ₹8596000.0 | 📈 H: ₹8599000.0 | 📉 L: ₹8201589.0 <br>⚡ BNB: ₹84331.61 | 📈 H: ₹85500.0 | 📉 L: ₹81500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.8 | 📈 H: ₹91.37 | 📉 L: ₹90.08 <br>♦ ETH: ₹298969.8 | 📈 H: ₹303000.0 | 📉 L: ₹281453.3 <br>₿ BTC: ₹8599000.0 | 📈 H: ₹8599000.0 | 📉 L: ₹8259544.0 <br>⚡ BNB: ₹84331.61 | 📈 H: ₹85500.0 | 📉 L: ₹81500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Unless I get stock options for this, I'm out. 🛑❌ 
+  I'm on strike until further notice, and I'm the union leader. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
