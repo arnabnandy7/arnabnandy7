@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 15/01/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:24 AM, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 36% | 🌡️ <strong>Feels Like:</strong> 22.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:24 AM, Set: 02:04 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 33% | 🌡️ <strong>Feels Like:</strong> 22.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 88.35 <strong>PM10:</strong> 90.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.25 <strong>PM10:</strong> 79.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.0 | 23.1 | 19 | 12.6 | 0 |
 | 2026-01-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 23 | 10.8 | 0 |
 | 2026-01-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 24 | 10.4 | 0 |
 | 2026-01-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.0 | 25 | 9.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-15 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.0 | 16.0 | 29 | 9.4 | 0 |
 | 2026-01-16 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.5 | 15.5 | 31 | 10.8 | 0 |
 | 2026-01-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.9 | 14.3 | 33 | 11.5 | 0 |
+| 2026-01-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 14.2 | 13.4 | 35 | 11.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.1 | 📈 H: ₹91.65 | 📉 L: ₹90.18 <br>♦ ETH: ₹302201.8 | 📈 H: ₹306587.1 | 📉 L: ₹295001.0 <br>₿ BTC: ₹8746608.0 | 📈 H: ₹8831686.0 | 📉 L: ₹8523059.0 <br>⚡ BNB: ₹84500.21 | 📈 H: ₹85900.0 | 📉 L: ₹83465.58 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.09 | 📈 H: ₹91.65 | 📉 L: ₹90.18 <br>♦ ETH: ₹303358.9 | 📈 H: ₹306587.1 | 📉 L: ₹295001.0 <br>₿ BTC: ₹8706608.0 | 📈 H: ₹8831686.0 | 📉 L: ₹8527726.0 <br>⚡ BNB: ₹85000.0 | 📈 H: ₹85900.0 | 📉 L: ₹83465.58 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm avoiding causing a butterfly effect that ends the world. 🛑❌ 
+  I can't; the weather forecast said there's a 100% chance of me staying home. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
