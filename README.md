@@ -18,14 +18,13 @@
   <p>Kolkata, India - 18/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:58 AM, Set: 04:47 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:15 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 15.4 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:58 AM, Set: 04:47 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:15 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 17.0 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 233.25 <strong>PM10:</strong> 235.55</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 233.65 <strong>PM10:</strong> 236.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.5 | 23.3 | 28 | 9.0 | 0 |
 | 2026-01-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 24.0 | 25 | 9.4 | 0 |
 | 2026-01-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 24.8 | 22 | 9.4 | 0 |
 | 2026-01-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 25.4 | 20 | 8.3 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 25.7 | 22 | 8.3 | 0 |
 | 2026-01-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 23.9 | 25 | 8.6 | 0 |
 | 2026-01-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 23.4 | 27 | 9.0 | 0 |
+| 2026-01-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 23.2 | 29 | 7.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.84 | 📈 H: ₹91.57 | 📉 L: ₹90.8 <br>♦ ETH: ₹302875.5 | 📈 H: ₹303000.0 | 📉 L: ₹296500.0 <br>₿ BTC: ₹8594639.0 | 📈 H: ₹8699999.0 | 📉 L: ₹8584535.0 <br>⚡ BNB: ₹85624.59 | 📈 H: ₹87000.0 | 📉 L: ₹84634.66 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹90.84 | 📈 H: ₹91.54 | 📉 L: ₹90.8 <br>♦ ETH: ₹299170.5 | 📈 H: ₹303000.0 | 📉 L: ₹296500.0 <br>₿ BTC: ₹8609483.0 | 📈 H: ₹8699999.0 | 📉 L: ₹8584535.0 <br>⚡ BNB: ₹85780.18 | 📈 H: ₹87000.0 | 📉 L: ₹84634.66 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm already living in the fast lane of doing nothing, so I can't slow down for that. 🛑❌ 
+  I'll put this request on my to-do list right after 'learn teleportation'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
