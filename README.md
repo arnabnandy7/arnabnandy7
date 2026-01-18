@@ -18,14 +18,13 @@
   <p>Kolkata, India - 18/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:58 AM, Set: 04:47 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:15 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 24.0 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:58 AM, Set: 04:47 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:15 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 24.4 °C  
 
   <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 92.35 <strong>PM10:</strong> 94.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 23.9 | 25 | 8.6 | 0 |
 | 2026-01-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 23.4 | 27 | 9.0 | 0 |
 | 2026-01-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 23.2 | 29 | 7.2 | 0 |
 | 2026-01-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.6 | 30 | 6.5 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-19 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.9 | 19.0 | 35 | 5.8 | 0 |
 | 2026-01-19 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 37 | 6.1 | 0 |
 | 2026-01-19 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.0 | 18.0 | 38 | 6.8 | 0 |
+| 2026-01-19 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 40 | 7.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.13 | 📈 H: ₹91.49 | 📉 L: ₹90.81 <br>♦ ETH: ₹301000.1 | 📈 H: ₹303000.0 | 📉 L: ₹296618.7 <br>₿ BTC: ₹8600001.0 | 📈 H: ₹8699999.0 | 📉 L: ₹8584535.0 <br>⚡ BNB: ₹85435.07 | 📈 H: ₹87000.0 | 📉 L: ₹85234.69 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.03 | 📈 H: ₹91.53 | 📉 L: ₹90.81 <br>♦ ETH: ₹302000.0 | 📈 H: ₹303000.0 | 📉 L: ₹296618.7 <br>₿ BTC: ₹8600004.0 | 📈 H: ₹8699999.0 | 📉 L: ₹8584535.0 <br>⚡ BNB: ₹85604.1 | 📈 H: ₹87000.0 | 📉 L: ₹85234.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do. 🛑❌ 
+  I’ve reached an age where I just say no to things I hate. And I hate this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
