@@ -18,14 +18,13 @@
   <p>Kolkata, India - 19/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:42 AM, Set: 05:45 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 17.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:42 AM, Set: 05:45 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
 
   <p><strong>AQI:</strong> Unknown <strong>PM2.5:</strong> null <strong>PM10:</strong> null</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 25.0 | 23 | 10.4 | 0 |
 | 2026-01-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.0 | 20 | 11.5 | 0 |
 | 2026-01-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.0 | 18 | 11.2 | 0 |
 | 2026-01-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 27.8 | 16 | 11.9 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 24.4 | 22 | 9.0 | 0 |
 | 2026-01-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 24.0 | 23 | 7.9 | 0 |
 | 2026-01-19 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 23.6 | 25 | 6.8 | 0 |
+| 2026-01-19 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 23.2 | 26 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.36 | 📈 H: ₹92.39 | 📉 L: ₹90.84 <br>♦ ETH: ₹296181.8 | 📈 H: ₹305999.0 | 📉 L: ₹293047.4 <br>₿ BTC: ₹8455123.0 | 📈 H: ₹8693940.0 | 📉 L: ₹8420001.0 <br>⚡ BNB: ₹83998.67 | 📈 H: ₹87550.0 | 📉 L: ₹83653.22 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.08 | 📈 H: ₹92.5 | 📉 L: ₹90.91 <br>♦ ETH: ₹292000.0 | 📈 H: ₹305999.0 | 📉 L: ₹292000.0 <br>₿ BTC: ₹8420017.0 | 📈 H: ₹8693940.0 | 📉 L: ₹8420001.0 <br>⚡ BNB: ₹83998.67 | 📈 H: ₹87550.0 | 📉 L: ₹83653.22 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Is this a trick question? Because I'm answering like it's one: no. 🛑❌ 
+  Would it be wise for me to agree? That's a no from the Council of Me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
