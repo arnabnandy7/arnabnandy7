@@ -18,7 +18,7 @@
   <p>Kolkata, India - 19/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:42 AM, Set: 05:45 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:42 AM, Set: 05:45 PM)  <br>🌅 <strong>Sunrise:</strong> 06:19 AM | <strong>Sunset:</strong> 05:16 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 21.2 °C  
 
   <p><strong>AQI:</strong> Unknown <strong>PM2.5:</strong> null <strong>PM10:</strong> null</p>
 
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.08 | 📈 H: ₹92.5 | 📉 L: ₹90.91 <br>♦ ETH: ₹292000.0 | 📈 H: ₹305999.0 | 📉 L: ₹292000.0 <br>₿ BTC: ₹8420017.0 | 📈 H: ₹8693940.0 | 📉 L: ₹8420001.0 <br>⚡ BNB: ₹83998.67 | 📈 H: ₹87550.0 | 📉 L: ₹83653.22 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.41 | 📈 H: ₹92.5 | 📉 L: ₹90.95 <br>♦ ETH: ₹291854.6 | 📈 H: ₹305999.0 | 📉 L: ₹291854.6 <br>₿ BTC: ₹8420001.0 | 📈 H: ₹8693940.0 | 📉 L: ₹8420001.0 <br>⚡ BNB: ₹83970.64 | 📈 H: ₹87550.0 | 📉 L: ₹83653.22 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Would it be wise for me to agree? That's a no from the Council of Me. 🛑❌ 
+  I have a dinner date with a pizza and it would be jealous if I cancel. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
