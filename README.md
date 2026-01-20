@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:22 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 16.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:22 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 16.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 186.15 <strong>PM10:</strong> 188.05</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 185.75 <strong>PM10:</strong> 187.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 49 | 7.2 | 0 |
 | 2026-01-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 51 | 7.6 | 0 |
 | 2026-01-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.4 | 17.4 | 53 | 7.2 | 0 |
 | 2026-01-21 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 48 | 7.6 | 0 |
@@ -35,10 +34,11 @@
 | 2026-01-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 26.5 | 29 | 9.4 | 0 |
 | 2026-01-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.1 | 28 | 10.1 | 0 |
 | 2026-01-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.6 | 26 | 10.4 | 0 |
+| 2026-01-21 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 27.8 | 25 | 11.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.31 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹276515.0 | 📈 H: ₹295940.0 | 📉 L: ₹276500.4 <br>₿ BTC: ₹8212601.0 | 📈 H: ₹8508288.0 | 📉 L: ₹8212601.0 <br>⚡ BNB: ₹82271.94 | 📈 H: ₹85373.09 | 📉 L: ₹81957.77 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.31 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹272008.6 | 📈 H: ₹295910.5 | 📉 L: ₹272008.5 <br>₿ BTC: ₹8272416.0 | 📈 H: ₹8508288.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹82271.94 | 📈 H: ₹85373.09 | 📉 L: ₹81957.77 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  As the meme goes, ain't nobody got time for that. 🛑❌ 
+  Spell check suggests I say N-O. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
