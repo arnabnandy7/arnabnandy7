@@ -17,10 +17,10 @@
 <div align="center">
   <p>Kolkata, India - 20/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:22 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 24.8 °C  
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:22 AM, Set: 06:42 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> null kph | 💧 <strong>Humidity:</strong> null% | 🌡️ <strong>Feels Like:</strong> null °C  
 
-  <p><strong>AQI:</strong> Hazardous <strong>PM2.5:</strong> 263.45 <strong>PM10:</strong> 266.25</p>
+  <p><strong>AQI:</strong> Unknown <strong>PM2.5:</strong> null <strong>PM10:</strong> null</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.2 | 📈 H: ₹92.85 | 📉 L: ₹91.5 <br>♦ ETH: ₹286700.0 | 📈 H: ₹295971.0 | 📉 L: ₹286523.8 <br>₿ BTC: ₹8508288.0 | 📈 H: ₹8559871.0 | 📉 L: ₹8425329.0 <br>⚡ BNB: ₹84047.95 | 📈 H: ₹86283.92 | 📉 L: ₹83933.41 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹91.8 | 📈 H: ₹92.85 | 📉 L: ₹91.51 <br>♦ ETH: ₹287000.0 | 📈 H: ₹295971.0 | 📉 L: ₹286523.8 <br>₿ BTC: ₹8430000.0 | 📈 H: ₹8559000.0 | 📉 L: ₹8405512.0 <br>⚡ BNB: ₹83612.73 | 📈 H: ₹86283.92 | 📉 L: ₹83505.89 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, attempting this isn't something I can commit to. 🛑❌ 
+  I lent my time machine to a friend and now I can't go back and free up this afternoon. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
