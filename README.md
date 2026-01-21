@@ -18,27 +18,27 @@
   <p>Kolkata, India - 21/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 19.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 18.3 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 202.45 <strong>PM10:</strong> 203.85</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 218.35 <strong>PM10:</strong> 219.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 50 | 10.1 | 0 |
-| 2026-01-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 51 | 11.2 | 0 |
-| 2026-01-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 49 | 10.8 | 0 |
-| 2026-01-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 47 | 10.8 | 0 |
-| 2026-01-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.6 | 16.6 | 46 | 10.8 | 0 |
-| 2026-01-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.4 | 18.4 | 42 | 10.1 | 0 |
-| 2026-01-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.3 | 21.3 | 36 | 11.9 | 0 |
-| 2026-01-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.8 | 24.1 | 31 | 12.6 | 0 |
-| 2026-01-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 24.8 | 27 | 11.5 | 0 |
-| 2026-01-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.5 | 25 | 11.2 | 0 |
+| 2026-01-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.5 | 17.5 | 54 | 10.8 | 0 |
+| 2026-01-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.0 | 17.0 | 54 | 10.8 | 0 |
+| 2026-01-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.7 | 16.7 | 52 | 10.4 | 0 |
+| 2026-01-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.4 | 16.4 | 49 | 10.1 | 0 |
+| 2026-01-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.2 | 18.2 | 42 | 9.7 | 0 |
+| 2026-01-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.0 | 21.0 | 35 | 11.2 | 0 |
+| 2026-01-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.4 | 23.9 | 31 | 11.2 | 0 |
+| 2026-01-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 24.6 | 28 | 11.5 | 0 |
+| 2026-01-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.3 | 26 | 11.5 | 0 |
+| 2026-01-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 25.9 | 24 | 13.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.97 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>♦ ETH: ₹276836.6 | 📈 H: ₹280537.0 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8240759.0 | 📈 H: ₹8400000.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹81000.0 | 📈 H: ₹82650.21 | 📉 L: ₹80099.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.97 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>♦ ETH: ₹278017.6 | 📈 H: ₹280537.0 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8284426.0 | 📈 H: ₹8400000.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹83238.33 | 📈 H: ₹83238.33 | 📉 L: ₹80099.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My enthusiasm filed for bankruptcy, so I can't invest in that. 🛑❌ 
+  Helping you now could create a time paradox—better not risk it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
