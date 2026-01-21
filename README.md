@@ -16,16 +16,16 @@
 
 <div align="center">
   <p>Kolkata, India - 21/01/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
+  <p>Mist (হাল্কা কুয়াশা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 20.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 157.75 <strong>PM10:</strong> 158.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 202.45 <strong>PM10:</strong> 203.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-22 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.1 | 19.1 | 49 | 9.7 | 0 |
+| 2026-01-22 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 20.1 | 19.1 | 60 | 9.7 | 0 |
 | 2026-01-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 50 | 10.1 | 0 |
 | 2026-01-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 51 | 11.2 | 0 |
 | 2026-01-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 49 | 10.8 | 0 |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.41 | 📈 H: ₹93.5 | 📉 L: ₹91.91 <br>♦ ETH: ₹273658.9 | 📈 H: ₹278508.5 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8162000.0 | 📈 H: ₹8380011.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹80100.0 | 📈 H: ₹82650.21 | 📉 L: ₹80099.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.4 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>♦ ETH: ₹273658.9 | 📈 H: ₹278508.5 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8229475.0 | 📈 H: ₹8377060.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹81000.0 | 📈 H: ₹82650.21 | 📉 L: ₹80099.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Agreeing to this would confuse everyone who knows me as a professional avoider. 🛑❌ 
+  My retro soul can't handle modern tasks like that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
