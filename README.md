@@ -18,15 +18,13 @@
   <p>Kolkata, India - 21/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 26.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 25.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 92.55 <strong>PM10:</strong> 93.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 83.05 <strong>PM10:</strong> 84.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-21 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.0 | 25.5 | 31 | 9.7 | 0 |
-| 2026-01-21 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 25.0 | 33 | 7.2 | 0 |
 | 2026-01-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 24.7 | 34 | 5.8 | 0 |
 | 2026-01-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.5 | 35 | 3.6 | 0 |
 | 2026-01-21 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 24.3 | 37 | 1.8 | 0 |
@@ -35,10 +33,12 @@
 | 2026-01-22 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 45 | 5.8 | 0 |
 | 2026-01-22 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 46 | 7.9 | 0 |
 | 2026-01-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 48 | 8.3 | 0 |
+| 2026-01-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 51 | 9.0 | 0 |
+| 2026-01-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 53 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.44 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹273902.6 | 📈 H: ₹285705.5 | 📉 L: ₹272008.5 <br>₿ BTC: ₹8175083.0 | 📈 H: ₹8479999.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹80099.01 | 📈 H: ₹85285.0 | 📉 L: ₹80099.01 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.72 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹273000.0 | 📈 H: ₹285182.8 | 📉 L: ₹272008.5 <br>₿ BTC: ₹8198653.0 | 📈 H: ₹8474991.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹80099.0 | 📈 H: ₹85285.0 | 📉 L: ₹80099.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm practicing social distancing... from everyone. 🛑❌ 
+  My core competency is avoiding things, and I really need to focus on it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
