@@ -18,27 +18,27 @@
   <p>Kolkata, India - 21/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 15.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 17.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 181.05 <strong>PM10:</strong> 182.95</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 183.35 <strong>PM10:</strong> 185.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-21 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 24.8 | 36 | 9.0 | 0 |
-| 2026-01-21 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.7 | 32 | 10.1 | 0 |
-| 2026-01-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 26.5 | 29 | 9.4 | 0 |
-| 2026-01-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.1 | 28 | 10.1 | 0 |
-| 2026-01-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.6 | 26 | 10.4 | 0 |
-| 2026-01-21 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 27.8 | 25 | 11.9 | 0 |
-| 2026-01-21 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 27.6 | 26 | 13.3 | 0 |
+| 2026-01-21 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 25.8 | 31 | 11.2 | 0 |
+| 2026-01-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 26.6 | 29 | 10.1 | 0 |
+| 2026-01-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 27.2 | 27 | 9.7 | 0 |
+| 2026-01-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.6 | 26 | 10.1 | 0 |
+| 2026-01-21 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 27.8 | 25 | 11.2 | 0 |
+| 2026-01-21 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 27.6 | 25 | 12.6 | 0 |
 | 2026-01-21 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 27.0 | 28 | 12.2 | 0 |
-| 2026-01-21 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.7 | 25.3 | 33 | 9.4 | 0 |
-| 2026-01-21 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 24.9 | 35 | 6.1 | 0 |
+| 2026-01-21 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.7 | 25.3 | 32 | 9.4 | 0 |
+| 2026-01-21 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 24.9 | 34 | 5.8 | 0 |
+| 2026-01-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 24.6 | 35 | 2.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.35 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹273100.1 | 📈 H: ₹295910.5 | 📉 L: ₹272008.5 <br>₿ BTC: ₹8250000.0 | 📈 H: ₹8508288.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹80619.59 | 📈 H: ₹85373.09 | 📉 L: ₹80619.59 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.35 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹277833.2 | 📈 H: ₹295838.5 | 📉 L: ₹272008.5 <br>₿ BTC: ₹8279900.0 | 📈 H: ₹8508288.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹80619.59 | 📈 H: ₹85373.09 | 📉 L: ₹80619.59 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I need to keep my karma clear, and I sense a yes would muddy it. 🛑❌ 
+  I fell asleep halfway through considering it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
