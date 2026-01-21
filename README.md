@@ -18,9 +18,9 @@
   <p>Kolkata, India - 21/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:59 AM, Set: 07:39 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:17 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 23.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 80.45 <strong>PM10:</strong> 81.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 81.45 <strong>PM10:</strong> 83.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.74 | 📈 H: ₹93.01 | 📉 L: ₹91.53 <br>♦ ETH: ₹272008.5 | 📈 H: ₹285000.0 | 📉 L: ₹272000.0 <br>₿ BTC: ₹8198653.0 | 📈 H: ₹8474991.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹80099.01 | 📈 H: ₹85285.0 | 📉 L: ₹80099.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.5 | 📈 H: ₹93.36 | 📉 L: ₹91.53 <br>♦ ETH: ₹271775.9 | 📈 H: ₹282818.2 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8162762.0 | 📈 H: ₹8474991.0 | 📉 L: ₹8100900.0 <br>⚡ BNB: ₹81032.8 | 📈 H: ₹84745.92 | 📉 L: ₹80099.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Got a conference call with myself, and it's very time-consuming. 🛑❌ 
+  While I appreciate it, volunteering for this isn't something I can commit to. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
