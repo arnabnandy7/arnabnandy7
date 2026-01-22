@@ -18,9 +18,9 @@
   <p>Kolkata, India - 22/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:33 AM, Set: 08:34 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:18 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:33 AM, Set: 08:34 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:18 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 23.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 170.35 <strong>PM10:</strong> 171.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 160.15 <strong>PM10:</strong> 161.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.29 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>♦ ETH: ₹277108.6 | 📈 H: ₹284038.6 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8245883.0 | 📈 H: ₹8400000.0 | 📉 L: ₹8107001.0 <br>⚡ BNB: ₹81742.01 | 📈 H: ₹83299.99 | 📉 L: ₹80099.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.31 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>♦ ETH: ₹277488.4 | 📈 H: ₹284038.6 | 📉 L: ₹270000.0 <br>₿ BTC: ₹8251087.0 | 📈 H: ₹8400000.0 | 📉 L: ₹8107001.0 <br>⚡ BNB: ₹81764.73 | 📈 H: ₹83299.99 | 📉 L: ₹80099.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Aliens invited me to a galaxy party, and I already RSVP'd yes to them. 🛑❌ 
+  Even my shadow decided to stay home, so I will too. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
