@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:06 AM, Set: 09:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:06 AM, Set: 09:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 17.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 146.65 <strong>PM10:</strong> 150.35</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 159.65 <strong>PM10:</strong> 163.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-24 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 35 | 5.8 | 0 |
-| 2026-01-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 36 | 6.8 | 0 |
-| 2026-01-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.3 | 16.3 | 37 | 7.6 | 0 |
-| 2026-01-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.9 | 15.9 | 39 | 7.2 | 0 |
-| 2026-01-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.6 | 15.6 | 40 | 7.2 | 0 |
-| 2026-01-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.9 | 17.9 | 36 | 6.1 | 0 |
-| 2026-01-24 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.9 | 20.9 | 30 | 7.2 | 0 |
-| 2026-01-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.4 | 23.5 | 26 | 7.9 | 0 |
-| 2026-01-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 24.2 | 22 | 6.5 | 0 |
-| 2026-01-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 25.1 | 19 | 8.3 | 0 |
+| 2026-01-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.3 | 16.3 | 40 | 7.6 | 0 |
+| 2026-01-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.8 | 15.8 | 42 | 7.9 | 0 |
+| 2026-01-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.4 | 15.4 | 43 | 7.6 | 0 |
+| 2026-01-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.1 | 15.1 | 44 | 7.6 | 0 |
+| 2026-01-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.3 | 17.4 | 40 | 6.5 | 0 |
+| 2026-01-24 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.4 | 20.4 | 34 | 7.2 | 0 |
+| 2026-01-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.9 | 23.6 | 29 | 9.0 | 0 |
+| 2026-01-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 24.2 | 25 | 8.6 | 0 |
+| 2026-01-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 25.0 | 21 | 9.7 | 0 |
+| 2026-01-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 25.9 | 18 | 11.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.71 | 📈 H: ₹93.39 | 📉 L: ₹92.21 <br>♦ ETH: ₹271339.1 | 📈 H: ₹279999.6 | 📉 L: ₹268874.8 <br>₿ BTC: ₹8251305.0 | 📈 H: ₹8399998.0 | 📉 L: ₹8170000.0 <br>⚡ BNB: ₹81772.2 | 📈 H: ₹83299.99 | 📉 L: ₹81178.13 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.63 | 📈 H: ₹93.39 | 📉 L: ₹92.21 <br>♦ ETH: ₹271339.0 | 📈 H: ₹279999.6 | 📉 L: ₹268874.8 <br>₿ BTC: ₹8214839.0 | 📈 H: ₹8399998.0 | 📉 L: ₹8170000.0 <br>⚡ BNB: ₹81500.01 | 📈 H: ₹83299.99 | 📉 L: ₹81178.13 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I thought about doing it later, then realized later is fully booked as well. 🛑❌ 
+  The last time I said yes, it rained for 40 days. Not doing that again. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
