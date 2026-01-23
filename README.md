@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:06 AM, Set: 09:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 15.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:06 AM, Set: 09:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 17.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 178.25 <strong>PM10:</strong> 181.05</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 179.65 <strong>PM10:</strong> 182.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.6 | 23.5 | 30 | 10.4 | 0 |
-| 2026-01-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.7 | 24.1 | 25 | 11.5 | 0 |
-| 2026-01-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 24.7 | 22 | 11.2 | 0 |
-| 2026-01-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 25.3 | 19 | 11.5 | 0 |
-| 2026-01-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 25.9 | 18 | 10.8 | 0 |
-| 2026-01-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 26.2 | 17 | 10.8 | 0 |
-| 2026-01-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.1 | 17 | 10.8 | 0 |
-| 2026-01-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 25.3 | 19 | 10.4 | 0 |
-| 2026-01-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 23.4 | 22 | 9.0 | 0 |
-| 2026-01-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 22.9 | 24 | 7.2 | 0 |
+| 2026-01-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 24.1 | 26 | 11.5 | 0 |
+| 2026-01-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.7 | 22 | 10.8 | 0 |
+| 2026-01-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 25.2 | 20 | 11.2 | 0 |
+| 2026-01-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 25.7 | 18 | 10.1 | 0 |
+| 2026-01-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.0 | 17 | 9.7 | 0 |
+| 2026-01-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 25.9 | 17 | 9.4 | 0 |
+| 2026-01-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 25.2 | 19 | 8.3 | 0 |
+| 2026-01-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 23.3 | 22 | 8.6 | 0 |
+| 2026-01-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 22.8 | 24 | 7.6 | 0 |
+| 2026-01-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 25 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.39 | 📈 H: ₹93.46 | 📉 L: ₹92.0 <br>♦ ETH: ₹271917.1 | 📈 H: ₹282149.3 | 📉 L: ₹271500.0 <br>₿ BTC: ₹8248253.0 | 📈 H: ₹8379434.0 | 📉 L: ₹8107500.0 <br>⚡ BNB: ₹83000.0 | 📈 H: ₹83299.99 | 📉 L: ₹80823.71 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.51 | 📈 H: ₹93.46 | 📉 L: ₹92.0 <br>♦ ETH: ₹272225.3 | 📈 H: ₹282149.3 | 📉 L: ₹271500.0 <br>₿ BTC: ₹8259859.0 | 📈 H: ₹8359322.0 | 📉 L: ₹8107500.0 <br>⚡ BNB: ₹81903.12 | 📈 H: ₹83200.0 | 📉 L: ₹80823.71 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  One of my pet peeves is doing stuff, so I simply don't. 🛑❌ 
+  My brain's hard drive is full; there's no room for that task. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
