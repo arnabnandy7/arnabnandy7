@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:06 AM, Set: 09:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 23.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:06 AM, Set: 09:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 23.9 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 190.85 <strong>PM10:</strong> 193.15</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 160.15 <strong>PM10:</strong> 161.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 25.7 | 18 | 10.1 | 0 |
-| 2026-01-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.0 | 17 | 9.7 | 0 |
-| 2026-01-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 25.9 | 17 | 9.4 | 0 |
-| 2026-01-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 25.2 | 19 | 8.3 | 0 |
-| 2026-01-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 23.3 | 22 | 8.6 | 0 |
-| 2026-01-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 22.8 | 24 | 7.6 | 0 |
-| 2026-01-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 25 | 6.5 | 0 |
-| 2026-01-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 26 | 6.1 | 0 |
-| 2026-01-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 27 | 5.8 | 0 |
-| 2026-01-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 28 | 5.0 | 0 |
+| 2026-01-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 26.7 | 17 | 12.2 | 0 |
+| 2026-01-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 26.4 | 17 | 12.6 | 0 |
+| 2026-01-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 25.6 | 19 | 11.5 | 0 |
+| 2026-01-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 23.6 | 22 | 9.0 | 0 |
+| 2026-01-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 23.0 | 23 | 7.6 | 0 |
+| 2026-01-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.1 | 22.6 | 24 | 6.5 | 0 |
+| 2026-01-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 24 | 7.6 | 0 |
+| 2026-01-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 25 | 6.8 | 0 |
+| 2026-01-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 27 | 6.5 | 0 |
+| 2026-01-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 28 | 5.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.6 | 📈 H: ₹93.46 | 📉 L: ₹92.0 <br>♦ ETH: ₹273222.0 | 📈 H: ₹280948.8 | 📉 L: ₹271500.0 <br>₿ BTC: ₹8280540.0 | 📈 H: ₹8359320.0 | 📉 L: ₹8107500.0 <br>⚡ BNB: ₹81911.31 | 📈 H: ₹83200.0 | 📉 L: ₹80823.71 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.74 | 📈 H: ₹93.46 | 📉 L: ₹92.0 <br>♦ ETH: ₹274972.6 | 📈 H: ₹280514.1 | 📉 L: ₹271000.0 <br>₿ BTC: ₹8232755.0 | 📈 H: ₹8359320.0 | 📉 L: ₹8107500.0 <br>⚡ BNB: ₹81911.31 | 📈 H: ₹83200.0 | 📉 L: ₹80823.71 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My controller died, and so did my desire to go out. 🛑❌ 
+  I could maybe be convinced, but I'd likely still say no in the end. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
