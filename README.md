@@ -18,27 +18,27 @@
   <p>Kolkata, India - 24/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:40 AM, Set: 10:27 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 16.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:40 AM, Set: 10:27 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 17.0 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 160.55 <strong>PM10:</strong> 166.15</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 160.15 <strong>PM10:</strong> 166.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.9 | 23.6 | 29 | 9.0 | 0 |
-| 2026-01-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 24.2 | 25 | 8.6 | 0 |
-| 2026-01-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 25.0 | 21 | 9.7 | 0 |
-| 2026-01-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 25.9 | 18 | 11.9 | 0 |
-| 2026-01-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 26.5 | 17 | 11.5 | 0 |
-| 2026-01-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 26.8 | 17 | 12.6 | 0 |
-| 2026-01-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 26.5 | 17 | 13.7 | 0 |
-| 2026-01-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 25.7 | 19 | 13.3 | 0 |
-| 2026-01-24 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 23.6 | 21 | 9.7 | 0 |
-| 2026-01-24 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 23.0 | 22 | 6.5 | 0 |
+| 2026-01-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.7 | 24.0 | 24 | 7.6 | 0 |
+| 2026-01-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 24.8 | 20 | 7.6 | 0 |
+| 2026-01-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 25.7 | 18 | 9.4 | 0 |
+| 2026-01-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 26.3 | 17 | 9.4 | 0 |
+| 2026-01-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 26.8 | 17 | 11.2 | 0 |
+| 2026-01-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 26.6 | 17 | 11.9 | 0 |
+| 2026-01-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 25.7 | 19 | 12.6 | 0 |
+| 2026-01-24 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 23.7 | 22 | 10.8 | 0 |
+| 2026-01-24 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 23.2 | 23 | 7.9 | 0 |
+| 2026-01-24 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 22.9 | 24 | 6.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.63 | 📈 H: ₹93.39 | 📉 L: ₹92.21 <br>♦ ETH: ₹271739.2 | 📈 H: ₹279999.6 | 📉 L: ₹268874.8 <br>₿ BTC: ₹8399195.0 | 📈 H: ₹8399998.0 | 📉 L: ₹8170000.0 <br>⚡ BNB: ₹81597.94 | 📈 H: ₹83299.99 | 📉 L: ₹81178.13 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.75 | 📈 H: ₹93.39 | 📉 L: ₹92.21 <br>♦ ETH: ₹276999.8 | 📈 H: ₹279999.6 | 📉 L: ₹268874.8 <br>₿ BTC: ₹8240389.0 | 📈 H: ₹8399998.0 | 📉 L: ₹8170000.0 <br>⚡ BNB: ₹81804.62 | 📈 H: ₹83299.99 | 📉 L: ₹81178.13 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The word 'yes' gives me hives; I'm avoiding an allergic reaction. 🛑❌ 
+  My calendar is on strike. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
