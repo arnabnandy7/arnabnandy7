@@ -18,27 +18,27 @@
   <p>Kolkata, India - 25/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:16 AM, Set: 11:27 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 23.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:16 AM, Set: 11:27 PM)  <br>🌅 <strong>Sunrise:</strong> 06:18 AM | <strong>Sunset:</strong> 05:20 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 49% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.85 <strong>PM10:</strong> 78.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.85 <strong>PM10:</strong> 78.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-25 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 23.7 | 33 | 9.0 | 0 |
-| 2026-01-25 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.8 | 21.9 | 34 | 7.2 | 0 |
-| 2026-01-25 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 36 | 5.8 | 0 |
-| 2026-01-25 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 37 | 6.8 | 0 |
-| 2026-01-26 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 39 | 9.0 | 0 |
-| 2026-01-26 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 41 | 9.7 | 0 |
-| 2026-01-26 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.0 | 43 | 9.0 | 0 |
-| 2026-01-26 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 44 | 8.3 | 0 |
-| 2026-01-26 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 46 | 8.3 | 0 |
-| 2026-01-26 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 47 | 9.0 | 0 |
+| 2026-01-25 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 34 | 10.1 | 0 |
+| 2026-01-25 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 35 | 8.3 | 0 |
+| 2026-01-25 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 35 | 7.2 | 0 |
+| 2026-01-26 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.3 | 20.3 | 36 | 7.2 | 0 |
+| 2026-01-26 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 37 | 5.4 | 0 |
+| 2026-01-26 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 38 | 5.4 | 0 |
+| 2026-01-26 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.6 | 18.6 | 40 | 7.6 | 0 |
+| 2026-01-26 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 42 | 8.3 | 0 |
+| 2026-01-26 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 43 | 8.3 | 0 |
+| 2026-01-26 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.5 | 17.6 | 45 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.8 | 📈 H: ₹93.8 | 📉 L: ₹92.61 <br>♦ ETH: ₹270147.4 | 📈 H: ₹276870.7 | 📉 L: ₹270000.1 <br>₿ BTC: ₹8172993.0 | 📈 H: ₹8359999.0 | 📉 L: ₹8156425.0 <br>⚡ BNB: ₹81085.62 | 📈 H: ₹82990.0 | 📉 L: ₹80900.01 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.75 | 📈 H: ₹93.8 | 📉 L: ₹92.61 <br>♦ ETH: ₹270100.1 | 📈 H: ₹276870.7 | 📉 L: ₹270000.1 <br>₿ BTC: ₹8156428.0 | 📈 H: ₹8359000.0 | 📉 L: ₹8156425.0 <br>⚡ BNB: ₹81085.62 | 📈 H: ₹82990.0 | 📉 L: ₹80900.01 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm saving my enthusiasm for something duller. 🛑❌ 
+  Unless there's a cash prize for me, I'll have to decline. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
