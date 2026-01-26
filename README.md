@@ -18,9 +18,9 @@
   <p>Kolkata, India - 26/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 10:55 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 24.6 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 10:55 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 24.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 102.35 <strong>PM10:</strong> 107.05</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 101.25 <strong>PM10:</strong> 106.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.73 | 📈 H: ₹94.14 | 📉 L: ₹92.7 <br>♦ ETH: ₹269876.9 | 📈 H: ₹273500.1 | 📉 L: ₹261000.0 <br>₿ BTC: ₹8133985.0 | 📈 H: ₹8243000.0 | 📉 L: ₹8118144.0 <br>⚡ BNB: ₹80690.0 | 📈 H: ₹81170.73 | 📉 L: ₹80500.64 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.76 | 📈 H: ₹94.14 | 📉 L: ₹92.7 <br>♦ ETH: ₹269129.1 | 📈 H: ₹273500.1 | 📉 L: ₹261000.0 <br>₿ BTC: ₹8139080.0 | 📈 H: ₹8243000.0 | 📉 L: ₹8118144.0 <br>⚡ BNB: ₹80690.0 | 📈 H: ₹81170.73 | 📉 L: ₹80500.64 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My reflexes are honed to automatically decline invites. 🛑❌ 
+  My life coach advised me to eliminate stressors, starting with this. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
