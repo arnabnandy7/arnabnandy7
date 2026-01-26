@@ -18,27 +18,27 @@
   <p>Kolkata, India - 26/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 10:55 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 10:55 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 18.0 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 199.65 <strong>PM10:</strong> 202.45</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 205.25 <strong>PM10:</strong> 207.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-26 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 24.5 | 32 | 10.4 | 0 |
-| 2026-01-26 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 25.4 | 29 | 11.2 | 0 |
-| 2026-01-26 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 26.3 | 28 | 11.5 | 0 |
-| 2026-01-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.0 | 26 | 12.6 | 0 |
-| 2026-01-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 27.5 | 25 | 14.8 | 0 |
-| 2026-01-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.3 | 27.6 | 25 | 16.9 | 0 |
-| 2026-01-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 27.5 | 25 | 17.6 | 0 |
-| 2026-01-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 26.9 | 27 | 16.2 | 0 |
-| 2026-01-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 25.1 | 32 | 12.6 | 0 |
-| 2026-01-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 24.6 | 34 | 9.7 | 0 |
+| 2026-01-26 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 25.5 | 31 | 9.0 | 0 |
+| 2026-01-26 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 26.3 | 29 | 9.7 | 0 |
+| 2026-01-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 27.0 | 27 | 10.1 | 0 |
+| 2026-01-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.6 | 26 | 12.6 | 0 |
+| 2026-01-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 27.8 | 25 | 15.5 | 0 |
+| 2026-01-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.6 | 26 | 16.2 | 0 |
+| 2026-01-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 27.0 | 28 | 14.8 | 0 |
+| 2026-01-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.6 | 25.3 | 33 | 11.5 | 0 |
+| 2026-01-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 24.8 | 36 | 11.2 | 0 |
+| 2026-01-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 24.4 | 37 | 9.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.25 | 📈 H: ₹93.65 | 📉 L: ₹92.61 <br>♦ ETH: ₹271432.4 | 📈 H: ₹275578.8 | 📉 L: ₹261000.0 <br>₿ BTC: ₹8135101.0 | 📈 H: ₹8323660.0 | 📉 L: ₹8118144.0 <br>⚡ BNB: ₹80965.05 | 📈 H: ₹82990.0 | 📉 L: ₹80500.64 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.3 | 📈 H: ₹93.65 | 📉 L: ₹92.61 <br>♦ ETH: ₹271432.3 | 📈 H: ₹275578.8 | 📉 L: ₹261000.0 <br>₿ BTC: ₹8236237.0 | 📈 H: ₹8323233.0 | 📉 L: ₹8118144.0 <br>⚡ BNB: ₹81001.28 | 📈 H: ₹82990.0 | 📉 L: ₹80500.64 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm revisiting my teenage rebellion by saying no to everything. 🛑❌ 
+  I'm in a long-term relationship with canceling plans. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
