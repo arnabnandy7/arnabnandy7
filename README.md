@@ -18,9 +18,9 @@
   <p>Kolkata, India - 27/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 11:40 AM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 11:40 AM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 24.1 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 170.35 <strong>PM10:</strong> 175.45</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 162.95 <strong>PM10:</strong> 168.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.47 | 📈 H: ₹94.14 | 📉 L: ₹93.01 <br>♦ ETH: ₹270740.3 | 📈 H: ₹274492.2 | 📉 L: ₹265978.3 <br>₿ BTC: ₹8300000.0 | 📈 H: ₹8357930.0 | 📉 L: ₹8120000.0 <br>⚡ BNB: ₹81887.35 | 📈 H: ₹82500.0 | 📉 L: ₹80100.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.39 | 📈 H: ₹94.14 | 📉 L: ₹93.01 <br>♦ ETH: ₹274023.9 | 📈 H: ₹274492.2 | 📉 L: ₹265978.3 <br>₿ BTC: ₹8208568.0 | 📈 H: ₹8357930.0 | 📉 L: ₹8120000.0 <br>⚡ BNB: ₹81491.46 | 📈 H: ₹82500.0 | 📉 L: ₹80100.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a chronic condition called 'idontwanna'. 🛑❌ 
+  Think of my refusal as a free lesson in handling rejection. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
