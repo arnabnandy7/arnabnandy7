@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  download-fuel-price:
+  update-humour:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
