@@ -18,27 +18,27 @@
   <p>Kolkata, India - 28/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:32 PM, Set: 01:37 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 17.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:32 PM, Set: 01:37 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:22 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 23.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 113.05 <strong>PM10:</strong> 117.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 131.75 <strong>PM10:</strong> 136.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-28 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.0 | 24.0 | 28 | 8.3 | 0 |
-| 2026-01-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.9 | 26 | 8.3 | 0 |
-| 2026-01-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 26.0 | 24 | 9.0 | 0 |
-| 2026-01-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 27.0 | 22 | 10.4 | 0 |
-| 2026-01-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 27.6 | 21 | 11.2 | 0 |
-| 2026-01-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 28.0 | 21 | 10.8 | 0 |
-| 2026-01-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 27.9 | 21 | 10.1 | 0 |
-| 2026-01-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 27.4 | 23 | 9.4 | 0 |
-| 2026-01-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 25.3 | 27 | 8.3 | 0 |
-| 2026-01-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 24.6 | 29 | 7.9 | 0 |
+| 2026-01-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 26.1 | 27 | 7.2 | 0 |
+| 2026-01-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 27.0 | 25 | 9.0 | 0 |
+| 2026-01-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 27.7 | 23 | 9.4 | 0 |
+| 2026-01-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 28.1 | 23 | 8.6 | 0 |
+| 2026-01-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 28.0 | 23 | 7.9 | 0 |
+| 2026-01-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 27.7 | 24 | 6.8 | 0 |
+| 2026-01-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 25.6 | 29 | 6.1 | 0 |
+| 2026-01-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 24.9 | 31 | 5.0 | 0 |
+| 2026-01-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 24.5 | 34 | 2.2 | 0 |
+| 2026-01-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.2 | 38 | 4.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.86 | 📈 H: ₹93.5 | 📉 L: ₹92.78 <br>♦ ETH: ₹278199.8 | 📈 H: ₹280345.0 | 📉 L: ₹268500.1 <br>₿ BTC: ₹8300000.0 | 📈 H: ₹8357930.0 | 📉 L: ₹8110000.0 <br>⚡ BNB: ₹82086.23 | 📈 H: ₹82500.0 | 📉 L: ₹81010.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.2 | 📈 H: ₹93.5 | 📉 L: ₹92.78 <br>♦ ETH: ₹279944.6 | 📈 H: ₹281000.0 | 📉 L: ₹268500.1 <br>₿ BTC: ₹8211845.0 | 📈 H: ₹8300000.0 | 📉 L: ₹8110000.0 <br>⚡ BNB: ₹82923.84 | 📈 H: ₹83250.0 | 📉 L: ₹81010.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm off-duty indefinitely. 🛑❌ 
+  I have too much on my plate, and I'm on a no-carb diet (no extra tasks). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
