@@ -192,11 +192,6 @@ jobs:
           echo -e "$OUTPUT"
           sed -i "s#\[crypto_prices\]#${OUTPUT//$'\n'/\\n}#g" README.md
           
-      # Fetch data from your API
-      - name: Fetch API data
-        run: |
-          curl -X GET https://naas.isalman.dev/no -o tmp/humour_response.json
-          
       # Extract reason from the API response and update README
       - name: Update README with API reason
         run: |
