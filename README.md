@@ -18,27 +18,27 @@
   <p>Kolkata, India - 29/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:31 PM, Set: 02:44 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 17.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:31 PM, Set: 02:44 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 19.3 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 181.05 <strong>PM10:</strong> 184.75</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 189.45 <strong>PM10:</strong> 193.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.5 | 24.8 | 36 | 6.8 | 0 |
-| 2026-01-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.8 | 33 | 8.6 | 0 |
-| 2026-01-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 26.8 | 30 | 9.4 | 0 |
-| 2026-01-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 27.5 | 29 | 9.0 | 0 |
-| 2026-01-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.1 | 27 | 8.3 | 0 |
-| 2026-01-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 28.5 | 26 | 8.6 | 0 |
-| 2026-01-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 28.5 | 25 | 7.9 | 0 |
-| 2026-01-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.1 | 27 | 8.3 | 0 |
-| 2026-01-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 26.0 | 31 | 8.3 | 0 |
-| 2026-01-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 25.3 | 33 | 7.2 | 0 |
+| 2026-01-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 26.0 | 34 | 7.9 | 0 |
+| 2026-01-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 27.0 | 32 | 8.6 | 0 |
+| 2026-01-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 27.8 | 30 | 7.6 | 0 |
+| 2026-01-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.3 | 29 | 6.5 | 0 |
+| 2026-01-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 28.7 | 28 | 6.8 | 0 |
+| 2026-01-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 28.8 | 27 | 7.2 | 0 |
+| 2026-01-29 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 28.4 | 28 | 6.1 | 0 |
+| 2026-01-29 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 26.4 | 33 | 6.5 | 0 |
+| 2026-01-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 25.6 | 35 | 7.2 | 0 |
+| 2026-01-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 25.1 | 37 | 4.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.15 | 📈 H: ₹94.0 | 📉 L: ₹92.61 <br>♦ ETH: ₹275751.1 | 📈 H: ₹283306.0 | 📉 L: ₹275406.0 <br>₿ BTC: ₹8183647.0 | 📈 H: ₹8455685.0 | 📉 L: ₹8183647.0 <br>⚡ BNB: ₹84500.0 | 📈 H: ₹84500.0 | 📉 L: ₹82532.04 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.15 | 📈 H: ₹94.0 | 📉 L: ₹92.61 <br>♦ ETH: ₹276991.4 | 📈 H: ₹283306.0 | 📉 L: ₹275406.0 <br>₿ BTC: ₹8274763.0 | 📈 H: ₹8455685.0 | 📉 L: ₹8161628.0 <br>⚡ BNB: ₹83116.05 | 📈 H: ₹84500.0 | 📉 L: ₹82532.04 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll put this request on my to-do list right after 'learn teleportation'. 🛑❌ 
+  'No' is my spirit animal. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
