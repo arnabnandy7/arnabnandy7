@@ -18,27 +18,27 @@
   <p>Kolkata, India - 29/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:31 PM, Set: 02:44 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 23.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:31 PM, Set: 02:44 AM)  <br>🌅 <strong>Sunrise:</strong> 06:17 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 20.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 93.75 <strong>PM10:</strong> 98.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 119.85 <strong>PM10:</strong> 122.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-01-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 24.3 | 37 | 7.2 | 0 |
-| 2026-01-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.5 | 24.3 | 42 | 6.1 | 0 |
-| 2026-01-29 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.9 | 21.9 | 45 | 4.7 | 0 |
-| 2026-01-30 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 46 | 7.9 | 0 |
-| 2026-01-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 45 | 9.0 | 0 |
-| 2026-01-30 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 44 | 10.8 | 0 |
-| 2026-01-30 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.5 | 19.5 | 46 | 11.9 | 0 |
-| 2026-01-30 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.1 | 50 | 12.2 | 0 |
-| 2026-01-30 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 55 | 12.6 | 0 |
-| 2026-01-30 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.4 | 18.4 | 59 | 12.2 | 0 |
+| 2026-01-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 50 | 7.2 | 0 |
+| 2026-01-30 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.7 | 19.7 | 51 | 9.0 | 0 |
+| 2026-01-30 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 51 | 10.8 | 0 |
+| 2026-01-30 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.6 | 18.6 | 52 | 11.9 | 0 |
+| 2026-01-30 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.3 | 53 | 11.2 | 0 |
+| 2026-01-30 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.1 | 18.1 | 54 | 11.5 | 0 |
+| 2026-01-30 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.0 | 20.0 | 50 | 10.8 | 0 |
+| 2026-01-30 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.8 | 24.4 | 42 | 11.2 | 0 |
+| 2026-01-30 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.9 | 25.1 | 37 | 9.7 | 0 |
+| 2026-01-30 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 25.9 | 34 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.4 | 📈 H: ₹95.0 | 📉 L: ₹93.1 <br>♦ ETH: ₹275566.0 | 📈 H: ₹283306.0 | 📉 L: ₹275000.1 <br>₿ BTC: ₹8212001.0 | 📈 H: ₹8455685.0 | 📉 L: ₹8152245.0 <br>⚡ BNB: ₹83025.03 | 📈 H: ₹85367.05 | 📉 L: ₹83025.03 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.52 | 📈 H: ₹99.0 | 📉 L: ₹93.14 <br>♦ ETH: ₹268262.7 | 📈 H: ₹283306.0 | 📉 L: ₹265031.0 <br>₿ BTC: ₹8050249.0 | 📈 H: ₹8455684.0 | 📉 L: ₹8040000.0 <br>⚡ BNB: ₹81438.49 | 📈 H: ₹85367.05 | 📉 L: ₹81398.9 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Agreeing to this would confuse everyone who knows me as a professional avoider. 🛑❌ 
+  Applying my version of Murphy's Law: if it can be avoided, it will be. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
