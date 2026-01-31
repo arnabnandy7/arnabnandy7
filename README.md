@@ -18,27 +18,27 @@
   <p>Kolkata, India - 31/01/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:45 PM, Set: 04:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:24 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 19.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:45 PM, Set: 04:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:16 AM | <strong>Sunset:</strong> 05:24 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 18.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 133.55 <strong>PM10:</strong> 135.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 138.65 <strong>PM10:</strong> 140.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-01 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.0 | 18.0 | 39 | 10.4 | 0 |
-| 2026-02-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 39 | 10.4 | 0 |
-| 2026-02-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.8 | 16.8 | 38 | 10.1 | 0 |
-| 2026-02-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.3 | 16.3 | 38 | 10.4 | 0 |
-| 2026-02-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.0 | 16.0 | 39 | 9.0 | 0 |
-| 2026-02-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.7 | 17.7 | 36 | 9.0 | 0 |
-| 2026-02-01 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.4 | 20.4 | 31 | 10.1 | 0 |
-| 2026-02-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.0 | 23.3 | 26 | 10.8 | 0 |
-| 2026-02-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.1 | 24.1 | 22 | 12.2 | 0 |
-| 2026-02-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.0 | 20 | 12.2 | 0 |
+| 2026-02-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.6 | 16.7 | 41 | 10.8 | 0 |
+| 2026-02-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.1 | 16.1 | 41 | 10.8 | 0 |
+| 2026-02-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 15.6 | 15.6 | 41 | 10.8 | 0 |
+| 2026-02-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 15.3 | 15.3 | 42 | 9.7 | 0 |
+| 2026-02-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.0 | 17.0 | 38 | 9.0 | 0 |
+| 2026-02-01 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.7 | 19.7 | 31 | 10.1 | 0 |
+| 2026-02-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.2 | 22.9 | 26 | 11.5 | 0 |
+| 2026-02-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 23.6 | 22 | 12.6 | 0 |
+| 2026-02-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 24.5 | 19 | 13.0 | 0 |
+| 2026-02-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 25.5 | 18 | 13.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.51 | 📈 H: ₹99.0 | 📉 L: ₹95.0 <br>♦ ETH: ₹238533.1 | 📈 H: ₹263094.0 | 📉 L: ₹226091.4 <br>₿ BTC: ₹7700000.0 | 📈 H: ₹8117739.0 | 📉 L: ₹7700000.0 <br>⚡ BNB: ₹75500.0 | 📈 H: ₹83014.47 | 📉 L: ₹75500.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.71 | 📈 H: ₹99.0 | 📉 L: ₹95.0 <br>♦ ETH: ₹238533.1 | 📈 H: ₹263093.6 | 📉 L: ₹226091.4 <br>₿ BTC: ₹7800004.0 | 📈 H: ₹8117739.0 | 📉 L: ₹7700000.0 <br>⚡ BNB: ₹75500.0 | 📈 H: ₹83014.47 | 📉 L: ₹75500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I only say yes on leap days, and today isn't one. 🛑❌ 
+  'No' is my spirit animal. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
