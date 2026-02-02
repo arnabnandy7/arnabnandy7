@@ -18,27 +18,27 @@
   <p>Kolkata, India - 02/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:57 PM, Set: 06:30 AM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 15.1 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:57 PM, Set: 06:30 AM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 18.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 148.45 <strong>PM10:</strong> 151.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 133.05 <strong>PM10:</strong> 135.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.3 | 23.3 | 29 | 12.2 | 0 |
-| 2026-02-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 23.8 | 23 | 13.0 | 0 |
-| 2026-02-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 24.5 | 20 | 13.0 | 0 |
-| 2026-02-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 25.3 | 17 | 13.3 | 0 |
-| 2026-02-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 25.9 | 16 | 13.0 | 0 |
-| 2026-02-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 26.0 | 15 | 11.5 | 0 |
-| 2026-02-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 25.8 | 14 | 11.5 | 0 |
-| 2026-02-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.5 | 24.8 | 17 | 9.7 | 0 |
-| 2026-02-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 23.0 | 19 | 9.7 | 0 |
-| 2026-02-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 22.3 | 20 | 9.0 | 0 |
+| 2026-02-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.4 | 19 | 13.0 | 0 |
+| 2026-02-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 25.3 | 17 | 12.6 | 0 |
+| 2026-02-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 25.9 | 15 | 12.6 | 0 |
+| 2026-02-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.1 | 14 | 11.9 | 0 |
+| 2026-02-02 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 25.8 | 14 | 11.2 | 0 |
+| 2026-02-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 24.9 | 17 | 9.4 | 0 |
+| 2026-02-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 23.1 | 18 | 8.3 | 0 |
+| 2026-02-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 22.4 | 18 | 7.6 | 0 |
+| 2026-02-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.9 | 21.9 | 19 | 7.9 | 0 |
+| 2026-02-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 20 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹96.9 | 📈 H: ₹98.0 | 📉 L: ₹96.08 <br>♦ ETH: ₹219380.1 | 📈 H: ₹244721.1 | 📉 L: ₹219380.0 <br>₿ BTC: ₹7453000.0 | 📈 H: ₹7864330.0 | 📉 L: ₹7453000.0 <br>⚡ BNB: ₹74253.41 | 📈 H: ₹78261.28 | 📉 L: ₹72080.87 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.81 | 📈 H: ₹97.97 | 📉 L: ₹96.08 <br>♦ ETH: ₹219429.6 | 📈 H: ₹241367.0 | 📉 L: ₹213060.4 <br>₿ BTC: ₹7378000.0 | 📈 H: ₹7864330.0 | 📉 L: ₹7378000.0 <br>⚡ BNB: ₹72470.29 | 📈 H: ₹76283.71 | 📉 L: ₹72080.87 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Alas, I must decline. 🛑❌ 
+  I bailed last minute because commitment issues run in my family. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
