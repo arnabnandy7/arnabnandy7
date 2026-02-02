@@ -18,27 +18,27 @@
   <p>Kolkata, India - 02/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:57 PM, Set: 06:30 AM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 33% | 🌡️ <strong>Feels Like:</strong> 22.9 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:57 PM, Set: 06:30 AM)  <br>🌅 <strong>Sunrise:</strong> 06:15 AM | <strong>Sunset:</strong> 05:26 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 33% | 🌡️ <strong>Feels Like:</strong> 22.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 46.25 <strong>PM10:</strong> 48.45</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.35 <strong>PM10:</strong> 47.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.8 | 25 | 8.3 | 0 |
-| 2026-02-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 26 | 8.3 | 0 |
-| 2026-02-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.8 | 27 | 7.9 | 0 |
-| 2026-02-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 28 | 8.6 | 0 |
-| 2026-02-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 30 | 9.0 | 0 |
-| 2026-02-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.2 | 18.2 | 31 | 9.4 | 0 |
-| 2026-02-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 32 | 9.4 | 0 |
-| 2026-02-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 33 | 9.0 | 0 |
-| 2026-02-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.1 | 17.1 | 34 | 9.0 | 0 |
-| 2026-02-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.9 | 16.9 | 35 | 8.6 | 0 |
+| 2026-02-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.6 | 22 | 7.6 | 0 |
+| 2026-02-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.2 | 19.2 | 23 | 6.1 | 0 |
+| 2026-02-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 23 | 5.8 | 0 |
+| 2026-02-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 23 | 5.8 | 0 |
+| 2026-02-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.0 | 18.0 | 24 | 7.2 | 0 |
+| 2026-02-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 26 | 8.6 | 0 |
+| 2026-02-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 16.9 | 27 | 8.6 | 0 |
+| 2026-02-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.5 | 16.5 | 30 | 9.4 | 0 |
+| 2026-02-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.2 | 16.2 | 33 | 8.6 | 0 |
+| 2026-02-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.4 | 18.5 | 32 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.8 | 📈 H: ₹98.49 | 📉 L: ₹96.51 <br>♦ ETH: ₹230266.4 | 📈 H: ₹234134.0 | 📉 L: ₹213060.4 <br>₿ BTC: ₹7600500.0 | 📈 H: ₹7650006.0 | 📉 L: ₹7320000.0 <br>⚡ BNB: ₹73723.66 | 📈 H: ₹76500.0 | 📉 L: ₹71401.7 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.8 | 📈 H: ₹98.49 | 📉 L: ₹96.83 <br>♦ ETH: ₹234134.0 | 📈 H: ₹234134.0 | 📉 L: ₹213060.4 <br>₿ BTC: ₹7753651.0 | 📈 H: ₹7753651.0 | 📉 L: ₹7320000.0 <br>⚡ BNB: ₹73723.66 | 📈 H: ₹76500.0 | 📉 L: ₹71401.7 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm introverting so hard right now, I can't stop to do that. 🛑❌ 
+  Time is a non-renewable resource, and I choose not to spend any on that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
