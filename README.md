@@ -18,27 +18,27 @@
   <p>Kolkata, India - 05/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:47 PM, Set: 08:19 AM)  <br>🌅 <strong>Sunrise:</strong> 06:14 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 38% | 🌡️ <strong>Feels Like:</strong> 23.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:47 PM, Set: 08:19 AM)  <br>🌅 <strong>Sunrise:</strong> 06:14 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 20.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.35 <strong>PM10:</strong> 40.55</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.65 <strong>PM10:</strong> 60.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 34 | 8.6 | 0 |
-| 2026-02-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 34 | 10.4 | 0 |
-| 2026-02-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.3 | 19.3 | 33 | 10.4 | 0 |
-| 2026-02-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 33 | 11.5 | 0 |
-| 2026-02-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.1 | 18.1 | 33 | 11.9 | 0 |
-| 2026-02-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.7 | 17.7 | 33 | 11.9 | 0 |
-| 2026-02-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 33 | 11.5 | 0 |
-| 2026-02-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.1 | 17.1 | 34 | 11.2 | 0 |
-| 2026-02-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 31 | 11.2 | 0 |
-| 2026-02-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.4 | 23.0 | 26 | 14.4 | 0 |
+| 2026-02-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.8 | 38 | 11.9 | 0 |
+| 2026-02-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.0 | 19.0 | 37 | 12.6 | 0 |
+| 2026-02-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 35 | 13.0 | 0 |
+| 2026-02-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 34 | 12.2 | 0 |
+| 2026-02-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 34 | 11.9 | 0 |
+| 2026-02-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 17.0 | 34 | 11.5 | 0 |
+| 2026-02-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.5 | 16.6 | 35 | 11.5 | 0 |
+| 2026-02-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.7 | 18.7 | 32 | 11.2 | 0 |
+| 2026-02-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.9 | 21.9 | 26 | 13.7 | 0 |
+| 2026-02-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 23.7 | 22 | 15.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹98.06 | 📈 H: ₹98.55 | 📉 L: ₹95.36 <br>♦ ETH: ₹195000.0 | 📈 H: ₹214640.2 | 📉 L: ₹191679.9 <br>₿ BTC: ₹6645769.0 | 📈 H: ₹7220000.0 | 📉 L: ₹6592101.0 <br>⚡ BNB: ₹64559.63 | 📈 H: ₹70003.07 | 📉 L: ₹64124.49 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹98.31 | 📈 H: ₹98.69 | 📉 L: ₹95.36 <br>♦ ETH: ₹195000.0 | 📈 H: ₹214640.2 | 📉 L: ₹191679.9 <br>₿ BTC: ₹6610003.0 | 📈 H: ₹7220000.0 | 📉 L: ₹6592101.0 <br>⚡ BNB: ₹66125.0 | 📈 H: ₹70003.07 | 📉 L: ₹64124.49 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
