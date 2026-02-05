@@ -18,27 +18,27 @@
   <p>Kolkata, India - 05/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:47 PM, Set: 08:19 AM)  <br>🌅 <strong>Sunrise:</strong> 06:14 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 18.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:47 PM, Set: 08:19 AM)  <br>🌅 <strong>Sunrise:</strong> 06:14 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 20.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 150.35 <strong>PM10:</strong> 151.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 131.75 <strong>PM10:</strong> 132.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-05 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 24.9 | 32 | 15.5 | 0 |
-| 2026-02-05 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 25.7 | 26 | 16.9 | 0 |
-| 2026-02-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 26.6 | 21 | 17.3 | 0 |
-| 2026-02-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 27.4 | 20 | 17.6 | 0 |
-| 2026-02-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 27.8 | 20 | 19.1 | 0 |
-| 2026-02-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 27.9 | 21 | 19.8 | 0 |
-| 2026-02-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 27.8 | 21 | 18.7 | 0 |
-| 2026-02-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 27.3 | 22 | 15.1 | 0 |
-| 2026-02-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 25.3 | 27 | 9.7 | 0 |
-| 2026-02-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 24.6 | 28 | 6.5 | 0 |
+| 2026-02-05 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.5 | 26 | 17.6 | 0 |
+| 2026-02-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.3 | 22 | 17.3 | 0 |
+| 2026-02-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.3 | 27.2 | 20 | 15.8 | 0 |
+| 2026-02-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 27.7 | 20 | 17.6 | 0 |
+| 2026-02-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 27.9 | 20 | 19.4 | 0 |
+| 2026-02-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.8 | 27.7 | 21 | 18.7 | 0 |
+| 2026-02-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.2 | 22 | 15.5 | 0 |
+| 2026-02-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 25.2 | 26 | 9.7 | 0 |
+| 2026-02-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 24.4 | 27 | 6.8 | 0 |
+| 2026-02-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 24.0 | 28 | 7.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹96.91 | 📈 H: ₹98.28 | 📉 L: ₹94.63 <br>♦ ETH: ₹208296.4 | 📈 H: ₹224497.7 | 📉 L: ₹206001.0 <br>₿ BTC: ₹7100068.0 | 📈 H: ₹7426288.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹69126.58 | 📈 H: ₹74463.65 | 📉 L: ₹69126.58 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.43 | 📈 H: ₹98.28 | 📉 L: ₹94.63 <br>♦ ETH: ₹206000.8 | 📈 H: ₹224497.7 | 📉 L: ₹206000.8 <br>₿ BTC: ₹7013000.0 | 📈 H: ₹7426288.0 | 📉 L: ₹7013000.0 <br>⚡ BNB: ₹69126.58 | 📈 H: ₹74463.65 | 📉 L: ₹69126.58 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of my refusal as a free lesson in handling rejection. 🛑❌ 
+  Even my FitBit is telling me to stay put. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
