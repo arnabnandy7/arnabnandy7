@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:40 PM, Set: 08:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:13 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 49% | 🌡️ <strong>Feels Like:</strong> 20.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:40 PM, Set: 08:51 AM)  <br>🌅 <strong>Sunrise:</strong> 06:13 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 49% | 🌡️ <strong>Feels Like:</strong> 20.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 59.15 <strong>PM10:</strong> 63.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 77.25 <strong>PM10:</strong> 82.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-07 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.3 | 18.3 | 28 | 5.8 | 0.0 |
 | 2026-02-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.6 | 17.6 | 29 | 7.9 | 0.0 |
 | 2026-02-07 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.9 | 17.0 | 30 | 9.7 | 0.0 |
 | 2026-02-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.3 | 16.3 | 31 | 9.7 | 0.0 |
@@ -35,10 +34,11 @@
 | 2026-02-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 17.7 | 17.7 | 35 | 9.7 | 0.0 |
 | 2026-02-07 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.9 | 20.9 | 30 | 12.2 | 0.0 |
 | 2026-02-07 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 23.6 | 26 | 14.0 | 0.0 |
+| 2026-02-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 24.5 | 22 | 15.8 | 0.0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹100.76 | 📈 H: ₹105.0 | 📉 L: ₹97.53 <br>♦ ETH: ₹208133.7 | 📈 H: ₹237500.0 | 📉 L: ₹176999.1 <br>₿ BTC: ₹7100080.0 | 📈 H: ₹7209270.0 | 📉 L: ₹6100072.0 <br>⚡ BNB: ₹65958.93 | 📈 H: ₹67429.39 | 📉 L: ₹59019.38 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹98.72 | 📈 H: ₹105.0 | 📉 L: ₹97.53 <br>♦ ETH: ₹202218.0 | 📈 H: ₹237500.0 | 📉 L: ₹176999.1 <br>₿ BTC: ₹7000000.0 | 📈 H: ₹7267619.0 | 📉 L: ₹6100072.0 <br>⚡ BNB: ₹66200.97 | 📈 H: ₹67429.39 | 📉 L: ₹59019.38 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My competence is on vacation right now. 🛑❌ 
+  As the saying goes, 'Nope, nope, nope.' 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
