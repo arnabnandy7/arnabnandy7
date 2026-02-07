@@ -18,14 +18,13 @@
   <p>Kolkata, India - 07/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:32 PM, Set: 09:23 AM)  <br>🌅 <strong>Sunrise:</strong> 06:13 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 43% | 🌡️ <strong>Feels Like:</strong> 22.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:32 PM, Set: 09:23 AM)  <br>🌅 <strong>Sunrise:</strong> 06:13 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 46% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.45 <strong>PM10:</strong> 46.85</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.45 <strong>PM10:</strong> 46.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-07 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.8 | 21.8 | 25 | 8.6 | 0 |
 | 2026-02-07 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 27 | 9.0 | 0 |
 | 2026-02-07 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 29 | 9.4 | 0 |
 | 2026-02-07 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.4 | 19.4 | 31 | 9.7 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-08 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.8 | 16.8 | 40 | 9.7 | 0 |
 | 2026-02-08 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.5 | 16.5 | 42 | 8.6 | 0 |
 | 2026-02-08 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.2 | 16.2 | 43 | 9.0 | 0 |
+| 2026-02-08 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.1 | 16.1 | 44 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹98.19 | 📈 H: ₹101.78 | 📉 L: ₹96.9 <br>♦ ETH: ₹200000.0 | 📈 H: ₹214000.0 | 📉 L: ₹196274.9 <br>₿ BTC: ₹6899610.0 | 📈 H: ₹7267619.0 | 📉 L: ₹6595001.0 <br>⚡ BNB: ₹62295.02 | 📈 H: ₹67429.39 | 📉 L: ₹60720.86 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.93 | 📈 H: ₹101.78 | 📉 L: ₹96.9 <br>♦ ETH: ₹201839.8 | 📈 H: ₹214000.0 | 📉 L: ₹196274.9 <br>₿ BTC: ₹6893998.0 | 📈 H: ₹7267619.0 | 📉 L: ₹6595001.0 <br>⚡ BNB: ₹63563.43 | 📈 H: ₹67429.39 | 📉 L: ₹60720.86 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The Queen of England ghost-told me to stay home (I only take royal commands). 🛑❌ 
+  The timing isn't right—mainly because I just don't want to do it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
