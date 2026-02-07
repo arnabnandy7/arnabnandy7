@@ -18,27 +18,27 @@
   <p>Kolkata, India - 07/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:32 PM, Set: 09:23 AM)  <br>🌅 <strong>Sunrise:</strong> 06:13 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 17.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:32 PM, Set: 09:23 AM)  <br>🌅 <strong>Sunrise:</strong> 06:13 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 19.2 °C  
 
-  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 151.75 <strong>PM10:</strong> 157.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 132.15 <strong>PM10:</strong> 136.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-07 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.7 | 23.2 | 26 | 16.2 | 0 |
-| 2026-02-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.8 | 23.8 | 21 | 17.3 | 0 |
-| 2026-02-07 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 24.7 | 18 | 18.0 | 0 |
-| 2026-02-07 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 25.5 | 16 | 17.3 | 0 |
-| 2026-02-07 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 26.1 | 15 | 18.0 | 0 |
-| 2026-02-07 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 26.4 | 15 | 16.9 | 0 |
-| 2026-02-07 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 26.3 | 15 | 17.3 | 0 |
-| 2026-02-07 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 25.5 | 17 | 14.8 | 0 |
-| 2026-02-07 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 23.4 | 21 | 11.9 | 0 |
-| 2026-02-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.7 | 22.8 | 23 | 9.0 | 0 |
+| 2026-02-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.4 | 23.6 | 22 | 15.8 | 0 |
+| 2026-02-07 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 24.5 | 18 | 16.6 | 0 |
+| 2026-02-07 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 25.4 | 15 | 16.6 | 0 |
+| 2026-02-07 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 26.0 | 14 | 18.4 | 0 |
+| 2026-02-07 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 26.3 | 14 | 17.6 | 0 |
+| 2026-02-07 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 26.2 | 14 | 17.3 | 0 |
+| 2026-02-07 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 25.4 | 16 | 15.5 | 0 |
+| 2026-02-07 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 23.2 | 20 | 12.2 | 0 |
+| 2026-02-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 22.5 | 21 | 10.1 | 0 |
+| 2026-02-07 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 23 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.16 | 📈 H: ₹102.0 | 📉 L: ₹96.9 <br>♦ ETH: ₹206023.6 | 📈 H: ₹237500.0 | 📉 L: ₹188397.3 <br>₿ BTC: ₹7039436.0 | 📈 H: ₹7267619.0 | 📉 L: ₹6400000.0 <br>⚡ BNB: ₹65924.38 | 📈 H: ₹67429.39 | 📉 L: ₹61865.69 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹99.99 | 📈 H: ₹101.78 | 📉 L: ₹96.9 <br>♦ ETH: ₹207182.4 | 📈 H: ₹237500.0 | 📉 L: ₹188397.3 <br>₿ BTC: ₹7075253.0 | 📈 H: ₹7267619.0 | 📉 L: ₹6400000.0 <br>⚡ BNB: ₹66066.13 | 📈 H: ₹67429.39 | 📉 L: ₹61865.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  'No' — from me, with love. 🛑❌ 
+  The hamster running my life wheel is on strike due to overwork. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
