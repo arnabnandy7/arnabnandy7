@@ -18,27 +18,27 @@
   <p>Kolkata, India - 08/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:26 PM, Set: 09:57 AM)  <br>🌅 <strong>Sunrise:</strong> 06:12 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:26 PM, Set: 09:57 AM)  <br>🌅 <strong>Sunrise:</strong> 06:12 AM | <strong>Sunset:</strong> 05:29 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 19.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 66.75 <strong>PM10:</strong> 91.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 87.45 <strong>PM10:</strong> 113.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-08 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 37 | 6.8 | 0 |
 | 2026-02-09 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.1 | 19.1 | 40 | 6.5 | 0 |
-| 2026-02-09 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 41 | 6.1 | 0 |
-| 2026-02-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 43 | 7.2 | 0 |
+| 2026-02-09 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 42 | 6.1 | 0 |
+| 2026-02-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.8 | 17.8 | 44 | 7.2 | 0 |
 | 2026-02-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.3 | 17.3 | 46 | 7.6 | 0 |
-| 2026-02-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.0 | 17.0 | 47 | 6.8 | 0 |
-| 2026-02-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.7 | 16.7 | 48 | 7.2 | 0 |
-| 2026-02-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.6 | 16.6 | 49 | 8.3 | 0 |
-| 2026-02-09 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.0 | 19.0 | 43 | 9.0 | 0 |
-| 2026-02-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.1 | 23.8 | 35 | 9.7 | 0 |
+| 2026-02-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.0 | 17.0 | 48 | 6.8 | 0 |
+| 2026-02-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.7 | 16.7 | 49 | 7.2 | 0 |
+| 2026-02-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.6 | 16.6 | 50 | 8.3 | 0 |
+| 2026-02-09 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.9 | 18.9 | 43 | 9.0 | 0 |
+| 2026-02-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.1 | 23.8 | 36 | 9.7 | 0 |
+| 2026-02-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 24.5 | 30 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.19 | 📈 H: ₹98.9 | 📉 L: ₹97.14 <br>♦ ETH: ₹216088.7 | 📈 H: ₹216089.5 | 📉 L: ₹201858.1 <br>₿ BTC: ₹6820726.0 | 📈 H: ₹7039546.0 | 📉 L: ₹6737974.0 <br>⚡ BNB: ₹62873.87 | 📈 H: ₹64582.52 | 📉 L: ₹62873.87 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.69 | 📈 H: ₹98.9 | 📉 L: ₹97.14 <br>♦ ETH: ₹205088.9 | 📈 H: ₹216089.5 | 📉 L: ₹203038.3 <br>₿ BTC: ₹6999999.0 | 📈 H: ₹7039546.0 | 📉 L: ₹6737974.0 <br>⚡ BNB: ₹62873.87 | 📈 H: ₹64582.52 | 📉 L: ₹62873.87 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've reached my quota of saying yes for the year. 🛑❌ 
+  If I helped, I'd be robbing you of the chance to do it yourself. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
