@@ -25,8 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-08 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 24.4 | 22 | 8.3 | 0 |
-| 2026-02-08 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 23.7 | 24 | 5.0 | 0 |
 | 2026-02-08 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 23.4 | 24 | 6.1 | 0 |
 | 2026-02-08 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.4 | 23.0 | 26 | 7.6 | 0 |
 | 2026-02-08 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 28 | 6.1 | 0 |
@@ -35,10 +33,12 @@
 | 2026-02-09 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.6 | 18.6 | 35 | 9.7 | 0 |
 | 2026-02-09 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.9 | 17.9 | 38 | 9.7 | 0 |
 | 2026-02-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.4 | 17.4 | 40 | 10.8 | 0 |
+| 2026-02-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.0 | 17.0 | 43 | 10.1 | 0 |
+| 2026-02-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.7 | 16.7 | 45 | 9.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.17 | 📈 H: ₹99.49 | 📉 L: ₹97.14 <br>♦ ETH: ₹204175.4 | 📈 H: ₹208147.2 | 📉 L: ₹198012.7 <br>₿ BTC: ₹6900000.0 | 📈 H: ₹6945371.0 | 📉 L: ₹6596420.0 <br>⚡ BNB: ₹62873.87 | 📈 H: ₹64582.52 | 📉 L: ₹60720.86 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹97.37 | 📈 H: ₹99.49 | 📉 L: ₹97.14 <br>♦ ETH: ₹206051.1 | 📈 H: ₹208309.2 | 📉 L: ₹198012.7 <br>₿ BTC: ₹6850837.0 | 📈 H: ₹6945371.0 | 📉 L: ₹6728007.0 <br>⚡ BNB: ₹62873.87 | 📈 H: ₹64582.52 | 📉 L: ₹60720.86 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That date conflicts with my extended celebration of Chillmas. 🛑❌ 
+  I'm going to turn that invitation into an inviti-NOPE. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
