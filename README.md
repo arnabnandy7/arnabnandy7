@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 12/02/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:09 AM, Set: 12:46 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 30% | 🌡️ <strong>Feels Like:</strong> 26.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:09 AM, Set: 12:46 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 28% | 🌡️ <strong>Feels Like:</strong> 26.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 71.35 <strong>PM10:</strong> 75.85</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 58.55 <strong>PM10:</strong> 63.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 25.5 | 20 | 12.6 | 0 |
 | 2026-02-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.6 | 24.3 | 21 | 10.4 | 0 |
 | 2026-02-12 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 23.8 | 22 | 9.7 | 0 |
 | 2026-02-12 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 23.3 | 22 | 6.1 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-13 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 27 | 10.8 | 0 |
 | 2026-02-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.4 | 19.4 | 29 | 10.1 | 0 |
 | 2026-02-13 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 31 | 9.4 | 0 |
+| 2026-02-13 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 33 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹96.07 | 📈 H: ₹96.99 | 📉 L: ₹95.77 <br>♦ ETH: ₹191999.8 | 📈 H: ₹194000.0 | 📉 L: ₹186050.0 <br>₿ BTC: ₹6572373.0 | 📈 H: ₹6648775.0 | 📉 L: ₹6425554.0 <br>⚡ BNB: ₹58735.57 | 📈 H: ₹59927.81 | 📉 L: ₹56700.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹95.98 | 📈 H: ₹96.99 | 📉 L: ₹95.31 <br>♦ ETH: ₹191999.9 | 📈 H: ₹194000.0 | 📉 L: ₹186050.0 <br>₿ BTC: ₹6547337.0 | 📈 H: ₹6648775.0 | 📉 L: ₹6425554.0 <br>⚡ BNB: ₹58735.57 | 📈 H: ₹59927.81 | 📉 L: ₹56700.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
