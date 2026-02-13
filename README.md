@@ -18,14 +18,13 @@
   <p>Kolkata, India - 13/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:01 AM, Set: 01:40 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 18.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:01 AM, Set: 01:40 PM)  <br>🌅 <strong>Sunrise:</strong> 06:10 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 17.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 130.35 <strong>PM10:</strong> 136.85</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 132.15 <strong>PM10:</strong> 138.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-14 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 17.0 | 17.0 | 35 | 7.9 | 0 |
 | 2026-02-14 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 16.7 | 16.7 | 35 | 6.5 | 0 |
 | 2026-02-14 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 16.7 | 16.7 | 36 | 6.5 | 0 |
 | 2026-02-14 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 31 | 6.5 | 0 |
@@ -35,6 +34,7 @@
 | 2026-02-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 26.0 | 19 | 8.6 | 0 |
 | 2026-02-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.0 | 18 | 10.1 | 0 |
 | 2026-02-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 27.8 | 18 | 11.5 | 0 |
+| 2026-02-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.5 | 28.3 | 17 | 12.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
