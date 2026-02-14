@@ -18,14 +18,13 @@
   <p>Kolkata, India - 14/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:51 AM, Set: 02:36 PM)  <br>🌅 <strong>Sunrise:</strong> 06:09 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 23.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:51 AM, Set: 02:36 PM)  <br>🌅 <strong>Sunrise:</strong> 06:09 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 23.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 49.85 <strong>PM10:</strong> 54.55</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.15 <strong>PM10:</strong> 56.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 23.7 | 33 | 9.0 | 0 |
 | 2026-02-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.7 | 21.7 | 35 | 7.2 | 0 |
 | 2026-02-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 37 | 11.2 | 0 |
 | 2026-02-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.2 | 20.2 | 38 | 9.7 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 45 | 5.8 | 0 |
 | 2026-02-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.5 | 18.5 | 47 | 5.8 | 0 |
 | 2026-02-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 18.5 | 18.5 | 48 | 5.8 | 0 |
+| 2026-02-15 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.0 | 21.0 | 43 | 4.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.47 | 📈 H: ₹95.25 | 📉 L: ₹94.31 <br>♦ ETH: ₹198661.1 | 📈 H: ₹198661.1 | 📉 L: ₹192145.4 <br>₿ BTC: ₹6649459.0 | 📈 H: ₹6700000.0 | 📉 L: ₹6482373.0 <br>⚡ BNB: ₹60000.0 | 📈 H: ₹60908.98 | 📉 L: ₹57142.68 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.46 | 📈 H: ₹95.25 | 📉 L: ₹94.31 <br>♦ ETH: ₹195632.4 | 📈 H: ₹198661.1 | 📉 L: ₹193443.7 <br>₿ BTC: ₹6649458.0 | 📈 H: ₹6700000.0 | 📉 L: ₹6490998.0 <br>⚡ BNB: ₹60000.0 | 📈 H: ₹60908.98 | 📉 L: ₹57142.68 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
