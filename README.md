@@ -18,27 +18,27 @@
   <p>Kolkata, India - 16/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:19 AM, Set: 04:32 PM)  <br>🌅 <strong>Sunrise:</strong> 06:08 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 37% | 🌡️ <strong>Feels Like:</strong> 25.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:19 AM, Set: 04:32 PM)  <br>🌅 <strong>Sunrise:</strong> 06:08 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 35% | 🌡️ <strong>Feels Like:</strong> 26.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 122.85 <strong>PM10:</strong> 125.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 86.95 <strong>PM10:</strong> 90.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 28.7 | 14 | 14.4 | 0 |
-| 2026-02-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 28.0 | 16 | 13.3 | 0 |
-| 2026-02-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 25.2 | 19 | 11.5 | 0 |
-| 2026-02-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 24.0 | 20 | 10.8 | 0 |
-| 2026-02-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 23.4 | 21 | 11.2 | 0 |
-| 2026-02-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.1 | 23.0 | 23 | 11.5 | 0 |
-| 2026-02-16 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.2 | 22.8 | 25 | 11.9 | 0 |
-| 2026-02-16 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 27 | 10.8 | 0 |
-| 2026-02-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.1 | 21.1 | 28 | 7.9 | 0 |
-| 2026-02-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 29 | 3.6 | 0 |
+| 2026-02-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 28.1 | 16 | 13.7 | 0 |
+| 2026-02-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 25.2 | 19 | 11.5 | 0 |
+| 2026-02-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 24.1 | 21 | 10.4 | 0 |
+| 2026-02-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 23.6 | 22 | 10.1 | 0 |
+| 2026-02-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 23.2 | 23 | 10.8 | 0 |
+| 2026-02-16 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.6 | 23.0 | 25 | 12.2 | 0 |
+| 2026-02-16 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.9 | 21.9 | 27 | 10.4 | 0 |
+| 2026-02-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 28 | 5.8 | 0 |
+| 2026-02-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 30 | 2.2 | 0 |
+| 2026-02-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.1 | 20.1 | 30 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.2 | 📈 H: ₹94.77 | 📉 L: ₹93.6 <br>♦ ETH: ₹187500.8 | 📈 H: ₹198394.8 | 📉 L: ₹183501.5 <br>₿ BTC: ₹6462600.0 | 📈 H: ₹6695000.0 | 📉 L: ₹6380000.0 <br>⚡ BNB: ₹57362.86 | 📈 H: ₹59432.4 | 📉 L: ₹57307.91 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.85 | 📈 H: ₹94.77 | 📉 L: ₹93.6 <br>♦ ETH: ₹187500.8 | 📈 H: ₹197639.1 | 📉 L: ₹183501.5 <br>₿ BTC: ₹6495001.0 | 📈 H: ₹6695000.0 | 📉 L: ₹6380000.0 <br>⚡ BNB: ₹58000.0 | 📈 H: ₹58745.32 | 📉 L: ₹57307.91 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I pulled a card from a deck; it said 'Do Not Pass Go, Do Not Say Yes'. 🛑❌ 
+  I'm afraid if I enjoy myself, it will become a bad habit. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
