@@ -18,14 +18,13 @@
   <p>Kolkata, India - 17/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:57 AM, Set: 05:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:07 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 36% | 🌡️ <strong>Feels Like:</strong> 17.1 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:57 AM, Set: 05:30 PM)  <br>🌅 <strong>Sunrise:</strong> 06:07 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 18.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 97.05 <strong>PM10:</strong> 102.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 98.45 <strong>PM10:</strong> 103.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-17 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.1 | 23.4 | 27 | 11.2 | 0 |
 | 2026-02-17 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.9 | 24.8 | 24 | 11.9 | 0 |
 | 2026-02-17 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 26.2 | 21 | 13.3 | 0 |
 | 2026-02-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 27.5 | 17 | 14.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 29.4 | 13 | 13.0 | 0 |
 | 2026-02-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.8 | 28.6 | 15 | 11.5 | 0 |
 | 2026-02-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 25.5 | 19 | 9.0 | 0 |
+| 2026-02-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 24.2 | 22 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.16 | 📈 H: ₹95.19 | 📉 L: ₹93.6 <br>♦ ETH: ₹188084.4 | 📈 H: ₹189997.3 | 📉 L: ₹183600.1 <br>₿ BTC: ₹6489800.0 | 📈 H: ₹6572442.0 | 📉 L: ₹6369980.0 <br>⚡ BNB: ₹58643.88 | 📈 H: ₹59137.74 | 📉 L: ₹57315.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.16 | 📈 H: ₹95.19 | 📉 L: ₹93.6 <br>♦ ETH: ₹187407.3 | 📈 H: ₹189997.3 | 📉 L: ₹183600.1 <br>₿ BTC: ₹6423000.0 | 📈 H: ₹6572442.0 | 📉 L: ₹6369980.0 <br>⚡ BNB: ₹58777.4 | 📈 H: ₹59137.74 | 📉 L: ₹57315.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
