@@ -18,27 +18,27 @@
   <p>Kolkata, India - 19/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:07 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 06:06 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 19.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:07 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 06:06 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 42% | 🌡️ <strong>Feels Like:</strong> 25.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 120.05 <strong>PM10:</strong> 128.45</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 116.15 <strong>PM10:</strong> 124.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 25.6 | 25 | 7.6 | 0 |
-| 2026-02-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 26.8 | 21 | 9.4 | 0 |
-| 2026-02-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 28.1 | 18 | 11.2 | 0 |
-| 2026-02-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 29.2 | 16 | 12.2 | 0 |
-| 2026-02-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 29.7 | 15 | 11.5 | 0 |
-| 2026-02-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 30.0 | 15 | 10.8 | 0 |
-| 2026-02-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.1 | 29.9 | 15 | 10.4 | 0 |
-| 2026-02-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.3 | 29.0 | 16 | 9.0 | 0 |
-| 2026-02-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 28.4 | 26.4 | 20 | 7.6 | 0 |
-| 2026-02-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 25.2 | 21 | 6.8 | 0 |
+| 2026-02-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.1 | 29.8 | 16 | 12.6 | 0 |
+| 2026-02-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.2 | 30.0 | 16 | 12.6 | 0 |
+| 2026-02-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.9 | 29.7 | 16 | 12.6 | 0 |
+| 2026-02-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.0 | 28.7 | 18 | 10.8 | 0 |
+| 2026-02-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 27.9 | 26.2 | 22 | 9.7 | 0 |
+| 2026-02-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.8 | 25.4 | 23 | 8.3 | 0 |
+| 2026-02-19 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.5 | 25.2 | 24 | 6.5 | 0 |
+| 2026-02-19 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 26.6 | 25.3 | 24 | 4.7 | 0 |
+| 2026-02-19 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 25.6 | 24.7 | 25 | 5.4 | 0 |
+| 2026-02-19 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.7 | 24.4 | 28 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.77 | 📈 H: ₹94.72 | 📉 L: ₹93.6 <br>♦ ETH: ₹186443.9 | 📈 H: ₹192547.1 | 📉 L: ₹182800.1 <br>₿ BTC: ₹6337373.0 | 📈 H: ₹6459750.0 | 📉 L: ₹6251000.0 <br>⚡ BNB: ₹56759.93 | 📈 H: ₹58741.01 | 📉 L: ₹56435.21 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.82 | 📈 H: ₹94.72 | 📉 L: ₹93.62 <br>♦ ETH: ₹186834.2 | 📈 H: ₹192547.1 | 📉 L: ₹182800.1 <br>₿ BTC: ₹6337373.0 | 📈 H: ₹6459750.0 | 📉 L: ₹6250000.0 <br>⚡ BNB: ₹57374.27 | 📈 H: ₹58741.01 | 📉 L: ₹56435.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't say yes before I've had my coffee. And I never plan to have coffee. 🛑❌ 
+  I woke up today and decided it's a 'no' day. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
