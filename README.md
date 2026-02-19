@@ -18,14 +18,13 @@
   <p>Kolkata, India - 19/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:07 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 06:06 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 24.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:07 AM, Set: 07:24 PM)  <br>🌅 <strong>Sunrise:</strong> 06:06 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 24.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 90.45 <strong>PM10:</strong> 95.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 136.35 <strong>PM10:</strong> 141.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-20 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 22.3 | 24.1 | 39 | 6.8 | 0 |
 | 2026-02-20 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 21.7 | 21.7 | 42 | 6.5 | 0 |
 | 2026-02-20 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 21.6 | 21.6 | 41 | 9.0 | 0 |
 | 2026-02-20 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 21.5 | 21.5 | 40 | 9.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 26.5 | 25.5 | 27 | 9.0 | 0 |
 | 2026-02-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.1 | 27.2 | 22 | 9.4 | 0 |
 | 2026-02-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.0 | 28.8 | 19 | 9.0 | 0 |
+| 2026-02-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 32.4 | 30.2 | 17 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.04 | 📈 H: ₹94.45 | 📉 L: ₹93.69 <br>♦ ETH: ₹184286.7 | 📈 H: ₹187500.0 | 📉 L: ₹182000.0 <br>₿ BTC: ₹6291021.0 | 📈 H: ₹6360462.0 | 📉 L: ₹6215713.0 <br>⚡ BNB: ₹57600.0 | 📈 H: ₹58000.0 | 📉 L: ₹56435.21 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.88 | 📈 H: ₹94.45 | 📉 L: ₹93.69 <br>♦ ETH: ₹182051.6 | 📈 H: ₹186852.9 | 📉 L: ₹182000.0 <br>₿ BTC: ₹6336981.0 | 📈 H: ₹6337373.0 | 📉 L: ₹6215713.0 <br>⚡ BNB: ₹57600.0 | 📈 H: ₹58000.0 | 📉 L: ₹56435.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
