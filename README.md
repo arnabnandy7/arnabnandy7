@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:42 AM, Set: 08:21 PM)  <br>🌅 <strong>Sunrise:</strong> 06:05 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 24.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:42 AM, Set: 08:21 PM)  <br>🌅 <strong>Sunrise:</strong> 06:05 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 24.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 97.75 <strong>PM10:</strong> 100.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 146.15 <strong>PM10:</strong> 149.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-21 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 23.6 | 24.0 | 31 | 6.5 | 0 |
 | 2026-02-21 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 23.0 | 23.8 | 31 | 8.3 | 0 |
 | 2026-02-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 22.0 | 23.4 | 31 | 11.2 | 0 |
 | 2026-02-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 21.1 | 21.2 | 31 | 11.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-21 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 25.0 | 18 | 9.0 | 0 |
 | 2026-02-21 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 27.0 | 16 | 7.9 | 0 |
 | 2026-02-21 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 28.7 | 16 | 6.5 | 0 |
+| 2026-02-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 30.0 | 15 | 5.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.6 | 📈 H: ₹94.27 | 📉 L: ₹93.6 <br>♦ ETH: ₹184796.4 | 📈 H: ₹185320.0 | 📉 L: ₹182051.6 <br>₿ BTC: ₹6389811.0 | 📈 H: ₹6409000.0 | 📉 L: ₹6237738.0 <br>⚡ BNB: ₹58200.0 | 📈 H: ₹58200.0 | 📉 L: ₹56935.1 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.6 | 📈 H: ₹94.24 | 📉 L: ₹93.6 <br>♦ ETH: ₹184568.9 | 📈 H: ₹185430.0 | 📉 L: ₹182173.1 <br>₿ BTC: ₹6334878.0 | 📈 H: ₹6409000.0 | 📉 L: ₹6237738.0 <br>⚡ BNB: ₹58741.01 | 📈 H: ₹58741.01 | 📉 L: ₹56935.1 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
