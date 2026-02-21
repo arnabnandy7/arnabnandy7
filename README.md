@@ -18,14 +18,13 @@
   <p>Kolkata, India - 21/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:17 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 06:04 AM | <strong>Sunset:</strong> 05:37 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 39% | 🌡️ <strong>Feels Like:</strong> 26.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:17 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 06:04 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 42% | 🌡️ <strong>Feels Like:</strong> 25.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.05 <strong>PM10:</strong> 46.15</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 43.35 <strong>PM10:</strong> 45.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.6 | 25.2 | 32 | 9.7 | 0 |
 | 2026-02-21 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 25.0 | 34 | 8.6 | 0 |
 | 2026-02-21 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 24.7 | 35 | 7.6 | 0 |
 | 2026-02-21 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 24.6 | 38 | 9.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.8 | 21.8 | 47 | 6.1 | 0 |
 | 2026-02-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.5 | 21.5 | 52 | 8.6 | 0 |
 | 2026-02-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.3 | 21.3 | 59 | 9.7 | 0 |
+| 2026-02-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.4 | 21.5 | 64 | 10.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.68 | 📈 H: ₹94.45 | 📉 L: ₹93.0 <br>♦ ETH: ₹184761.3 | 📈 H: ₹196834.2 | 📉 L: ₹183320.5 <br>₿ BTC: ₹6420003.0 | 📈 H: ₹6460785.0 | 📉 L: ₹6215713.0 <br>⚡ BNB: ₹60299.99 | 📈 H: ₹60299.99 | 📉 L: ₹57714.11 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.69 | 📈 H: ₹94.45 | 📉 L: ₹93.0 <br>♦ ETH: ₹186036.1 | 📈 H: ₹196834.2 | 📉 L: ₹183400.0 <br>₿ BTC: ₹6460000.0 | 📈 H: ₹6460785.0 | 📉 L: ₹6215713.0 <br>⚡ BNB: ₹58962.17 | 📈 H: ₹60299.99 | 📉 L: ₹57714.11 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My fortune teller said 'not in your stars', I trust that. 🛑❌ 
+  I have to update my social media status to 'busy not doing that'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
