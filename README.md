@@ -18,14 +18,13 @@
   <p>Kolkata, India - 21/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:17 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 06:04 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:17 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 06:04 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 123.75 <strong>PM10:</strong> 124.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 127.95 <strong>PM10:</strong> 128.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 35 | 9.0 | 0 |
 | 2026-02-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 37 | 7.9 | 0 |
 | 2026-02-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.3 | 20.3 | 39 | 7.6 | 0 |
 | 2026-02-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.9 | 23.9 | 33 | 6.1 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 29.2 | 21 | 3.6 | 0 |
 | 2026-02-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 29.9 | 20 | 5.8 | 0 |
 | 2026-02-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 30.6 | 19 | 8.3 | 0 |
+| 2026-02-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 31.1 | 19 | 9.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.19 | 📈 H: ₹94.45 | 📉 L: ₹93.0 <br>♦ ETH: ₹186999.0 | 📈 H: ₹190223.9 | 📉 L: ₹183482.3 <br>₿ BTC: ₹6460000.0 | 📈 H: ₹6460785.0 | 📉 L: ₹6339356.0 <br>⚡ BNB: ₹58485.74 | 📈 H: ₹60300.0 | 📉 L: ₹58325.04 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.19 | 📈 H: ₹94.45 | 📉 L: ₹93.01 <br>♦ ETH: ₹186999.0 | 📈 H: ₹190223.9 | 📉 L: ₹183482.3 <br>₿ BTC: ₹6460785.0 | 📈 H: ₹6460785.0 | 📉 L: ₹6339356.0 <br>⚡ BNB: ₹58485.74 | 📈 H: ₹60300.0 | 📉 L: ₹58325.04 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
