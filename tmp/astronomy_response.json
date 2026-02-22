@@ -1,1 +1,1 @@
-{"error":{"code":1003,"message":"Parameter q is missing."}}
+{"location":{"name":"Lagos","region":"Lagos","country":"Nigeria","lat":6.4531,"lon":3.3958,"tz_id":"Africa/Lagos","localtime_epoch":1771788928,"localtime":"2026-02-22 20:35"},"astronomy":{"astro":{"sunrise":"07:01 AM","sunset":"06:59 PM","moonrise":"10:38 AM","moonset":"11:22 PM","moon_phase":"Waxing Crescent","moon_illumination":22,"is_moon_up":1,"is_sun_up":0}}}
