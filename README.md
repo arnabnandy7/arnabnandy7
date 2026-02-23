@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 22/02/2026</p>
+  <p>Kolkata, India - 23/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:38 AM, Set: 11:22 PM)  <br>🌅 <strong>Sunrise:</strong> 07:01 AM | <strong>Sunset:</strong> 06:59 PM  <br>💨 <strong>Wind:</strong> 24.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 35.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:38 AM, Set: 11:22 PM)  <br>🌅 <strong>Sunrise:</strong> 07:01 AM | <strong>Sunset:</strong> 06:59 PM  <br>💨 <strong>Wind:</strong> 20.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.25 <strong>PM10:</strong> 87.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.05 <strong>PM10:</strong> 79.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.6 | 31.7 | 81 | 20.5 | 0 |
 | 2026-02-23 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.5 | 31.6 | 82 | 21.2 | 87 |
 | 2026-02-23 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.5 | 31.4 | 82 | 21.2 | 0 |
 | 2026-02-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy  | 27.4 | 31.3 | 81 | 20.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-02-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.4 | 31.1 | 80 | 14.4 | 83 |
 | 2026-02-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.0 | 31.7 | 76 | 13.0 | 100 |
 | 2026-02-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.7 | 32.6 | 72 | 12.2 | 62 |
+| 2026-02-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 29.2 | 33.3 | 70 | 13.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.22 | 📈 H: ₹94.25 | 📉 L: ₹93.25 <br>♦ ETH: ₹183000.1 | 📈 H: ₹187000.0 | 📉 L: ₹183000.0 <br>₿ BTC: ₹6439248.0 | 📈 H: ₹6460785.0 | 📉 L: ₹6350000.0 <br>⚡ BNB: ₹58513.96 | 📈 H: ₹58595.66 | 📉 L: ₹57684.27 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.72 | 📈 H: ₹94.25 | 📉 L: ₹93.25 <br>♦ ETH: ₹183000.1 | 📈 H: ₹187000.0 | 📉 L: ₹183000.0 <br>₿ BTC: ₹6428139.0 | 📈 H: ₹6440173.0 | 📉 L: ₹6350000.0 <br>⚡ BNB: ₹58513.96 | 📈 H: ₹58595.66 | 📉 L: ₹57684.27 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  All roads lead to me staying home. 🛑❌ 
+  I have main character syndrome, and my story arc doesn't involve doing that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
