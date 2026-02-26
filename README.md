@@ -18,9 +18,9 @@
   <p>Kolkata, India - 26/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:25 PM, Set: 01:41 AM)  <br>🌅 <strong>Sunrise:</strong> 06:01 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 20.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:25 PM, Set: 01:41 AM)  <br>🌅 <strong>Sunrise:</strong> 06:01 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 21.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 101.65 <strong>PM10:</strong> 105.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 116.35 <strong>PM10:</strong> 120.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.89 | 📈 H: ₹95.34 | 📉 L: ₹93.26 <br>♦ ETH: ₹190786.4 | 📈 H: ₹201716.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6483963.0 | 📈 H: ₹6654999.0 | 📉 L: ₹6374588.0 <br>⚡ BNB: ₹58674.82 | 📈 H: ₹59313.97 | 📉 L: ₹58674.82 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.88 | 📈 H: ₹95.34 | 📉 L: ₹93.26 <br>♦ ETH: ₹194582.0 | 📈 H: ₹201716.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6481974.0 | 📈 H: ₹6654999.0 | 📉 L: ₹6374588.0 <br>⚡ BNB: ₹58674.82 | 📈 H: ₹59313.97 | 📉 L: ₹58674.82 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll be busy exploring the great indoors. 🛑❌ 
+  No, in the most heartfelt, humorous way possible. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
