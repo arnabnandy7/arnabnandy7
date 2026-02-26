@@ -18,27 +18,27 @@
   <p>Kolkata, India - 26/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:25 PM, Set: 01:41 AM)  <br>🌅 <strong>Sunrise:</strong> 06:01 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 25% | 🌡️ <strong>Feels Like:</strong> 27.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:25 PM, Set: 01:41 AM)  <br>🌅 <strong>Sunrise:</strong> 06:01 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 25% | 🌡️ <strong>Feels Like:</strong> 27.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 55.95 <strong>PM10:</strong> 62.55</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.55 <strong>PM10:</strong> 56.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.6 | 25.7 | 16 | 7.2 | 0 |
-| 2026-02-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 24.9 | 18 | 3.6 | 0 |
-| 2026-02-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 24.4 | 28 | 6.5 | 0 |
-| 2026-02-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 24.5 | 34 | 7.6 | 0 |
-| 2026-02-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.1 | 24.5 | 42 | 10.8 | 0 |
-| 2026-02-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.5 | 51 | 11.9 | 0 |
-| 2026-02-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 59 | 12.2 | 0 |
-| 2026-02-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 68 | 11.9 | 0 |
-| 2026-02-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 77 | 10.4 | 0 |
+| 2026-02-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 25.0 | 18 | 4.3 | 0 |
+| 2026-02-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 24.4 | 28 | 6.5 | 0 |
+| 2026-02-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 24.5 | 35 | 7.2 | 0 |
+| 2026-02-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 24.5 | 43 | 10.4 | 0 |
+| 2026-02-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.3 | 24.5 | 52 | 11.9 | 0 |
+| 2026-02-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.6 | 21.6 | 60 | 11.9 | 0 |
+| 2026-02-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 69 | 11.9 | 0 |
+| 2026-02-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.6 | 20.6 | 77 | 10.4 | 0 |
 | 2026-02-27 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.5 | 20.5 | 83 | 10.1 | 0 |
+| 2026-02-27 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.4 | 20.4 | 86 | 9.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.05 | 📈 H: ₹95.69 | 📉 L: ₹94.01 <br>♦ ETH: ₹192992.5 | 📈 H: ₹201716.0 | 📉 L: ₹184943.0 <br>₿ BTC: ₹6415001.0 | 📈 H: ₹6654999.0 | 📉 L: ₹6234125.0 <br>⚡ BNB: ₹59147.51 | 📈 H: ₹59747.43 | 📉 L: ₹58000.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.0 | 📈 H: ₹95.48 | 📉 L: ₹94.0 <br>♦ ETH: ₹193544.4 | 📈 H: ₹201716.0 | 📉 L: ₹184943.0 <br>₿ BTC: ₹6450001.0 | 📈 H: ₹6654999.0 | 📉 L: ₹6264294.0 <br>⚡ BNB: ₹59147.51 | 📈 H: ₹59747.43 | 📉 L: ₹58000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd join, but I'm only here to provide witty refusals. 🛑❌ 
+  I fell asleep halfway through considering it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
