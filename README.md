@@ -18,27 +18,27 @@
   <p>Kolkata, India - 27/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:31 PM, Set: 02:41 AM)  <br>🌅 <strong>Sunrise:</strong> 06:00 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:31 PM, Set: 02:41 AM)  <br>🌅 <strong>Sunrise:</strong> 06:00 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 25.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 81.85 <strong>PM10:</strong> 85.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 74.85 <strong>PM10:</strong> 77.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-27 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.0 | 26.2 | 23 | 13.7 | 0 |
-| 2026-02-27 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 27.8 | 16 | 13.0 | 0 |
-| 2026-02-27 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 29.1 | 13 | 13.7 | 0 |
-| 2026-02-27 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 30.0 | 11 | 14.8 | 0 |
-| 2026-02-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 30.5 | 11 | 15.8 | 0 |
-| 2026-02-27 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 30.8 | 10 | 16.9 | 0 |
-| 2026-02-27 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 30.5 | 10 | 16.2 | 0 |
-| 2026-02-27 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.0 | 29.8 | 11 | 13.0 | 0 |
-| 2026-02-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 26.5 | 15 | 7.2 | 0 |
-| 2026-02-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.9 | 24.4 | 20 | 3.6 | 0 |
+| 2026-02-27 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 28.6 | 22 | 14.4 | 0 |
+| 2026-02-27 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 29.4 | 16 | 14.0 | 0 |
+| 2026-02-27 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 30.2 | 14 | 15.1 | 0 |
+| 2026-02-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 30.7 | 12 | 15.1 | 0 |
+| 2026-02-27 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 30.8 | 11 | 15.1 | 0 |
+| 2026-02-27 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 30.6 | 11 | 14.4 | 0 |
+| 2026-02-27 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.1 | 29.8 | 12 | 11.5 | 0 |
+| 2026-02-27 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 26.6 | 16 | 5.0 | 0 |
+| 2026-02-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 24.8 | 21 | 2.5 | 0 |
+| 2026-02-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 24.5 | 33 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.3 | 📈 H: ₹95.33 | 📉 L: ₹93.26 <br>♦ ETH: ₹190712.0 | 📈 H: ₹196800.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6374588.0 | 📈 H: ₹6575900.0 | 📉 L: ₹6374588.0 <br>⚡ BNB: ₹59272.4 | 📈 H: ₹59313.97 | 📉 L: ₹58674.82 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.86 | 📈 H: ₹95.33 | 📉 L: ₹93.26 <br>♦ ETH: ₹190789.6 | 📈 H: ₹196800.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6467198.0 | 📈 H: ₹6568150.0 | 📉 L: ₹6374588.0 <br>⚡ BNB: ₹59111.89 | 📈 H: ₹59313.97 | 📉 L: ₹58674.82 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to return the One Ring to Mordor that day. 🛑❌ 
+  My future self wrote me a note: ‘Please don’t do this again.’ 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
