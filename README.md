@@ -18,27 +18,27 @@
   <p>Kolkata, India - 28/02/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:37 PM, Set: 03:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:59 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 48% | 🌡️ <strong>Feels Like:</strong> 26.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:37 PM, Set: 03:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:59 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 29% | 🌡️ <strong>Feels Like:</strong> 28.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.75 <strong>PM10:</strong> 59.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 67.45 <strong>PM10:</strong> 69.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 29.7 | 14 | 10.1 | 0 |
-| 2026-02-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 30.8 | 13 | 12.2 | 0 |
-| 2026-02-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 31.6 | 12 | 14.0 | 0 |
-| 2026-02-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 31.8 | 11 | 15.1 | 0 |
-| 2026-02-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 31.6 | 11 | 14.8 | 0 |
-| 2026-02-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 30.8 | 12 | 11.5 | 0 |
-| 2026-02-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 27.3 | 16 | 3.6 | 0 |
-| 2026-02-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 25.4 | 25 | 6.1 | 0 |
-| 2026-02-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.1 | 42 | 13.3 | 0 |
-| 2026-02-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.0 | 54 | 13.0 | 0 |
+| 2026-02-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 30.7 | 13 | 12.2 | 0 |
+| 2026-02-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 31.5 | 12 | 13.7 | 0 |
+| 2026-02-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 31.8 | 12 | 14.8 | 0 |
+| 2026-02-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 31.5 | 12 | 14.8 | 0 |
+| 2026-02-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 30.7 | 13 | 11.9 | 0 |
+| 2026-02-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 27.3 | 16 | 4.3 | 0 |
+| 2026-02-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 25.4 | 25 | 6.8 | 0 |
+| 2026-02-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 25.1 | 44 | 13.3 | 0 |
+| 2026-02-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.0 | 55 | 13.0 | 0 |
+| 2026-02-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.9 | 24.9 | 62 | 13.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹95.28 | 📈 H: ₹95.3 | 📉 L: ₹94.4 <br>♦ ETH: ₹184885.9 | 📈 H: ₹196077.9 | 📉 L: ₹182000.0 <br>₿ BTC: ₹6249918.0 | 📈 H: ₹6500000.0 | 📉 L: ₹6164401.0 <br>⚡ BNB: ₹58851.76 | 📈 H: ₹59272.4 | 📉 L: ₹57257.0 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.83 | 📈 H: ₹95.33 | 📉 L: ₹94.45 <br>♦ ETH: ₹180001.1 | 📈 H: ₹196077.9 | 📉 L: ₹180001.1 <br>₿ BTC: ₹6203675.0 | 📈 H: ₹6500000.0 | 📉 L: ₹6164401.0 <br>⚡ BNB: ₹58851.76 | 📈 H: ₹59272.4 | 📉 L: ₹57257.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Sleep and I have a standing date, can't break it. 🛑❌ 
+  If it's not a nap, I'm not interested. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
