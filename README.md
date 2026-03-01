@@ -18,27 +18,27 @@
   <p>Kolkata, India - 01/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:41 PM, Set: 04:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 25.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:41 PM, Set: 04:23 AM)  <br>🌅 <strong>Sunrise:</strong> 05:58 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 26.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.05 <strong>PM10:</strong> 24.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.45 <strong>PM10:</strong> 25.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 29.9 | 43 | 18.0 | 0 |
-| 2026-03-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 31.2 | 35 | 16.9 | 0 |
-| 2026-03-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 32.2 | 28 | 14.8 | 0 |
-| 2026-03-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 32.6 | 23 | 12.6 | 0 |
-| 2026-03-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.8 | 32.9 | 20 | 11.2 | 0 |
-| 2026-03-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 33.3 | 18 | 11.5 | 0 |
-| 2026-03-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 33.0 | 18 | 11.9 | 0 |
-| 2026-03-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 31.9 | 24 | 13.7 | 0 |
-| 2026-03-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 29.0 | 42 | 20.9 | 0 |
-| 2026-03-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 27.3 | 59 | 23.8 | 0 |
+| 2026-03-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 32.3 | 29 | 16.6 | 0 |
+| 2026-03-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 32.8 | 25 | 14.0 | 0 |
+| 2026-03-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.7 | 33.1 | 22 | 11.9 | 0 |
+| 2026-03-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 35.0 | 33.3 | 20 | 12.2 | 0 |
+| 2026-03-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 32.8 | 21 | 13.7 | 0 |
+| 2026-03-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 31.9 | 26 | 14.8 | 0 |
+| 2026-03-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 29.1 | 41 | 20.5 | 0 |
+| 2026-03-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 27.2 | 57 | 24.1 | 0 |
+| 2026-03-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.5 | 69 | 20.5 | 0 |
+| 2026-03-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.1 | 75 | 18.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹95.14 | 📈 H: ₹96.24 | 📉 L: ₹94.8 <br>♦ ETH: ₹194252.3 | 📈 H: ₹194954.9 | 📉 L: ₹177001.2 <br>₿ BTC: ₹6425304.0 | 📈 H: ₹6425304.0 | 📉 L: ₹6100001.0 <br>⚡ BNB: ₹59261.75 | 📈 H: ₹60744.38 | 📉 L: ₹56106.64 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.16 | 📈 H: ₹96.24 | 📉 L: ₹94.16 <br>♦ ETH: ₹193962.2 | 📈 H: ₹194954.9 | 📉 L: ₹177001.2 <br>₿ BTC: ₹6443314.0 | 📈 H: ₹6443316.0 | 📉 L: ₹6100001.0 <br>⚡ BNB: ₹59261.75 | 📈 H: ₹60744.38 | 📉 L: ₹56106.64 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My attendance is the last seal before the apocalypse, so hard pass. 🛑❌ 
+  I already took a melatonin. It's lights out for me. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
