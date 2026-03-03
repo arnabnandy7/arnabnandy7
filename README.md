@@ -18,14 +18,13 @@
   <p>Kolkata, India - 03/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:39 PM, Set: 05:42 AM)  <br>🌅 <strong>Sunrise:</strong> 05:57 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 21.4 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:39 PM, Set: 05:42 AM)  <br>🌅 <strong>Sunrise:</strong> 05:57 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 90.45 <strong>PM10:</strong> 124.25</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 92.35 <strong>PM10:</strong> 127.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-04 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.0 | 20.1 | 22 | 4.7 | 0 |
 | 2026-03-04 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.8 | 19.8 | 23 | 4.3 | 0 |
 | 2026-03-04 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.5 | 20.5 | 25 | 4.3 | 0 |
 | 2026-03-04 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.6 | 23.1 | 21 | 5.4 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-04 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 30.2 | 11 | 7.9 | 0 |
 | 2026-03-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 31.3 | 10 | 9.0 | 0 |
 | 2026-03-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 31.9 | 10 | 9.7 | 0 |
+| 2026-03-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 32.2 | 9 | 9.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.51 | 📈 H: ₹94.4 | 📉 L: ₹93.03 <br>♦ ETH: ₹187500.0 | 📈 H: ₹195383.6 | 📉 L: ₹182000.1 <br>₿ BTC: ₹6449070.0 | 📈 H: ₹6601379.0 | 📉 L: ₹6290987.0 <br>⚡ BNB: ₹60000.0 | 📈 H: ₹60766.56 | 📉 L: ₹58086.12 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.5 | 📈 H: ₹94.4 | 📉 L: ₹93.03 <br>♦ ETH: ₹183897.4 | 📈 H: ₹193890.0 | 📉 L: ₹182000.1 <br>₿ BTC: ₹6372090.0 | 📈 H: ₹6571862.0 | 📉 L: ₹6290987.0 <br>⚡ BNB: ₹60000.0 | 📈 H: ₹60766.56 | 📉 L: ₹58086.12 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
