@@ -15,30 +15,30 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 02/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:41 PM, Set: 05:05 AM)  <br>🌅 <strong>Sunrise:</strong> 05:57 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
+  <p>Kolkata, India - 03/03/2026</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:41 PM, Set: 05:05 AM)  <br>🌅 <strong>Sunrise:</strong> 05:57 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 118.85 <strong>PM10:</strong> 128.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 113.55 <strong>PM10:</strong> 122.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.8 | 20.8 | 25 | 7.9 | 0 |
-| 2026-03-03 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.0 | 21.0 | 25 | 7.6 | 0 |
-| 2026-03-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 23.3 | 21 | 6.8 | 0 |
+| 2026-03-03 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 23.3 | 20 | 7.2 | 0 |
 | 2026-03-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 25.5 | 16 | 9.0 | 0 |
 | 2026-03-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 27.7 | 13 | 10.1 | 0 |
-| 2026-03-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 29.6 | 11 | 10.1 | 0 |
-| 2026-03-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 31.1 | 10 | 10.4 | 0 |
-| 2026-03-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 31.9 | 10 | 10.4 | 0 |
-| 2026-03-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 32.4 | 10 | 10.1 | 0 |
-| 2026-03-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 32.7 | 10 | 9.7 | 0 |
+| 2026-03-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 29.7 | 10 | 10.1 | 0 |
+| 2026-03-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 31.1 | 9 | 10.1 | 0 |
+| 2026-03-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 31.9 | 10 | 10.1 | 0 |
+| 2026-03-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 32.5 | 10 | 10.1 | 0 |
+| 2026-03-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 32.8 | 10 | 10.1 | 0 |
+| 2026-03-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 32.7 | 10 | 10.1 | 0 |
+| 2026-03-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 32.0 | 11 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.6 | 📈 H: ₹95.0 | 📉 L: ₹93.1 <br>♦ ETH: ₹193890.0 | 📈 H: ₹195383.6 | 📉 L: ₹180259.6 <br>₿ BTC: ₹6571862.0 | 📈 H: ₹6603339.0 | 📉 L: ₹6160076.0 <br>⚡ BNB: ₹58792.26 | 📈 H: ₹60766.56 | 📉 L: ₹57926.21 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.03 | 📈 H: ₹95.0 | 📉 L: ₹93.03 <br>♦ ETH: ₹189763.6 | 📈 H: ₹195383.6 | 📉 L: ₹180259.6 <br>₿ BTC: ₹6409720.0 | 📈 H: ₹6603339.0 | 📉 L: ₹6160076.0 <br>⚡ BNB: ₹58792.26 | 📈 H: ₹60766.56 | 📉 L: ₹57926.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in a bit of a financial bind: low on funds and on yeses. 🛑❌ 
+  At my age, my give-a-darn is busted. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
