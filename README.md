@@ -18,14 +18,13 @@
   <p>Kolkata, India - 04/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:34 PM, Set: 06:16 AM)  <br>🌅 <strong>Sunrise:</strong> 05:56 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:34 PM, Set: 06:16 AM)  <br>🌅 <strong>Sunrise:</strong> 05:56 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 24.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 99.85 <strong>PM10:</strong> 131.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 91.45 <strong>PM10:</strong> 129.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-05 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.9 | 19.9 | 48 | 6.1 | 0 |
 | 2026-03-05 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.6 | 19.6 | 49 | 5.0 | 0 |
 | 2026-03-05 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 20.5 | 20.5 | 48 | 4.3 | 0 |
 | 2026-03-05 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.6 | 24.6 | 41 | 5.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 30.2 | 17 | 1.8 | 0 |
 | 2026-03-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 31.1 | 16 | 1.8 | 0 |
 | 2026-03-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 31.5 | 15 | 2.5 | 0 |
+| 2026-03-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 31.8 | 15 | 3.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.3 | 📈 H: ₹94.7 | 📉 L: ₹93.5 <br>♦ ETH: ₹199419.6 | 📈 H: ₹202304.8 | 📉 L: ₹183365.4 <br>₿ BTC: ₹6880000.0 | 📈 H: ₹6900000.0 | 📉 L: ₹6303505.0 <br>⚡ BNB: ₹61206.6 | 📈 H: ₹61206.6 | 📉 L: ₹58770.67 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.51 | 📈 H: ₹94.7 | 📉 L: ₹93.5 <br>♦ ETH: ₹201366.3 | 📈 H: ₹202304.8 | 📉 L: ₹183365.4 <br>₿ BTC: ₹6859213.0 | 📈 H: ₹6900000.0 | 📉 L: ₹6303505.0 <br>⚡ BNB: ₹61206.6 | 📈 H: ₹61206.6 | 📉 L: ₹58770.67 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
