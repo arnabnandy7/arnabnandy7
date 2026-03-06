@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:21 PM, Set: 07:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:54 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 25.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:21 PM, Set: 07:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:54 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 26.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 137.75 <strong>PM10:</strong> 159.65</p>
+  <p><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 154.05 <strong>PM10:</strong> 175.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-06 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 32.3 | 28 | 11.2 | 0 |
 | 2026-03-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 32.8 | 27 | 10.8 | 0 |
 | 2026-03-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 33.1 | 26 | 11.5 | 0 |
 | 2026-03-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 33.0 | 28 | 14.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-06 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.3 | 26.6 | 62 | 19.4 | 0 |
 | 2026-03-06 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.1 | 69 | 16.6 | 0 |
 | 2026-03-06 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 25.6 | 74 | 14.8 | 0 |
+| 2026-03-06 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 25.2 | 79 | 14.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.7 | 📈 H: ₹94.21 | 📉 L: ₹92.1 <br>♦ ETH: ₹194691.6 | 📈 H: ₹201463.0 | 📉 L: ₹191000.0 <br>₿ BTC: ₹6623986.0 | 📈 H: ₹6815087.0 | 📉 L: ₹6555562.0 <br>⚡ BNB: ₹61296.05 | 📈 H: ₹61420.26 | 📉 L: ₹60021.02 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹92.85 | 📈 H: ₹94.19 | 📉 L: ₹92.1 <br>♦ ETH: ₹192167.8 | 📈 H: ₹200377.1 | 📉 L: ₹191000.0 <br>₿ BTC: ₹6555562.0 | 📈 H: ₹6800591.0 | 📉 L: ₹6555562.0 <br>⚡ BNB: ₹59506.3 | 📈 H: ₹61420.26 | 📉 L: ₹59506.3 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm observing a personal holiday called Nope-vember. 🛑❌ 
+  I made a deal with a demon to never say yes, and I hate to break a contract. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
