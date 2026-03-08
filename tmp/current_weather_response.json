@@ -1,1 +1,14 @@
-{"location":{"name":"Calcutta","region":"West Bengal","country":"India","lat":22.57,"lon":88.37,"tz_id":"Asia/Kolkata","localtime_epoch":1772995234,"localtime":"2026-03-09 00:10"},"current":{"last_updated_epoch":1772994600,"last_updated":"2026-03-09 00:00","temp_c":25.1,"temp_f":77.2,"is_day":0,"condition":{"text":"Mist","icon":"//cdn.weatherapi.com/weather/64x64/night/143.png","code":1030},"wind_mph":8.1,"wind_kph":13.0,"wind_degree":207,"wind_dir":"SSW","pressure_mb":1013.0,"pressure_in":29.91,"precip_mm":0.0,"precip_in":0.0,"humidity":94,"cloud":25,"feelslike_c":27.8,"feelslike_f":82.1,"windchill_c":23.4,"windchill_f":74.0,"heatindex_c":25.5,"heatindex_f":78.0,"dewpoint_c":21.4,"dewpoint_f":70.5,"vis_km":2.8,"vis_miles":1.0,"uv":0.0,"gust_mph":13.1,"gust_kph":21.0,"air_quality":{"co":376.85,"no2":14.95,"o3":58.0,"so2":14.45,"pm2_5":56.95,"pm10":60.95,"us-epa-index":3,"gb-defra-index":7}}}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>504 Gateway Timeout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://bunnynetassets.b-cdn.net/error.png" />
+    <script src="https://bunny.net/lib/jquery/jquery.min.js"></script>
+    <script src="https://cdn.statuspage.io/se-v2.js"></script>
+    <link rel="stylesheet" href="https://bunnynetassets.b-cdn.net/error.css">
+</head>
+<body>
+    <div class="hero"><div class="content"><div class="alert-details"><h3 class="alert">ERROR 504</h3><h1>Gateway Timeout</h1><h3>We could not establish a connection to api.weatherapi.com</h3></div><div class="row cards"><div class="col-md g-md-1"><div class="card"> <img src="https://bunnynetassets.b-cdn.net/icons/you.svg" alt="Card Icon" /><h2>You</h2> <small>IP: 64.236.137.138</small></div></div><div class="col-md-1 g-md-1 icons"> <img src="https://bunnynetassets.b-cdn.net/icons/arrow.svg" class="img-fluid"></div><div class="col-md g-1"><div class="card"> <img src="https://bunnynetassets.b-cdn.net/icons/bunny.svg" alt="Card Icon" /><h2>bunny.net</h2> <small>Edge Network</small></div></div><div class="col-md-1 g-md-1 icons"> <img src="https://bunnynetassets.b-cdn.net/icons/x.svg" class="img-fluid"></div><div class="col-md g-1"><div class="card"> <img src="https://bunnynetassets.b-cdn.net/icons/origin.svg" alt="Card Icon" /><h2>api.weatherapi.com</h2> <small>Your Destination</small></div></div></div> </div></div><div class="final-details"><div class="box"><h1>What happened?</h1><div class="description">A timeout occured while waiting for api.weatherapi.com origin server to respond. The server hosting the website might be unavailable.</div></div><div class="box"><h1>What can I do?</h1><div class="description">If you are a visitor, please try again in a few minutes. If you are the administrator, please check your origin server status.</div></div></div>
+</body>
+</html>
