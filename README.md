@@ -18,9 +18,9 @@
   <p>Kolkata, India - 10/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:58 PM, Set: 09:50 AM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 52% | 🌡️ <strong>Feels Like:</strong> 32.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:58 PM, Set: 09:50 AM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 52% | 🌡️ <strong>Feels Like:</strong> 32.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.45 <strong>PM10:</strong> 51.65</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.65 <strong>PM10:</strong> 52.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹94.0 | 📈 H: ₹94.17 | 📉 L: ₹93.11 <br>♦ ETH: ₹190745.7 | 📈 H: ₹192013.6 | 📉 L: ₹185000.2 <br>₿ BTC: ₹6624847.0 | 📈 H: ₹6634425.0 | 📉 L: ₹6294536.0 <br>⚡ BNB: ₹59648.5 | 📈 H: ₹60473.0 | 📉 L: ₹58774.92 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.61 | 📈 H: ₹94.17 | 📉 L: ₹93.31 <br>♦ ETH: ₹192013.5 | 📈 H: ₹192013.6 | 📉 L: ₹185000.2 <br>₿ BTC: ₹6623845.0 | 📈 H: ₹6634425.0 | 📉 L: ₹6294536.0 <br>⚡ BNB: ₹59703.36 | 📈 H: ₹60473.0 | 📉 L: ₹58774.92 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
