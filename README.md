@@ -18,14 +18,13 @@
   <p>Kolkata, India - 11/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: No moonrise, Set: 10:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 20.5 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 28.2 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: No moonrise, Set: 10:37 AM)  <br>🌅 <strong>Sunrise:</strong> 05:50 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 22.0 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 27.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.95 <strong>PM10:</strong> 57.15</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.35 <strong>PM10:</strong> 51.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-11 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.2 | 34.2 | 30 | 22.7 | 0 |
 | 2026-03-11 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 33.6 | 33 | 21.2 | 0 |
 | 2026-03-11 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 32.4 | 39 | 22.0 | 0 |
 | 2026-03-11 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 30.2 | 46 | 22.3 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-11 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 26.5 | 74 | 15.5 | 0 |
 | 2026-03-11 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 26.2 | 77 | 15.1 | 0 |
 | 2026-03-11 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 26.1 | 80 | 15.1 | 0 |
+| 2026-03-12 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.9 | 83 | 16.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.55 | 📈 H: ₹94.17 | 📉 L: ₹93.26 <br>♦ ETH: ₹187978.1 | 📈 H: ₹193861.0 | 📉 L: ₹187978.1 <br>₿ BTC: ₹6440268.0 | 📈 H: ₹6655850.0 | 📉 L: ₹6413706.0 <br>⚡ BNB: ₹59064.94 | 📈 H: ₹60422.77 | 📉 L: ₹58340.52 <br> 
+  🪙 USDC: ₹86.02 | 📈 H: ₹86.02 | 📉 L: ₹86.02 <br>💵 USDT: ₹93.6 | 📈 H: ₹94.17 | 📉 L: ₹93.26 <br>♦ ETH: ₹188159.6 | 📈 H: ₹193861.0 | 📉 L: ₹187978.1 <br>₿ BTC: ₹6499583.0 | 📈 H: ₹6655850.0 | 📉 L: ₹6413706.0 <br>⚡ BNB: ₹58935.36 | 📈 H: ₹60422.77 | 📉 L: ₹58340.52 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
