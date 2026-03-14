@@ -18,27 +18,27 @@
   <p>Kolkata, India - 14/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:29 AM, Set: 01:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:47 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 25.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 28.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:29 AM, Set: 01:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:47 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 24.5 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 28.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.05 <strong>PM10:</strong> 21.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.35 <strong>PM10:</strong> 20.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 33.1 | 48 | 27.0 | 0 |
-| 2026-03-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.0 | 34.6 | 41 | 26.6 | 0 |
-| 2026-03-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 35.5 | 36 | 26.3 | 0 |
-| 2026-03-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 36.0 | 34 | 25.2 | 0 |
-| 2026-03-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.0 | 36.1 | 33 | 25.9 | 0 |
-| 2026-03-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 35.7 | 35 | 27.0 | 0 |
-| 2026-03-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 34.9 | 41 | 28.8 | 0 |
-| 2026-03-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 33.0 | 48 | 30.2 | 0 |
-| 2026-03-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 30.5 | 58 | 28.8 | 0 |
-| 2026-03-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 28.6 | 67 | 27.4 | 0 |
+| 2026-03-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 34.7 | 39 | 24.8 | 0 |
+| 2026-03-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 35.6 | 34 | 25.6 | 0 |
+| 2026-03-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 36.0 | 31 | 25.2 | 0 |
+| 2026-03-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.4 | 35.9 | 30 | 26.6 | 0 |
+| 2026-03-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 35.4 | 32 | 27.7 | 0 |
+| 2026-03-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 34.4 | 38 | 29.2 | 0 |
+| 2026-03-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 32.8 | 45 | 29.9 | 0 |
+| 2026-03-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 30.4 | 56 | 28.8 | 0 |
+| 2026-03-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.7 | 28.6 | 68 | 27.4 | 0 |
+| 2026-03-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.7 | 78 | 26.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹91.81 | 📈 H: ₹95.5 | 📉 L: ₹91.62 <br>💵 USDT: ₹93.27 | 📈 H: ₹94.38 | 📉 L: ₹93.21 <br>♦ ETH: ₹194260.8 | 📈 H: ₹203313.0 | 📉 L: ₹192000.1 <br>₿ BTC: ₹6551154.0 | 📈 H: ₹6842117.0 | 📉 L: ₹6513468.0 <br>⚡ BNB: ₹60840.15 | 📈 H: ₹62500.0 | 📉 L: ₹60186.38 <br> 
+  🪙 USDC: ₹91.81 | 📈 H: ₹95.5 | 📉 L: ₹91.62 <br>💵 USDT: ₹93.58 | 📈 H: ₹94.38 | 📉 L: ₹93.21 <br>♦ ETH: ₹194260.8 | 📈 H: ₹203313.0 | 📉 L: ₹192000.1 <br>₿ BTC: ₹6552707.0 | 📈 H: ₹6842117.0 | 📉 L: ₹6513468.0 <br>⚡ BNB: ₹60475.33 | 📈 H: ₹62500.0 | 📉 L: ₹60475.33 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No means 'New Opportunities'... for me to stay at home. 🛑❌ 
+  Pretend I gave you a clever excuse and just take the 'no' as implied. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
