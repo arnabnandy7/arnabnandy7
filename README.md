@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 15/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"/>
-  <p>Mist (হাল্কা কুয়াশা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:12 AM, Set: 02:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:46 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 23.8 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 26.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:12 AM, Set: 02:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:46 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 23.8 kph | 💧 <strong>Humidity:</strong> 65% | 🌡️ <strong>Feels Like:</strong> 25.3 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.15 <strong>PM10:</strong> 22.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 24.2 | 26.0 | 61 | 23.8 | 0 |
 | 2026-03-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 25.7 | 84 | 23.8 | 0 |
 | 2026-03-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 25.6 | 84 | 24.5 | 0 |
 | 2026-03-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.6 | 83 | 24.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 30.7 | 53 | 27.7 | 0 |
 | 2026-03-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 32.8 | 44 | 29.5 | 0 |
 | 2026-03-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.0 | 34.3 | 39 | 30.2 | 0 |
+| 2026-03-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.0 | 35.3 | 36 | 32.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹91.82 | 📈 H: ₹94.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.12 | 📈 H: ₹93.58 | 📉 L: ₹93.01 <br>♦ ETH: ₹193841.3 | 📈 H: ₹197759.1 | 📉 L: ₹192500.1 <br>₿ BTC: ₹6595268.0 | 📈 H: ₹6691715.0 | 📉 L: ₹6536172.0 <br>⚡ BNB: ₹60931.57 | 📈 H: ₹62602.39 | 📉 L: ₹60477.12 <br> 
+  🪙 USDC: ₹91.82 | 📈 H: ₹94.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.25 | 📈 H: ₹93.58 | 📉 L: ₹93.01 <br>♦ ETH: ₹193841.3 | 📈 H: ₹197759.1 | 📉 L: ₹192500.1 <br>₿ BTC: ₹6691243.0 | 📈 H: ₹6691715.0 | 📉 L: ₹6536172.0 <br>⚡ BNB: ₹60931.57 | 📈 H: ₹62602.39 | 📉 L: ₹60477.12 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
