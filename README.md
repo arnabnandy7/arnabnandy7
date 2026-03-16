@@ -18,14 +18,13 @@
   <p>Kolkata, India - 16/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:52 AM, Set: 03:15 PM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 29.2 kph | 💧 <strong>Humidity:</strong> 52% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:52 AM, Set: 03:15 PM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 30.6 kph | 💧 <strong>Humidity:</strong> 52% | 🌡️ <strong>Feels Like:</strong> 33.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.35 <strong>PM10:</strong> 32.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.95 <strong>PM10:</strong> 34.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.8 | 34.1 | 48 | 32.4 | 100 |
 | 2026-03-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.5 | 28.3 | 69 | 28.4 | 67 |
 | 2026-03-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.7 | 28.5 | 67 | 24.1 | 74 |
 | 2026-03-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.9 | 27.7 | 70 | 22.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-16 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 23.9 | 25.3 | 58 | 7.6 | 0 |
 | 2026-03-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast  | 23.4 | 25.1 | 60 | 2.2 | 0 |
 | 2026-03-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.9 | 24.9 | 63 | 6.1 | 0 |
+| 2026-03-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 24.9 | 65 | 8.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹91.82 | 📈 H: ₹94.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.2 | 📈 H: ₹93.48 | 📉 L: ₹93.01 <br>♦ ETH: ₹207408.8 | 📈 H: ₹212000.5 | 📉 L: ₹192500.5 <br>₿ BTC: ₹6769987.0 | 📈 H: ₹6859999.0 | 📉 L: ₹6595268.0 <br>⚡ BNB: ₹62433.83 | 📈 H: ₹63256.9 | 📉 L: ₹60478.72 <br> 
+  🪙 USDC: ₹93.89 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.12 | 📈 H: ₹93.48 | 📉 L: ₹93.01 <br>♦ ETH: ₹210200.0 | 📈 H: ₹212000.5 | 📉 L: ₹192500.5 <br>₿ BTC: ₹6754577.0 | 📈 H: ₹6859999.0 | 📉 L: ₹6595268.0 <br>⚡ BNB: ₹62433.83 | 📈 H: ₹63256.9 | 📉 L: ₹60478.72 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a prior engagement: a staring contest with my wall. 🛑❌ 
+  I'd rather be the sole target in a paintball match than participate. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
