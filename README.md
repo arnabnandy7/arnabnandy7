@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 16/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:52 AM, Set: 03:15 PM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:52 AM, Set: 03:15 PM)  <br>🌅 <strong>Sunrise:</strong> 05:45 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 20.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.75 <strong>PM10:</strong> 27.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.15 <strong>PM10:</strong> 26.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-17 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 23.4 | 25.6 | 90 | 17.6 | 0 |
 | 2026-03-17 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.1 | 25.3 | 89 | 16.9 | 0 |
 | 2026-03-17 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.6 | 25.6 | 85 | 16.9 | 0 |
 | 2026-03-17 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 27.6 | 77 | 21.6 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 34.7 | 36 | 20.2 | 0 |
 | 2026-03-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 35.5 | 33 | 19.8 | 0 |
 | 2026-03-17 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 35.8 | 33 | 22.0 | 0 |
+| 2026-03-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 35.7 | 36 | 23.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹91.82 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.02 | 📈 H: ₹94.12 | 📉 L: ₹92.5 <br>♦ ETH: ₹220000.1 | 📈 H: ₹220000.1 | 📉 L: ₹198296.3 <br>₿ BTC: ₹6922600.0 | 📈 H: ₹6922600.0 | 📉 L: ₹6673596.0 <br>⚡ BNB: ₹63256.9 | 📈 H: ₹63256.9 | 📉 L: ₹61757.65 <br> 
+  🪙 USDC: ₹91.82 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.04 | 📈 H: ₹94.14 | 📉 L: ₹92.5 <br>♦ ETH: ₹215746.0 | 📈 H: ₹220000.1 | 📉 L: ₹200624.3 <br>₿ BTC: ₹6936369.0 | 📈 H: ₹6936369.0 | 📉 L: ₹6683227.0 <br>⚡ BNB: ₹63256.9 | 📈 H: ₹63256.9 | 📉 L: ₹61757.65 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
