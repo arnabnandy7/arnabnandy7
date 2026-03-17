@@ -18,27 +18,27 @@
   <p>Kolkata, India - 17/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 27.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 24.5 kph | 💧 <strong>Humidity:</strong> 41% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.65 <strong>PM10:</strong> 18.75</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.05 <strong>PM10:</strong> 34.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 36.0 | 28 | 24.1 | 0 |
-| 2026-03-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 35.2 | 38 | 29.2 | 0 |
-| 2026-03-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 33.5 | 47 | 29.5 | 0 |
-| 2026-03-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 30.3 | 58 | 29.5 | 0 |
-| 2026-03-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 28.1 | 68 | 28.1 | 0 |
-| 2026-03-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.4 | 74 | 27.4 | 0 |
-| 2026-03-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.3 | 27.2 | 75 | 23.8 | 0 |
-| 2026-03-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 27.1 | 76 | 24.8 | 0 |
-| 2026-03-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 27.0 | 76 | 24.1 | 0 |
-| 2026-03-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 26.7 | 77 | 23.0 | 0 |
+| 2026-03-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.3 | 34.3 | 44 | 25.6 | 0 |
+| 2026-03-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.7 | 32.6 | 50 | 26.3 | 0 |
+| 2026-03-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 29.8 | 59 | 29.9 | 0 |
+| 2026-03-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 27.9 | 67 | 19.1 | 100 |
+| 2026-03-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.5 | 27.3 | 73 | 4.0 | 100 |
+| 2026-03-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 27.0 | 74 | 15.8 | 0 |
+| 2026-03-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.7 | 79 | 24.5 | 0 |
+| 2026-03-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.7 | 80 | 28.4 | 0 |
+| 2026-03-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.7 | 80 | 27.7 | 0 |
+| 2026-03-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.5 | 80 | 25.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.98 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹92.91 | 📈 H: ₹94.14 | 📉 L: ₹92.5 <br>♦ ETH: ₹215600.0 | 📈 H: ₹223992.9 | 📉 L: ₹206569.6 <br>₿ BTC: ₹6960081.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6733086.0 <br>⚡ BNB: ₹63256.9 | 📈 H: ₹63256.9 | 📉 L: ₹62134.35 <br> 
+  🪙 USDC: ₹92.99 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.01 | 📈 H: ₹94.14 | 📉 L: ₹92.5 <br>♦ ETH: ₹217990.1 | 📈 H: ₹223992.9 | 📉 L: ₹206569.6 <br>₿ BTC: ₹6973508.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6733086.0 <br>⚡ BNB: ₹62268.8 | 📈 H: ₹63256.9 | 📉 L: ₹62134.35 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
