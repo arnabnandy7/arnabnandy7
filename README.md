@@ -18,27 +18,27 @@
   <p>Kolkata, India - 17/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 27.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 26.2 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.45 <strong>PM10:</strong> 18.15</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.95 <strong>PM10:</strong> 18.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-18 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 25.6 | 85 | 15.5 | 0 |
-| 2026-03-18 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.5 | 87 | 17.3 | 0 |
-| 2026-03-18 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.5 | 87 | 17.3 | 0 |
-| 2026-03-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.0 | 26.1 | 84 | 15.8 | 0 |
-| 2026-03-18 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 28.3 | 72 | 21.6 | 0 |
-| 2026-03-18 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 30.7 | 58 | 22.3 | 0 |
-| 2026-03-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.0 | 32.8 | 48 | 22.7 | 0 |
-| 2026-03-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 34.3 | 40 | 21.6 | 0 |
-| 2026-03-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 35.6 | 35 | 23.8 | 0 |
-| 2026-03-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.0 | 36.1 | 33 | 25.9 | 0 |
+| 2026-03-18 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 25.4 | 88 | 11.5 | 0 |
+| 2026-03-18 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 25.2 | 90 | 13.7 | 0 |
+| 2026-03-18 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 25.2 | 91 | 14.0 | 0 |
+| 2026-03-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.7 | 25.9 | 87 | 12.6 | 0 |
+| 2026-03-18 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 28.3 | 75 | 18.7 | 0 |
+| 2026-03-18 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 30.6 | 61 | 19.1 | 0 |
+| 2026-03-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.7 | 32.7 | 51 | 19.8 | 0 |
+| 2026-03-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 34.3 | 44 | 19.1 | 0 |
+| 2026-03-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 35.4 | 39 | 19.1 | 0 |
+| 2026-03-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 36.2 | 36 | 21.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.01 | 📈 H: ₹92.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.12 | 📈 H: ₹94.14 | 📉 L: ₹92.81 <br>♦ ETH: ₹217999.0 | 📈 H: ₹223992.9 | 📉 L: ₹212824.5 <br>₿ BTC: ₹6950000.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6800122.0 <br>⚡ BNB: ₹62393.32 | 📈 H: ₹63256.9 | 📉 L: ₹61515.66 <br> 
+  🪙 USDC: ₹92.01 | 📈 H: ₹92.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.4 | 📈 H: ₹94.14 | 📉 L: ₹92.81 <br>♦ ETH: ₹217999.0 | 📈 H: ₹223992.9 | 📉 L: ₹212824.5 <br>₿ BTC: ₹6950000.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6800122.0 <br>⚡ BNB: ₹62393.32 | 📈 H: ₹63256.9 | 📉 L: ₹61515.66 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't come out; I've recently taken up hermit life. 🛑❌ 
+  I woke up today and thought, 'let's not.' 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
