@@ -18,27 +18,27 @@
   <p>Kolkata, India - 17/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 22.7 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.55 <strong>PM10:</strong> 50.45</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.75 <strong>PM10:</strong> 47.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.7 | 79 | 24.5 | 0 |
-| 2026-03-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.7 | 80 | 28.4 | 0 |
-| 2026-03-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.7 | 80 | 27.7 | 0 |
-| 2026-03-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.5 | 80 | 25.9 | 0 |
-| 2026-03-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 26.4 | 81 | 22.0 | 0 |
-| 2026-03-18 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 26.1 | 82 | 20.5 | 0 |
-| 2026-03-18 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.9 | 83 | 19.8 | 0 |
-| 2026-03-18 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.7 | 84 | 16.9 | 0 |
-| 2026-03-18 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 25.4 | 86 | 15.5 | 0 |
-| 2026-03-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 26.0 | 84 | 12.2 | 0 |
+| 2026-03-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.7 | 76 | 25.6 | 0 |
+| 2026-03-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.6 | 77 | 24.5 | 0 |
+| 2026-03-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.4 | 79 | 24.1 | 0 |
+| 2026-03-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 26.1 | 81 | 19.4 | 0 |
+| 2026-03-18 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.8 | 25.9 | 83 | 15.8 | 0 |
+| 2026-03-18 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 25.6 | 85 | 15.5 | 0 |
+| 2026-03-18 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.5 | 87 | 17.3 | 0 |
+| 2026-03-18 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.5 | 87 | 17.3 | 0 |
+| 2026-03-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.0 | 26.1 | 84 | 15.8 | 0 |
+| 2026-03-18 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.3 | 28.3 | 72 | 21.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹91.89 | 📈 H: ₹92.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.2 | 📈 H: ₹94.14 | 📉 L: ₹92.8 <br>♦ ETH: ₹216666.2 | 📈 H: ₹223992.9 | 📉 L: ₹210174.3 <br>₿ BTC: ₹6865849.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6800122.0 <br>⚡ BNB: ₹61800.0 | 📈 H: ₹63256.9 | 📉 L: ₹61549.62 <br> 
+  🪙 USDC: ₹91.89 | 📈 H: ₹92.99 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.15 | 📈 H: ₹94.14 | 📉 L: ₹92.8 <br>♦ ETH: ₹219140.8 | 📈 H: ₹223992.9 | 📉 L: ₹210174.3 <br>₿ BTC: ₹6843695.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6800122.0 <br>⚡ BNB: ₹62230.35 | 📈 H: ₹63256.9 | 📉 L: ₹61549.62 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in a bit of a financial bind: low on funds and on yeses. 🛑❌ 
+  I'll spare you a half-hearted yes and give you an honest no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
