@@ -18,27 +18,27 @@
   <p>Kolkata, India - 17/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 21.6 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 24.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:28 AM, Set: 04:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:44 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 25.7 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.45 <strong>PM10:</strong> 14.05</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.65 <strong>PM10:</strong> 13.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-17 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.4 | 32.1 | 50 | 22.0 | 0 |
-| 2026-03-17 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 33.6 | 40 | 20.9 | 0 |
-| 2026-03-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 34.8 | 35 | 19.4 | 0 |
-| 2026-03-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 35.6 | 32 | 19.4 | 0 |
-| 2026-03-17 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 36.0 | 32 | 21.6 | 0 |
-| 2026-03-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 35.9 | 35 | 24.1 | 0 |
-| 2026-03-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 35.0 | 40 | 26.3 | 0 |
-| 2026-03-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.0 | 32.8 | 48 | 29.2 | 0 |
-| 2026-03-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 30.0 | 58 | 27.4 | 0 |
-| 2026-03-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 28.1 | 65 | 26.3 | 0 |
+| 2026-03-17 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 33.6 | 38 | 19.8 | 0 |
+| 2026-03-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 34.7 | 32 | 17.3 | 0 |
+| 2026-03-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.4 | 35.5 | 28 | 17.3 | 0 |
+| 2026-03-17 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.8 | 35.9 | 27 | 19.1 | 0 |
+| 2026-03-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 36.0 | 28 | 24.1 | 0 |
+| 2026-03-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 35.2 | 38 | 29.2 | 0 |
+| 2026-03-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 33.5 | 47 | 29.5 | 0 |
+| 2026-03-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 30.3 | 58 | 29.5 | 0 |
+| 2026-03-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 28.1 | 68 | 28.1 | 0 |
+| 2026-03-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.4 | 74 | 27.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.98 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.06 | 📈 H: ₹94.14 | 📉 L: ₹92.5 <br>♦ ETH: ₹222258.3 | 📈 H: ₹223992.9 | 📉 L: ₹202500.0 <br>₿ BTC: ₹6932567.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6700104.0 <br>⚡ BNB: ₹63256.9 | 📈 H: ₹63256.9 | 📉 L: ₹61757.65 <br> 
+  🪙 USDC: ₹92.98 | 📈 H: ₹93.89 | 📉 L: ₹91.82 <br>💵 USDT: ₹93.04 | 📈 H: ₹94.14 | 📉 L: ₹92.5 <br>♦ ETH: ₹216064.6 | 📈 H: ₹223992.9 | 📉 L: ₹206052.0 <br>₿ BTC: ₹6973879.0 | 📈 H: ₹7004767.0 | 📉 L: ₹6733086.0 <br>⚡ BNB: ₹62284.36 | 📈 H: ₹63256.9 | 📉 L: ₹62135.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If my life were a movie, this is the part I say no and roll credits. 🛑❌ 
+  I'm testing a theory that I can survive on chips alone, can't interrupt that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
