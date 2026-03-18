@@ -18,27 +18,27 @@
   <p>Kolkata, India - 18/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:04 AM, Set: 05:11 PM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 26.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 05:04 AM, Set: 05:11 PM)  <br>🌅 <strong>Sunrise:</strong> 05:43 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 28.9 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.55 <strong>PM10:</strong> 15.15</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.05 <strong>PM10:</strong> 14.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.7 | 32.7 | 51 | 19.8 | 0 |
-| 2026-03-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 34.3 | 44 | 19.1 | 0 |
-| 2026-03-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 35.4 | 39 | 19.1 | 0 |
-| 2026-03-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 36.2 | 36 | 21.2 | 0 |
-| 2026-03-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 36.3 | 35 | 23.0 | 0 |
-| 2026-03-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.2 | 35.7 | 37 | 26.6 | 0 |
-| 2026-03-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 34.4 | 42 | 29.9 | 0 |
-| 2026-03-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 32.5 | 47 | 30.2 | 0 |
-| 2026-03-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 29.8 | 56 | 28.1 | 0 |
-| 2026-03-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.9 | 28.4 | 62 | 27.4 | 0 |
+| 2026-03-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 35.2 | 40 | 21.2 | 0 |
+| 2026-03-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.2 | 35.8 | 37 | 22.0 | 0 |
+| 2026-03-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 35.8 | 36 | 21.6 | 0 |
+| 2026-03-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 35.2 | 38 | 24.8 | 0 |
+| 2026-03-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 34.3 | 40 | 27.4 | 0 |
+| 2026-03-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 32.7 | 46 | 22.3 | 0 |
+| 2026-03-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 30.1 | 55 | 24.8 | 0 |
+| 2026-03-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 28.3 | 63 | 24.5 | 0 |
+| 2026-03-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 27.6 | 71 | 24.1 | 0 |
+| 2026-03-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.7 | 27.5 | 71 | 22.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.01 | 📈 H: ₹92.99 | 📉 L: ₹91.89 <br>💵 USDT: ₹93.15 | 📈 H: ₹93.83 | 📉 L: ₹92.81 <br>♦ ETH: ₹217999.0 | 📈 H: ₹220458.6 | 📉 L: ₹212824.5 <br>₿ BTC: ₹6912786.0 | 📈 H: ₹7000000.0 | 📉 L: ₹6800122.0 <br>⚡ BNB: ₹62081.61 | 📈 H: ₹63256.9 | 📉 L: ₹61515.66 <br> 
+  🪙 USDC: ₹92.01 | 📈 H: ₹92.99 | 📉 L: ₹91.89 <br>💵 USDT: ₹93.12 | 📈 H: ₹93.68 | 📉 L: ₹92.81 <br>♦ ETH: ₹216333.5 | 📈 H: ₹220458.6 | 📉 L: ₹212824.5 <br>₿ BTC: ₹6913099.0 | 📈 H: ₹7000000.0 | 📉 L: ₹6800122.0 <br>⚡ BNB: ₹62081.61 | 📈 H: ₹63256.9 | 📉 L: ₹61515.66 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to guard the refrigerator tonight; snacks are counting on me. 🛑❌ 
+  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
