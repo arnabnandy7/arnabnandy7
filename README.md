@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 19/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:39 AM, Set: 06:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:39 AM, Set: 06:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.95 <strong>PM10:</strong> 60.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.05 <strong>PM10:</strong> 31.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-20 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.7 | 26.9 | 84 | 24.1 | 0 |
-| 2026-03-20 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.8 | 27.0 | 84 | 21.2 | 0 |
-| 2026-03-20 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.5 | 26.6 | 83 | 16.6 | 0 |
-| 2026-03-20 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.2 | 26.2 | 82 | 10.8 | 0 |
-| 2026-03-20 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 23.9 | 25.9 | 82 | 8.6 | 0 |
-| 2026-03-20 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 23.8 | 25.8 | 82 | 7.9 | 0 |
-| 2026-03-20 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 24.5 | 26.4 | 79 | 7.9 | 0 |
-| 2026-03-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 26.3 | 28.2 | 69 | 11.9 | 0 |
-| 2026-03-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.8 | 30.3 | 55 | 13.7 | 0 |
-| 2026-03-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 31.2 | 32.3 | 44 | 16.9 | 0 |
+| 2026-03-20 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.6 | 80 | 9.4 | 0 |
+| 2026-03-20 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 26.2 | 80 | 7.9 | 0 |
+| 2026-03-20 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 24.0 | 26.0 | 81 | 7.6 | 0 |
+| 2026-03-20 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 24.6 | 26.5 | 79 | 9.0 | 0 |
+| 2026-03-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 26.4 | 28.2 | 68 | 12.2 | 0 |
+| 2026-03-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.5 | 30.0 | 56 | 13.0 | 0 |
+| 2026-03-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.5 | 31.6 | 46 | 12.2 | 0 |
+| 2026-03-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.4 | 33.2 | 38 | 11.5 | 0 |
+| 2026-03-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.2 | 34.6 | 32 | 14.0 | 0 |
+| 2026-03-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 35.0 | 35.1 | 29 | 18.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.99 | 📈 H: ₹92.99 | 📉 L: ₹92.9 <br>💵 USDT: ₹93.9 | 📈 H: ₹94.0 | 📉 L: ₹93.02 <br>♦ ETH: ₹198390.0 | 📈 H: ₹208499.9 | 📉 L: ₹197500.0 <br>₿ BTC: ₹6515100.0 | 📈 H: ₹6760558.0 | 📉 L: ₹6500000.0 <br>⚡ BNB: ₹59246.25 | 📈 H: ₹62087.19 | 📉 L: ₹59246.25 <br> 
+  🪙 USDC: ₹92.99 | 📈 H: ₹92.99 | 📉 L: ₹92.99 <br>💵 USDT: ₹93.9 | 📈 H: ₹94.0 | 📉 L: ₹93.02 <br>♦ ETH: ₹198367.9 | 📈 H: ₹208499.9 | 📉 L: ₹197500.0 <br>₿ BTC: ₹6501709.0 | 📈 H: ₹6702116.0 | 📉 L: ₹6500000.0 <br>⚡ BNB: ₹59246.25 | 📈 H: ₹61469.98 | 📉 L: ₹59246.25 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Picture a skywriter writing 'NO' above your house—that's my answer. 🛑❌ 
+  I come from a long line of expert decliners. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
