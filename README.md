@@ -18,14 +18,13 @@
   <p>Kolkata, India - 19/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:39 AM, Set: 06:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 31.8 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:39 AM, Set: 06:09 PM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 31.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.05 <strong>PM10:</strong> 31.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.45 <strong>PM10:</strong> 34.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 34.9 | 31 | 9.0 | 0 |
 | 2026-03-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 34.0 | 37 | 18.7 | 0 |
 | 2026-03-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 30.4 | 48 | 23.0 | 0 |
 | 2026-03-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 25.6 | 27.0 | 63 | 13.3 | 100 |
@@ -35,10 +34,11 @@
 | 2026-03-19 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 25.6 | 65 | 19.4 | 0 |
 | 2026-03-19 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 24.2 | 26.0 | 77 | 20.9 | 0 |
 | 2026-03-20 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.6 | 26.6 | 79 | 20.5 | 0 |
+| 2026-03-20 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.5 | 26.5 | 80 | 16.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.99 | 📈 H: ₹92.99 | 📉 L: ₹92.9 <br>💵 USDT: ₹93.25 | 📈 H: ₹94.0 | 📉 L: ₹92.85 <br>♦ ETH: ₹205207.9 | 📈 H: ₹217999.0 | 📉 L: ₹202999.0 <br>₿ BTC: ₹6551161.0 | 📈 H: ₹6968032.0 | 📉 L: ₹6551161.0 <br>⚡ BNB: ₹60850.11 | 📈 H: ₹63430.62 | 📉 L: ₹60850.11 <br> 
+  🪙 USDC: ₹92.99 | 📈 H: ₹92.99 | 📉 L: ₹92.9 <br>💵 USDT: ₹93.5 | 📈 H: ₹94.0 | 📉 L: ₹92.87 <br>♦ ETH: ₹206948.0 | 📈 H: ₹217999.0 | 📉 L: ₹202999.0 <br>₿ BTC: ₹6578797.0 | 📈 H: ₹6968032.0 | 📉 L: ₹6551161.0 <br>⚡ BNB: ₹60850.11 | 📈 H: ₹63430.62 | 📉 L: ₹60850.11 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I want to say yes, but my common sense is yelling 'no' repeatedly. 🛑❌ 
+  That isn't on my bucket list; in fact, it's on my chuck-it list. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
