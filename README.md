@@ -18,14 +18,13 @@
   <p>Kolkata, India - 20/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:14 AM, Set: 07:10 PM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 62% | 🌡️ <strong>Feels Like:</strong> 29.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:14 AM, Set: 07:10 PM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.95 <strong>PM10:</strong> 31.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.45 <strong>PM10:</strong> 37.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.6 | 34.9 | 31 | 17.6 | 0 |
 | 2026-03-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.5 | 34.9 | 31 | 20.9 | 0 |
 | 2026-03-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 34.1 | 34 | 27.0 | 0 |
 | 2026-03-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.1 | 32.7 | 38 | 27.0 | 68 |
@@ -35,10 +34,11 @@
 | 2026-03-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.6 | 25.5 | 74 | 15.8 | 100 |
 | 2026-03-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 22.3 | 24.7 | 77 | 18.7 | 0 |
 | 2026-03-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 21.9 | 22.0 | 76 | 16.2 | 0 |
+| 2026-03-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 22.7 | 24.8 | 73 | 14.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.99 | 📈 H: ₹92.99 | 📉 L: ₹92.99 <br>💵 USDT: ₹94.1 | 📈 H: ₹94.3 | 📉 L: ₹93.25 <br>♦ ETH: ₹200789.2 | 📈 H: ₹206948.0 | 📉 L: ₹197500.0 <br>₿ BTC: ₹6695266.0 | 📈 H: ₹6695266.0 | 📉 L: ₹6500000.0 <br>⚡ BNB: ₹60226.62 | 📈 H: ₹61469.98 | 📉 L: ₹59246.25 <br> 
+  🪙 USDC: ₹92.99 | 📈 H: ₹92.99 | 📉 L: ₹92.99 <br>💵 USDT: ₹94.0 | 📈 H: ₹94.3 | 📉 L: ₹93.25 <br>♦ ETH: ₹200000.9 | 📈 H: ₹206948.0 | 📉 L: ₹197500.0 <br>₿ BTC: ₹6657975.0 | 📈 H: ₹6695266.0 | 📉 L: ₹6500000.0 <br>⚡ BNB: ₹60024.69 | 📈 H: ₹61469.98 | 📉 L: ₹59246.25 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have main character syndrome, and my story arc doesn't involve doing that. 🛑❌ 
+  No can do—said in the nicest possible way. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
