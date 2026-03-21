@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 21/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/>
-  <p>Overcast  (মেঘাচ্ছন্ন)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:53 AM, Set: 08:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:53 AM, Set: 08:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 21.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.15 <strong>PM10:</strong> 26.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.35 <strong>PM10:</strong> 30.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast  | 23.6 | 25.4 | 70 | 7.6 | 0 |
 | 2026-03-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 23.7 | 25.4 | 69 | 9.0 | 0 |
 | 2026-03-21 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 25.2 | 26.4 | 60 | 9.4 | 0 |
 | 2026-03-21 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 27.3 | 51 | 6.5 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 22.9 | 24.9 | 68 | 12.6 | 100 |
 | 2026-03-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 21.2 | 21.2 | 81 | 14.0 | 100 |
 | 2026-03-21 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 20.7 | 20.7 | 84 | 19.1 | 100 |
+| 2026-03-21 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 76 | 2.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.5 | 📈 H: ₹92.99 | 📉 L: ₹91.91 <br>💵 USDT: ₹94.12 | 📈 H: ₹94.2 | 📉 L: ₹93.22 <br>♦ ETH: ₹202378.0 | 📈 H: ₹206808.6 | 📉 L: ₹198585.5 <br>₿ BTC: ₹6645458.0 | 📈 H: ₹6760395.0 | 📉 L: ₹6516429.0 <br>⚡ BNB: ₹60343.04 | 📈 H: ₹61601.06 | 📉 L: ₹59737.97 <br> 
+  🪙 USDC: ₹92.5 | 📈 H: ₹92.99 | 📉 L: ₹91.91 <br>💵 USDT: ₹94.2 | 📈 H: ₹94.2 | 📉 L: ₹93.22 <br>♦ ETH: ₹202177.1 | 📈 H: ₹206808.6 | 📉 L: ₹198585.5 <br>₿ BTC: ₹6678990.0 | 📈 H: ₹6760395.0 | 📉 L: ₹6516429.0 <br>⚡ BNB: ₹61557.19 | 📈 H: ₹61601.06 | 📉 L: ₹59737.97 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I bailed last minute because commitment issues run in my family. 🛑❌ 
+  My car decided to take a personal day off. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
