@@ -18,27 +18,27 @@
   <p>Kolkata, India - 21/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:53 AM, Set: 08:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 20.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:53 AM, Set: 08:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 19.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.75 <strong>PM10:</strong> 42.75</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 49.35 <strong>PM10:</strong> 51.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.4 | 19.4 | 88 | 7.2 | 0 |
-| 2026-03-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 19.1 | 19.1 | 89 | 8.6 | 0 |
-| 2026-03-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 90 | 7.2 | 0 |
-| 2026-03-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.7 | 18.7 | 90 | 6.1 | 0 |
-| 2026-03-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.5 | 19.6 | 86 | 5.0 | 0 |
-| 2026-03-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.5 | 21.5 | 76 | 5.8 | 0 |
-| 2026-03-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 25.3 | 65 | 6.5 | 0 |
-| 2026-03-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.4 | 26.4 | 55 | 6.1 | 0 |
-| 2026-03-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 27.6 | 47 | 7.2 | 0 |
-| 2026-03-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 28.7 | 40 | 7.6 | 0 |
+| 2026-03-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.8 | 18.8 | 87 | 11.2 | 0 |
+| 2026-03-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.6 | 18.6 | 87 | 8.6 | 0 |
+| 2026-03-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 18.4 | 18.4 | 87 | 8.6 | 0 |
+| 2026-03-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 19.3 | 19.3 | 83 | 7.6 | 0 |
+| 2026-03-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.4 | 21.4 | 73 | 7.9 | 0 |
+| 2026-03-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.5 | 25.2 | 63 | 9.4 | 0 |
+| 2026-03-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 26.3 | 53 | 9.0 | 0 |
+| 2026-03-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.3 | 27.5 | 45 | 9.4 | 0 |
+| 2026-03-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.9 | 28.6 | 38 | 10.8 | 0 |
+| 2026-03-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 29.3 | 33 | 11.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.5 | 📈 H: ₹92.99 | 📉 L: ₹91.91 <br>💵 USDT: ₹94.2 | 📈 H: ₹94.34 | 📉 L: ₹93.93 <br>♦ ETH: ₹201763.2 | 📈 H: ₹204331.1 | 📉 L: ₹201109.8 <br>₿ BTC: ₹6694143.0 | 📈 H: ₹6733410.0 | 📉 L: ₹6587433.0 <br>⚡ BNB: ₹59984.81 | 📈 H: ₹61601.06 | 📉 L: ₹59984.81 <br> 
+  🪙 USDC: ₹92.5 | 📈 H: ₹92.99 | 📉 L: ₹91.91 <br>💵 USDT: ₹94.2 | 📈 H: ₹94.34 | 📉 L: ₹93.93 <br>♦ ETH: ₹201763.2 | 📈 H: ₹204331.1 | 📉 L: ₹201109.8 <br>₿ BTC: ₹6641000.0 | 📈 H: ₹6733410.0 | 📉 L: ₹6587433.0 <br>⚡ BNB: ₹59984.81 | 📈 H: ₹61601.06 | 📉 L: ₹59984.81 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If there were an award for avoiding participation, I'd be the frontrunner. 🛑❌ 
+  I don’t hate the idea—but I also don’t want to do it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
