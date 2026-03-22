@@ -18,14 +18,13 @@
   <p>Kolkata, India - 22/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 09:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 21.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 09:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 75.55 <strong>PM10:</strong> 78.35</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 66.95 <strong>PM10:</strong> 69.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 78 | 1.4 | 0 |
 | 2026-03-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 79 | 2.5 | 0 |
 | 2026-03-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.8 | 21.8 | 75 | 4.0 | 0 |
 | 2026-03-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 25.5 | 66 | 6.1 | 0 |
@@ -35,6 +34,7 @@
 | 2026-03-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.1 | 29.7 | 35 | 11.2 | 0 |
 | 2026-03-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.0 | 30.2 | 32 | 12.2 | 0 |
 | 2026-03-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 30.6 | 30 | 12.6 | 0 |
+| 2026-03-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 30.5 | 28 | 13.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
