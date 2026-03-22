@@ -18,27 +18,27 @@
   <p>Kolkata, India - 22/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 09:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 20.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 09:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 21.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.35 <strong>PM10:</strong> 63.75</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 63.05 <strong>PM10:</strong> 64.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 26.4 | 52 | 9.0 | 0 |
-| 2026-03-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.4 | 27.6 | 44 | 9.4 | 0 |
-| 2026-03-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 28.7 | 38 | 10.8 | 0 |
-| 2026-03-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 29.4 | 33 | 11.2 | 0 |
-| 2026-03-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 29.9 | 30 | 12.2 | 0 |
-| 2026-03-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 30.0 | 29 | 13.0 | 0 |
-| 2026-03-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.0 | 29.7 | 28 | 13.7 | 0 |
-| 2026-03-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 29.2 | 29 | 14.0 | 0 |
-| 2026-03-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 27.6 | 35 | 9.7 | 0 |
-| 2026-03-22 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 26.4 | 39 | 7.6 | 0 |
+| 2026-03-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 28.1 | 37 | 11.2 | 0 |
+| 2026-03-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 28.7 | 33 | 10.8 | 0 |
+| 2026-03-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 29.3 | 31 | 12.2 | 0 |
+| 2026-03-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 29.5 | 29 | 13.7 | 0 |
+| 2026-03-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.4 | 29.2 | 29 | 15.1 | 0 |
+| 2026-03-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 28.6 | 30 | 14.0 | 0 |
+| 2026-03-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 27.1 | 36 | 8.3 | 0 |
+| 2026-03-22 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 26.1 | 37 | 4.7 | 0 |
+| 2026-03-22 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.4 | 25.8 | 42 | 7.6 | 0 |
+| 2026-03-22 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 25.4 | 50 | 10.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.5 | 📈 H: ₹92.99 | 📉 L: ₹91.91 <br>💵 USDT: ₹94.23 | 📈 H: ₹94.75 | 📉 L: ₹93.93 <br>♦ ETH: ₹201827.8 | 📈 H: ₹204331.1 | 📉 L: ₹197047.4 <br>₿ BTC: ₹6632685.0 | 📈 H: ₹6733410.0 | 📉 L: ₹6501709.0 <br>⚡ BNB: ₹59383.26 | 📈 H: ₹61557.19 | 📉 L: ₹59383.26 <br> 
+  🪙 USDC: ₹92.5 | 📈 H: ₹92.99 | 📉 L: ₹91.91 <br>💵 USDT: ₹94.31 | 📈 H: ₹94.75 | 📉 L: ₹93.93 <br>♦ ETH: ₹201827.8 | 📈 H: ₹204331.1 | 📉 L: ₹197047.4 <br>₿ BTC: ₹6540403.0 | 📈 H: ₹6733410.0 | 📉 L: ₹6501709.0 <br>⚡ BNB: ₹59799.36 | 📈 H: ₹61557.19 | 📉 L: ₹59383.26 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My plate is full, and I already ate the portion of doing favors. 🛑❌ 
+  I'm the hero my couch deserves, so I must stay with it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
