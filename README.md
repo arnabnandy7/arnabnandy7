@@ -18,27 +18,27 @@
   <p>Kolkata, India - 22/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 09:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:36 AM, Set: 09:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 85.15 <strong>PM10:</strong> 88.65</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 81.45 <strong>PM10:</strong> 84.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-23 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.4 | 21.4 | 77 | 6.5 | 0 |
-| 2026-03-23 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.2 | 21.2 | 78 | 3.6 | 0 |
-| 2026-03-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.0 | 21.0 | 78 | 2.2 | 0 |
-| 2026-03-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 79 | 1.4 | 0 |
-| 2026-03-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.0 | 22.0 | 75 | 5.4 | 0 |
-| 2026-03-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.1 | 25.7 | 66 | 7.9 | 0 |
-| 2026-03-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 27.4 | 58 | 10.1 | 0 |
-| 2026-03-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 28.9 | 51 | 10.4 | 0 |
-| 2026-03-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.8 | 30.2 | 43 | 11.5 | 0 |
-| 2026-03-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 30.8 | 35 | 11.5 | 0 |
+| 2026-03-23 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 21.1 | 21.1 | 77 | 4.7 | 0 |
+| 2026-03-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.9 | 20.9 | 78 | 1.4 | 0 |
+| 2026-03-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 20.7 | 20.7 | 79 | 2.5 | 0 |
+| 2026-03-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 21.8 | 21.8 | 75 | 4.0 | 0 |
+| 2026-03-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 25.5 | 66 | 6.1 | 0 |
+| 2026-03-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 26.8 | 57 | 6.5 | 0 |
+| 2026-03-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 28.0 | 48 | 7.9 | 0 |
+| 2026-03-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 29.0 | 41 | 9.7 | 0 |
+| 2026-03-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 30.1 | 29.7 | 35 | 11.2 | 0 |
+| 2026-03-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.0 | 30.2 | 32 | 12.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.01 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>💵 USDT: ₹95.0 | 📈 H: ₹95.0 | 📉 L: ₹94.2 <br>♦ ETH: ₹196000.1 | 📈 H: ₹202052.9 | 📉 L: ₹196000.1 <br>₿ BTC: ₹6488266.0 | 📈 H: ₹6659212.0 | 📉 L: ₹6478953.0 <br>⚡ BNB: ₹59370.82 | 📈 H: ₹60000.0 | 📉 L: ₹59245.55 <br> 
+  🪙 USDC: ₹92.01 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>💵 USDT: ₹95.0 | 📈 H: ₹95.0 | 📉 L: ₹94.2 <br>♦ ETH: ₹195700.0 | 📈 H: ₹202052.9 | 📉 L: ₹195700.0 <br>₿ BTC: ₹6550971.0 | 📈 H: ₹6659212.0 | 📉 L: ₹6476238.0 <br>⚡ BNB: ₹59370.82 | 📈 H: ₹60000.0 | 📉 L: ₹59245.55 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm already living in the fast lane of doing nothing, so I can't slow down for that. 🛑❌ 
+  My inner peace committee vetoed this idea unanimously. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
