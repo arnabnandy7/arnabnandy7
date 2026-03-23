@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:24 AM, Set: 10:27 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 46% | 🌡️ <strong>Feels Like:</strong> 29.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:24 AM, Set: 10:27 PM)  <br>🌅 <strong>Sunrise:</strong> 05:38 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 40% | 🌡️ <strong>Feels Like:</strong> 29.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.45 <strong>PM10:</strong> 63.95</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 66.05 <strong>PM10:</strong> 71.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.0 | 31.1 | 30 | 10.8 | 0 |
-| 2026-03-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.8 | 30.9 | 29 | 11.2 | 0 |
-| 2026-03-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 30.4 | 30 | 11.5 | 0 |
-| 2026-03-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 28.7 | 40 | 9.0 | 0 |
-| 2026-03-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 27.1 | 50 | 12.2 | 0 |
-| 2026-03-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.2 | 26.4 | 60 | 15.1 | 0 |
-| 2026-03-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 25.9 | 67 | 13.3 | 0 |
-| 2026-03-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.6 | 70 | 11.5 | 0 |
-| 2026-03-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.4 | 74 | 10.4 | 0 |
-| 2026-03-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.2 | 25.2 | 76 | 10.4 | 0 |
+| 2026-03-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 32.2 | 26 | 13.0 | 0 |
+| 2026-03-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 31.6 | 27 | 14.4 | 0 |
+| 2026-03-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 29.6 | 39 | 15.5 | 0 |
+| 2026-03-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 27.9 | 51 | 18.4 | 0 |
+| 2026-03-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 27.1 | 62 | 18.7 | 0 |
+| 2026-03-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 26.7 | 69 | 16.9 | 0 |
+| 2026-03-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.4 | 73 | 13.7 | 0 |
+| 2026-03-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 26.0 | 77 | 11.9 | 0 |
+| 2026-03-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 25.7 | 81 | 11.9 | 0 |
+| 2026-03-24 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 25.6 | 83 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹92.01 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>💵 USDT: ₹95.1 | 📈 H: ₹95.2 | 📉 L: ₹94.41 <br>♦ ETH: ₹191560.7 | 📈 H: ₹201827.5 | 📉 L: ₹190000.1 <br>₿ BTC: ₹6492101.0 | 📈 H: ₹6600000.0 | 📉 L: ₹6359341.0 <br>⚡ BNB: ₹58664.41 | 📈 H: ₹59567.58 | 📉 L: ₹58507.79 <br> 
+  🪙 USDC: ₹92.01 | 📈 H: ₹93.5 | 📉 L: ₹92.01 <br>💵 USDT: ₹95.2 | 📈 H: ₹95.2 | 📉 L: ₹94.41 <br>♦ ETH: ₹194998.6 | 📈 H: ₹201683.1 | 📉 L: ₹190000.1 <br>₿ BTC: ₹6500000.0 | 📈 H: ₹6600000.0 | 📉 L: ₹6359341.0 <br>⚡ BNB: ₹58827.69 | 📈 H: ₹59567.58 | 📉 L: ₹58507.79 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
