@@ -18,27 +18,27 @@
   <p>Kolkata, India - 24/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:19 AM, Set: 11:34 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 30.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:19 AM, Set: 11:34 PM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.75 <strong>PM10:</strong> 54.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.05 <strong>PM10:</strong> 53.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-24 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.6 | 27.3 | 71 | 19.4 | 0 |
-| 2026-03-24 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.0 | 26.9 | 75 | 18.0 | 0 |
-| 2026-03-24 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 26.7 | 76 | 17.3 | 0 |
-| 2026-03-25 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.4 | 76 | 16.2 | 0 |
-| 2026-03-25 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.2 | 78 | 15.8 | 0 |
-| 2026-03-25 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 26.0 | 81 | 16.6 | 0 |
-| 2026-03-25 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 25.9 | 82 | 14.8 | 0 |
-| 2026-03-25 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.7 | 83 | 13.7 | 0 |
-| 2026-03-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.3 | 25.4 | 84 | 12.6 | 0 |
-| 2026-03-25 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.3 | 26.2 | 79 | 14.0 | 0 |
+| 2026-03-24 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 26.6 | 78 | 15.8 | 0 |
+| 2026-03-24 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.4 | 26.3 | 80 | 15.8 | 0 |
+| 2026-03-25 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 26.1 | 81 | 15.5 | 0 |
+| 2026-03-25 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 26.0 | 82 | 15.5 | 0 |
+| 2026-03-25 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 25.8 | 84 | 13.7 | 0 |
+| 2026-03-25 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.6 | 87 | 12.2 | 0 |
+| 2026-03-25 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.1 | 25.4 | 89 | 11.9 | 0 |
+| 2026-03-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.8 | 87 | 11.2 | 0 |
+| 2026-03-25 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 24.4 | 26.4 | 83 | 12.2 | 0 |
+| 2026-03-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 28.6 | 67 | 19.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.0 | 📈 H: ₹94.0 | 📉 L: ₹92.21 <br>💵 USDT: ₹95.23 | 📈 H: ₹95.6 | 📉 L: ₹94.71 <br>♦ ETH: ₹202000.1 | 📈 H: ₹207995.4 | 📉 L: ₹201386.6 <br>₿ BTC: ₹6648760.0 | 📈 H: ₹6840986.0 | 📉 L: ₹6647642.0 <br>⚡ BNB: ₹61000.0 | 📈 H: ₹61601.64 | 📉 L: ₹59339.64 <br> 
+  🪙 USDC: ₹92.23 | 📈 H: ₹94.0 | 📉 L: ₹92.21 <br>💵 USDT: ₹94.82 | 📈 H: ₹95.6 | 📉 L: ₹94.71 <br>♦ ETH: ₹202000.0 | 📈 H: ₹207726.6 | 📉 L: ₹201386.6 <br>₿ BTC: ₹6648760.0 | 📈 H: ₹6822132.0 | 📉 L: ₹6610023.0 <br>⚡ BNB: ₹59671.05 | 📈 H: ₹61000.0 | 📉 L: ₹59339.64 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would say yes, but then I'd have to wake up from my daydream, and reality is far less pleasant. 🛑❌ 
+  I only celebrate events that involve cake, so unless there's cake, no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
