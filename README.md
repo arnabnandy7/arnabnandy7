@@ -15,18 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 25/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 10:19 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 27.5 °C  
+  <p>Kolkata, India - 26/03/2026</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 10:19 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 28.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.55 <strong>PM10:</strong> 32.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.15 <strong>PM10:</strong> 31.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-26 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.1 | 26.3 | 86 | 7.9 | 0 |
-| 2026-03-26 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.2 | 27.4 | 81 | 8.3 | 0 |
 | 2026-03-26 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.5 | 29.8 | 68 | 9.0 | 0 |
 | 2026-03-26 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 31.8 | 58 | 7.6 | 0 |
 | 2026-03-26 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 33.5 | 48 | 6.1 | 0 |
@@ -35,10 +33,12 @@
 | 2026-03-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 36.6 | 32 | 8.6 | 0 |
 | 2026-03-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 36.6 | 37.2 | 28 | 11.5 | 0 |
 | 2026-03-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 36.9 | 37.2 | 26 | 12.2 | 0 |
+| 2026-03-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 36.4 | 36.5 | 26 | 11.2 | 0 |
+| 2026-03-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.8 | 35.3 | 31 | 14.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.0 | 📈 H: ₹93.0 | 📉 L: ₹92.23 <br>💵 USDT: ₹95.5 | 📈 H: ₹95.86 | 📉 L: ₹94.52 <br>♦ ETH: ₹207500.0 | 📈 H: ₹207995.4 | 📉 L: ₹202835.9 <br>₿ BTC: ₹6745300.0 | 📈 H: ₹6822133.0 | 📉 L: ₹6640238.0 <br>⚡ BNB: ₹61185.25 | 📈 H: ₹62276.25 | 📉 L: ₹60370.79 <br> 
+  🪙 USDC: ₹93.0 | 📈 H: ₹93.0 | 📉 L: ₹92.23 <br>💵 USDT: ₹95.2 | 📈 H: ₹95.86 | 📉 L: ₹94.52 <br>♦ ETH: ₹207500.0 | 📈 H: ₹207995.4 | 📉 L: ₹202835.9 <br>₿ BTC: ₹6745375.0 | 📈 H: ₹6822133.0 | 📉 L: ₹6644784.0 <br>⚡ BNB: ₹61185.25 | 📈 H: ₹62276.25 | 📉 L: ₹60370.79 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd rather be the sole target in a paintball match than participate. 🛑❌ 
+  Saying yes once might give me a reputation for being helpful—can't have that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
