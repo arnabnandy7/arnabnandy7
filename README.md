@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 26/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:24 AM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 29.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:24 AM, Set: 12:36 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.05 <strong>PM10:</strong> 58.25</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 64.45 <strong>PM10:</strong> 69.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 35.5 | 30 | 7.9 | 0 |
 | 2026-03-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 35.9 | 36.2 | 28 | 8.6 | 0 |
 | 2026-03-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 36.0 | 36.2 | 27 | 10.4 | 0 |
 | 2026-03-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 35.7 | 36.0 | 29 | 11.9 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.1 | 29.8 | 59 | 19.1 | 0 |
 | 2026-03-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 29.0 | 67 | 20.5 | 0 |
 | 2026-03-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 28.4 | 72 | 16.9 | 0 |
+| 2026-03-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.0 | 28.1 | 75 | 15.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.0 | 📈 H: ₹93.0 | 📉 L: ₹92.23 <br>💵 USDT: ₹94.75 | 📈 H: ₹95.86 | 📉 L: ₹94.52 <br>♦ ETH: ₹203609.3 | 📈 H: ₹207995.4 | 📉 L: ₹203609.3 <br>₿ BTC: ₹6778751.0 | 📈 H: ₹6822133.0 | 📉 L: ₹6663971.0 <br>⚡ BNB: ₹60797.68 | 📈 H: ₹62276.25 | 📉 L: ₹60444.44 <br> 
+  🪙 USDC: ₹93.0 | 📈 H: ₹93.0 | 📉 L: ₹92.23 <br>💵 USDT: ₹95.0 | 📈 H: ₹95.86 | 📉 L: ₹94.52 <br>♦ ETH: ₹200800.1 | 📈 H: ₹207995.4 | 📉 L: ₹200283.2 <br>₿ BTC: ₹6735510.0 | 📈 H: ₹6822133.0 | 📉 L: ₹6650874.0 <br>⚡ BNB: ₹59970.59 | 📈 H: ₹62276.25 | 📉 L: ₹59970.59 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm experiencing JOMO (Joy Of Missing Out) for this event. 🛑❌ 
+  I'm way too popular with tasks I haven't done yet. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
