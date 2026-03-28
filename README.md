@@ -18,14 +18,13 @@
   <p>Kolkata, India - 28/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:32 PM, Set: 02:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 28.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:32 PM, Set: 02:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 27.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.45 <strong>PM10:</strong> 70.25</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.35 <strong>PM10:</strong> 65.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.1 | 26.5 | 66 | 10.4 | 100 |
 | 2026-03-28 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.0 | 26.6 | 69 | 11.2 | 81 |
 | 2026-03-28 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 26.6 | 75 | 10.8 | 0 |
 | 2026-03-29 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 26.8 | 79 | 10.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 27.5 | 84 | 13.0 | 0 |
 | 2026-03-29 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 27.4 | 87 | 14.0 | 0 |
 | 2026-03-29 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 28.5 | 83 | 18.4 | 0 |
+| 2026-03-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.9 | 30.9 | 71 | 23.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.5 | 📈 H: ₹95.5 | 📉 L: ₹93.16 <br>💵 USDT: ₹95.9 | 📈 H: ₹96.1 | 📉 L: ₹95.24 <br>♦ ETH: ₹193119.2 | 📈 H: ₹196055.5 | 📉 L: ₹190100.0 <br>₿ BTC: ₹6423300.0 | 📈 H: ₹6430328.0 | 📉 L: ₹6350000.0 <br>⚡ BNB: ₹59327.78 | 📈 H: ₹59327.78 | 📉 L: ₹57947.8 <br> 
+  🪙 USDC: ₹95.5 | 📈 H: ₹95.5 | 📉 L: ₹93.16 <br>💵 USDT: ₹95.63 | 📈 H: ₹96.1 | 📉 L: ₹95.24 <br>♦ ETH: ₹195000.0 | 📈 H: ₹196055.5 | 📉 L: ₹190100.1 <br>₿ BTC: ₹6423300.0 | 📈 H: ₹6430328.0 | 📉 L: ₹6350000.0 <br>⚡ BNB: ₹59327.78 | 📈 H: ₹59327.78 | 📉 L: ₹57947.8 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
