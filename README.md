@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 28/03/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:32 PM, Set: 02:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 52% | 🌡️ <strong>Feels Like:</strong> 29.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear  (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:32 PM, Set: 02:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 51.95 <strong>PM10:</strong> 57.45</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.85 <strong>PM10:</strong> 69.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 36.3 | 38.0 | 32 | 16.2 | 0 |
-| 2026-03-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.1 | 34.4 | 47 | 18.0 | 100 |
-| 2026-03-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 30.0 | 32.1 | 54 | 13.7 | 100 |
-| 2026-03-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.9 | 27.7 | 70 | 6.1 | 100 |
-| 2026-03-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.4 | 79 | 16.9 | 0 |
 | 2026-03-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.9 | 79 | 14.8 | 0 |
 | 2026-03-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.2 | 26.1 | 80 | 22.0 | 0 |
 | 2026-03-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.9 | 25.1 | 84 | 23.4 | 0 |
 | 2026-03-28 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 25.2 | 85 | 21.6 | 0 |
 | 2026-03-28 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.3 | 25.4 | 87 | 18.0 | 100 |
+| 2026-03-29 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.4 | 25.6 | 89 | 14.4 | 100 |
+| 2026-03-29 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.5 | 25.8 | 90 | 14.8 | 78 |
+| 2026-03-29 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 23.8 | 26.2 | 92 | 14.0 | 0 |
+| 2026-03-29 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy  | 24.3 | 26.8 | 91 | 11.9 | 0 |
+| 2026-03-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.7 | 27.3 | 90 | 12.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.5 | 📈 H: ₹95.5 | 📉 L: ₹93.16 <br>💵 USDT: ₹96.1 | 📈 H: ₹96.1 | 📉 L: ₹95.01 <br>♦ ETH: ₹196055.3 | 📈 H: ₹196351.1 | 📉 L: ₹190100.0 <br>₿ BTC: ₹6365001.0 | 📈 H: ₹6563854.0 | 📉 L: ₹6350000.0 <br>⚡ BNB: ₹58583.86 | 📈 H: ₹59530.33 | 📉 L: ₹57580.76 <br> 
+  🪙 USDC: ₹95.5 | 📈 H: ₹95.5 | 📉 L: ₹93.16 <br>💵 USDT: ₹95.99 | 📈 H: ₹96.1 | 📉 L: ₹95.24 <br>♦ ETH: ₹194676.7 | 📈 H: ₹196055.5 | 📉 L: ₹190100.0 <br>₿ BTC: ₹6430328.0 | 📈 H: ₹6464062.0 | 📉 L: ₹6350000.0 <br>⚡ BNB: ₹59327.78 | 📈 H: ₹59327.78 | 📉 L: ₹57580.76 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My laziness is in full bloom, and I cannot uproot it for this. 🛑❌ 
+  I'm in the middle of negotiating world peace (in a video game). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
