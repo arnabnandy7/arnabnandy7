@@ -18,14 +18,13 @@
   <p>Kolkata, India - 29/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy  (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:32 PM, Set: 03:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 31.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:32 PM, Set: 03:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.15 <strong>PM10:</strong> 38.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.05 <strong>PM10:</strong> 41.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-03-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 35.3 | 37.5 | 37 | 19.1 | 0 |
 | 2026-03-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.5 | 36.5 | 38 | 20.9 | 0 |
 | 2026-03-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.9 | 36.2 | 41 | 22.3 | 0 |
 | 2026-03-29 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.7 | 36.0 | 42 | 19.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-03-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 30.4 | 76 | 23.4 | 0 |
 | 2026-03-29 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 29.7 | 81 | 20.5 | 0 |
 | 2026-03-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 29.5 | 83 | 18.4 | 0 |
+| 2026-03-29 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 29.2 | 85 | 19.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.09 | 📈 H: ₹95.51 | 📉 L: ₹93.09 <br>💵 USDT: ₹95.89 | 📈 H: ₹96.1 | 📉 L: ₹95.24 <br>♦ ETH: ₹193999.8 | 📈 H: ₹196055.5 | 📉 L: ₹191000.1 <br>₿ BTC: ₹6371147.0 | 📈 H: ₹6430328.0 | 📉 L: ₹6365000.0 <br>⚡ BNB: ₹58470.35 | 📈 H: ₹59327.78 | 📉 L: ₹58390.24 <br> 
+  🪙 USDC: ₹93.09 | 📈 H: ₹95.51 | 📉 L: ₹93.09 <br>💵 USDT: ₹95.9 | 📈 H: ₹96.1 | 📉 L: ₹95.24 <br>♦ ETH: ₹193999.8 | 📈 H: ₹196055.5 | 📉 L: ₹191000.1 <br>₿ BTC: ₹6422300.0 | 📈 H: ₹6430328.0 | 📉 L: ₹6365000.0 <br>⚡ BNB: ₹58470.35 | 📈 H: ₹59327.78 | 📉 L: ₹58390.24 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm stuck in my closet's Narnia and can't get out to attend. 🛑❌ 
+  I'd rather search for the purpose of life than attend. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
