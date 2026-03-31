@@ -18,14 +18,13 @@
   <p>Kolkata, India - 31/03/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:24 PM, Set: 04:15 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:24 PM, Set: 04:15 AM)  <br>🌅 <strong>Sunrise:</strong> 05:31 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.55 <strong>PM10:</strong> 41.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.05 <strong>PM10:</strong> 38.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 27.4 | 90 | 11.9 | 0 |
 | 2026-04-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.8 | 27.4 | 90 | 12.2 | 0 |
 | 2026-04-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 29.0 | 83 | 13.7 | 0 |
 | 2026-04-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 32.2 | 68 | 16.6 | 0 |
@@ -35,6 +34,7 @@
 | 2026-04-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 38.5 | 30 | 14.4 | 0 |
 | 2026-04-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 38.7 | 26 | 14.0 | 0 |
 | 2026-04-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 38.7 | 23 | 13.3 | 0 |
+| 2026-04-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 38.8 | 22 | 14.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
