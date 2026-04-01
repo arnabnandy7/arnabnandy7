@@ -18,27 +18,27 @@
   <p>Kolkata, India - 01/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:18 PM, Set: 04:47 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 29.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:18 PM, Set: 04:47 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 29.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.85 <strong>PM10:</strong> 30.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.95 <strong>PM10:</strong> 25.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-01 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 36.9 | 44 | 15.5 | 0 |
-| 2026-04-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.6 | 38.0 | 36 | 14.8 | 0 |
-| 2026-04-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 38.5 | 30 | 14.4 | 0 |
-| 2026-04-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 38.7 | 26 | 14.0 | 0 |
-| 2026-04-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 38.7 | 23 | 13.3 | 0 |
-| 2026-04-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 38.8 | 22 | 14.8 | 0 |
-| 2026-04-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 38.4 | 24 | 18.4 | 0 |
-| 2026-04-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.6 | 37.4 | 29 | 22.7 | 0 |
-| 2026-04-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 34.7 | 43 | 26.6 | 0 |
-| 2026-04-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.0 | 32.0 | 54 | 25.9 | 0 |
+| 2026-04-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.1 | 38.0 | 28 | 14.0 | 0 |
+| 2026-04-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 38.1 | 23 | 13.7 | 0 |
+| 2026-04-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 38.2 | 20 | 13.3 | 0 |
+| 2026-04-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 38.6 | 18 | 13.7 | 0 |
+| 2026-04-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 37.9 | 20 | 14.8 | 0 |
+| 2026-04-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 37.0 | 25 | 19.4 | 0 |
+| 2026-04-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 34.7 | 37 | 23.4 | 0 |
+| 2026-04-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.4 | 32.1 | 50 | 25.6 | 0 |
+| 2026-04-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.7 | 31.0 | 61 | 24.8 | 0 |
+| 2026-04-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.9 | 30.4 | 68 | 22.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.91 | 📈 H: ₹101.0 | 📉 L: ₹94.0 <br>💵 USDT: ₹95.8 | 📈 H: ₹96.58 | 📉 L: ₹94.41 <br>♦ ETH: ₹202000.0 | 📈 H: ₹202000.0 | 📉 L: ₹193000.0 <br>₿ BTC: ₹6474958.0 | 📈 H: ₹6550000.0 | 📉 L: ₹6340001.0 <br>⚡ BNB: ₹58220.93 | 📈 H: ₹58800.0 | 📉 L: ₹57685.18 <br> 
+  🪙 USDC: ₹94.74 | 📈 H: ₹101.0 | 📉 L: ₹94.0 <br>💵 USDT: ₹95.81 | 📈 H: ₹96.58 | 📉 L: ₹94.41 <br>♦ ETH: ₹202000.0 | 📈 H: ₹202000.0 | 📉 L: ₹193000.0 <br>₿ BTC: ₹6492030.0 | 📈 H: ₹6550000.0 | 📉 L: ₹6340001.0 <br>⚡ BNB: ₹58335.47 | 📈 H: ₹58800.0 | 📉 L: ₹57685.18 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have too much on my plate, and I'm on a no-carb diet (no extra tasks). 🛑❌ 
+  I missed work because my bedroom was conducting a hostage situation with me as the hostage. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
