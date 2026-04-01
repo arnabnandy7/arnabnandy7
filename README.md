@@ -18,27 +18,27 @@
   <p>Kolkata, India - 01/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:18 PM, Set: 04:47 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 27.0 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 37.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:18 PM, Set: 04:47 AM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 31.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.45 <strong>PM10:</strong> 64.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.85 <strong>PM10:</strong> 63.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.1 | 30.0 | 76 | 27.7 | 0 |
-| 2026-04-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 29.6 | 74 | 23.0 | 0 |
-| 2026-04-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 29.4 | 75 | 19.1 | 0 |
-| 2026-04-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.6 | 29.1 | 76 | 19.4 | 0 |
-| 2026-04-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 28.8 | 76 | 19.4 | 0 |
-| 2026-04-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 28.5 | 74 | 19.8 | 0 |
-| 2026-04-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 28.2 | 74 | 17.3 | 0 |
-| 2026-04-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.9 | 27.9 | 74 | 17.6 | 0 |
-| 2026-04-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.7 | 27.6 | 74 | 15.1 | 0 |
-| 2026-04-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 28.9 | 67 | 16.2 | 0 |
+| 2026-04-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 29.5 | 69 | 18.0 | 0 |
+| 2026-04-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.7 | 29.1 | 73 | 17.6 | 0 |
+| 2026-04-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 28.9 | 74 | 16.9 | 0 |
+| 2026-04-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 28.6 | 74 | 16.6 | 0 |
+| 2026-04-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.1 | 28.2 | 74 | 14.8 | 0 |
+| 2026-04-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.9 | 27.9 | 72 | 13.0 | 0 |
+| 2026-04-02 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.7 | 27.5 | 71 | 13.3 | 0 |
+| 2026-04-02 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.6 | 27.3 | 70 | 14.8 | 0 |
+| 2026-04-02 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 28.6 | 64 | 18.7 | 0 |
+| 2026-04-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 31.3 | 49 | 23.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.99 | 📈 H: ₹96.99 | 📉 L: ₹94.35 <br>💵 USDT: ₹95.72 | 📈 H: ₹96.65 | 📉 L: ₹94.41 <br>♦ ETH: ₹200916.6 | 📈 H: ₹206989.8 | 📉 L: ₹193000.0 <br>₿ BTC: ₹6590275.0 | 📈 H: ₹6662566.0 | 📉 L: ₹6340001.0 <br>⚡ BNB: ₹59469.27 | 📈 H: ₹59469.27 | 📉 L: ₹57685.18 <br> 
+  🪙 USDC: ₹96.99 | 📈 H: ₹96.99 | 📉 L: ₹94.35 <br>💵 USDT: ₹95.71 | 📈 H: ₹96.65 | 📉 L: ₹94.41 <br>♦ ETH: ₹204324.9 | 📈 H: ₹206989.8 | 📉 L: ₹193000.0 <br>₿ BTC: ₹6512614.0 | 📈 H: ₹6662566.0 | 📉 L: ₹6340001.0 <br>⚡ BNB: ₹58010.08 | 📈 H: ₹59469.27 | 📉 L: ₹57685.18 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I could maybe be convinced, but I'd likely still say no in the end. 🛑❌ 
+  My evil twin might be interested; too bad they're busy too. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
