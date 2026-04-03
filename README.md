@@ -18,14 +18,13 @@
   <p>Kolkata, India - 03/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:05 PM, Set: 05:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:05 PM, Set: 05:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 18.0 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.45 <strong>PM10:</strong> 17.45</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.45 <strong>PM10:</strong> 17.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-03 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 33.6 | 40 | 18.0 | 0 |
 | 2026-04-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 36.0 | 32 | 14.8 | 0 |
 | 2026-04-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 37.8 | 26 | 11.5 | 0 |
 | 2026-04-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 38.8 | 22 | 7.9 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.6 | 40.8 | 18 | 13.7 | 0 |
 | 2026-04-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 39.0 | 23 | 20.2 | 0 |
 | 2026-04-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 36.3 | 36 | 25.2 | 0 |
+| 2026-04-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 31.0 | 33.3 | 51 | 25.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.67 | 📈 H: ₹95.68 | 📉 L: ₹95.58 <br>💵 USDT: ₹96.0 | 📈 H: ₹96.99 | 📉 L: ₹95.57 <br>♦ ETH: ₹196394.4 | 📈 H: ₹203504.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6410259.0 | 📈 H: ₹6530809.0 | 📉 L: ₹6360365.0 <br>⚡ BNB: ₹55856.53 | 📈 H: ₹58123.36 | 📉 L: ₹55243.13 <br> 
+  🪙 USDC: ₹95.67 | 📈 H: ₹95.68 | 📉 L: ₹95.58 <br>💵 USDT: ₹95.89 | 📈 H: ₹96.99 | 📉 L: ₹95.57 <br>♦ ETH: ₹196344.9 | 📈 H: ₹201416.3 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6410259.0 | 📈 H: ₹6503904.0 | 📉 L: ₹6360365.0 <br>⚡ BNB: ₹55670.07 | 📈 H: ₹57718.29 | 📉 L: ₹55243.13 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
