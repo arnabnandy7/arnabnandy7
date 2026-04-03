@@ -18,27 +18,27 @@
   <p>Kolkata, India - 03/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:05 PM, Set: 05:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 18.0 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:04 PM, Set: 05:52 AM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 31.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.45 <strong>PM10:</strong> 17.15</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.85 <strong>PM10:</strong> 17.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-03 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 36.0 | 32 | 14.8 | 0 |
-| 2026-04-03 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 37.8 | 26 | 11.5 | 0 |
-| 2026-04-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 38.8 | 22 | 7.9 | 0 |
-| 2026-04-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 39.9 | 18 | 5.8 | 0 |
-| 2026-04-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.6 | 40.9 | 17 | 5.0 | 0 |
-| 2026-04-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.9 | 41.3 | 16 | 7.9 | 0 |
-| 2026-04-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.6 | 40.8 | 18 | 13.7 | 0 |
-| 2026-04-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 39.0 | 23 | 20.2 | 0 |
-| 2026-04-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 36.3 | 36 | 25.2 | 0 |
-| 2026-04-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 31.0 | 33.3 | 51 | 25.2 | 0 |
+| 2026-04-03 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.5 | 38.6 | 23 | 14.4 | 0 |
+| 2026-04-03 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.6 | 39.3 | 20 | 12.6 | 0 |
+| 2026-04-03 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 40.3 | 18 | 10.4 | 0 |
+| 2026-04-03 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 40.2 | 19 | 14.0 | 0 |
+| 2026-04-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 39.4 | 23 | 20.9 | 0 |
+| 2026-04-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.3 | 38.1 | 27 | 25.2 | 0 |
+| 2026-04-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 35.2 | 39 | 27.0 | 0 |
+| 2026-04-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.5 | 32.5 | 51 | 24.8 | 0 |
+| 2026-04-03 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 31.3 | 62 | 23.0 | 0 |
+| 2026-04-03 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.1 | 30.9 | 68 | 22.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.67 | 📈 H: ₹95.68 | 📉 L: ₹95.58 <br>💵 USDT: ₹95.89 | 📈 H: ₹96.99 | 📉 L: ₹95.57 <br>♦ ETH: ₹196344.9 | 📈 H: ₹201416.3 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6410259.0 | 📈 H: ₹6503904.0 | 📉 L: ₹6360365.0 <br>⚡ BNB: ₹55670.07 | 📈 H: ₹57718.29 | 📉 L: ₹55243.13 <br> 
+  🪙 USDC: ₹95.78 | 📈 H: ₹95.78 | 📉 L: ₹95.58 <br>💵 USDT: ₹95.91 | 📈 H: ₹96.99 | 📉 L: ₹95.57 <br>♦ ETH: ₹196834.4 | 📈 H: ₹200073.1 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6382839.0 | 📈 H: ₹6473899.0 | 📉 L: ₹6360365.0 <br>⚡ BNB: ₹56085.26 | 📈 H: ₹57718.29 | 📉 L: ₹55243.13 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  At this point, saying yes would just feel wrong. 🛑❌ 
+  I'm in the middle of a very important procrastination marathon. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
