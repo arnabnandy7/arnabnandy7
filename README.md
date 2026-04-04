@@ -18,27 +18,27 @@
   <p>Kolkata, India - 04/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:59 PM, Set: 06:26 AM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 30.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:59 PM, Set: 06:26 AM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 32.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.75 <strong>PM10:</strong> 20.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.75 <strong>PM10:</strong> 21.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-04 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.6 | 37.1 | 33 | 7.9 | 0 |
-| 2026-04-04 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 38.3 | 26 | 8.6 | 0 |
-| 2026-04-04 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 39.2 | 21 | 8.6 | 0 |
-| 2026-04-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 40.5 | 18 | 6.1 | 0 |
-| 2026-04-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.0 | 41.4 | 16 | 7.6 | 0 |
-| 2026-04-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.2 | 41.8 | 15 | 11.5 | 0 |
-| 2026-04-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.8 | 41.1 | 15 | 14.0 | 0 |
-| 2026-04-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 38.6 | 20 | 4.0 | 0 |
-| 2026-04-04 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 36.5 | 36 | 19.8 | 0 |
-| 2026-04-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 31.6 | 34.4 | 51 | 24.1 | 0 |
+| 2026-04-04 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.1 | 38.5 | 29 | 5.4 | 0 |
+| 2026-04-04 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.5 | 39.6 | 26 | 3.6 | 0 |
+| 2026-04-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 40.1 | 23 | 5.4 | 0 |
+| 2026-04-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 40.0 | 40.2 | 21 | 5.8 | 0 |
+| 2026-04-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 40.2 | 40.2 | 20 | 5.4 | 0 |
+| 2026-04-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 39.9 | 39.8 | 20 | 5.8 | 0 |
+| 2026-04-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 38.7 | 26 | 14.4 | 0 |
+| 2026-04-04 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 36.2 | 38 | 23.8 | 0 |
+| 2026-04-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 31.2 | 34.0 | 52 | 25.6 | 0 |
+| 2026-04-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.7 | 32.9 | 63 | 25.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.24 | 📈 H: ₹95.78 | 📉 L: ₹95.24 <br>💵 USDT: ₹96.16 | 📈 H: ₹96.89 | 📉 L: ₹95.89 <br>♦ ETH: ₹196284.3 | 📈 H: ₹200000.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6425441.0 | 📈 H: ₹6516177.0 | 📉 L: ₹6380866.0 <br>⚡ BNB: ₹56126.29 | 📈 H: ₹57531.03 | 📉 L: ₹55588.56 <br> 
+  🪙 USDC: ₹95.24 | 📈 H: ₹95.78 | 📉 L: ₹95.24 <br>💵 USDT: ₹96.15 | 📈 H: ₹96.89 | 📉 L: ₹95.91 <br>♦ ETH: ₹199983.8 | 📈 H: ₹200000.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6425441.0 | 📈 H: ₹6516177.0 | 📉 L: ₹6380866.0 <br>⚡ BNB: ₹56126.29 | 📈 H: ₹57531.03 | 📉 L: ₹55588.56 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I agreed, I'd have to explain it to my therapist. 🛑❌ 
+  I'm writing a book called '101 Ways to Say No' – thanks for the material. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
