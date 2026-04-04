@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 04/04/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:59 PM, Set: 06:26 AM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 32.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy  (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:59 PM, Set: 06:26 AM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.35 <strong>PM10:</strong> 25.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.55 <strong>PM10:</strong> 29.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-04 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 40.1 | 23 | 5.4 | 0 |
 | 2026-04-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 40.0 | 40.2 | 21 | 5.8 | 0 |
 | 2026-04-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 40.2 | 40.2 | 20 | 5.4 | 0 |
 | 2026-04-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 39.9 | 39.8 | 20 | 5.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.7 | 32.9 | 63 | 25.6 | 0 |
 | 2026-04-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 32.3 | 68 | 26.6 | 0 |
 | 2026-04-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 32.0 | 71 | 27.4 | 0 |
+| 2026-04-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.4 | 31.8 | 71 | 24.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.24 | 📈 H: ₹95.78 | 📉 L: ₹95.24 <br>💵 USDT: ₹96.16 | 📈 H: ₹96.89 | 📉 L: ₹95.91 <br>♦ ETH: ₹196074.4 | 📈 H: ₹200000.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6425441.0 | 📈 H: ₹6516177.0 | 📉 L: ₹6389946.0 <br>⚡ BNB: ₹57529.78 | 📈 H: ₹57563.98 | 📉 L: ₹55588.56 <br> 
+  🪙 USDC: ₹95.24 | 📈 H: ₹95.78 | 📉 L: ₹95.24 <br>💵 USDT: ₹96.16 | 📈 H: ₹96.89 | 📉 L: ₹95.96 <br>♦ ETH: ₹199997.0 | 📈 H: ₹200000.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6425442.0 | 📈 H: ₹6516177.0 | 📉 L: ₹6407125.0 <br>⚡ BNB: ₹57529.78 | 📈 H: ₹57563.98 | 📉 L: ₹55588.56 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm writing a book called '101 Ways to Say No' – thanks for the material. 🛑❌ 
+  Please excuse me, my brain is currently out of order. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
