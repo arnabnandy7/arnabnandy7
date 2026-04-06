@@ -18,7 +18,7 @@
   <p>Kolkata, India - 06/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:49 PM, Set: 07:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 21.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:49 PM, Set: 07:45 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 21.3 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 63.05 <strong>PM10:</strong> 69.35</p>
 
@@ -38,7 +38,7 @@
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.59 | 📈 H: ₹95.0 | 📉 L: ₹94.2 <br>💵 USDT: ₹95.06 | 📈 H: ₹96.22 | 📉 L: ₹93.19 <br>♦ ETH: ₹206348.4 | 📈 H: ₹206350.0 | 📉 L: ₹196558.5 <br>₿ BTC: ₹6683041.0 | 📈 H: ₹6692819.0 | 📉 L: ₹6429658.0 <br>⚡ BNB: ₹57510.0 | 📈 H: ₹57647.94 | 📉 L: ₹56240.0 <br> 
+  🪙 USDC: ₹95.0 | 📈 H: ₹95.0 | 📉 L: ₹94.2 <br>💵 USDT: ₹95.06 | 📈 H: ₹96.22 | 📉 L: ₹93.19 <br>♦ ETH: ₹203718.8 | 📈 H: ₹206350.0 | 📉 L: ₹196558.5 <br>₿ BTC: ₹6614356.0 | 📈 H: ₹6692819.0 | 📉 L: ₹6429658.0 <br>⚡ BNB: ₹57510.0 | 📈 H: ₹57647.94 | 📉 L: ₹56240.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
