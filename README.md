@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 07/04/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/299.png"/>
-  <p>Moderate rain at times (মাঝে মাঝে মাঝারি বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:42 PM, Set: 08:30 AM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 26.3 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:42 PM, Set: 08:30 AM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 34.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.75 <strong>PM10:</strong> 47.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 40.05 <strong>PM10:</strong> 48.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/299.png) Moderate rain at times | 20.6 | 20.6 | 91 | 23.0 | 100 |
 | 2026-04-07 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.0 | 25.1 | 80 | 21.2 | 80 |
 | 2026-04-07 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.5 | 77 | 18.0 | 0 |
 | 2026-04-07 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.6 | 25.5 | 78 | 15.5 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-08 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.4 | 25.3 | 73 | 8.3 | 0 |
 | 2026-04-08 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.0 | 25.1 | 74 | 9.7 | 0 |
 | 2026-04-08 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.1 | 25.1 | 75 | 13.0 | 0 |
+| 2026-04-08 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.5 | 25.4 | 77 | 10.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.0 | 📈 H: ₹95.0 | 📉 L: ₹94.2 <br>💵 USDT: ₹95.75 | 📈 H: ₹96.39 | 📉 L: ₹93.19 <br>♦ ETH: ₹200437.1 | 📈 H: ₹206350.0 | 📉 L: ₹200000.1 <br>₿ BTC: ₹6515184.0 | 📈 H: ₹6692819.0 | 📉 L: ₹6509795.0 <br>⚡ BNB: ₹57495.03 | 📈 H: ₹58000.0 | 📉 L: ₹56669.26 <br> 
+  🪙 USDC: ₹95.0 | 📈 H: ₹95.0 | 📉 L: ₹94.2 <br>💵 USDT: ₹95.9 | 📈 H: ₹96.39 | 📉 L: ₹93.19 <br>♦ ETH: ₹199070.0 | 📈 H: ₹206350.0 | 📉 L: ₹199070.0 <br>₿ BTC: ₹6582000.0 | 📈 H: ₹6692819.0 | 📉 L: ₹6509795.0 <br>⚡ BNB: ₹57005.45 | 📈 H: ₹58000.0 | 📉 L: ₹56669.26 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That idea and I go together like oil and water. 🛑❌ 
+  The gods of procrastination demand I sacrifice this task by not doing it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
