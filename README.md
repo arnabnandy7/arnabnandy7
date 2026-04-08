@@ -18,14 +18,13 @@
   <p>Kolkata, India - 08/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:34 PM, Set: 09:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 24.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:34 PM, Set: 09:20 AM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 24.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.05 <strong>PM10:</strong> 32.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.65 <strong>PM10:</strong> 26.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-09 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.9 | 26.0 | 86 | 9.7 | 0 |
 | 2026-04-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 23.7 | 25.9 | 88 | 14.4 | 0 |
 | 2026-04-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.7 | 25.9 | 88 | 8.6 | 100 |
 | 2026-04-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.0 | 26.2 | 87 | 7.2 | 100 |
@@ -35,6 +34,7 @@
 | 2026-04-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 28.7 | 75 | 9.0 | 0 |
 | 2026-04-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.0 | 29.4 | 72 | 5.8 | 0 |
 | 2026-04-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.4 | 32.1 | 61 | 2.9 | 0 |
+| 2026-04-09 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 34.1 | 51 | 6.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
