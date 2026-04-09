@@ -18,27 +18,27 @@
   <p>Kolkata, India - 09/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: No moonrise, Set: 10:13 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 25.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: No moonrise, Set: 10:13 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 24.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 121.45 <strong>PM10:</strong> 139.15</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 131.75 <strong>PM10:</strong> 148.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.5 | 26.6 | 82 | 2.5 | 0 |
-| 2026-04-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.3 | 82 | 6.5 | 0 |
-| 2026-04-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.8 | 25.9 | 84 | 8.6 | 0 |
-| 2026-04-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.0 | 27.0 | 78 | 6.5 | 0 |
-| 2026-04-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 29.2 | 66 | 5.4 | 0 |
-| 2026-04-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 31.1 | 53 | 3.2 | 0 |
-| 2026-04-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 31.9 | 37 | 6.1 | 0 |
-| 2026-04-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 32.2 | 26 | 10.1 | 0 |
-| 2026-04-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.2 | 32.9 | 24 | 11.5 | 0 |
-| 2026-04-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 33.5 | 22 | 14.0 | 0 |
+| 2026-04-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 22.8 | 25.0 | 82 | 8.3 | 0 |
+| 2026-04-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 22.7 | 24.9 | 81 | 6.8 | 0 |
+| 2026-04-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.2 | 25.9 | 74 | 4.3 | 0 |
+| 2026-04-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 27.6 | 62 | 2.9 | 0 |
+| 2026-04-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 29.2 | 50 | 1.8 | 0 |
+| 2026-04-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 29.8 | 32 | 6.5 | 0 |
+| 2026-04-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.0 | 30.7 | 26 | 11.9 | 0 |
+| 2026-04-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 31.6 | 25 | 15.8 | 0 |
+| 2026-04-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 32.2 | 24 | 19.4 | 0 |
+| 2026-04-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 32.4 | 23 | 21.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.96 | 📈 H: ₹95.28 | 📉 L: ₹94.62 <br>💵 USDT: ₹95.96 | 📈 H: ₹96.68 | 📉 L: ₹95.35 <br>♦ ETH: ₹211580.3 | 📈 H: ₹212830.4 | 📉 L: ₹205386.0 <br>₿ BTC: ₹6845776.0 | 📈 H: ₹6930000.0 | 📉 L: ₹6700613.0 <br>⚡ BNB: ₹57752.13 | 📈 H: ₹58105.18 | 📉 L: ₹57108.82 <br> 
+  🪙 USDC: ₹94.96 | 📈 H: ₹95.28 | 📉 L: ₹94.62 <br>💵 USDT: ₹95.52 | 📈 H: ₹96.68 | 📉 L: ₹95.4 <br>♦ ETH: ₹212580.2 | 📈 H: ₹212830.4 | 📉 L: ₹205386.0 <br>₿ BTC: ₹6949998.0 | 📈 H: ₹6949998.0 | 📉 L: ₹6700613.0 <br>⚡ BNB: ₹57752.13 | 📈 H: ₹58105.18 | 📉 L: ₹57108.82 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Time is a non-renewable resource, and I choose not to spend any on that. 🛑❌ 
+  Let me put it in a language you understand: No. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
