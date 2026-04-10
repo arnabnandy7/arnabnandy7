@@ -18,27 +18,27 @@
   <p>Kolkata, India - 10/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 12:22 AM, Set: 11:08 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 48% | 🌡️ <strong>Feels Like:</strong> 28.0 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 12:22 AM, Set: 11:09 AM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 26.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.95 <strong>PM10:</strong> 79.75</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 71.65 <strong>PM10:</strong> 100.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-10 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.1 | 28.1 | 55 | 11.9 | 0 |
-| 2026-04-10 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 28.1 | 61 | 11.2 | 0 |
-| 2026-04-10 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.3 | 27.9 | 65 | 12.6 | 0 |
-| 2026-04-11 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.8 | 27.6 | 71 | 13.3 | 0 |
-| 2026-04-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.5 | 27.5 | 76 | 13.3 | 0 |
-| 2026-04-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.3 | 27.4 | 79 | 13.3 | 0 |
-| 2026-04-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 25.1 | 27.3 | 81 | 13.0 | 0 |
-| 2026-04-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 27.1 | 83 | 13.0 | 0 |
-| 2026-04-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 24.6 | 27.0 | 87 | 13.3 | 0 |
-| 2026-04-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 28.9 | 81 | 15.5 | 0 |
+| 2026-04-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.9 | 26.5 | 68 | 12.2 | 0 |
+| 2026-04-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.6 | 26.2 | 71 | 12.2 | 0 |
+| 2026-04-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.3 | 26.0 | 73 | 11.5 | 0 |
+| 2026-04-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 24.0 | 25.9 | 77 | 11.2 | 0 |
+| 2026-04-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 23.9 | 25.8 | 80 | 11.2 | 0 |
+| 2026-04-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.3 | 27.3 | 76 | 11.5 | 0 |
+| 2026-04-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 30.2 | 63 | 13.7 | 0 |
+| 2026-04-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 31.9 | 44 | 12.2 | 0 |
+| 2026-04-11 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 32.0 | 26 | 10.4 | 0 |
+| 2026-04-11 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 32.4 | 19 | 9.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.95 | 📈 H: ₹95.26 | 📉 L: ₹94.68 <br>💵 USDT: ₹95.41 | 📈 H: ₹96.68 | 📉 L: ₹95.19 <br>♦ ETH: ₹214620.0 | 📈 H: ₹214620.0 | 📉 L: ₹207000.0 <br>₿ BTC: ₹6999999.0 | 📈 H: ₹6999999.0 | 📉 L: ₹6712477.0 <br>⚡ BNB: ₹57364.33 | 📈 H: ₹58393.29 | 📉 L: ₹56984.21 <br> 
+  🪙 USDC: ₹94.85 | 📈 H: ₹95.26 | 📉 L: ₹94.68 <br>💵 USDT: ₹95.41 | 📈 H: ₹96.44 | 📉 L: ₹95.19 <br>♦ ETH: ₹213151.9 | 📈 H: ₹214620.0 | 📉 L: ₹207000.0 <br>₿ BTC: ₹6920118.0 | 📈 H: ₹7000899.0 | 📉 L: ₹6799141.0 <br>⚡ BNB: ₹57627.97 | 📈 H: ₹58649.98 | 📉 L: ₹56984.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm there in thought, just not in body or actual presence. 🛑❌ 
+  I'm waiting for my phone to recharge—can't do anything until it's at 100%. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
