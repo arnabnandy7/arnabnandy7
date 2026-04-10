@@ -18,27 +18,27 @@
   <p>Kolkata, India - 10/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 12:22 AM, Set: 11:08 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 25.6 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 12:22 AM, Set: 11:08 AM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 28.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 142.45 <strong>PM10:</strong> 154.55</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 149.35 <strong>PM10:</strong> 162.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.7 | 29.8 | 31 | 6.8 | 0 |
-| 2026-04-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.1 | 30.8 | 26 | 11.9 | 0 |
-| 2026-04-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 31.6 | 24 | 15.8 | 0 |
-| 2026-04-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 32.2 | 24 | 19.1 | 0 |
-| 2026-04-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 32.5 | 22 | 21.2 | 0 |
-| 2026-04-10 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.2 | 32.4 | 21 | 20.2 | 0 |
-| 2026-04-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 32.4 | 18 | 21.2 | 0 |
-| 2026-04-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 31.6 | 19 | 19.4 | 0 |
-| 2026-04-10 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 29.6 | 23 | 11.2 | 0 |
-| 2026-04-10 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.1 | 28.2 | 22 | 5.0 | 0 |
+| 2026-04-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 31.7 | 26 | 8.6 | 0 |
+| 2026-04-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 33.8 | 32.6 | 24 | 14.4 | 0 |
+| 2026-04-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.3 | 33.1 | 24 | 18.4 | 0 |
+| 2026-04-10 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.4 | 33.2 | 24 | 19.4 | 0 |
+| 2026-04-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy  | 34.4 | 32.9 | 22 | 21.6 | 0 |
+| 2026-04-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 32.1 | 22 | 20.5 | 0 |
+| 2026-04-10 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 30.0 | 24 | 13.7 | 0 |
+| 2026-04-10 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.1 | 28.3 | 24 | 5.4 | 0 |
+| 2026-04-10 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.6 | 27.8 | 33 | 10.4 | 0 |
+| 2026-04-10 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 27.3 | 46 | 11.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.68 | 📈 H: ₹95.28 | 📉 L: ₹94.68 <br>💵 USDT: ₹95.97 | 📈 H: ₹96.68 | 📉 L: ₹95.46 <br>♦ ETH: ₹211973.0 | 📈 H: ₹213000.0 | 📉 L: ₹206005.4 <br>₿ BTC: ₹6845761.0 | 📈 H: ₹6981926.0 | 📉 L: ₹6712477.0 <br>⚡ BNB: ₹57700.0 | 📈 H: ₹58393.29 | 📉 L: ₹57108.82 <br> 
+  🪙 USDC: ₹94.68 | 📈 H: ₹95.28 | 📉 L: ₹94.68 <br>💵 USDT: ₹95.7 | 📈 H: ₹96.68 | 📉 L: ₹95.51 <br>♦ ETH: ₹207965.1 | 📈 H: ₹213000.0 | 📉 L: ₹206005.4 <br>₿ BTC: ₹6845000.0 | 📈 H: ₹6981926.0 | 📉 L: ₹6712477.0 <br>⚡ BNB: ₹56984.21 | 📈 H: ₹58393.29 | 📉 L: ₹56984.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm saving my enthusiasm for something duller. 🛑❌ 
+  I gave up saying yes for Lent, and it hasn't ended yet. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
