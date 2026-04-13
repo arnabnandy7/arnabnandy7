@@ -18,14 +18,13 @@
   <p>Kolkata, India - 13/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:23 AM, Set: 01:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:56 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:23 AM, Set: 01:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:56 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
 
   <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.25 <strong>PM10:</strong> 31.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.7 | 30.1 | 84 | 19.4 | 0 |
 | 2026-04-14 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.5 | 29.9 | 85 | 18.0 | 0 |
 | 2026-04-14 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.2 | 29.5 | 86 | 17.3 | 0 |
 | 2026-04-14 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 29.3 | 87 | 15.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 37.0 | 41 | 11.9 | 0 |
 | 2026-04-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 37.2 | 30 | 9.0 | 0 |
 | 2026-04-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 37.6 | 23 | 7.6 | 0 |
+| 2026-04-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 38.2 | 19 | 7.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.99 | 📈 H: ₹95.23 | 📉 L: ₹94.89 <br>💵 USDT: ₹95.6 | 📈 H: ₹96.2 | 📉 L: ₹95.24 <br>♦ ETH: ₹214544.3 | 📈 H: ₹214773.5 | 📉 L: ₹207706.7 <br>₿ BTC: ₹7000000.0 | 📈 H: ₹7000000.0 | 📉 L: ₹6790000.0 <br>⚡ BNB: ₹57284.85 | 📈 H: ₹58449.99 | 📉 L: ₹56287.89 <br> 
+  🪙 USDC: ₹94.99 | 📈 H: ₹95.23 | 📉 L: ₹94.89 <br>💵 USDT: ₹95.6 | 📈 H: ₹96.2 | 📉 L: ₹95.24 <br>♦ ETH: ₹214773.6 | 📈 H: ₹214773.6 | 📉 L: ₹207706.7 <br>₿ BTC: ₹6941237.0 | 📈 H: ₹7000000.0 | 📉 L: ₹6790000.0 <br>⚡ BNB: ₹57284.85 | 📈 H: ₹58449.99 | 📉 L: ₹56287.89 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
