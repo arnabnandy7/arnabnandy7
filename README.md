@@ -18,27 +18,27 @@
   <p>Kolkata, India - 14/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:59 AM, Set: 02:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:59 AM, Set: 02:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 31.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.15 <strong>PM10:</strong> 27.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.15 <strong>PM10:</strong> 25.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 35.6 | 34 | 8.6 | 0 |
-| 2026-04-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 35.9 | 23 | 7.6 | 0 |
-| 2026-04-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 37.0 | 18 | 6.5 | 0 |
-| 2026-04-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 38.3 | 15 | 7.2 | 0 |
-| 2026-04-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.6 | 39.4 | 13 | 9.0 | 0 |
-| 2026-04-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 40.0 | 12 | 10.4 | 0 |
-| 2026-04-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 40.1 | 11 | 13.3 | 0 |
-| 2026-04-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 38.0 | 15 | 13.0 | 0 |
-| 2026-04-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 34.9 | 32 | 14.4 | 0 |
-| 2026-04-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.8 | 33.3 | 53 | 22.7 | 0 |
+| 2026-04-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 37.5 | 26 | 3.6 | 0 |
+| 2026-04-14 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 37.5 | 21 | 6.1 | 0 |
+| 2026-04-14 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.0 | 38.4 | 17 | 7.6 | 0 |
+| 2026-04-14 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 39.2 | 15 | 9.4 | 0 |
+| 2026-04-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.6 | 39.3 | 13 | 13.0 | 0 |
+| 2026-04-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 37.7 | 16 | 11.9 | 0 |
+| 2026-04-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 35.0 | 29 | 12.2 | 0 |
+| 2026-04-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 31.1 | 33.3 | 50 | 20.2 | 0 |
+| 2026-04-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.5 | 33.0 | 64 | 22.7 | 0 |
+| 2026-04-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.7 | 32.4 | 71 | 22.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.57 | 📈 H: ₹95.0 | 📉 L: ₹94.57 <br>💵 USDT: ₹95.62 | 📈 H: ₹96.2 | 📉 L: ₹95.35 <br>♦ ETH: ₹227799.7 | 📈 H: ₹227869.5 | 📉 L: ₹207706.7 <br>₿ BTC: ₹7115963.0 | 📈 H: ₹7126000.0 | 📉 L: ₹6790000.0 <br>⚡ BNB: ₹58602.19 | 📈 H: ₹58602.19 | 📉 L: ₹56705.7 <br> 
+  🪙 USDC: ₹94.57 | 📈 H: ₹95.0 | 📉 L: ₹94.57 <br>💵 USDT: ₹95.61 | 📈 H: ₹96.2 | 📉 L: ₹95.35 <br>♦ ETH: ₹223400.1 | 📈 H: ₹227869.5 | 📉 L: ₹207706.7 <br>₿ BTC: ₹7102941.0 | 📈 H: ₹7126000.0 | 📉 L: ₹6790000.0 <br>⚡ BNB: ₹58602.19 | 📈 H: ₹58602.19 | 📉 L: ₹56705.7 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Not my circus, not my monkeys—so definitely not my act to perform. 🛑❌ 
+  I'm currently trending towards 'no'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
