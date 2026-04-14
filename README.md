@@ -16,25 +16,25 @@
 
 <div align="center">
   <p>Kolkata, India - 14/04/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear  (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:59 AM, Set: 02:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:59 AM, Set: 02:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.55 <strong>PM10:</strong> 41.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.25 <strong>PM10:</strong> 32.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.4 | 29.8 | 85 | 19.8 | 0 |
-| 2026-04-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.4 | 29.7 | 85 | 20.2 | 0 |
-| 2026-04-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 31.4 | 77 | 23.0 | 0 |
-| 2026-04-15 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 34.1 | 62 | 23.8 | 0 |
-| 2026-04-15 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 36.6 | 50 | 24.1 | 0 |
-| 2026-04-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 38.5 | 43 | 23.4 | 0 |
-| 2026-04-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 39.9 | 37 | 22.0 | 0 |
-| 2026-04-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 40.5 | 32 | 21.6 | 0 |
-| 2026-04-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 40.8 | 30 | 23.0 | 0 |
-| 2026-04-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 40.9 | 30 | 23.8 | 0 |
+| 2026-04-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 29.7 | 88 | 17.6 | 0 |
+| 2026-04-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 31.6 | 79 | 19.4 | 0 |
+| 2026-04-15 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 34.2 | 65 | 19.8 | 0 |
+| 2026-04-15 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 36.6 | 54 | 19.4 | 0 |
+| 2026-04-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 38.6 | 46 | 19.8 | 0 |
+| 2026-04-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 39.8 | 38 | 19.1 | 0 |
+| 2026-04-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 40.2 | 32 | 18.7 | 0 |
+| 2026-04-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 40.3 | 28 | 20.2 | 0 |
+| 2026-04-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.3 | 40.3 | 29 | 22.0 | 0 |
+| 2026-04-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 40.2 | 31 | 23.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
