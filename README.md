@@ -18,27 +18,27 @@
   <p>Kolkata, India - 14/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:59 AM, Set: 02:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:59 AM, Set: 02:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.35 <strong>PM10:</strong> 34.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.95 <strong>PM10:</strong> 44.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.6 | 39.3 | 13 | 13.0 | 0 |
-| 2026-04-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 37.7 | 16 | 11.9 | 0 |
-| 2026-04-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 35.0 | 29 | 12.2 | 0 |
-| 2026-04-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 31.1 | 33.3 | 50 | 20.2 | 0 |
-| 2026-04-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.5 | 33.0 | 64 | 22.7 | 0 |
-| 2026-04-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.7 | 32.4 | 71 | 22.3 | 0 |
-| 2026-04-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 31.9 | 77 | 22.0 | 0 |
-| 2026-04-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.6 | 31.6 | 81 | 22.3 | 0 |
-| 2026-04-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.3 | 31.2 | 82 | 22.7 | 0 |
-| 2026-04-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 30.7 | 83 | 22.7 | 0 |
+| 2026-04-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.6 | 39.1 | 34 | 23.8 | 0 |
+| 2026-04-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 36.8 | 51 | 27.0 | 0 |
+| 2026-04-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 30.3 | 34.4 | 64 | 27.0 | 0 |
+| 2026-04-14 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.8 | 33.0 | 74 | 27.4 | 0 |
+| 2026-04-14 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.0 | 32.2 | 79 | 27.0 | 0 |
+| 2026-04-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.7 | 31.8 | 82 | 26.6 | 0 |
+| 2026-04-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.5 | 31.7 | 83 | 26.3 | 0 |
+| 2026-04-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.2 | 31.3 | 84 | 25.9 | 0 |
+| 2026-04-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.0 | 30.8 | 84 | 24.8 | 0 |
+| 2026-04-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 26.8 | 30.5 | 84 | 23.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.46 | 📈 H: ₹95.0 | 📉 L: ₹94.46 <br>💵 USDT: ₹95.61 | 📈 H: ₹96.2 | 📉 L: ₹95.51 <br>♦ ETH: ₹226213.8 | 📈 H: ₹227869.5 | 📉 L: ₹207706.7 <br>₿ BTC: ₹7078381.0 | 📈 H: ₹7126000.0 | 📉 L: ₹6790000.0 <br>⚡ BNB: ₹58240.8 | 📈 H: ₹58602.19 | 📉 L: ₹56705.7 <br> 
+  🪙 USDC: ₹94.46 | 📈 H: ₹95.0 | 📉 L: ₹94.46 <br>💵 USDT: ₹95.17 | 📈 H: ₹96.2 | 📉 L: ₹95.17 <br>♦ ETH: ₹226129.5 | 📈 H: ₹227869.5 | 📉 L: ₹207706.7 <br>₿ BTC: ₹7059792.0 | 📈 H: ₹7126000.0 | 📉 L: ₹6790000.0 <br>⚡ BNB: ₹58460.45 | 📈 H: ₹58602.19 | 📉 L: ₹56705.7 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to keep the couch from floating away, it's an important job. 🛑❌ 
+  I lent my time machine to a friend and now I can't go back and free up this afternoon. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
