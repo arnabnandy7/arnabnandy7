@@ -18,27 +18,27 @@
   <p>Kolkata, India - 15/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:33 AM, Set: 03:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:17 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:33 AM, Set: 03:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:17 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 31.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.15 <strong>PM10:</strong> 27.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.05 <strong>PM10:</strong> 25.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-15 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 38.6 | 46 | 19.8 | 0 |
-| 2026-04-15 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 39.8 | 38 | 19.1 | 0 |
-| 2026-04-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 40.2 | 32 | 18.7 | 0 |
-| 2026-04-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 40.3 | 28 | 20.2 | 0 |
-| 2026-04-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.3 | 40.3 | 29 | 22.0 | 0 |
-| 2026-04-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 40.2 | 31 | 23.8 | 0 |
-| 2026-04-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.6 | 39.8 | 36 | 26.3 | 0 |
-| 2026-04-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 38.5 | 43 | 28.1 | 0 |
-| 2026-04-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 36.3 | 55 | 28.1 | 0 |
-| 2026-04-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.7 | 33.7 | 67 | 26.6 | 0 |
+| 2026-04-15 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 39.8 | 31 | 20.5 | 0 |
+| 2026-04-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 39.7 | 27 | 20.9 | 0 |
+| 2026-04-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.3 | 39.8 | 27 | 22.7 | 0 |
+| 2026-04-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 39.5 | 30 | 24.8 | 0 |
+| 2026-04-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 39.1 | 35 | 26.6 | 0 |
+| 2026-04-15 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 37.9 | 42 | 27.7 | 0 |
+| 2026-04-15 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 35.9 | 53 | 27.4 | 0 |
+| 2026-04-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 29.8 | 33.5 | 65 | 26.6 | 0 |
+| 2026-04-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 28.5 | 32.3 | 73 | 25.9 | 0 |
+| 2026-04-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear  | 27.9 | 31.9 | 78 | 24.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.23 | 📈 H: ₹96.64 | 📉 L: ₹94.23 <br>💵 USDT: ₹95.1 | 📈 H: ₹95.99 | 📉 L: ₹95.1 <br>♦ ETH: ₹221144.3 | 📈 H: ₹228050.0 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7047044.0 | 📈 H: ₹7196192.0 | 📉 L: ₹7030375.0 <br>⚡ BNB: ₹58459.89 | 📈 H: ₹59450.0 | 📉 L: ₹57284.85 <br> 
+  🪙 USDC: ₹94.23 | 📈 H: ₹96.64 | 📉 L: ₹94.23 <br>💵 USDT: ₹95.61 | 📈 H: ₹95.98 | 📉 L: ₹94.64 <br>♦ ETH: ₹221144.3 | 📈 H: ₹228050.0 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7021020.0 | 📈 H: ₹7196192.0 | 📉 L: ₹7016000.0 <br>⚡ BNB: ₹57928.97 | 📈 H: ₹59450.0 | 📉 L: ₹57909.1 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My legs have filed a complaint about excessive walking. 🛑❌ 
+  My fish needs a walk and it takes priority. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
