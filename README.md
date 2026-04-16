@@ -18,14 +18,13 @@
   <p>Kolkata, India - 16/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:08 AM, Set: 04:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:08 AM, Set: 04:52 PM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 05:57 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.65 <strong>PM10:</strong> 26.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.65 <strong>PM10:</strong> 23.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.3 | 28.5 | 75 | 10.1 | 0 |
 | 2026-04-17 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.6 | 29.4 | 78 | 11.2 | 0 |
 | 2026-04-17 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.7 | 29.7 | 80 | 11.5 | 0 |
 | 2026-04-17 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 26.5 | 29.8 | 83 | 10.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-17 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.4 | 31.0 | 79 | 12.2 | 0 |
 | 2026-04-17 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 33.1 | 69 | 13.3 | 0 |
 | 2026-04-17 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 35.3 | 58 | 14.0 | 0 |
+| 2026-04-17 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 37.1 | 49 | 15.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.97 | 📈 H: ₹96.46 | 📉 L: ₹93.6 <br>💵 USDT: ₹95.05 | 📈 H: ₹95.61 | 📉 L: ₹94.16 <br>♦ ETH: ₹218092.8 | 📈 H: ₹226697.6 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7093880.0 | 📈 H: ₹7130888.0 | 📉 L: ₹7000000.0 <br>⚡ BNB: ₹58614.05 | 📈 H: ₹59344.86 | 📉 L: ₹57834.09 <br> 
+  🪙 USDC: ₹93.48 | 📈 H: ₹96.46 | 📉 L: ₹93.48 <br>💵 USDT: ₹95.16 | 📈 H: ₹95.61 | 📉 L: ₹94.16 <br>♦ ETH: ₹221490.3 | 📈 H: ₹226697.6 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7020010.0 | 📈 H: ₹7130888.0 | 📉 L: ₹7000000.0 <br>⚡ BNB: ₹58775.85 | 📈 H: ₹59344.86 | 📉 L: ₹57834.09 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
