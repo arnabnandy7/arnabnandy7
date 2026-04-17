@@ -18,27 +18,27 @@
   <p>Kolkata, India - 17/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:46 AM, Set: 05:55 PM)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 34.2 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:46 AM, Set: 05:55 PM)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 25.2 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 37.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.55 <strong>PM10:</strong> 22.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.75 <strong>PM10:</strong> 21.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.7 | 41.0 | 39 | 20.9 | 0 |
-| 2026-04-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.2 | 39.3 | 43 | 21.6 | 0 |
-| 2026-04-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 37.2 | 52 | 23.8 | 0 |
-| 2026-04-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.9 | 34.7 | 59 | 23.4 | 0 |
-| 2026-04-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 33.2 | 65 | 23.8 | 0 |
-| 2026-04-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 32.4 | 70 | 23.8 | 0 |
-| 2026-04-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 31.9 | 75 | 21.6 | 0 |
-| 2026-04-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 31.6 | 78 | 19.8 | 0 |
-| 2026-04-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.5 | 31.3 | 80 | 19.4 | 0 |
-| 2026-04-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.3 | 31.0 | 81 | 18.0 | 0 |
+| 2026-04-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 38.2 | 51 | 25.2 | 0 |
+| 2026-04-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.5 | 35.9 | 59 | 22.7 | 60 |
+| 2026-04-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 34.2 | 65 | 20.9 | 0 |
+| 2026-04-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.0 | 32.9 | 70 | 23.8 | 0 |
+| 2026-04-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.3 | 32.2 | 75 | 23.8 | 0 |
+| 2026-04-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.0 | 31.9 | 77 | 23.8 | 0 |
+| 2026-04-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.7 | 31.6 | 79 | 23.0 | 0 |
+| 2026-04-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.3 | 80 | 22.0 | 0 |
+| 2026-04-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.4 | 31.2 | 81 | 20.5 | 0 |
+| 2026-04-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.2 | 31.0 | 82 | 19.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.7 | 📈 H: ₹93.97 | 📉 L: ₹93.35 <br>💵 USDT: ₹94.21 | 📈 H: ₹95.61 | 📉 L: ₹94.17 <br>♦ ETH: ₹222312.2 | 📈 H: ₹222500.0 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7098550.0 | 📈 H: ₹7110000.0 | 📉 L: ₹7000000.0 <br>⚡ BNB: ₹59797.56 | 📈 H: ₹59797.56 | 📉 L: ₹57834.09 <br> 
+  🪙 USDC: ₹93.7 | 📈 H: ₹93.97 | 📉 L: ₹93.35 <br>💵 USDT: ₹94.21 | 📈 H: ₹95.61 | 📉 L: ₹94.17 <br>♦ ETH: ₹221533.2 | 📈 H: ₹222481.6 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7159452.0 | 📈 H: ₹7160192.0 | 📉 L: ₹7000000.0 <br>⚡ BNB: ₹59797.56 | 📈 H: ₹59797.56 | 📉 L: ₹57834.09 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Somewhere in a parallel universe I’m more helpful. This isn’t that universe. 🛑❌ 
+  My PTO (Permission To Opt-out) is in effect. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
