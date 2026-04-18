@@ -18,27 +18,27 @@
   <p>Kolkata, India - 18/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:28 AM, Set: 07:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 21.6 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 34.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:28 AM, Set: 07:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 25.6 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.65 <strong>PM10:</strong> 23.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.25 <strong>PM10:</strong> 32.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.1 | 40.6 | 36 | 24.8 | 0 |
-| 2026-04-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 39.1 | 41 | 24.8 | 0 |
-| 2026-04-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 36.5 | 49 | 25.9 | 0 |
-| 2026-04-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.4 | 34.0 | 61 | 26.3 | 0 |
-| 2026-04-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.0 | 32.8 | 70 | 24.8 | 0 |
-| 2026-04-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.5 | 32.3 | 73 | 23.8 | 0 |
-| 2026-04-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 31.9 | 76 | 24.1 | 0 |
-| 2026-04-18 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 31.6 | 77 | 23.4 | 0 |
-| 2026-04-18 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.2 | 79 | 23.0 | 0 |
-| 2026-04-19 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 30.8 | 80 | 23.0 | 0 |
+| 2026-04-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 38.0 | 47 | 29.5 | 0 |
+| 2026-04-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 35.9 | 57 | 28.4 | 0 |
+| 2026-04-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 33.7 | 67 | 28.1 | 0 |
+| 2026-04-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 32.6 | 71 | 27.0 | 0 |
+| 2026-04-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.4 | 32.2 | 74 | 27.0 | 0 |
+| 2026-04-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 31.9 | 76 | 26.6 | 0 |
+| 2026-04-18 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 31.7 | 78 | 24.8 | 0 |
+| 2026-04-18 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.2 | 80 | 23.8 | 0 |
+| 2026-04-19 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 30.8 | 80 | 22.3 | 0 |
+| 2026-04-19 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.1 | 30.5 | 81 | 21.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.7 | 📈 H: ₹93.97 | 📉 L: ₹93.35 <br>💵 USDT: ₹95.48 | 📈 H: ₹95.95 | 📉 L: ₹94.2 <br>♦ ETH: ₹228874.8 | 📈 H: ₹233990.5 | 📉 L: ₹218520.0 <br>₿ BTC: ₹7274393.0 | 📈 H: ₹7419717.0 | 📉 L: ₹7050696.0 <br>⚡ BNB: ₹60705.67 | 📈 H: ₹61498.97 | 📉 L: ₹58709.44 <br> 
+  🪙 USDC: ₹93.7 | 📈 H: ₹93.97 | 📉 L: ₹93.35 <br>💵 USDT: ₹95.2 | 📈 H: ₹95.95 | 📉 L: ₹94.2 <br>♦ ETH: ₹228874.0 | 📈 H: ₹233990.5 | 📉 L: ₹219490.7 <br>₿ BTC: ₹7353780.0 | 📈 H: ₹7419717.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹60705.67 | 📈 H: ₹61498.97 | 📉 L: ₹58709.44 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, I'd be lying to both of us—and my therapist said to stop doing that. 🛑❌ 
+  Picture a Venn diagram of my schedule and your request—they don't overlap. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
