@@ -18,27 +18,27 @@
   <p>Kolkata, India - 18/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:28 AM, Set: 07:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:28 AM, Set: 07:02 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.65 <strong>PM10:</strong> 17.75</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.25 <strong>PM10:</strong> 19.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 38.0 | 51 | 18.4 | 0 |
-| 2026-04-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.4 | 39.8 | 43 | 18.0 | 0 |
-| 2026-04-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.7 | 40.9 | 39 | 18.0 | 0 |
-| 2026-04-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 41.4 | 36 | 19.8 | 0 |
-| 2026-04-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 41.4 | 34 | 22.0 | 0 |
-| 2026-04-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 41.1 | 34 | 23.8 | 0 |
-| 2026-04-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.6 | 40.3 | 38 | 25.2 | 0 |
-| 2026-04-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 38.6 | 44 | 25.6 | 0 |
-| 2026-04-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 36.3 | 52 | 25.6 | 0 |
-| 2026-04-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.2 | 33.8 | 62 | 26.3 | 0 |
+| 2026-04-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 41.0 | 37 | 17.3 | 0 |
+| 2026-04-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 41.6 | 33 | 19.1 | 0 |
+| 2026-04-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 41.5 | 31 | 21.6 | 0 |
+| 2026-04-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 41.3 | 32 | 24.1 | 0 |
+| 2026-04-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.1 | 40.6 | 36 | 24.8 | 0 |
+| 2026-04-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 39.1 | 41 | 24.8 | 0 |
+| 2026-04-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 36.5 | 49 | 25.9 | 0 |
+| 2026-04-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.4 | 34.0 | 61 | 26.3 | 0 |
+| 2026-04-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.0 | 32.8 | 70 | 24.8 | 0 |
+| 2026-04-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.5 | 32.3 | 73 | 23.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹93.7 | 📈 H: ₹93.97 | 📉 L: ₹93.35 <br>💵 USDT: ₹95.04 | 📈 H: ₹95.95 | 📉 L: ₹94.18 <br>♦ ETH: ₹229546.5 | 📈 H: ₹233990.5 | 📉 L: ₹218520.0 <br>₿ BTC: ₹7362969.0 | 📈 H: ₹7419717.0 | 📉 L: ₹7020879.0 <br>⚡ BNB: ₹60517.23 | 📈 H: ₹61498.97 | 📉 L: ₹58709.44 <br> 
+  🪙 USDC: ₹93.7 | 📈 H: ₹93.97 | 📉 L: ₹93.35 <br>💵 USDT: ₹94.9 | 📈 H: ₹95.95 | 📉 L: ₹94.18 <br>♦ ETH: ₹228874.8 | 📈 H: ₹233990.5 | 📉 L: ₹218520.0 <br>₿ BTC: ₹7253687.0 | 📈 H: ₹7419717.0 | 📉 L: ₹7020879.0 <br>⚡ BNB: ₹60274.26 | 📈 H: ₹61498.97 | 📉 L: ₹58709.44 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm booked solid with introspection (which is code for doing nothing). 🛑❌ 
+  I'm more of an 'observe from afar' person than a 'participate' person. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
