@@ -18,15 +18,13 @@
   <p>Kolkata, India - 19/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:15 AM, Set: 08:11 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 28.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:15 AM, Set: 08:11 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.85 <strong>PM10:</strong> 31.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.55 <strong>PM10:</strong> 29.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-19 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 31.4 | 76 | 27.4 | 0 |
-| 2026-04-20 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 31.0 | 74 | 26.6 | 0 |
 | 2026-04-20 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 30.6 | 78 | 24.1 | 0 |
 | 2026-04-20 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.1 | 30.3 | 79 | 20.2 | 0 |
 | 2026-04-20 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.9 | 29.9 | 79 | 16.2 | 0 |
@@ -35,10 +33,12 @@
 | 2026-04-20 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 31.9 | 76 | 24.1 | 0 |
 | 2026-04-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.7 | 34.7 | 61 | 23.8 | 0 |
 | 2026-04-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 37.6 | 49 | 24.8 | 0 |
+| 2026-04-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.9 | 40.0 | 41 | 25.2 | 0 |
+| 2026-04-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 41.9 | 36 | 25.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.33 | 📈 H: ₹96.68 | 📉 L: ₹94.0 <br>💵 USDT: ₹95.84 | 📈 H: ₹96.7 | 📉 L: ₹95.16 <br>♦ ETH: ₹222570.0 | 📈 H: ₹227754.4 | 📉 L: ₹221618.7 <br>₿ BTC: ₹7200201.0 | 📈 H: ₹7314223.0 | 📉 L: ₹7155795.0 <br>⚡ BNB: ₹59356.14 | 📈 H: ₹60999.44 | 📉 L: ₹59035.9 <br> 
+  🪙 USDC: ₹95.33 | 📈 H: ₹96.68 | 📉 L: ₹94.0 <br>💵 USDT: ₹95.83 | 📈 H: ₹96.7 | 📉 L: ₹95.16 <br>♦ ETH: ₹222570.0 | 📈 H: ₹227754.4 | 📉 L: ₹221618.7 <br>₿ BTC: ₹7200000.0 | 📈 H: ₹7314223.0 | 📉 L: ₹7155795.0 <br>⚡ BNB: ₹59356.14 | 📈 H: ₹60999.44 | 📉 L: ₹59035.9 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a chronic condition called 'idontwanna'. 🛑❌ 
+  I'm feeling as active as a sloth on vacation. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
