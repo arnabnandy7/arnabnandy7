@@ -18,27 +18,27 @@
   <p>Kolkata, India - 20/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:09 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 05:59 PM  <br>💨 <strong>Wind:</strong> 25.6 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 31.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:09 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 05:59 PM  <br>💨 <strong>Wind:</strong> 27.0 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 34.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.45 <strong>PM10:</strong> 29.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.35 <strong>PM10:</strong> 26.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 39.8 | 42 | 24.5 | 0 |
-| 2026-04-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 41.6 | 38 | 25.9 | 0 |
-| 2026-04-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.9 | 42.6 | 37 | 28.1 | 0 |
-| 2026-04-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 42.9 | 37 | 27.4 | 0 |
-| 2026-04-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.9 | 43.0 | 38 | 27.0 | 0 |
-| 2026-04-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.4 | 42.4 | 39 | 29.2 | 0 |
-| 2026-04-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.1 | 41.3 | 43 | 29.9 | 0 |
-| 2026-04-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 39.5 | 50 | 30.6 | 0 |
-| 2026-04-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 36.9 | 60 | 29.9 | 0 |
-| 2026-04-20 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.4 | 34.0 | 71 | 28.1 | 0 |
+| 2026-04-20 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 42.2 | 36 | 27.7 | 0 |
+| 2026-04-20 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 42.7 | 36 | 27.4 | 0 |
+| 2026-04-20 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 42.8 | 37 | 27.7 | 0 |
+| 2026-04-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.3 | 42.3 | 39 | 29.9 | 0 |
+| 2026-04-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.1 | 41.1 | 43 | 29.9 | 0 |
+| 2026-04-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 39.3 | 49 | 31.3 | 0 |
+| 2026-04-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 36.5 | 60 | 30.2 | 0 |
+| 2026-04-20 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.4 | 33.7 | 70 | 28.8 | 0 |
+| 2026-04-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.5 | 32.7 | 75 | 25.6 | 0 |
+| 2026-04-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.4 | 32.4 | 76 | 26.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.08 | 📈 H: ₹95.6 | 📉 L: ₹94.0 <br>💵 USDT: ₹95.57 | 📈 H: ₹96.7 | 📉 L: ₹95.21 <br>♦ ETH: ₹217827.2 | 📈 H: ₹225721.5 | 📉 L: ₹217827.2 <br>₿ BTC: ₹7100033.0 | 📈 H: ₹7314223.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹59062.45 | 📈 H: ₹60399.95 | 📉 L: ₹59022.55 <br> 
+  🪙 USDC: ₹95.08 | 📈 H: ₹95.6 | 📉 L: ₹94.0 <br>💵 USDT: ₹95.57 | 📈 H: ₹96.7 | 📉 L: ₹95.21 <br>♦ ETH: ₹221474.3 | 📈 H: ₹225721.5 | 📉 L: ₹217827.2 <br>₿ BTC: ₹7186483.0 | 📈 H: ₹7314196.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹59034.9 | 📈 H: ₹60399.95 | 📉 L: ₹59022.55 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Why do today what I can avoid indefinitely? 🛑❌ 
+  My brain is at full capacity with useless information, there's no room for new tasks. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
