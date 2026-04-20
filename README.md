@@ -18,27 +18,27 @@
   <p>Kolkata, India - 20/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:09 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 05:59 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:09 AM, Set: 09:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 05:59 PM  <br>💨 <strong>Wind:</strong> 30.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.75 <strong>PM10:</strong> 41.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.45 <strong>PM10:</strong> 37.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 32.3 | 78 | 28.4 | 0 |
-| 2026-04-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.0 | 32.0 | 79 | 27.0 | 0 |
-| 2026-04-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.7 | 31.5 | 79 | 26.3 | 0 |
-| 2026-04-21 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.2 | 80 | 23.8 | 0 |
-| 2026-04-21 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 30.9 | 80 | 23.0 | 0 |
-| 2026-04-21 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.1 | 30.7 | 81 | 24.1 | 0 |
-| 2026-04-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.0 | 30.6 | 83 | 24.1 | 0 |
-| 2026-04-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.8 | 30.5 | 85 | 22.3 | 0 |
-| 2026-04-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 30.2 | 84 | 19.8 | 0 |
-| 2026-04-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.2 | 32.1 | 76 | 23.0 | 0 |
+| 2026-04-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.7 | 31.2 | 64 | 10.4 | 0 |
+| 2026-04-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.3 | 30.6 | 64 | 9.7 | 0 |
+| 2026-04-21 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.0 | 30.2 | 65 | 13.0 | 0 |
+| 2026-04-21 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.7 | 29.9 | 66 | 11.5 | 0 |
+| 2026-04-21 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.1 | 29.5 | 71 | 14.0 | 0 |
+| 2026-04-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.0 | 29.9 | 76 | 19.1 | 0 |
+| 2026-04-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.9 | 30.0 | 79 | 18.0 | 0 |
+| 2026-04-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.8 | 30.0 | 82 | 16.9 | 0 |
+| 2026-04-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.3 | 32.3 | 75 | 21.6 | 0 |
+| 2026-04-21 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 35.2 | 65 | 22.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.56 | 📈 H: ₹97.56 | 📉 L: ₹95.08 <br>💵 USDT: ₹95.86 | 📈 H: ₹96.58 | 📉 L: ₹95.56 <br>♦ ETH: ₹217997.7 | 📈 H: ₹224600.0 | 📉 L: ₹217827.2 <br>₿ BTC: ₹7259791.0 | 📈 H: ₹7303381.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹59354.48 | 📈 H: ₹60399.95 | 📉 L: ₹59022.55 <br> 
+  🪙 USDC: ₹97.56 | 📈 H: ₹97.56 | 📉 L: ₹95.08 <br>💵 USDT: ₹95.86 | 📈 H: ₹96.58 | 📉 L: ₹95.56 <br>♦ ETH: ₹219784.7 | 📈 H: ₹224600.0 | 📉 L: ₹217827.2 <br>₿ BTC: ₹7186175.0 | 📈 H: ₹7303356.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹59354.48 | 📈 H: ₹60399.95 | 📉 L: ₹59022.55 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd join but I accidentally walked under a ladder and broke a mirror. Not chancing it. 🛑❌ 
+  I misheard you, I thought you said 'do you want a taco'. Since you didn't, I'm not interested. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
