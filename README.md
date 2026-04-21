@@ -18,27 +18,27 @@
   <p>Kolkata, India - 21/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:09 AM, Set: 10:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 05:59 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:09 AM, Set: 10:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 05:59 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.55 <strong>PM10:</strong> 28.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.15 <strong>PM10:</strong> 25.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 30.8 | 80 | 15.8 | 0 |
-| 2026-04-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.0 | 30.4 | 81 | 15.1 | 0 |
-| 2026-04-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 30.0 | 84 | 14.0 | 0 |
-| 2026-04-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 32.5 | 76 | 17.3 | 0 |
-| 2026-04-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 35.6 | 60 | 14.0 | 0 |
-| 2026-04-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.2 | 37.9 | 45 | 10.4 | 0 |
-| 2026-04-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 39.3 | 33 | 8.3 | 0 |
-| 2026-04-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.4 | 40.1 | 23 | 5.8 | 0 |
-| 2026-04-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.1 | 41.6 | 18 | 3.2 | 0 |
-| 2026-04-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.2 | 43.3 | 14 | 0.7 | 0 |
+| 2026-04-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.6 | 30.0 | 83 | 12.2 | 0 |
+| 2026-04-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.5 | 29.5 | 81 | 11.5 | 0 |
+| 2026-04-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 31.9 | 68 | 14.8 | 0 |
+| 2026-04-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 35.0 | 51 | 13.3 | 0 |
+| 2026-04-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 37.3 | 36 | 10.8 | 0 |
+| 2026-04-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 38.2 | 25 | 6.8 | 0 |
+| 2026-04-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 40.2 | 18 | 2.2 | 0 |
+| 2026-04-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.6 | 42.4 | 14 | 0.7 | 0 |
+| 2026-04-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.4 | 43.6 | 11 | 2.2 | 0 |
+| 2026-04-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 43.1 | 44.7 | 10 | 6.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹95.17 | 📈 H: ₹96.19 | 📉 L: ₹94.67 <br>♦ ETH: ₹218883.0 | 📈 H: ₹223000.0 | 📉 L: ₹215763.6 <br>₿ BTC: ₹7145434.0 | 📈 H: ₹7327184.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹59322.15 | 📈 H: ₹60996.83 | 📉 L: ₹59320.07 <br> 
+  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹95.16 | 📈 H: ₹96.19 | 📉 L: ₹94.67 <br>♦ ETH: ₹217655.2 | 📈 H: ₹223000.0 | 📉 L: ₹215763.6 <br>₿ BTC: ₹7109047.0 | 📈 H: ₹7327184.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹59322.15 | 📈 H: ₹60996.83 | 📉 L: ₹59320.07 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It's not procrastination if I never planned on doing it. 🛑❌ 
+  The odds of me doing that are about the same as winning the lottery without buying a ticket. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
