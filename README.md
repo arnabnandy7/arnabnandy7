@@ -18,14 +18,13 @@
   <p>Kolkata, India - 22/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:11 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:11 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 31.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.45 <strong>PM10:</strong> 40.75</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.55 <strong>PM10:</strong> 44.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.8 | 42.6 | 15 | 8.3 | 0 |
 | 2026-04-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.5 | 43.8 | 13 | 6.5 | 0 |
 | 2026-04-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.6 | 43.9 | 15 | 8.3 | 0 |
 | 2026-04-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 41.7 | 24 | 16.9 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-22 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.0 | 70 | 25.2 | 0 |
 | 2026-04-22 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 33.3 | 78 | 26.6 | 0 |
 | 2026-04-22 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 32.9 | 80 | 25.9 | 0 |
+| 2026-04-22 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 32.4 | 79 | 24.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹95.0 | 📈 H: ₹96.13 | 📉 L: ₹94.17 <br>♦ ETH: ₹228600.0 | 📈 H: ₹228600.0 | 📉 L: ₹215340.6 <br>₿ BTC: ₹7364941.0 | 📈 H: ₹7439267.0 | 📉 L: ₹7086146.0 <br>⚡ BNB: ₹60999.44 | 📈 H: ₹60999.44 | 📉 L: ₹59240.45 <br> 
+  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹95.16 | 📈 H: ₹96.1 | 📉 L: ₹94.17 <br>♦ ETH: ₹228599.8 | 📈 H: ₹228600.0 | 📉 L: ₹215340.6 <br>₿ BTC: ₹7369701.0 | 📈 H: ₹7439267.0 | 📉 L: ₹7086146.0 <br>⚡ BNB: ₹60614.58 | 📈 H: ₹60999.44 | 📉 L: ₹59240.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My brain highlighted that request and hit the delete key. 🛑❌ 
+  I don't have enough mana for that quest. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
