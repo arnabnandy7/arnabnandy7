@@ -18,14 +18,13 @@
   <p>Kolkata, India - 22/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:11 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:11 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 34.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.25 <strong>PM10:</strong> 40.75</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.55 <strong>PM10:</strong> 50.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.6 | 42.4 | 19 | 16.2 | 0 |
 | 2026-04-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 41.8 | 36 | 30.6 | 0 |
 | 2026-04-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.6 | 54 | 30.6 | 0 |
 | 2026-04-22 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.6 | 35.6 | 67 | 27.7 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-22 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.3 | 33.0 | 80 | 18.0 | 0 |
 | 2026-04-22 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 32.6 | 80 | 17.3 | 0 |
 | 2026-04-23 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 32.1 | 80 | 18.4 | 0 |
+| 2026-04-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.6 | 31.6 | 81 | 16.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹95.81 | 📈 H: ₹95.99 | 📉 L: ₹94.17 <br>♦ ETH: ₹225792.1 | 📈 H: ₹228600.0 | 📉 L: ₹215340.6 <br>₿ BTC: ₹7462317.0 | 📈 H: ₹7462317.0 | 📉 L: ₹7086146.0 <br>⚡ BNB: ₹60697.92 | 📈 H: ₹60999.44 | 📉 L: ₹59240.45 <br> 
+  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹95.35 | 📈 H: ₹95.99 | 📉 L: ₹94.17 <br>♦ ETH: ₹226034.5 | 📈 H: ₹228600.0 | 📉 L: ₹215340.6 <br>₿ BTC: ₹7383349.0 | 📈 H: ₹7466064.0 | 📉 L: ₹7086146.0 <br>⚡ BNB: ₹61200.0 | 📈 H: ₹61200.0 | 📉 L: ₹59240.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I don't have enough mana for that quest. 🛑❌ 
+  I was abducted by aliens yesterday and they gave me strict instructions to avoid that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
