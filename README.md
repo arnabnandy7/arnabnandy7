@@ -18,27 +18,27 @@
   <p>Kolkata, India - 22/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:11 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:28 PM)  <br>🌅 <strong>Sunrise:</strong> 05:11 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.15 <strong>PM10:</strong> 22.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.05 <strong>PM10:</strong> 31.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 38.2 | 25 | 6.8 | 0 |
-| 2026-04-22 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 40.2 | 18 | 2.2 | 0 |
-| 2026-04-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.6 | 42.4 | 14 | 0.7 | 0 |
-| 2026-04-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.4 | 43.6 | 11 | 2.2 | 0 |
-| 2026-04-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 43.1 | 44.7 | 10 | 6.1 | 0 |
-| 2026-04-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 43.1 | 44.7 | 11 | 5.0 | 0 |
-| 2026-04-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.2 | 41.8 | 19 | 14.0 | 0 |
-| 2026-04-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 41.1 | 30 | 24.1 | 0 |
-| 2026-04-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.6 | 38.6 | 45 | 28.4 | 0 |
-| 2026-04-22 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.3 | 35.7 | 60 | 28.4 | 0 |
+| 2026-04-22 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.8 | 41.1 | 17 | 9.7 | 0 |
+| 2026-04-22 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.8 | 42.6 | 15 | 8.3 | 0 |
+| 2026-04-22 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.5 | 43.8 | 13 | 6.5 | 0 |
+| 2026-04-22 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 42.6 | 43.9 | 15 | 8.3 | 0 |
+| 2026-04-22 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 41.7 | 24 | 16.9 | 0 |
+| 2026-04-22 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.4 | 40.9 | 35 | 24.5 | 0 |
+| 2026-04-22 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 38.4 | 47 | 28.4 | 0 |
+| 2026-04-22 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 35.4 | 60 | 27.4 | 0 |
+| 2026-04-22 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.0 | 70 | 25.2 | 0 |
+| 2026-04-22 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 33.3 | 78 | 26.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹94.22 | 📈 H: ₹96.17 | 📉 L: ₹94.22 <br>♦ ETH: ₹222724.9 | 📈 H: ₹223000.0 | 📉 L: ₹215340.6 <br>₿ BTC: ₹7274939.0 | 📈 H: ₹7324969.0 | 📉 L: ₹7086146.0 <br>⚡ BNB: ₹59240.45 | 📈 H: ₹60996.83 | 📉 L: ₹59240.45 <br> 
+  🪙 USDC: ₹94.75 | 📈 H: ₹94.75 | 📉 L: ₹94.75 <br>💵 USDT: ₹94.65 | 📈 H: ₹96.16 | 📉 L: ₹94.17 <br>♦ ETH: ₹222764.1 | 📈 H: ₹224512.1 | 📉 L: ₹215340.6 <br>₿ BTC: ₹7305811.0 | 📈 H: ₹7363016.0 | 📉 L: ₹7086146.0 <br>⚡ BNB: ₹60500.0 | 📈 H: ₹60996.83 | 📉 L: ₹59240.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to trust my gut—and it's gently suggesting a no. 🛑❌ 
+  My brain highlighted that request and hit the delete key. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
