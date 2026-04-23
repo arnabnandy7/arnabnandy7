@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 35.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.95 <strong>PM10:</strong> 30.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.45 <strong>PM10:</strong> 27.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 29.7 | 86 | 11.5 | 0 |
-| 2026-04-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.2 | 29.4 | 86 | 12.2 | 0 |
-| 2026-04-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.2 | 29.3 | 85 | 13.0 | 0 |
-| 2026-04-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 31.9 | 71 | 17.6 | 0 |
-| 2026-04-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 34.7 | 54 | 18.7 | 0 |
-| 2026-04-24 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 37.2 | 40 | 18.0 | 0 |
-| 2026-04-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 39.4 | 33 | 17.3 | 0 |
-| 2026-04-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.7 | 40.9 | 28 | 17.6 | 0 |
-| 2026-04-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 42.0 | 25 | 19.4 | 0 |
-| 2026-04-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.7 | 42.4 | 24 | 21.2 | 0 |
+| 2026-04-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 29.3 | 88 | 11.5 | 0 |
+| 2026-04-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 29.2 | 88 | 12.2 | 0 |
+| 2026-04-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 31.8 | 76 | 14.4 | 0 |
+| 2026-04-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.8 | 34.5 | 59 | 14.0 | 0 |
+| 2026-04-24 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 37.0 | 45 | 14.0 | 0 |
+| 2026-04-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 39.1 | 35 | 15.1 | 0 |
+| 2026-04-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.3 | 40.4 | 29 | 16.2 | 0 |
+| 2026-04-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.9 | 41.4 | 24 | 18.0 | 0 |
+| 2026-04-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.8 | 41.7 | 21 | 19.4 | 0 |
+| 2026-04-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.0 | 41.7 | 21 | 21.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.95 | 📈 H: ₹96.7 | 📉 L: ₹94.36 <br>💵 USDT: ₹95.99 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹222330.0 | 📈 H: ₹229000.0 | 📉 L: ₹221414.1 <br>₿ BTC: ₹7390455.0 | 📈 H: ₹7527750.0 | 📉 L: ₹7333918.0 <br>⚡ BNB: ₹60215.02 | 📈 H: ₹62040.27 | 📉 L: ₹59726.69 <br> 
+  🪙 USDC: ₹94.95 | 📈 H: ₹96.7 | 📉 L: ₹94.36 <br>💵 USDT: ₹95.34 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹221414.3 | 📈 H: ₹228000.0 | 📉 L: ₹221414.1 <br>₿ BTC: ₹7499922.0 | 📈 H: ₹7527680.0 | 📉 L: ₹7333918.0 <br>⚡ BNB: ₹60481.61 | 📈 H: ₹61927.92 | 📉 L: ₹59726.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My willpower to do that got stuck in traffic and won't make it. 🛑❌ 
+  Saying no is my superpower, and I'm using it to save my free time. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
