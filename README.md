@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 31.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 31.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.75 <strong>PM10:</strong> 46.65</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.65 <strong>PM10:</strong> 55.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.8 | 39.8 | 35 | 16.6 | 0 |
-| 2026-04-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 41.2 | 29 | 17.6 | 0 |
-| 2026-04-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.3 | 41.9 | 24 | 18.4 | 0 |
-| 2026-04-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.1 | 41.7 | 20 | 19.1 | 0 |
-| 2026-04-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.2 | 41.7 | 20 | 21.2 | 0 |
-| 2026-04-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.6 | 41.7 | 23 | 25.6 | 0 |
-| 2026-04-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.0 | 41.0 | 27 | 28.4 | 0 |
-| 2026-04-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.1 | 39.5 | 33 | 28.1 | 0 |
-| 2026-04-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 37.3 | 41 | 26.6 | 0 |
-| 2026-04-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 34.6 | 55 | 25.9 | 0 |
+| 2026-04-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 41.6 | 23 | 19.4 | 0 |
+| 2026-04-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.2 | 41.7 | 19 | 18.0 | 0 |
+| 2026-04-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.5 | 42.3 | 18 | 17.6 | 0 |
+| 2026-04-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.2 | 41.7 | 19 | 21.2 | 0 |
+| 2026-04-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 40.9 | 26 | 28.1 | 0 |
+| 2026-04-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.9 | 39.3 | 33 | 29.9 | 0 |
+| 2026-04-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 36.9 | 41 | 26.3 | 0 |
+| 2026-04-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.5 | 34.5 | 52 | 24.8 | 0 |
+| 2026-04-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 32.9 | 65 | 24.8 | 0 |
+| 2026-04-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.7 | 32.3 | 70 | 21.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.36 | 📈 H: ₹94.75 | 📉 L: ₹94.17 <br>💵 USDT: ₹95.48 | 📈 H: ₹96.09 | 📉 L: ₹94.17 <br>♦ ETH: ₹224512.0 | 📈 H: ₹230000.0 | 📉 L: ₹221346.7 <br>₿ BTC: ₹7526818.0 | 📈 H: ₹7545000.0 | 📉 L: ₹7195842.0 <br>⚡ BNB: ₹59921.31 | 📈 H: ₹62040.36 | 📉 L: ₹59921.31 <br> 
+  🪙 USDC: ₹94.36 | 📈 H: ₹94.75 | 📉 L: ₹94.17 <br>💵 USDT: ₹95.43 | 📈 H: ₹96.09 | 📉 L: ₹94.62 <br>♦ ETH: ₹223445.0 | 📈 H: ₹230000.0 | 📉 L: ₹222400.8 <br>₿ BTC: ₹7372204.0 | 📈 H: ₹7545000.0 | 📉 L: ₹7298993.0 <br>⚡ BNB: ₹59921.31 | 📈 H: ₹62040.36 | 📉 L: ₹59921.31 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In a different season of life, I might say yes—but not right now. 🛑❌ 
+  In an alternate universe, I totally did that. Just not in this one. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
