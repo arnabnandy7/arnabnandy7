@@ -18,27 +18,27 @@
   <p>Kolkata, India - 23/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 29.9 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 39.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 29.2 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 44.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.55 <strong>PM10:</strong> 33.75</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.75 <strong>PM10:</strong> 36.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-23 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.8 | 35.5 | 64 | 27.7 | 0 |
-| 2026-04-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.2 | 33.9 | 74 | 25.9 | 0 |
-| 2026-04-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 33.1 | 77 | 23.8 | 0 |
-| 2026-04-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 32.5 | 79 | 22.7 | 0 |
-| 2026-04-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 32.2 | 81 | 21.2 | 0 |
-| 2026-04-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.6 | 31.9 | 82 | 20.2 | 0 |
-| 2026-04-24 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.6 | 82 | 18.4 | 0 |
-| 2026-04-24 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 31.2 | 83 | 18.0 | 0 |
-| 2026-04-24 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.1 | 31.0 | 84 | 17.3 | 0 |
-| 2026-04-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.8 | 30.4 | 84 | 16.2 | 0 |
+| 2026-04-23 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.9 | 33.6 | 75 | 25.9 | 0 |
+| 2026-04-23 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.4 | 32.9 | 78 | 23.8 | 0 |
+| 2026-04-23 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.0 | 32.4 | 80 | 22.7 | 0 |
+| 2026-04-23 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.7 | 32.1 | 82 | 20.9 | 0 |
+| 2026-04-23 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.7 | 83 | 19.8 | 0 |
+| 2026-04-24 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.4 | 31.4 | 83 | 18.4 | 0 |
+| 2026-04-24 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.1 | 31.1 | 84 | 18.0 | 0 |
+| 2026-04-24 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.0 | 30.8 | 85 | 17.3 | 0 |
+| 2026-04-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.7 | 30.3 | 85 | 16.2 | 0 |
+| 2026-04-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.5 | 30.0 | 86 | 14.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.56 | 📈 H: ₹94.75 | 📉 L: ₹94.17 <br>💵 USDT: ₹95.97 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹223000.0 | 📈 H: ₹230000.0 | 📉 L: ₹223000.0 <br>₿ BTC: ₹7389910.0 | 📈 H: ₹7545000.0 | 📉 L: ₹7333918.0 <br>⚡ BNB: ₹59726.69 | 📈 H: ₹62040.36 | 📉 L: ₹59726.69 <br> 
+  🪙 USDC: ₹94.56 | 📈 H: ₹94.75 | 📉 L: ₹94.17 <br>💵 USDT: ₹95.79 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹223000.0 | 📈 H: ₹230000.0 | 📉 L: ₹223000.0 <br>₿ BTC: ₹7389921.0 | 📈 H: ₹7545000.0 | 📉 L: ₹7333918.0 <br>⚡ BNB: ₹60191.27 | 📈 H: ₹62040.36 | 📉 L: ₹59726.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Astrologically, I'm a No-rgo or a Libra-thinks-not (one of those). 🛑❌ 
+  I'm practicing wu wei (doing nothing) as per Taoism, so I must decline. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
