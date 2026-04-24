@@ -18,27 +18,27 @@
   <p>Kolkata, India - 24/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:27 AM, Set: 12:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.9 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:27 AM, Set: 12:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.65 <strong>PM10:</strong> 33.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.05 <strong>PM10:</strong> 41.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 39.1 | 35 | 15.1 | 0 |
-| 2026-04-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.3 | 40.4 | 29 | 16.2 | 0 |
-| 2026-04-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.9 | 41.4 | 24 | 18.0 | 0 |
-| 2026-04-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.8 | 41.7 | 21 | 19.4 | 0 |
-| 2026-04-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.0 | 41.7 | 21 | 21.2 | 0 |
-| 2026-04-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.7 | 41.7 | 22 | 24.1 | 0 |
-| 2026-04-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 41.3 | 26 | 28.1 | 0 |
-| 2026-04-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.9 | 39.8 | 34 | 31.0 | 0 |
-| 2026-04-24 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 37.2 | 44 | 27.4 | 0 |
-| 2026-04-24 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 34.5 | 56 | 25.6 | 0 |
+| 2026-04-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 40.5 | 20 | 15.1 | 0 |
+| 2026-04-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.1 | 41.6 | 18 | 15.5 | 0 |
+| 2026-04-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.5 | 42.2 | 17 | 16.6 | 0 |
+| 2026-04-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.2 | 41.8 | 19 | 19.4 | 0 |
+| 2026-04-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 41.1 | 23 | 24.5 | 0 |
+| 2026-04-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 39.9 | 31 | 29.9 | 0 |
+| 2026-04-24 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 37.5 | 42 | 27.0 | 0 |
+| 2026-04-24 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.5 | 34.7 | 53 | 23.8 | 0 |
+| 2026-04-24 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 33.3 | 64 | 23.4 | 0 |
+| 2026-04-24 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 32.4 | 72 | 22.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.8 | 📈 H: ₹96.7 | 📉 L: ₹94.36 <br>💵 USDT: ₹95.32 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹224329.9 | 📈 H: ₹225500.0 | 📉 L: ₹221414.1 <br>₿ BTC: ₹7499250.0 | 📈 H: ₹7526817.0 | 📉 L: ₹7338562.0 <br>⚡ BNB: ₹60345.63 | 📈 H: ₹61792.84 | 📉 L: ₹59726.69 <br> 
+  🪙 USDC: ₹94.8 | 📈 H: ₹96.7 | 📉 L: ₹94.36 <br>💵 USDT: ₹95.99 | 📈 H: ₹96.55 | 📉 L: ₹95.12 <br>♦ ETH: ₹221414.3 | 📈 H: ₹225500.0 | 📉 L: ₹221414.1 <br>₿ BTC: ₹7499249.0 | 📈 H: ₹7526817.0 | 📉 L: ₹7358945.0 <br>⚡ BNB: ₹60345.64 | 📈 H: ₹61792.84 | 📉 L: ₹59726.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Improv theater time: I play a person who says no. End scene. 🛑❌ 
+  I'm experiencing a heavy downpour of laziness. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
