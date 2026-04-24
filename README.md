@@ -18,14 +18,13 @@
   <p>Kolkata, India - 24/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:27 AM, Set: 12:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.5 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:27 AM, Set: 12:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.15 <strong>PM10:</strong> 30.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.95 <strong>PM10:</strong> 29.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-25 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.2 | 30.8 | 80 | 16.6 | 0 |
 | 2026-04-25 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.8 | 30.2 | 81 | 11.5 | 0 |
 | 2026-04-25 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.5 | 29.7 | 83 | 8.6 | 0 |
 | 2026-04-25 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 29.4 | 83 | 9.7 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 34.2 | 53 | 18.7 | 0 |
 | 2026-04-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 36.6 | 41 | 19.8 | 0 |
 | 2026-04-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 38.7 | 33 | 22.3 | 0 |
+| 2026-04-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 40.4 | 30 | 24.1 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.8 | 📈 H: ₹96.7 | 📉 L: ₹94.8 <br>💵 USDT: ₹95.99 | 📈 H: ₹96.43 | 📉 L: ₹95.17 <br>♦ ETH: ₹222500.0 | 📈 H: ₹224999.9 | 📉 L: ₹221000.0 <br>₿ BTC: ₹7499100.0 | 📈 H: ₹7526518.0 | 📉 L: ₹7371177.0 <br>⚡ BNB: ₹60754.76 | 📈 H: ₹61792.84 | 📉 L: ₹59867.95 <br> 
+  🪙 USDC: ₹94.8 | 📈 H: ₹96.7 | 📉 L: ₹94.8 <br>💵 USDT: ₹95.26 | 📈 H: ₹96.43 | 📉 L: ₹95.17 <br>♦ ETH: ₹223998.0 | 📈 H: ₹224999.9 | 📉 L: ₹221000.0 <br>₿ BTC: ₹7402711.0 | 📈 H: ₹7500000.0 | 📉 L: ₹7373920.0 <br>⚡ BNB: ₹60754.76 | 📈 H: ₹61792.84 | 📉 L: ₹60215.02 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm carb loading for a marathon of not doing that. 🛑❌ 
+  My horoscope app just notified me: 'Today is a good day to say no.' 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
