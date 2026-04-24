@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 23/04/2026</p>
+  <p>Kolkata, India - 24/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:21 AM, Set: No moonset)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.45 <strong>PM10:</strong> 27.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.05 <strong>PM10:</strong> 28.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 31.8 | 76 | 14.4 | 0 |
 | 2026-04-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.8 | 34.5 | 59 | 14.0 | 0 |
 | 2026-04-24 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 37.0 | 45 | 14.0 | 0 |
 | 2026-04-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 39.1 | 35 | 15.1 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.0 | 41.7 | 21 | 21.2 | 0 |
 | 2026-04-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.7 | 41.7 | 22 | 24.1 | 0 |
 | 2026-04-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 41.3 | 26 | 28.1 | 0 |
+| 2026-04-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.9 | 39.8 | 34 | 31.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.95 | 📈 H: ₹96.7 | 📉 L: ₹94.36 <br>💵 USDT: ₹95.26 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹221414.3 | 📈 H: ₹226478.4 | 📉 L: ₹221414.1 <br>₿ BTC: ₹7399399.0 | 📈 H: ₹7527600.0 | 📉 L: ₹7333918.0 <br>⚡ BNB: ₹60546.12 | 📈 H: ₹61927.92 | 📉 L: ₹59726.69 <br> 
+  🪙 USDC: ₹94.95 | 📈 H: ₹96.7 | 📉 L: ₹94.36 <br>💵 USDT: ₹95.88 | 📈 H: ₹96.55 | 📉 L: ₹94.67 <br>♦ ETH: ₹224330.0 | 📈 H: ₹225501.9 | 📉 L: ₹221414.1 <br>₿ BTC: ₹7500000.0 | 📈 H: ₹7527596.0 | 📉 L: ₹7333918.0 <br>⚡ BNB: ₹60546.12 | 📈 H: ₹61927.92 | 📉 L: ₹59726.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Saying no is my superpower, and I'm using it to save my free time. 🛑❌ 
+  Improv theater time: I play a person who says no. End scene. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
