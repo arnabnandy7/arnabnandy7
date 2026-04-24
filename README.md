@@ -18,27 +18,27 @@
   <p>Kolkata, India - 24/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:27 AM, Set: 12:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:27 AM, Set: 12:19 AM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:00 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.05 <strong>PM10:</strong> 27.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.25 <strong>PM10:</strong> 26.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-25 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 29.4 | 83 | 9.7 | 0 |
-| 2026-04-25 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.1 | 29.1 | 83 | 10.8 | 0 |
-| 2026-04-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 29.0 | 82 | 12.2 | 0 |
-| 2026-04-25 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 31.4 | 68 | 15.8 | 0 |
-| 2026-04-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 34.2 | 53 | 18.7 | 0 |
-| 2026-04-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 36.6 | 41 | 19.8 | 0 |
-| 2026-04-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 38.7 | 33 | 22.3 | 0 |
-| 2026-04-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 40.4 | 30 | 24.1 | 0 |
-| 2026-04-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.2 | 41.3 | 27 | 27.0 | 0 |
-| 2026-04-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.6 | 41.5 | 26 | 29.2 | 0 |
+| 2026-04-25 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.8 | 29.0 | 89 | 10.1 | 0 |
+| 2026-04-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.8 | 29.0 | 89 | 11.2 | 0 |
+| 2026-04-25 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 31.4 | 79 | 13.0 | 0 |
+| 2026-04-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 34.1 | 64 | 14.0 | 0 |
+| 2026-04-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 36.5 | 49 | 15.8 | 0 |
+| 2026-04-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 38.2 | 39 | 18.7 | 0 |
+| 2026-04-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 39.6 | 32 | 20.5 | 0 |
+| 2026-04-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.7 | 40.7 | 28 | 22.3 | 0 |
+| 2026-04-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 41.0 | 26 | 23.8 | 0 |
+| 2026-04-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 40.8 | 25 | 24.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.85 | 📈 H: ₹94.95 | 📉 L: ₹94.8 <br>💵 USDT: ₹95.25 | 📈 H: ₹96.43 | 📉 L: ₹95.17 <br>♦ ETH: ₹223000.0 | 📈 H: ₹224330.0 | 📉 L: ₹221000.0 <br>₿ BTC: ₹7400000.0 | 📈 H: ₹7500000.0 | 📉 L: ₹7399399.0 <br>⚡ BNB: ₹60754.76 | 📈 H: ₹61792.84 | 📉 L: ₹60215.02 <br> 
+  🪙 USDC: ₹94.85 | 📈 H: ₹94.95 | 📉 L: ₹94.8 <br>💵 USDT: ₹95.28 | 📈 H: ₹96.43 | 📉 L: ₹95.17 <br>♦ ETH: ₹222353.3 | 📈 H: ₹224330.0 | 📉 L: ₹221000.0 <br>₿ BTC: ₹7400000.0 | 📈 H: ₹7500000.0 | 📉 L: ₹7399399.0 <br>⚡ BNB: ₹60754.76 | 📈 H: ₹61792.84 | 📉 L: ₹60215.02 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My horoscope app just notified me: 'Today is a good day to say no.' 🛑❌ 
+  I can't make it; I'm extremely busy not being busy. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
