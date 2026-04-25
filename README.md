@@ -18,27 +18,27 @@
   <p>Kolkata, India - 25/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:27 PM, Set: 01:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:09 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 32.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:27 PM, Set: 01:04 AM)  <br>🌅 <strong>Sunrise:</strong> 05:09 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 31.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.75 <strong>PM10:</strong> 25.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.05 <strong>PM10:</strong> 34.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 38.2 | 39 | 18.7 | 0 |
-| 2026-04-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 39.6 | 32 | 20.5 | 0 |
-| 2026-04-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.7 | 40.7 | 28 | 22.3 | 0 |
-| 2026-04-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 41.0 | 26 | 23.8 | 0 |
-| 2026-04-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 40.8 | 25 | 24.5 | 0 |
-| 2026-04-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 40.1 | 27 | 23.8 | 0 |
-| 2026-04-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.4 | 39.1 | 30 | 23.8 | 0 |
-| 2026-04-25 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 37.8 | 35 | 27.0 | 0 |
-| 2026-04-25 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 35.8 | 43 | 27.0 | 0 |
-| 2026-04-25 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.7 | 33.5 | 54 | 27.4 | 0 |
+| 2026-04-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 40.8 | 28 | 18.0 | 0 |
+| 2026-04-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.7 | 41.1 | 25 | 20.2 | 0 |
+| 2026-04-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.8 | 41.0 | 24 | 22.3 | 0 |
+| 2026-04-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.2 | 40.4 | 25 | 23.8 | 0 |
+| 2026-04-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 39.6 | 28 | 24.8 | 0 |
+| 2026-04-25 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.2 | 38.3 | 34 | 27.4 | 0 |
+| 2026-04-25 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 36.3 | 43 | 27.0 | 0 |
+| 2026-04-25 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.0 | 34.0 | 55 | 26.6 | 0 |
+| 2026-04-25 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.2 | 32.6 | 66 | 26.6 | 0 |
+| 2026-04-25 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 31.7 | 73 | 24.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.85 | 📈 H: ₹94.95 | 📉 L: ₹94.8 <br>💵 USDT: ₹95.34 | 📈 H: ₹96.43 | 📉 L: ₹95.17 <br>♦ ETH: ₹221500.0 | 📈 H: ₹224329.9 | 📉 L: ₹221000.0 <br>₿ BTC: ₹7483584.0 | 📈 H: ₹7499284.0 | 📉 L: ₹7400000.0 <br>⚡ BNB: ₹60754.76 | 📈 H: ₹61792.84 | 📉 L: ₹60215.02 <br> 
+  🪙 USDC: ₹94.85 | 📈 H: ₹94.95 | 📉 L: ₹94.8 <br>💵 USDT: ₹95.36 | 📈 H: ₹96.43 | 📉 L: ₹95.17 <br>♦ ETH: ₹222353.3 | 📈 H: ₹224324.2 | 📉 L: ₹221000.0 <br>₿ BTC: ₹7400877.0 | 📈 H: ₹7499250.0 | 📉 L: ₹7400000.0 <br>⚡ BNB: ₹60754.76 | 📈 H: ₹61792.84 | 📉 L: ₹60215.02 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My guild in World of Warcraft needs me to farm 'No' potions. 🛑❌ 
+  The fortune cookie said 'No' just last night. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
