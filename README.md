@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 26/04/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:25 PM, Set: 01:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 23.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:25 PM, Set: 01:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 25.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.45 <strong>PM10:</strong> 21.25</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.65 <strong>PM10:</strong> 20.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-27 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.7 | 30.2 | 84 | 25.9 | 0 |
-| 2026-04-27 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 26.8 | 30.3 | 84 | 22.7 | 0 |
 | 2026-04-27 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.2 | 32.2 | 76 | 26.6 | 0 |
 | 2026-04-27 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 34.6 | 65 | 27.7 | 0 |
 | 2026-04-27 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 35.9 | 59 | 29.5 | 0 |
@@ -35,10 +33,12 @@
 | 2026-04-27 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.4 | 41.1 | 47 | 32.0 | 0 |
 | 2026-04-27 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.0 | 41.9 | 45 | 32.4 | 0 |
 | 2026-04-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.1 | 42.0 | 45 | 31.0 | 0 |
+| 2026-04-27 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 41.5 | 48 | 31.7 | 0 |
+| 2026-04-27 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/299.png) Moderate rain at times | 33.3 | 38.9 | 55 | 25.2 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.85 | 📈 H: ₹94.95 | 📉 L: ₹94.85 <br>💵 USDT: ₹94.89 | 📈 H: ₹95.43 | 📉 L: ₹94.65 <br>♦ ETH: ₹225000.0 | 📈 H: ₹225001.3 | 📉 L: ₹221116.7 <br>₿ BTC: ₹7464547.0 | 📈 H: ₹7464547.0 | 📉 L: ₹7350765.0 <br>⚡ BNB: ₹59759.44 | 📈 H: ₹60717.85 | 📉 L: ₹59330.31 <br> 
+  🪙 USDC: ₹94.85 | 📈 H: ₹94.95 | 📉 L: ₹94.85 <br>💵 USDT: ₹95.15 | 📈 H: ₹95.43 | 📉 L: ₹94.65 <br>♦ ETH: ₹225000.0 | 📈 H: ₹225001.3 | 📉 L: ₹221116.7 <br>₿ BTC: ₹7464547.0 | 📈 H: ₹7464547.0 | 📉 L: ₹7350765.0 <br>⚡ BNB: ₹59759.44 | 📈 H: ₹60717.85 | 📉 L: ₹59330.31 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
