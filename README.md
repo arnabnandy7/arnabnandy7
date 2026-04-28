@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 28/04/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:13 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:13 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 32.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.25 <strong>PM10:</strong> 30.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.05 <strong>PM10:</strong> 28.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 28.8 | 83 | 9.7 | 0 |
 | 2026-04-29 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 29.1 | 84 | 10.1 | 0 |
 | 2026-04-29 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.4 | 31.2 | 81 | 13.3 | 0 |
 | 2026-04-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.1 | 33.9 | 74 | 17.6 | 0 |
@@ -35,6 +34,7 @@
 | 2026-04-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 39.7 | 37 | 22.3 | 0 |
 | 2026-04-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 39.9 | 38 | 26.6 | 0 |
 | 2026-04-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 40.8 | 40 | 26.6 | 0 |
+| 2026-04-29 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.2 | 40.6 | 41 | 28.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
