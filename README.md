@@ -18,27 +18,27 @@
   <p>Kolkata, India - 28/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:13 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 35.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:13 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.25 <strong>PM10:</strong> 31.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.25 <strong>PM10:</strong> 30.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-29 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.6 | 28.0 | 80 | 14.8 | 0 |
-| 2026-04-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.4 | 27.9 | 82 | 9.4 | 0 |
-| 2026-04-29 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 25.5 | 28.2 | 85 | 9.0 | 0 |
-| 2026-04-29 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 26.9 | 30.1 | 80 | 15.5 | 0 |
-| 2026-04-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.8 | 33.1 | 73 | 15.5 | 0 |
-| 2026-04-29 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 35.8 | 60 | 16.6 | 0 |
-| 2026-04-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 37.6 | 47 | 18.7 | 0 |
-| 2026-04-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 38.8 | 40 | 19.1 | 0 |
-| 2026-04-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 39.2 | 39 | 23.4 | 0 |
-| 2026-04-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 39.7 | 41 | 24.5 | 0 |
+| 2026-04-29 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 28.8 | 83 | 9.7 | 0 |
+| 2026-04-29 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.1 | 29.1 | 84 | 10.1 | 0 |
+| 2026-04-29 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.4 | 31.2 | 81 | 13.3 | 0 |
+| 2026-04-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.1 | 33.9 | 74 | 17.6 | 0 |
+| 2026-04-29 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 36.0 | 62 | 18.4 | 0 |
+| 2026-04-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 38.0 | 51 | 18.0 | 0 |
+| 2026-04-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 39.4 | 41 | 17.6 | 0 |
+| 2026-04-29 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 39.7 | 37 | 22.3 | 0 |
+| 2026-04-29 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 39.9 | 38 | 26.6 | 0 |
+| 2026-04-29 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 40.8 | 40 | 26.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.73 | 📈 H: ₹94.85 | 📉 L: ₹94.73 <br>💵 USDT: ₹96.0 | 📈 H: ₹96.29 | 📉 L: ₹95.24 <br>♦ ETH: ₹219200.0 | 📈 H: ₹221836.9 | 📉 L: ₹219100.0 <br>₿ BTC: ₹7245153.0 | 📈 H: ₹7398329.0 | 📉 L: ₹7210924.0 <br>⚡ BNB: ₹59168.34 | 📈 H: ₹59358.92 | 📉 L: ₹58998.35 <br> 
+  🪙 USDC: ₹94.73 | 📈 H: ₹94.85 | 📉 L: ₹94.73 <br>💵 USDT: ₹96.0 | 📈 H: ₹96.29 | 📉 L: ₹95.4 <br>♦ ETH: ₹219200.0 | 📈 H: ₹221836.9 | 📉 L: ₹219100.0 <br>₿ BTC: ₹7245153.0 | 📈 H: ₹7398329.0 | 📉 L: ₹7210924.0 <br>⚡ BNB: ₹59168.34 | 📈 H: ₹59358.92 | 📉 L: ₹58998.35 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd rather be the sole target in a paintball match than participate. 🛑❌ 
+  I have a rare genetic disorder where I break out in refusals. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
