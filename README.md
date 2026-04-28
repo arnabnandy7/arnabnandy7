@@ -18,15 +18,13 @@
   <p>Kolkata, India - 28/04/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:13 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 28.8 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 34.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:13 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 30.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.15 <strong>PM10:</strong> 22.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.75 <strong>PM10:</strong> 23.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 41.6 | 48 | 30.6 | 0 |
-| 2026-04-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.9 | 42.1 | 46 | 28.4 | 0 |
 | 2026-04-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.1 | 42.3 | 46 | 26.3 | 0 |
 | 2026-04-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 41.6 | 49 | 29.2 | 0 |
 | 2026-04-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.1 | 40.0 | 53 | 35.6 | 0 |
@@ -35,10 +33,12 @@
 | 2026-04-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.6 | 26.3 | 73 | 12.2 | 100 |
 | 2026-04-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 27.4 | 65 | 5.8 | 0 |
 | 2026-04-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.0 | 27.7 | 67 | 15.1 | 100 |
+| 2026-04-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 28.1 | 70 | 8.3 | 100 |
+| 2026-04-28 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 28.1 | 70 | 14.8 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.73 | 📈 H: ₹94.85 | 📉 L: ₹94.6 <br>💵 USDT: ₹95.97 | 📈 H: ₹96.42 | 📉 L: ₹94.81 <br>♦ ETH: ₹221833.6 | 📈 H: ₹224000.1 | 📉 L: ₹219100.0 <br>₿ BTC: ₹7300843.0 | 📈 H: ₹7499351.0 | 📉 L: ₹7300823.0 <br>⚡ BNB: ₹59091.0 | 📈 H: ₹60690.05 | 📉 L: ₹58958.06 <br> 
+  🪙 USDC: ₹94.73 | 📈 H: ₹94.85 | 📉 L: ₹94.6 <br>💵 USDT: ₹95.6 | 📈 H: ₹96.42 | 📉 L: ₹95.0 <br>♦ ETH: ₹220933.1 | 📈 H: ₹223997.0 | 📉 L: ₹219100.0 <br>₿ BTC: ₹7397395.0 | 📈 H: ₹7499351.0 | 📉 L: ₹7300823.0 <br>⚡ BNB: ₹59091.0 | 📈 H: ₹60690.05 | 📉 L: ₹58958.06 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No, but I appreciate your optimism. 🛑❌ 
+  My goldfish family reunion is happening in my fish tank. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
