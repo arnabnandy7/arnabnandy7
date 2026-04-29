@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 29/04/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:05 PM, Set: 03:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:06 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 32.8 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 30.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:05 PM, Set: 03:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:06 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 30.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.05 <strong>PM10:</strong> 34.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.15 <strong>PM10:</strong> 35.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-04-29 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.6 | 33.4 | 66 | 29.2 | 100 |
 | 2026-04-29 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.8 | 32.6 | 71 | 15.1 | 100 |
 | 2026-04-29 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.3 | 31.6 | 71 | 15.5 | 100 |
 | 2026-04-29 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.7 | 31.8 | 68 | 23.4 | 0 |
@@ -35,10 +34,11 @@
 | 2026-04-30 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 30.9 | 77 | 19.8 | 0 |
 | 2026-04-30 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.3 | 31.2 | 82 | 18.0 | 0 |
 | 2026-04-30 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.2 | 31.1 | 83 | 7.6 | 85 |
+| 2026-04-30 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.4 | 31.4 | 83 | 7.2 | 75 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.73 | 📈 H: ₹94.73 | 📉 L: ₹94.73 <br>💵 USDT: ₹95.8 | 📈 H: ₹96.8 | 📉 L: ₹95.2 <br>♦ ETH: ₹223972.2 | 📈 H: ₹223972.2 | 📉 L: ₹219100.0 <br>₿ BTC: ₹7417278.0 | 📈 H: ₹7419669.0 | 📉 L: ₹7210924.0 <br>⚡ BNB: ₹59618.87 | 📈 H: ₹60100.56 | 📉 L: ₹58998.35 <br> 
+  🪙 USDC: ₹94.73 | 📈 H: ₹94.73 | 📉 L: ₹94.73 <br>💵 USDT: ₹95.8 | 📈 H: ₹96.8 | 📉 L: ₹95.2 <br>♦ ETH: ₹219200.9 | 📈 H: ₹223972.2 | 📉 L: ₹219100.0 <br>₿ BTC: ₹7330026.0 | 📈 H: ₹7419669.0 | 📉 L: ₹7210924.0 <br>⚡ BNB: ₹58914.69 | 📈 H: ₹60100.56 | 📉 L: ₹58914.69 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Declining this request sparks joy in me. 🛑❌ 
+  While I appreciate it, attempting this isn't something I can commit to. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
