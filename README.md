@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 03/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:41 PM, Set: 05:42 AM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:04 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 35.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:41 PM, Set: 05:42 AM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:04 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 37.9 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.25 <strong>PM10:</strong> 19.35</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.05 <strong>PM10:</strong> 17.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-03 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.3 | 40.4 | 52 | 13.7 | 0 |
 | 2026-05-03 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 39.3 | 56 | 13.0 | 0 |
 | 2026-05-03 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 38.2 | 62 | 12.2 | 0 |
 | 2026-05-03 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.0 | 35.5 | 72 | 18.0 | 100 |
@@ -35,10 +34,11 @@
 | 2026-05-03 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 33.2 | 84 | 14.4 | 0 |
 | 2026-05-03 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 32.8 | 85 | 13.7 | 0 |
 | 2026-05-04 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.9 | 32.9 | 85 | 16.2 | 0 |
+| 2026-05-04 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.5 | 32.4 | 87 | 20.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.9 | 📈 H: ₹94.9 | 📉 L: ₹94.9 <br>💵 USDT: ₹95.57 | 📈 H: ₹96.78 | 📉 L: ₹95.52 <br>♦ ETH: ₹219987.0 | 📈 H: ₹223255.4 | 📉 L: ₹217850.7 <br>₿ BTC: ₹7437959.0 | 📈 H: ₹7544968.0 | 📉 L: ₹7402157.0 <br>⚡ BNB: ₹58407.28 | 📈 H: ₹58631.92 | 📉 L: ₹58259.65 <br> 
+  🪙 USDC: ₹94.9 | 📈 H: ₹94.9 | 📉 L: ₹94.9 <br>💵 USDT: ₹95.76 | 📈 H: ₹96.78 | 📉 L: ₹95.56 <br>♦ ETH: ₹219987.0 | 📈 H: ₹223255.4 | 📉 L: ₹217850.7 <br>₿ BTC: ₹7445355.0 | 📈 H: ₹7544968.0 | 📉 L: ₹7402157.0 <br>⚡ BNB: ₹58625.0 | 📈 H: ₹58631.92 | 📉 L: ₹58259.65 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Just in case you missed it: N as in No, O as in Oh-no-not-today. 🛑❌ 
+  I'm not procrastinating; I'm proactively saying no in advance. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
