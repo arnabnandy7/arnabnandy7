@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 09/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: No moonrise, Set: 10:50 AM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 29.2 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 27.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: No moonrise, Set: 10:50 AM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 22.3 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 27.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.75 <strong>PM10:</strong> 50.55</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 43.35 <strong>PM10:</strong> 52.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-09 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.5 | 26.3 | 74 | 16.9 | 0 |
-| 2026-05-09 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.2 | 26.8 | 69 | 12.2 | 0 |
-| 2026-05-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.3 | 26.9 | 70 | 14.4 | 0 |
-| 2026-05-10 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.5 | 27.2 | 70 | 12.2 | 0 |
-| 2026-05-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.8 | 27.6 | 70 | 9.4 | 0 |
-| 2026-05-10 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.9 | 27.6 | 70 | 7.9 | 0 |
-| 2026-05-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.1 | 27.9 | 69 | 5.8 | 0 |
-| 2026-05-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.3 | 28.1 | 69 | 4.7 | 0 |
-| 2026-05-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 26.5 | 28.4 | 69 | 3.6 | 0 |
-| 2026-05-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 29.7 | 66 | 4.0 | 0 |
+| 2026-05-09 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.1 | 26.8 | 73 | 17.6 | 0 |
+| 2026-05-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.0 | 26.8 | 74 | 11.9 | 0 |
+| 2026-05-10 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.1 | 26.9 | 73 | 9.0 | 0 |
+| 2026-05-10 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.5 | 27.2 | 72 | 9.0 | 0 |
+| 2026-05-10 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.6 | 27.4 | 72 | 6.1 | 0 |
+| 2026-05-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.5 | 27.3 | 72 | 7.6 | 0 |
+| 2026-05-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.5 | 27.3 | 72 | 6.1 | 0 |
+| 2026-05-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.0 | 27.8 | 70 | 3.2 | 0 |
+| 2026-05-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.2 | 28.9 | 64 | 5.8 | 0 |
+| 2026-05-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 30.4 | 58 | 5.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.14 | 📈 H: ₹95.14 | 📉 L: ₹95.14 <br>💵 USDT: ₹96.07 | 📈 H: ₹96.67 | 📉 L: ₹95.7 <br>♦ ETH: ₹220156.0 | 📈 H: ₹223880.5 | 📉 L: ₹218110.1 <br>₿ BTC: ₹7700000.0 | 📈 H: ₹7768353.0 | 📉 L: ₹7613895.0 <br>⚡ BNB: ₹63079.11 | 📈 H: ₹63079.11 | 📉 L: ₹60791.84 <br> 
+  🪙 USDC: ₹94.79 | 📈 H: ₹95.14 | 📉 L: ₹94.79 <br>💵 USDT: ₹96.44 | 📈 H: ₹96.67 | 📉 L: ₹95.7 <br>♦ ETH: ₹220156.0 | 📈 H: ₹223880.5 | 📉 L: ₹218110.3 <br>₿ BTC: ₹7675000.0 | 📈 H: ₹7768353.0 | 📉 L: ₹7613895.0 <br>⚡ BNB: ₹61357.97 | 📈 H: ₹63079.11 | 📉 L: ₹61357.97 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I suspect a sudden tornado of responsibilities will keep me inside. 🛑❌ 
+  I'm learning an alien language; they don't have a word for yes and neither do I right now. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
