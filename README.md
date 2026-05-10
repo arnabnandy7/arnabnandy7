@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 10/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 12:19 AM, Set: 11:46 AM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 40.6 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 12:19 AM, Set: 11:46 AM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 36.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.55 <strong>PM10:</strong> 30.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.95 <strong>PM10:</strong> 32.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-10 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.4 | 28.9 | 60 | 5.8 | 100 |
 | 2026-05-10 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 28.4 | 65 | 18.0 | 100 |
 | 2026-05-10 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 29.7 | 69 | 18.0 | 87 |
 | 2026-05-10 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 29.9 | 73 | 21.6 | 100 |
@@ -35,10 +34,11 @@
 | 2026-05-11 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.8 | 27.8 | 74 | 4.3 | 0 |
 | 2026-05-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.9 | 28.0 | 74 | 2.9 | 0 |
 | 2026-05-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 28.0 | 75 | 0.7 | 100 |
+| 2026-05-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.7 | 27.7 | 76 | 4.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.92 | 📈 H: ₹95.14 | 📉 L: ₹94.79 <br>💵 USDT: ₹96.05 | 📈 H: ₹96.53 | 📉 L: ₹95.75 <br>♦ ETH: ₹221266.2 | 📈 H: ₹223880.5 | 📉 L: ₹220035.1 <br>₿ BTC: ₹7700002.0 | 📈 H: ₹7768330.0 | 📉 L: ₹7660001.0 <br>⚡ BNB: ₹61748.99 | 📈 H: ₹63079.11 | 📉 L: ₹61322.52 <br> 
+  🪙 USDC: ₹94.92 | 📈 H: ₹95.14 | 📉 L: ₹94.79 <br>💵 USDT: ₹96.07 | 📈 H: ₹96.53 | 📉 L: ₹95.75 <br>♦ ETH: ₹221001.0 | 📈 H: ₹223880.5 | 📉 L: ₹220156.0 <br>₿ BTC: ₹7753792.0 | 📈 H: ₹7768330.0 | 📉 L: ₹7660002.0 <br>⚡ BNB: ₹61684.98 | 📈 H: ₹63079.11 | 📉 L: ₹61322.52 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
