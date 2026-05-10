@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 09/05/2026</p>
+  <p>Kolkata, India - 10/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: No moonrise, Set: 10:50 AM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 25.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: No moonrise, Set: 10:50 AM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 25.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.35 <strong>PM10:</strong> 60.15</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 63.25 <strong>PM10:</strong> 66.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 27.6 | 29.6 | 64 | 1.1 | 0 |
 | 2026-05-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.9 | 31.0 | 59 | 4.7 | 0 |
 | 2026-05-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.6 | 32.7 | 51 | 5.8 | 0 |
 | 2026-05-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 34.1 | 45 | 6.1 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.6 | 38.0 | 31 | 10.1 | 0 |
 | 2026-05-10 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.9 | 38.1 | 29 | 13.0 | 0 |
 | 2026-05-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.4 | 36.7 | 33 | 20.2 | 0 |
+| 2026-05-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.5 | 34.9 | 38 | 25.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹94.79 | 📈 H: ₹95.14 | 📉 L: ₹94.79 <br>💵 USDT: ₹96.14 | 📈 H: ₹96.64 | 📉 L: ₹95.85 <br>♦ ETH: ₹223880.5 | 📈 H: ₹223880.5 | 📉 L: ₹219842.4 <br>₿ BTC: ₹7768317.0 | 📈 H: ₹7768330.0 | 📉 L: ₹7628497.0 <br>⚡ BNB: ₹61809.21 | 📈 H: ₹63079.11 | 📉 L: ₹61357.97 <br> 
+  🪙 USDC: ₹94.79 | 📈 H: ₹95.14 | 📉 L: ₹94.79 <br>💵 USDT: ₹96.1 | 📈 H: ₹96.61 | 📉 L: ₹95.85 <br>♦ ETH: ₹223880.4 | 📈 H: ₹223880.5 | 📉 L: ₹219842.4 <br>₿ BTC: ₹7676123.0 | 📈 H: ₹7768330.0 | 📉 L: ₹7628497.0 <br>⚡ BNB: ₹61809.21 | 📈 H: ₹63079.11 | 📉 L: ₹61357.97 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I consulted my alternate self; they also declined. 🛑❌ 
+  I'm committed to staying home in case of a snack emergency. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
