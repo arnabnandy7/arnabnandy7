@@ -18,14 +18,13 @@
   <p>Kolkata, India - 12/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:29 AM, Set: 01:37 PM)  <br>🌅 <strong>Sunrise:</strong> 04:58 AM | <strong>Sunset:</strong> 06:08 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:29 AM, Set: 01:37 PM)  <br>🌅 <strong>Sunrise:</strong> 04:58 AM | <strong>Sunset:</strong> 06:08 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 35.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.05 <strong>PM10:</strong> 26.45</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.25 <strong>PM10:</strong> 26.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.2 | 36.5 | 47 | 22.3 | 0 |
 | 2026-05-12 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.7 | 35.9 | 49 | 24.5 | 0 |
 | 2026-05-12 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.6 | 34.7 | 53 | 25.2 | 0 |
 | 2026-05-12 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.2 | 33.2 | 58 | 23.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-12 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 31.4 | 70 | 19.1 | 0 |
 | 2026-05-12 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 31.3 | 72 | 16.6 | 0 |
 | 2026-05-13 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 30.8 | 74 | 15.5 | 0 |
+| 2026-05-13 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.4 | 30.4 | 75 | 15.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.16 | 📈 H: ₹97.16 | 📉 L: ₹94.81 <br>💵 USDT: ₹96.57 | 📈 H: ₹96.68 | 📉 L: ₹95.9 <br>♦ ETH: ₹218110.0 | 📈 H: ₹225000.0 | 📉 L: ₹218110.0 <br>₿ BTC: ₹7699900.0 | 📈 H: ₹7869998.0 | 📉 L: ₹7699900.0 <br>⚡ BNB: ₹62778.96 | 📈 H: ₹64471.99 | 📉 L: ₹62021.54 <br> 
+  🪙 USDC: ₹97.16 | 📈 H: ₹97.16 | 📉 L: ₹94.81 <br>💵 USDT: ₹96.51 | 📈 H: ₹96.82 | 📉 L: ₹95.9 <br>♦ ETH: ₹218400.6 | 📈 H: ₹225000.0 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7714202.0 | 📈 H: ₹7869998.0 | 📉 L: ₹7698939.0 <br>⚡ BNB: ₹62778.96 | 📈 H: ₹64471.99 | 📉 L: ₹62021.54 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My GPS recommended I stay home to avoid bad decisions. 🛑❌ 
+  My motto is 'Just say no', and I'm very loyal to my motto. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
