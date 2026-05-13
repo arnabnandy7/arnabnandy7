@@ -18,27 +18,27 @@
   <p>Kolkata, India - 13/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:03 AM, Set: 02:34 PM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 34.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:03 AM, Set: 02:34 PM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 34.1 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.25 <strong>PM10:</strong> 27.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.15 <strong>PM10:</strong> 25.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-13 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.1 | 32.4 | 66 | 23.8 | 0 |
-| 2026-05-13 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.9 | 32.1 | 67 | 23.8 | 0 |
-| 2026-05-13 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 31.7 | 68 | 24.5 | 0 |
-| 2026-05-13 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 31.5 | 72 | 22.7 | 0 |
-| 2026-05-14 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.0 | 31.3 | 74 | 20.2 | 0 |
-| 2026-05-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 31.1 | 74 | 20.5 | 0 |
-| 2026-05-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.7 | 30.8 | 74 | 20.9 | 0 |
-| 2026-05-14 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 30.6 | 75 | 18.0 | 0 |
-| 2026-05-14 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 30.6 | 75 | 17.3 | 0 |
-| 2026-05-14 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.6 | 30.8 | 75 | 17.6 | 0 |
+| 2026-05-13 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.0 | 32.2 | 66 | 24.1 | 0 |
+| 2026-05-13 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.7 | 31.8 | 68 | 24.5 | 0 |
+| 2026-05-13 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.3 | 31.6 | 71 | 23.0 | 0 |
+| 2026-05-14 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 31.4 | 73 | 20.5 | 0 |
+| 2026-05-14 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 31.2 | 73 | 20.5 | 0 |
+| 2026-05-14 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 30.9 | 73 | 21.2 | 0 |
+| 2026-05-14 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.7 | 30.8 | 74 | 18.0 | 0 |
+| 2026-05-14 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.6 | 30.8 | 75 | 17.3 | 0 |
+| 2026-05-14 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 30.9 | 75 | 17.6 | 0 |
+| 2026-05-14 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 32.6 | 69 | 25.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.63 | 📈 H: ₹95.63 | 📉 L: ₹95.14 <br>💵 USDT: ₹96.94 | 📈 H: ₹97.8 | 📉 L: ₹96.27 <br>♦ ETH: ₹221858.4 | 📈 H: ₹223378.8 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7776001.0 | 📈 H: ₹7833103.0 | 📉 L: ₹7660002.0 <br>⚡ BNB: ₹64548.54 | 📈 H: ₹65499.0 | 📉 L: ₹62131.63 <br> 
+  🪙 USDC: ₹95.63 | 📈 H: ₹95.63 | 📉 L: ₹95.14 <br>💵 USDT: ₹97.15 | 📈 H: ₹97.8 | 📉 L: ₹96.31 <br>♦ ETH: ₹217900.1 | 📈 H: ₹223378.8 | 📉 L: ₹217900.1 <br>₿ BTC: ₹7776183.0 | 📈 H: ₹7833103.0 | 📉 L: ₹7660002.0 <br>⚡ BNB: ₹65498.98 | 📈 H: ₹65499.0 | 📉 L: ₹62131.63 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
