@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 13/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:29 AM, Set: 01:36 PM)  <br>🌅 <strong>Sunrise:</strong> 04:58 AM | <strong>Sunset:</strong> 06:08 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:03 AM, Set: 02:34 PM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.15 <strong>PM10:</strong> 33.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.25 <strong>PM10:</strong> 32.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-13 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.7 | 33.5 | 65 | 16.9 | 0 |
 | 2026-05-13 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 35.4 | 55 | 16.9 | 0 |
 | 2026-05-13 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 37.0 | 49 | 14.0 | 0 |
 | 2026-05-13 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.5 | 38.4 | 44 | 14.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-13 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.6 | 38.0 | 42 | 19.8 | 0 |
 | 2026-05-13 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.4 | 36.0 | 51 | 24.1 | 100 |
 | 2026-05-13 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.9 | 34.3 | 57 | 22.7 | 0 |
+| 2026-05-13 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 34.7 | 55 | 20.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.24 | 📈 H: ₹95.24 | 📉 L: ₹95.24 <br>💵 USDT: ₹96.36 | 📈 H: ₹97.16 | 📉 L: ₹96.26 <br>♦ ETH: ₹220000.0 | 📈 H: ₹224837.6 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7694452.0 | 📈 H: ₹7869994.0 | 📉 L: ₹7660002.0 <br>⚡ BNB: ₹64472.0 | 📈 H: ₹64472.0 | 📉 L: ₹62131.63 <br> 
+  🪙 USDC: ₹95.24 | 📈 H: ₹95.24 | 📉 L: ₹95.24 <br>💵 USDT: ₹96.83 | 📈 H: ₹97.16 | 📉 L: ₹96.26 <br>♦ ETH: ₹220000.0 | 📈 H: ₹224837.6 | 📉 L: ₹218000.0 <br>₿ BTC: ₹7746640.0 | 📈 H: ₹7869994.0 | 📉 L: ₹7660002.0 <br>⚡ BNB: ₹65000.0 | 📈 H: ₹65000.0 | 📉 L: ₹62131.63 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
