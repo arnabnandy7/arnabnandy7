@@ -18,14 +18,13 @@
   <p>Kolkata, India - 14/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:38 AM, Set: 03:35 PM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:38 AM, Set: 03:35 PM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 32.0 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.85 <strong>PM10:</strong> 14.75</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.55 <strong>PM10:</strong> 14.35</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-14 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 38.3 | 54 | 21.6 | 0 |
 | 2026-05-14 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 40.1 | 47 | 22.7 | 0 |
 | 2026-05-14 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.2 | 41.4 | 43 | 24.5 | 0 |
 | 2026-05-14 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 42.2 | 41 | 25.6 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-14 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.8 | 40.7 | 44 | 29.5 | 0 |
 | 2026-05-14 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 39.1 | 48 | 30.6 | 0 |
 | 2026-05-14 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 37.2 | 55 | 29.9 | 0 |
+| 2026-05-14 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.6 | 35.0 | 64 | 29.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹95.63 | 📈 H: ₹95.63 | 📉 L: ₹95.14 <br>💵 USDT: ₹97.18 | 📈 H: ₹97.8 | 📉 L: ₹96.36 <br>♦ ETH: ₹221560.1 | 📈 H: ₹223378.8 | 📉 L: ₹217900.0 <br>₿ BTC: ₹7674833.0 | 📈 H: ₹7833103.0 | 📉 L: ₹7580000.0 <br>⚡ BNB: ₹64721.07 | 📈 H: ₹65499.0 | 📉 L: ₹64241.22 <br> 
+  🪙 USDC: ₹95.63 | 📈 H: ₹95.63 | 📉 L: ₹95.14 <br>💵 USDT: ₹97.21 | 📈 H: ₹97.8 | 📉 L: ₹96.37 <br>♦ ETH: ₹217500.4 | 📈 H: ₹223378.8 | 📉 L: ₹217500.3 <br>₿ BTC: ₹7674833.0 | 📈 H: ₹7833103.0 | 📉 L: ₹7580000.0 <br>⚡ BNB: ₹64721.07 | 📈 H: ₹65499.0 | 📉 L: ₹64241.22 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
