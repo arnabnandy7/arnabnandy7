@@ -18,14 +18,13 @@
   <p>Kolkata, India - 15/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:18 AM, Set: 04:39 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 28.1 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:18 AM, Set: 04:39 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 31.7 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 40.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.75 <strong>PM10:</strong> 30.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.15 <strong>PM10:</strong> 31.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-15 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 35.4 | 60 | 29.9 | 0 |
 | 2026-05-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.3 | 34.8 | 66 | 30.2 | 0 |
 | 2026-05-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 34.3 | 69 | 29.9 | 0 |
 | 2026-05-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 34.2 | 70 | 28.1 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.7 | 33.3 | 77 | 21.2 | 0 |
 | 2026-05-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.4 | 33.0 | 79 | 19.8 | 0 |
 | 2026-05-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.3 | 33.1 | 81 | 20.5 | 0 |
+| 2026-05-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.2 | 33.2 | 82 | 21.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.16 | 📈 H: ₹97.16 | 📉 L: ₹97.16 <br>💵 USDT: ₹97.15 | 📈 H: ₹98.05 | 📉 L: ₹96.43 <br>♦ ETH: ₹220999.9 | 📈 H: ₹225000.0 | 📉 L: ₹218100.0 <br>₿ BTC: ₹7805672.0 | 📈 H: ₹7975000.0 | 📉 L: ₹7700000.0 <br>⚡ BNB: ₹66418.72 | 📈 H: ₹67351.2 | 📉 L: ₹64715.73 <br> 
+  🪙 USDC: ₹97.16 | 📈 H: ₹97.16 | 📉 L: ₹97.16 <br>💵 USDT: ₹97.75 | 📈 H: ₹98.05 | 📉 L: ₹96.43 <br>♦ ETH: ₹218100.1 | 📈 H: ₹225000.0 | 📉 L: ₹218100.0 <br>₿ BTC: ₹7805917.0 | 📈 H: ₹7975000.0 | 📉 L: ₹7702837.0 <br>⚡ BNB: ₹66418.72 | 📈 H: ₹67351.2 | 📉 L: ₹64715.73 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  It would set a bad precedent if I started agreeing to reasonable requests. 🛑❌ 
+  'No' is my spirit animal. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
