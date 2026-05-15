@@ -18,14 +18,13 @@
   <p>Kolkata, India - 15/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:18 AM, Set: 04:39 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:18 AM, Set: 04:39 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 35.9 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.55 <strong>PM10:</strong> 12.65</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.65 <strong>PM10:</strong> 15.85</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-15 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 43.0 | 35 | 20.5 | 0 |
 | 2026-05-15 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 43.2 | 33 | 22.0 | 0 |
 | 2026-05-15 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.6 | 42.8 | 34 | 23.4 | 0 |
 | 2026-05-15 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.1 | 42.0 | 34 | 21.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-15 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 34.9 | 69 | 28.8 | 0 |
 | 2026-05-15 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 34.6 | 73 | 28.8 | 0 |
 | 2026-05-15 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.4 | 34.5 | 75 | 27.0 | 0 |
+| 2026-05-15 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 34.3 | 74 | 26.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.16 | 📈 H: ₹97.16 | 📉 L: ₹95.63 <br>💵 USDT: ₹97.16 | 📈 H: ₹98.05 | 📉 L: ₹96.43 <br>♦ ETH: ₹223346.6 | 📈 H: ₹225000.0 | 📉 L: ₹218027.3 <br>₿ BTC: ₹7942129.0 | 📈 H: ₹7975000.0 | 📉 L: ₹7678559.0 <br>⚡ BNB: ₹65340.71 | 📈 H: ₹67351.2 | 📉 L: ₹64200.45 <br> 
+  🪙 USDC: ₹97.16 | 📈 H: ₹97.16 | 📉 L: ₹95.63 <br>💵 USDT: ₹97.23 | 📈 H: ₹98.05 | 📉 L: ₹96.43 <br>♦ ETH: ₹220999.9 | 📈 H: ₹225000.0 | 📉 L: ₹218055.8 <br>₿ BTC: ₹7936682.0 | 📈 H: ₹7975000.0 | 📉 L: ₹7678559.0 <br>⚡ BNB: ₹67078.93 | 📈 H: ₹67351.2 | 📉 L: ₹64566.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I took an oath as a kid to avoid anything resembling this. 🛑❌ 
+  Is the sky green? No? There's my answer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
