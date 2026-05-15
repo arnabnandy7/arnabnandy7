@@ -18,27 +18,27 @@
   <p>Kolkata, India - 15/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:18 AM, Set: 04:39 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 24.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:18 AM, Set: 04:39 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 24.5 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.25 <strong>PM10:</strong> 22.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.95 <strong>PM10:</strong> 21.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.4 | 33.0 | 79 | 23.8 | 0 |
-| 2026-05-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.3 | 32.8 | 79 | 23.8 | 0 |
-| 2026-05-16 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.5 | 33.2 | 79 | 23.0 | 0 |
-| 2026-05-16 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 35.0 | 71 | 26.3 | 0 |
-| 2026-05-16 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.9 | 36.8 | 59 | 25.9 | 0 |
-| 2026-05-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 38.4 | 49 | 27.0 | 0 |
-| 2026-05-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.6 | 39.8 | 42 | 27.7 | 0 |
-| 2026-05-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.8 | 41.1 | 39 | 28.1 | 0 |
-| 2026-05-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 42.0 | 37 | 28.8 | 0 |
-| 2026-05-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 42.4 | 36 | 28.4 | 0 |
+| 2026-05-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.2 | 32.7 | 80 | 21.2 | 0 |
+| 2026-05-16 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.3 | 33.0 | 80 | 20.5 | 0 |
+| 2026-05-16 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.8 | 34.9 | 72 | 24.1 | 0 |
+| 2026-05-16 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.8 | 36.7 | 59 | 25.2 | 0 |
+| 2026-05-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 38.5 | 49 | 24.1 | 0 |
+| 2026-05-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 40.0 | 42 | 24.5 | 0 |
+| 2026-05-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 41.5 | 38 | 24.8 | 0 |
+| 2026-05-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 42.5 | 35 | 24.1 | 0 |
+| 2026-05-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 43.2 | 33 | 24.8 | 0 |
+| 2026-05-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 43.4 | 33 | 25.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.04 | 📈 H: ₹97.5 | 📉 L: ₹96.99 <br>💵 USDT: ₹97.7 | 📈 H: ₹98.27 | 📉 L: ₹97.0 <br>♦ ETH: ₹215863.7 | 📈 H: ₹225000.0 | 📉 L: ₹215863.7 <br>₿ BTC: ₹7700002.0 | 📈 H: ₹7950000.0 | 📉 L: ₹7700000.0 <br>⚡ BNB: ₹65380.83 | 📈 H: ₹67078.93 | 📉 L: ₹65034.18 <br> 
+  🪙 USDC: ₹96.26 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹97.53 | 📈 H: ₹98.27 | 📉 L: ₹97.0 <br>♦ ETH: ₹215023.8 | 📈 H: ₹225000.0 | 📉 L: ₹215023.8 <br>₿ BTC: ₹7700000.0 | 📈 H: ₹7950000.0 | 📉 L: ₹7700000.0 <br>⚡ BNB: ₹65121.75 | 📈 H: ₹67078.93 | 📉 L: ₹65034.18 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The seven dwarves warned me about overextending myself. 🛑❌ 
+  While I appreciate it, embracing this isn't something I can commit to. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
