@@ -18,14 +18,13 @@
   <p>Kolkata, India - 16/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:02 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 24.1 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 33.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:02 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 23.8 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 34.5 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.05 <strong>PM10:</strong> 18.65</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.15 <strong>PM10:</strong> 22.55</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.6 | 43.8 | 32 | 25.9 | 0 |
 | 2026-05-16 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.7 | 42.1 | 36 | 28.4 | 0 |
 | 2026-05-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 36.2 | 40.7 | 41 | 28.1 | 100 |
 | 2026-05-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.3 | 53 | 31.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.3 | 72 | 27.7 | 0 |
 | 2026-05-16 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.1 | 34.4 | 77 | 28.4 | 0 |
 | 2026-05-16 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.0 | 34.5 | 79 | 28.8 | 0 |
+| 2026-05-16 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.9 | 34.4 | 80 | 27.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.5 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹97.4 | 📈 H: ₹98.27 | 📉 L: ₹97.01 <br>♦ ETH: ₹217991.1 | 📈 H: ₹220999.9 | 📉 L: ₹213511.4 <br>₿ BTC: ₹7600009.0 | 📈 H: ₹7936682.0 | 📉 L: ₹7600009.0 <br>⚡ BNB: ₹63861.6 | 📈 H: ₹67078.93 | 📉 L: ₹63823.15 <br> 
+  🪙 USDC: ₹97.5 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹97.4 | 📈 H: ₹98.27 | 📉 L: ₹97.01 <br>♦ ETH: ₹216423.6 | 📈 H: ₹220999.9 | 📉 L: ₹213000.0 <br>₿ BTC: ₹7600010.0 | 📈 H: ₹7936682.0 | 📉 L: ₹7600009.0 <br>⚡ BNB: ₹63861.6 | 📈 H: ₹67078.93 | 📉 L: ₹63823.15 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
