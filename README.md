@@ -18,27 +18,27 @@
   <p>Kolkata, India - 16/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:02 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 25.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.1 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:02 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 24.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.7 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.85 <strong>PM10:</strong> 16.25</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.05 <strong>PM10:</strong> 16.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 40.0 | 42 | 24.5 | 0 |
-| 2026-05-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 41.5 | 38 | 24.8 | 0 |
-| 2026-05-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 42.5 | 35 | 24.1 | 0 |
-| 2026-05-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 43.2 | 33 | 24.8 | 0 |
-| 2026-05-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 43.4 | 33 | 25.9 | 0 |
-| 2026-05-16 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.1 | 42.4 | 36 | 28.4 | 0 |
-| 2026-05-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 40.4 | 40 | 27.4 | 0 |
-| 2026-05-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.6 | 40.1 | 43 | 31.7 | 0 |
-| 2026-05-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 37.6 | 51 | 29.5 | 0 |
-| 2026-05-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 35.3 | 60 | 27.7 | 0 |
+| 2026-05-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.5 | 42.9 | 35 | 24.1 | 0 |
+| 2026-05-16 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 43.6 | 32 | 23.8 | 0 |
+| 2026-05-16 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.6 | 43.8 | 32 | 25.9 | 0 |
+| 2026-05-16 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.7 | 42.1 | 36 | 28.4 | 0 |
+| 2026-05-16 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 36.2 | 40.7 | 41 | 28.1 | 100 |
+| 2026-05-16 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.3 | 53 | 31.0 | 0 |
+| 2026-05-16 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 37.1 | 55 | 24.8 | 0 |
+| 2026-05-16 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 35.4 | 60 | 24.8 | 0 |
+| 2026-05-16 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 34.5 | 67 | 26.6 | 0 |
+| 2026-05-16 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.3 | 72 | 27.7 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.5 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹97.32 | 📈 H: ₹98.27 | 📉 L: ₹97.0 <br>♦ ETH: ₹216134.2 | 📈 H: ₹223907.7 | 📉 L: ₹214027.3 <br>₿ BTC: ₹7672912.0 | 📈 H: ₹7950000.0 | 📉 L: ₹7600009.0 <br>⚡ BNB: ₹64993.45 | 📈 H: ₹67078.93 | 📉 L: ₹64718.78 <br> 
+  🪙 USDC: ₹97.5 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹97.02 | 📈 H: ₹98.27 | 📉 L: ₹97.0 <br>♦ ETH: ₹215137.3 | 📈 H: ₹223346.6 | 📉 L: ₹214027.3 <br>₿ BTC: ₹7673000.0 | 📈 H: ₹7942129.0 | 📉 L: ₹7600009.0 <br>⚡ BNB: ₹64495.34 | 📈 H: ₹67078.93 | 📉 L: ₹64495.34 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm under the weather, specifically a cloud of nope. 🛑❌ 
+  No is a complete sentence, and it's my final answer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
