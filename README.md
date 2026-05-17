@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 17/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 26.3 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 36.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 29.9 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 37.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.65 <strong>PM10:</strong> 29.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.95 <strong>PM10:</strong> 31.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.7 | 41.8 | 41 | 31.0 | 0 |
 | 2026-05-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.2 | 40.2 | 46 | 29.5 | 63 |
 | 2026-05-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.0 | 52 | 26.6 | 0 |
 | 2026-05-17 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.0 | 35.7 | 63 | 31.7 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.4 | 73 | 25.9 | 0 |
 | 2026-05-17 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.2 | 34.1 | 75 | 25.2 | 0 |
 | 2026-05-18 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.8 | 33.9 | 78 | 25.2 | 0 |
+| 2026-05-18 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.5 | 33.6 | 81 | 23.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.64 | 📈 H: ₹96.64 | 📉 L: ₹96.45 <br>💵 USDT: ₹97.19 | 📈 H: ₹98.48 | 📉 L: ₹96.53 <br>♦ ETH: ₹210569.8 | 📈 H: ₹216423.6 | 📉 L: ₹209400.0 <br>₿ BTC: ₹7524277.0 | 📈 H: ₹7735767.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63146.77 | 📈 H: ₹65324.08 | 📉 L: ₹62080.99 <br> 
+  🪙 USDC: ₹96.64 | 📈 H: ₹96.64 | 📉 L: ₹96.45 <br>💵 USDT: ₹97.38 | 📈 H: ₹98.48 | 📉 L: ₹96.53 <br>♦ ETH: ₹210937.7 | 📈 H: ₹216217.9 | 📉 L: ₹209400.0 <br>₿ BTC: ₹7690786.0 | 📈 H: ₹7734231.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63054.26 | 📈 H: ₹64527.02 | 📉 L: ₹62080.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The couch has accepted me as one of its own, and I can't betray its trust. 🛑❌ 
+  I tried seeing it from your perspective, but I still have to say no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
