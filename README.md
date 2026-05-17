@@ -18,14 +18,13 @@
   <p>Kolkata, India - 17/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:02 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.9 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 20.5 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.75 <strong>PM10:</strong> 19.15</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.05 <strong>PM10:</strong> 19.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-17 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.3 | 36.6 | 55 | 21.2 | 0 |
 | 2026-05-17 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 38.5 | 44 | 22.7 | 0 |
 | 2026-05-17 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.8 | 40.4 | 37 | 23.4 | 0 |
 | 2026-05-17 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 42.0 | 33 | 25.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 40.9 | 37 | 27.0 | 0 |
 | 2026-05-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.9 | 39.5 | 40 | 29.9 | 0 |
 | 2026-05-17 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.2 | 38.6 | 41 | 31.0 | 0 |
+| 2026-05-17 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 37.1 | 48 | 29.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.45 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹96.59 | 📈 H: ₹98.48 | 📉 L: ₹96.53 <br>♦ ETH: ₹214667.8 | 📈 H: ₹220803.9 | 📉 L: ₹209823.3 <br>₿ BTC: ₹7498896.0 | 📈 H: ₹7740982.0 | 📉 L: ₹7498896.0 <br>⚡ BNB: ₹63408.64 | 📈 H: ₹67075.56 | 📉 L: ₹62080.99 <br> 
+  🪙 USDC: ₹96.45 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹96.91 | 📈 H: ₹98.48 | 📉 L: ₹96.53 <br>♦ ETH: ₹214661.4 | 📈 H: ₹220803.9 | 📉 L: ₹209823.3 <br>₿ BTC: ₹7691278.0 | 📈 H: ₹7740982.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63408.64 | 📈 H: ₹67075.56 | 📉 L: ₹62080.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
