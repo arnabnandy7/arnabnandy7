@@ -18,14 +18,13 @@
   <p>Kolkata, India - 17/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 25.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 32.9 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 24.5 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 34.5 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.75 <strong>PM10:</strong> 20.85</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.35 <strong>PM10:</strong> 24.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 44.0 | 30 | 24.5 | 0 |
 | 2026-05-17 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 44.2 | 30 | 27.0 | 0 |
 | 2026-05-17 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 41.7 | 36 | 28.1 | 0 |
 | 2026-05-17 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.6 | 40.6 | 38 | 28.4 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-17 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.0 | 34.6 | 68 | 29.5 | 0 |
 | 2026-05-17 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.0 | 34.5 | 68 | 26.6 | 0 |
 | 2026-05-17 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.9 | 34.4 | 68 | 26.6 | 0 |
+| 2026-05-17 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.5 | 73 | 30.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.45 | 📈 H: ₹97.5 | 📉 L: ₹96.26 <br>💵 USDT: ₹96.86 | 📈 H: ₹98.48 | 📉 L: ₹96.53 <br>♦ ETH: ₹214671.8 | 📈 H: ₹220409.9 | 📉 L: ₹209400.0 <br>₿ BTC: ₹7550001.0 | 📈 H: ₹7739938.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63282.53 | 📈 H: ₹65324.08 | 📉 L: ₹62080.99 <br> 
+  🪙 USDC: ₹96.64 | 📈 H: ₹96.64 | 📉 L: ₹96.45 <br>💵 USDT: ₹97.14 | 📈 H: ₹98.48 | 📉 L: ₹96.53 <br>♦ ETH: ₹210569.8 | 📈 H: ₹216423.6 | 📉 L: ₹209400.0 <br>₿ BTC: ₹7526559.0 | 📈 H: ₹7739521.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63146.77 | 📈 H: ₹65324.08 | 📉 L: ₹62080.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I need to finish an intense session of doing nothing at all. 🛑❌ 
+  The couch has accepted me as one of its own, and I can't betray its trust. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
