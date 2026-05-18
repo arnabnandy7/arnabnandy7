@@ -18,27 +18,27 @@
   <p>Kolkata, India - 18/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:52 AM, Set: 08:10 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 38.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:52 AM, Set: 08:10 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 38.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.75 <strong>PM10:</strong> 27.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.65 <strong>PM10:</strong> 24.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-19 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.5 | 34.1 | 83 | 15.8 | 0 |
-| 2026-05-19 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.4 | 33.9 | 84 | 16.6 | 0 |
-| 2026-05-19 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.6 | 34.2 | 83 | 18.0 | 0 |
-| 2026-05-19 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 36.5 | 75 | 26.3 | 0 |
-| 2026-05-19 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.6 | 39.2 | 62 | 27.4 | 0 |
-| 2026-05-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.0 | 41.6 | 51 | 25.6 | 0 |
-| 2026-05-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.9 | 43.6 | 45 | 24.8 | 0 |
-| 2026-05-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 45.0 | 40 | 25.9 | 0 |
-| 2026-05-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.4 | 46.0 | 37 | 26.6 | 0 |
-| 2026-05-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.8 | 46.7 | 37 | 27.0 | 0 |
+| 2026-05-19 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 33.6 | 85 | 14.8 | 0 |
+| 2026-05-19 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.4 | 33.9 | 83 | 13.3 | 0 |
+| 2026-05-19 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 36.1 | 72 | 20.5 | 0 |
+| 2026-05-19 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 38.5 | 57 | 20.2 | 0 |
+| 2026-05-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 40.9 | 46 | 19.1 | 0 |
+| 2026-05-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 43.0 | 37 | 19.4 | 0 |
+| 2026-05-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 44.4 | 30 | 22.0 | 0 |
+| 2026-05-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.4 | 45.2 | 27 | 24.8 | 0 |
+| 2026-05-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.7 | 45.6 | 27 | 27.4 | 0 |
+| 2026-05-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.4 | 45.8 | 28 | 29.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹98.11 | 📈 H: ₹99.0 | 📉 L: ₹97.02 <br>♦ ETH: ₹207277.9 | 📈 H: ₹212226.7 | 📉 L: ₹205000.0 <br>₿ BTC: ₹7499961.0 | 📈 H: ₹7679983.0 | 📉 L: ₹7450191.0 <br>⚡ BNB: ₹62475.13 | 📈 H: ₹63495.67 | 📉 L: ₹62034.28 <br> 
+  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹98.11 | 📈 H: ₹99.0 | 📉 L: ₹97.02 <br>♦ ETH: ₹208888.6 | 📈 H: ₹212226.7 | 📉 L: ₹205000.0 <br>₿ BTC: ₹7503186.0 | 📈 H: ₹7679983.0 | 📉 L: ₹7450191.0 <br>⚡ BNB: ₹62475.13 | 📈 H: ₹63495.67 | 📉 L: ₹62034.28 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm hard at work doing nothing at all. 🛑❌ 
+  I'm declining out of an abundance of apathy. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
