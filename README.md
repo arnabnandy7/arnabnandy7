@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 17/05/2026</p>
+  <p>Kolkata, India - 18/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 38.3 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:53 AM, Set: 07:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.15 <strong>PM10:</strong> 22.65</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.75 <strong>PM10:</strong> 22.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 35.7 | 72 | 22.0 | 0 |
 | 2026-05-18 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 38.5 | 61 | 22.3 | 0 |
 | 2026-05-18 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 41.0 | 51 | 23.0 | 0 |
 | 2026-05-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 42.5 | 44 | 22.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.6 | 46.2 | 32 | 25.6 | 0 |
 | 2026-05-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 45.9 | 34 | 28.4 | 0 |
 | 2026-05-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 45.3 | 39 | 30.6 | 0 |
+| 2026-05-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 42.8 | 50 | 34.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹97.57 | 📈 H: ₹97.73 | 📉 L: ₹96.53 <br>♦ ETH: ₹210985.0 | 📈 H: ₹214821.7 | 📉 L: ₹209400.0 <br>₿ BTC: ₹7513339.0 | 📈 H: ₹7695364.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63080.28 | 📈 H: ₹63943.41 | 📉 L: ₹62984.26 <br> 
+  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹97.02 | 📈 H: ₹97.73 | 📉 L: ₹96.66 <br>♦ ETH: ₹207770.2 | 📈 H: ₹214821.7 | 📉 L: ₹207770.2 <br>₿ BTC: ₹7500000.0 | 📈 H: ₹7695364.0 | 📉 L: ₹7449716.0 <br>⚡ BNB: ₹63080.28 | 📈 H: ₹63943.41 | 📉 L: ₹62984.26 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm introverting so hard right now, I can't stop to do that. 🛑❌ 
+  I'm choosing myself over this commitment—so, no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
