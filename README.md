@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 18/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:52 AM, Set: 08:10 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 38.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:52 AM, Set: 08:10 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 25.9 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 38.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.15 <strong>PM10:</strong> 37.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.05 <strong>PM10:</strong> 39.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-19 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 34.7 | 82 | 23.8 | 0 |
 | 2026-05-19 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.7 | 34.5 | 83 | 20.2 | 0 |
 | 2026-05-19 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 34.2 | 83 | 17.6 | 0 |
 | 2026-05-19 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.5 | 34.1 | 83 | 15.8 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-19 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.6 | 39.2 | 62 | 27.4 | 0 |
 | 2026-05-19 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.0 | 41.6 | 51 | 25.6 | 0 |
 | 2026-05-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.9 | 43.6 | 45 | 24.8 | 0 |
+| 2026-05-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 45.0 | 40 | 25.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹98.02 | 📈 H: ₹99.0 | 📉 L: ₹97.0 <br>♦ ETH: ₹205612.0 | 📈 H: ₹213999.7 | 📉 L: ₹205000.0 <br>₿ BTC: ₹7559303.0 | 📈 H: ₹7679983.0 | 📉 L: ₹7450191.0 <br>⚡ BNB: ₹62434.85 | 📈 H: ₹63943.41 | 📉 L: ₹62034.28 <br> 
+  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹98.45 | 📈 H: ₹99.0 | 📉 L: ₹97.0 <br>♦ ETH: ₹205612.0 | 📈 H: ₹213999.7 | 📉 L: ₹205000.0 <br>₿ BTC: ₹7475007.0 | 📈 H: ₹7679983.0 | 📉 L: ₹7450191.0 <br>⚡ BNB: ₹62241.92 | 📈 H: ₹63495.67 | 📉 L: ₹62034.28 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'd volunteer, but the incompetence fee I charge is quite high. 🛑❌ 
+  I'm hard at work doing nothing at all. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
