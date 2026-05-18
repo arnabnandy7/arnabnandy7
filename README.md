@@ -18,27 +18,27 @@
   <p>Kolkata, India - 18/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:52 AM, Set: 08:10 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 22.3 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 35.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:52 AM, Set: 08:10 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 35.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.95 <strong>PM10:</strong> 21.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.05 <strong>PM10:</strong> 22.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 42.5 | 44 | 22.0 | 0 |
-| 2026-05-18 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 44.5 | 37 | 20.9 | 0 |
-| 2026-05-18 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 45.4 | 31 | 22.3 | 0 |
-| 2026-05-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.7 | 46.0 | 31 | 25.6 | 0 |
-| 2026-05-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.6 | 46.2 | 32 | 25.6 | 0 |
-| 2026-05-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 45.9 | 34 | 28.4 | 0 |
-| 2026-05-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 45.3 | 39 | 30.6 | 0 |
-| 2026-05-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 42.8 | 50 | 34.9 | 0 |
-| 2026-05-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 40.2 | 57 | 29.2 | 0 |
-| 2026-05-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.5 | 37.8 | 67 | 28.8 | 0 |
+| 2026-05-18 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.9 | 45.5 | 30 | 24.8 | 0 |
+| 2026-05-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.5 | 45.7 | 32 | 26.6 | 0 |
+| 2026-05-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 44.7 | 36 | 29.9 | 0 |
+| 2026-05-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.2 | 44.4 | 40 | 29.2 | 0 |
+| 2026-05-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 41.5 | 48 | 31.3 | 0 |
+| 2026-05-18 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 39.9 | 58 | 31.3 | 0 |
+| 2026-05-18 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 37.3 | 68 | 28.4 | 0 |
+| 2026-05-18 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.4 | 36.5 | 72 | 25.2 | 0 |
+| 2026-05-18 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 36.0 | 74 | 27.4 | 0 |
+| 2026-05-18 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.7 | 35.8 | 77 | 29.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹97.45 | 📈 H: ₹97.73 | 📉 L: ₹96.71 <br>♦ ETH: ₹205061.8 | 📈 H: ₹214821.7 | 📉 L: ₹205061.8 <br>₿ BTC: ₹7500001.0 | 📈 H: ₹7690903.0 | 📉 L: ₹7500000.0 <br>⚡ BNB: ₹63080.28 | 📈 H: ₹63943.41 | 📉 L: ₹62984.26 <br> 
+  🪙 USDC: ₹96.4 | 📈 H: ₹98.49 | 📉 L: ₹96.4 <br>💵 USDT: ₹98.35 | 📈 H: ₹98.35 | 📉 L: ₹96.9 <br>♦ ETH: ₹206000.1 | 📈 H: ₹214821.7 | 📉 L: ₹205000.0 <br>₿ BTC: ₹7599998.0 | 📈 H: ₹7690902.0 | 📉 L: ₹7450191.0 <br>⚡ BNB: ₹62700.0 | 📈 H: ₹63943.41 | 📉 L: ₹62700.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm choosing myself over this commitment—so, no. 🛑❌ 
+  I just came down with a severe case of Not-Today-itis. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
