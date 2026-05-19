@@ -18,27 +18,27 @@
   <p>Kolkata, India - 19/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:58 AM, Set: 09:15 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:58 AM, Set: 09:15 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 22.0 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.25 <strong>PM10:</strong> 20.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.05 <strong>PM10:</strong> 21.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-19 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 43.0 | 37 | 19.4 | 0 |
-| 2026-05-19 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.2 | 44.4 | 30 | 22.0 | 0 |
-| 2026-05-19 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.4 | 45.2 | 27 | 24.8 | 0 |
-| 2026-05-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.7 | 45.6 | 27 | 27.4 | 0 |
-| 2026-05-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 41.4 | 45.8 | 28 | 29.5 | 0 |
-| 2026-05-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 44.9 | 30 | 28.8 | 0 |
-| 2026-05-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 44.2 | 35 | 29.5 | 0 |
-| 2026-05-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 43.3 | 43 | 30.6 | 0 |
-| 2026-05-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 41.1 | 54 | 28.8 | 0 |
-| 2026-05-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.9 | 38.5 | 65 | 27.4 | 0 |
+| 2026-05-19 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.3 | 45.3 | 32 | 26.6 | 0 |
+| 2026-05-19 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.3 | 45.3 | 32 | 27.0 | 0 |
+| 2026-05-19 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 45.0 | 32 | 28.4 | 0 |
+| 2026-05-19 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.2 | 44.3 | 34 | 28.4 | 0 |
+| 2026-05-19 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 43.2 | 42 | 29.9 | 0 |
+| 2026-05-19 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 41.1 | 54 | 27.4 | 0 |
+| 2026-05-19 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.0 | 38.6 | 65 | 25.6 | 0 |
+| 2026-05-19 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.6 | 37.2 | 73 | 24.1 | 0 |
+| 2026-05-19 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.1 | 36.8 | 77 | 25.2 | 0 |
+| 2026-05-19 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 36.3 | 78 | 23.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.51 | 📈 H: ₹97.51 | 📉 L: ₹97.51 <br>💵 USDT: ₹98.07 | 📈 H: ₹99.0 | 📉 L: ₹97.25 <br>♦ ETH: ₹209687.3 | 📈 H: ₹210356.3 | 📉 L: ₹205000.0 <br>₿ BTC: ₹7559302.0 | 📈 H: ₹7599998.0 | 📉 L: ₹7450191.0 <br>⚡ BNB: ₹62703.34 | 📈 H: ₹63495.67 | 📉 L: ₹62034.28 <br> 
+  🪙 USDC: ₹97.51 | 📈 H: ₹97.51 | 📉 L: ₹97.51 <br>💵 USDT: ₹98.3 | 📈 H: ₹99.0 | 📉 L: ₹97.52 <br>♦ ETH: ₹209687.3 | 📈 H: ₹210356.3 | 📉 L: ₹205405.0 <br>₿ BTC: ₹7559302.0 | 📈 H: ₹7599998.0 | 📉 L: ₹7464639.0 <br>⚡ BNB: ₹62671.18 | 📈 H: ₹63495.67 | 📉 L: ₹62034.28 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  For the sake of cosmic balance, I can't agree. 🛑❌ 
+  I gave all my free time to someone else; I'm running a deficit. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
