@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-20 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.3 | 36.0 | 82 | 22.0 | 0 |
 | 2026-05-20 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.0 | 35.6 | 84 | 22.0 | 0 |
 | 2026-05-20 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.8 | 35.3 | 85 | 21.2 | 0 |
 | 2026-05-20 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.7 | 35.2 | 86 | 20.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-20 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 31.5 | 39.0 | 72 | 21.6 | 0 |
 | 2026-05-20 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.2 | 41.1 | 63 | 23.0 | 0 |
 | 2026-05-20 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 43.2 | 57 | 23.8 | 0 |
+| 2026-05-20 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.2 | 45.0 | 52 | 26.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.81 | 📈 H: ₹97.81 | 📉 L: ₹97.51 <br>💵 USDT: ₹98.0 | 📈 H: ₹99.62 | 📉 L: ₹98.0 <br>♦ ETH: ₹208000.0 | 📈 H: ₹212916.2 | 📉 L: ₹205612.0 <br>₿ BTC: ₹7520152.0 | 📈 H: ₹7618999.0 | 📉 L: ₹7475006.0 <br>⚡ BNB: ₹62526.07 | 📈 H: ₹62735.59 | 📉 L: ₹62081.7 <br> 
+  🪙 USDC: ₹97.81 | 📈 H: ₹97.81 | 📉 L: ₹97.51 <br>💵 USDT: ₹98.02 | 📈 H: ₹99.62 | 📉 L: ₹98.0 <br>♦ ETH: ₹208000.0 | 📈 H: ₹212916.2 | 📉 L: ₹205612.0 <br>₿ BTC: ₹7567999.0 | 📈 H: ₹7618999.0 | 📉 L: ₹7475007.0 <br>⚡ BNB: ₹62526.07 | 📈 H: ₹62735.59 | 📉 L: ₹62081.7 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My enthusiasm is on backorder, and the delivery date keeps getting pushed. 🛑❌ 
+  If I took this on, I’d be betraying the time I promised myself. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
