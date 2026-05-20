@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 20/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:07 AM, Set: 10:12 PM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:12 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 36.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:07 AM, Set: 10:12 PM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:12 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 36.0 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.65 <strong>PM10:</strong> 47.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.75 <strong>PM10:</strong> 39.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-21 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.3 | 36.1 | 83 | 12.2 | 86 |
 | 2026-05-21 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 35.9 | 82 | 14.8 | 0 |
 | 2026-05-21 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 36.3 | 80 | 13.0 | 0 |
 | 2026-05-21 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 38.6 | 72 | 16.6 | 0 |
@@ -35,6 +34,7 @@
 | 2026-05-21 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 46.0 | 42 | 20.2 | 0 |
 | 2026-05-21 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.1 | 46.7 | 40 | 19.8 | 0 |
 | 2026-05-21 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.6 | 47.3 | 39 | 20.2 | 0 |
+| 2026-05-21 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.9 | 47.7 | 38 | 21.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That isn't on my bucket list; in fact, it's on my chuck-it list. 🛑❌ 
+  I'm closing the door on that idea (literally and figuratively). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
