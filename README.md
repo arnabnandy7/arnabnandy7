@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 21/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
-  <p>Clear (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:12 PM  <br>💨 <strong>Wind:</strong> 27.0 kph | 💧 <strong>Humidity:</strong> 49% | 🌡️ <strong>Feels Like:</strong> 42.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <p>Partly Cloudy (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:12 PM  <br>💨 <strong>Wind:</strong> 29.9 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 38.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.35 <strong>PM10:</strong> 91.85</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 49.65 <strong>PM10:</strong> 96.05</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-21 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 38.2 | 72 | 29.9 | 0 |
-| 2026-05-21 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.4 | 37.5 | 76 | 27.0 | 0 |
 | 2026-05-21 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.2 | 37.3 | 78 | 24.1 | 0 |
 | 2026-05-21 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.9 | 37.0 | 80 | 22.7 | 0 |
 | 2026-05-21 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.6 | 36.6 | 81 | 21.6 | 0 |
@@ -35,10 +33,12 @@
 | 2026-05-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.1 | 35.9 | 84 | 22.0 | 68 |
 | 2026-05-22 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.3 | 35.6 | 81 | 22.3 | 0 |
 | 2026-05-22 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.8 | 35.7 | 76 | 26.3 | 0 |
+| 2026-05-22 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 30.3 | 36.4 | 73 | 23.8 | 0 |
+| 2026-05-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.9 | 37.2 | 70 | 24.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.73 | 📈 H: ₹100.49 | 📉 L: ₹97.73 <br>💵 USDT: ₹99.93 | 📈 H: ₹100.01 | 📉 L: ₹98.65 <br>♦ ETH: ₹210000.1 | 📈 H: ₹213000.0 | 📉 L: ₹208312.0 <br>₿ BTC: ₹7665994.0 | 📈 H: ₹7730277.0 | 📉 L: ₹7591859.0 <br>⚡ BNB: ₹64027.37 | 📈 H: ₹65739.65 | 📉 L: ₹63785.76 <br> 
+  🪙 USDC: ₹98.42 | 📈 H: ₹100.49 | 📉 L: ₹97.73 <br>💵 USDT: ₹99.5 | 📈 H: ₹100.01 | 📉 L: ₹98.65 <br>♦ ETH: ₹210000.1 | 📈 H: ₹213000.0 | 📉 L: ₹208312.0 <br>₿ BTC: ₹7730277.0 | 📈 H: ₹7730277.0 | 📉 L: ₹7591859.0 <br>⚡ BNB: ₹64027.37 | 📈 H: ₹65739.65 | 📉 L: ₹63785.76 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
