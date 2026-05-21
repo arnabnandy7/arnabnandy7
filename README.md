@@ -18,14 +18,13 @@
   <p>Kolkata, India - 21/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:12 PM  <br>💨 <strong>Wind:</strong> 24.1 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:15 AM, Set: 11:00 PM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:12 PM  <br>💨 <strong>Wind:</strong> 22.7 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 37.0 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.85 <strong>PM10:</strong> 87.25</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.35 <strong>PM10:</strong> 80.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-21 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.6 | 36.6 | 81 | 21.6 | 0 |
 | 2026-05-22 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 36.3 | 83 | 21.2 | 0 |
 | 2026-05-22 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.2 | 36.1 | 84 | 20.9 | 0 |
 | 2026-05-22 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.1 | 35.9 | 84 | 22.0 | 68 |
@@ -35,10 +34,11 @@
 | 2026-05-22 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.9 | 37.2 | 70 | 24.5 | 0 |
 | 2026-05-22 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.6 | 39.4 | 62 | 28.8 | 0 |
 | 2026-05-22 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 41.8 | 53 | 25.6 | 0 |
+| 2026-05-22 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.7 | 43.4 | 46 | 28.8 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.5 | 📈 H: ₹100.5 | 📉 L: ₹97.73 <br>💵 USDT: ₹99.5 | 📈 H: ₹100.01 | 📉 L: ₹98.65 <br>♦ ETH: ₹209228.2 | 📈 H: ₹212999.9 | 📉 L: ₹208312.0 <br>₿ BTC: ₹7665994.0 | 📈 H: ₹7730277.0 | 📉 L: ₹7591859.0 <br>⚡ BNB: ₹64027.37 | 📈 H: ₹65739.65 | 📉 L: ₹63788.49 <br> 
+  🪙 USDC: ₹98.5 | 📈 H: ₹100.5 | 📉 L: ₹97.73 <br>💵 USDT: ₹99.6 | 📈 H: ₹100.01 | 📉 L: ₹98.65 <br>♦ ETH: ₹210666.7 | 📈 H: ₹212999.9 | 📉 L: ₹208312.0 <br>₿ BTC: ₹7674319.0 | 📈 H: ₹7730277.0 | 📉 L: ₹7591859.0 <br>⚡ BNB: ₹64027.37 | 📈 H: ₹65739.65 | 📉 L: ₹63788.49 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹— ➖ 🛢️ Diesel: ₹— ➖
