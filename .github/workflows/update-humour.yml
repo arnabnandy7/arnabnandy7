@@ -17,7 +17,19 @@ jobs:
       # Fetch data from your API
       - name: Fetch API data
         run: |
-          curl -X GET https://naas.isalman.dev/no -o tmp/humour_response.json
+          RESPONSE=$(curl -sS -X GET "https://naas.isalman.dev/no" || true)
+
+          if echo "$RESPONSE" | grep -qi "error code: 1033"; then
+            echo "API limit reached, writing fallback JSON"
+            printf '{"reason":"No humour available right now 😴"}' > tmp/humour_response.json
+      
+          elif echo "$RESPONSE" | jq -e . >/dev/null 2>&1; then
+            printf '%s\n' "$RESPONSE" > tmp/humour_response.json
+      
+          else
+            echo "Non-JSON response, wrapping it as reason"
+            jq -Rn --arg reason "$RESPONSE" '{reason:$reason}' > tmp/humour_response.json
+          fi
           
       - name: Commit
         run: |
