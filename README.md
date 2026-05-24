@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 24/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:03 PM, Set: 12:08 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 38.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:03 PM, Set: 12:08 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.55 <strong>PM10:</strong> 38.35</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.15 <strong>PM10:</strong> 36.45</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-25 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.0 | 34.6 | 80 | 19.8 | 0 |
 | 2026-05-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.3 | 35.1 | 79 | 22.3 | 0 |
 | 2026-05-25 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.7 | 36.7 | 70 | 29.9 | 0 |
 | 2026-05-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 39.0 | 60 | 31.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.5 | 44.7 | 38 | 31.7 | 0 |
 | 2026-05-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 45.1 | 38 | 31.0 | 0 |
 | 2026-05-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 44.9 | 37 | 29.2 | 0 |
+| 2026-05-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 44.6 | 38 | 30.2 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.19 | 📈 H: ₹98.3 | 📉 L: ₹98.19 <br>💵 USDT: ₹99.59 | 📈 H: ₹99.75 | 📉 L: ₹99.0 <br>♦ ETH: ₹205895.6 | 📈 H: ₹212947.9 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7679995.0 | 📈 H: ₹7689097.0 | 📉 L: ₹7500166.0 <br>⚡ BNB: ₹64322.43 | 📈 H: ₹65653.16 | 📉 L: ₹64322.43 <br> 
+  🪙 USDC: ₹98.19 | 📈 H: ₹98.3 | 📉 L: ₹98.19 <br>💵 USDT: ₹99.58 | 📈 H: ₹99.75 | 📉 L: ₹99.0 <br>♦ ETH: ₹205806.8 | 📈 H: ₹212926.2 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7640000.0 | 📈 H: ₹7689097.0 | 📉 L: ₹7519602.0 <br>⚡ BNB: ₹64322.43 | 📈 H: ₹65653.16 | 📉 L: ₹64322.43 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
