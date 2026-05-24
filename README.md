@@ -18,14 +18,13 @@
   <p>Kolkata, India - 24/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:03 PM, Set: 12:08 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 39.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:03 PM, Set: 12:08 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 39.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.75 <strong>PM10:</strong> 43.95</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.35 <strong>PM10:</strong> 43.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-25 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.9 | 36.4 | 78 | 24.1 | 0 |
 | 2026-05-25 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 35.8 | 80 | 23.8 | 66 |
 | 2026-05-25 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.2 | 35.1 | 80 | 19.4 | 64 |
 | 2026-05-25 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.3 | 35.0 | 79 | 21.2 | 81 |
@@ -35,10 +34,11 @@
 | 2026-05-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.9 | 39.1 | 59 | 32.8 | 0 |
 | 2026-05-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 41.2 | 51 | 33.8 | 0 |
 | 2026-05-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.1 | 42.7 | 47 | 35.3 | 0 |
+| 2026-05-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.3 | 44.0 | 43 | 34.6 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.19 | 📈 H: ₹98.55 | 📉 L: ₹96.3 <br>💵 USDT: ₹99.6 | 📈 H: ₹99.75 | 📉 L: ₹99.0 <br>♦ ETH: ₹206269.9 | 📈 H: ₹212947.9 | 📉 L: ₹203654.3 <br>₿ BTC: ₹7679994.0 | 📈 H: ₹7689097.0 | 📉 L: ₹7443562.0 <br>⚡ BNB: ₹64876.15 | 📈 H: ₹65653.16 | 📉 L: ₹63500.0 <br> 
+  🪙 USDC: ₹98.19 | 📈 H: ₹98.55 | 📉 L: ₹96.3 <br>💵 USDT: ₹99.08 | 📈 H: ₹99.75 | 📉 L: ₹99.0 <br>♦ ETH: ₹205806.7 | 📈 H: ₹212947.9 | 📉 L: ₹203654.3 <br>₿ BTC: ₹7600000.0 | 📈 H: ₹7689097.0 | 📉 L: ₹7459960.0 <br>⚡ BNB: ₹64876.15 | 📈 H: ₹65653.16 | 📉 L: ₹63500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't, I'm busy preventing a future where I actually say yes. 🛑❌ 
+  I come from a long line of expert decliners. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
