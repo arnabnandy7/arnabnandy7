@@ -18,14 +18,13 @@
   <p>Kolkata, India - 24/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:03 PM, Set: 12:08 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 23.4 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 34.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:03 PM, Set: 12:08 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 37.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.65 <strong>PM10:</strong> 37.05</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.05 <strong>PM10:</strong> 42.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 46.1 | 37 | 27.0 | 0 |
 | 2026-05-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 46.0 | 37 | 27.4 | 0 |
 | 2026-05-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 45.3 | 38 | 28.8 | 0 |
 | 2026-05-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 38.0 | 44.4 | 40 | 28.8 | 62 |
@@ -35,10 +34,11 @@
 | 2026-05-24 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.8 | 37.8 | 74 | 29.9 | 0 |
 | 2026-05-24 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.2 | 37.4 | 78 | 30.2 | 0 |
 | 2026-05-24 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 30.1 | 37.3 | 79 | 27.7 | 0 |
+| 2026-05-24 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.0 | 37.1 | 80 | 24.8 | 86 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.38 | 📈 H: ₹98.93 | 📉 L: ₹96.3 <br>💵 USDT: ₹99.04 | 📈 H: ₹100.13 | 📉 L: ₹99.0 <br>♦ ETH: ₹207925.0 | 📈 H: ₹212947.9 | 📉 L: ₹200248.0 <br>₿ BTC: ₹7530542.0 | 📈 H: ₹7689097.0 | 📉 L: ₹7363190.0 <br>⚡ BNB: ₹64468.67 | 📈 H: ₹64565.95 | 📉 L: ₹63500.0 <br> 
+  🪙 USDC: ₹98.3 | 📈 H: ₹98.93 | 📉 L: ₹96.3 <br>💵 USDT: ₹99.46 | 📈 H: ₹100.13 | 📉 L: ₹99.0 <br>♦ ETH: ₹208307.1 | 📈 H: ₹212947.9 | 📉 L: ₹200248.0 <br>₿ BTC: ₹7689095.0 | 📈 H: ₹7689097.0 | 📉 L: ₹7363190.0 <br>⚡ BNB: ₹65653.16 | 📈 H: ₹65653.16 | 📉 L: ₹63500.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a chronic condition called 'idontwanna'. 🛑❌ 
+  YOLO, which is why I'm saying no – I value my one life too much. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
