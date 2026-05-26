@@ -18,15 +18,13 @@
   <p>Kolkata, India - 26/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 30.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 28.4 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 38.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.05 <strong>PM10:</strong> 27.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.55 <strong>PM10:</strong> 29.65</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.7 | 45.9 | 40 | 28.1 | 0 |
-| 2026-05-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 46.0 | 40 | 26.6 | 0 |
 | 2026-05-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 45.6 | 41 | 27.0 | 0 |
 | 2026-05-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.4 | 44.3 | 43 | 30.2 | 100 |
 | 2026-05-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 40.7 | 52 | 24.8 | 100 |
@@ -35,10 +33,12 @@
 | 2026-05-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.5 | 36.2 | 70 | 31.7 | 0 |
 | 2026-05-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.1 | 36.0 | 74 | 25.9 | 0 |
 | 2026-05-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.9 | 35.9 | 75 | 17.3 | 0 |
+| 2026-05-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.7 | 35.5 | 76 | 19.8 | 76 |
+| 2026-05-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.6 | 35.5 | 77 | 21.6 | 87 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.42 | 📈 H: ₹98.42 | 📉 L: ₹97.91 <br>💵 USDT: ₹99.25 | 📈 H: ₹100.1 | 📉 L: ₹98.35 <br>♦ ETH: ₹208000.0 | 📈 H: ₹211999.9 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7606658.0 | 📈 H: ₹7679994.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64829.29 | 📈 H: ₹66599.99 | 📉 L: ₹64757.5 <br> 
+  🪙 USDC: ₹98.42 | 📈 H: ₹98.42 | 📉 L: ₹97.91 <br>💵 USDT: ₹99.4 | 📈 H: ₹100.1 | 📉 L: ₹98.35 <br>♦ ETH: ₹205997.1 | 📈 H: ₹211999.9 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7676274.0 | 📈 H: ₹7679994.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64829.29 | 📈 H: ₹66599.99 | 📉 L: ₹64757.5 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a rare genetic disorder where I break out in refusals. 🛑❌ 
+  I’m not in a position to commit to this right now. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
