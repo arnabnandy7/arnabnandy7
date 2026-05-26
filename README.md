@@ -18,27 +18,27 @@
   <p>Kolkata, India - 26/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 30.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.65 <strong>PM10:</strong> 30.25</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.05 <strong>PM10:</strong> 27.15</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-26 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.0 | 42.7 | 48 | 32.0 | 0 |
-| 2026-05-26 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 43.9 | 44 | 30.6 | 0 |
-| 2026-05-26 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 44.6 | 42 | 31.0 | 0 |
-| 2026-05-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 44.9 | 41 | 30.6 | 0 |
-| 2026-05-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 44.6 | 41 | 29.5 | 0 |
-| 2026-05-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.6 | 43.9 | 42 | 28.4 | 0 |
-| 2026-05-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.8 | 42.7 | 43 | 30.2 | 0 |
-| 2026-05-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 40.7 | 49 | 33.1 | 0 |
-| 2026-05-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.7 | 54 | 34.6 | 0 |
-| 2026-05-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 36.7 | 66 | 25.9 | 0 |
+| 2026-05-26 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.7 | 45.9 | 40 | 28.1 | 0 |
+| 2026-05-26 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 46.0 | 40 | 26.6 | 0 |
+| 2026-05-26 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 45.6 | 41 | 27.0 | 0 |
+| 2026-05-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.4 | 44.3 | 43 | 30.2 | 100 |
+| 2026-05-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 40.7 | 52 | 24.8 | 100 |
+| 2026-05-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 39.0 | 57 | 29.2 | 0 |
+| 2026-05-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.4 | 37.0 | 65 | 28.8 | 0 |
+| 2026-05-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.5 | 36.2 | 70 | 31.7 | 0 |
+| 2026-05-26 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.1 | 36.0 | 74 | 25.9 | 0 |
+| 2026-05-26 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.9 | 35.9 | 75 | 17.3 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.42 | 📈 H: ₹98.42 | 📉 L: ₹97.91 <br>💵 USDT: ₹99.0 | 📈 H: ₹100.1 | 📉 L: ₹98.35 <br>♦ ETH: ₹205806.7 | 📈 H: ₹211999.9 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7606658.0 | 📈 H: ₹7679994.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64808.35 | 📈 H: ₹66599.99 | 📉 L: ₹64808.35 <br> 
+  🪙 USDC: ₹98.42 | 📈 H: ₹98.42 | 📉 L: ₹97.91 <br>💵 USDT: ₹99.25 | 📈 H: ₹100.1 | 📉 L: ₹98.35 <br>♦ ETH: ₹208000.0 | 📈 H: ₹211999.9 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7606658.0 | 📈 H: ₹7679994.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64829.29 | 📈 H: ₹66599.99 | 📉 L: ₹64757.5 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No humour available right now 😴 🛑❌ 
+  I have a rare genetic disorder where I break out in refusals. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
