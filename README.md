@@ -18,14 +18,13 @@
   <p>Kolkata, India - 26/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.45 <strong>PM10:</strong> 35.55</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.65 <strong>PM10:</strong> 30.25</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-26 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 40.9 | 53 | 30.2 | 0 |
 | 2026-05-26 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.0 | 42.7 | 48 | 32.0 | 0 |
 | 2026-05-26 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 43.9 | 44 | 30.6 | 0 |
 | 2026-05-26 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 44.6 | 42 | 31.0 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.8 | 42.7 | 43 | 30.2 | 0 |
 | 2026-05-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 40.7 | 49 | 33.1 | 0 |
 | 2026-05-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.7 | 54 | 34.6 | 0 |
+| 2026-05-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 36.7 | 66 | 25.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹97.91 | 📈 H: ₹98.34 | 📉 L: ₹97.91 <br>💵 USDT: ₹99.44 | 📈 H: ₹100.1 | 📉 L: ₹98.35 <br>♦ ETH: ₹208040.8 | 📈 H: ₹211999.9 | 📉 L: ₹205806.8 <br>₿ BTC: ₹7674854.0 | 📈 H: ₹7679994.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64808.35 | 📈 H: ₹66599.99 | 📉 L: ₹64808.35 <br> 
+  🪙 USDC: ₹98.42 | 📈 H: ₹98.42 | 📉 L: ₹97.91 <br>💵 USDT: ₹99.0 | 📈 H: ₹100.1 | 📉 L: ₹98.35 <br>♦ ETH: ₹205806.7 | 📈 H: ₹211999.9 | 📉 L: ₹205806.7 <br>₿ BTC: ₹7606658.0 | 📈 H: ₹7679994.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64808.35 | 📈 H: ₹66599.99 | 📉 L: ₹64808.35 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
