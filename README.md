@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 26/05/2026</p>
+  <p>Kolkata, India - 27/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
   <p>Cloudy (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 38.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:57 PM, Set: 01:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 37.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.05 <strong>PM10:</strong> 41.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.25 <strong>PM10:</strong> 37.75</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-27 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 30.5 | 36.9 | 73 | 21.2 | 0 |
 | 2026-05-27 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 39.1 | 65 | 22.3 | 0 |
 | 2026-05-27 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 41.3 | 55 | 24.1 | 0 |
 | 2026-05-27 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.1 | 43.2 | 48 | 25.6 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-27 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.3 | 45.3 | 36 | 23.8 | 0 |
 | 2026-05-27 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 44.8 | 37 | 27.4 | 0 |
 | 2026-05-27 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.4 | 43.1 | 41 | 27.7 | 0 |
+| 2026-05-27 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 34.2 | 40.3 | 53 | 31.7 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.52 | 📈 H: ₹98.52 | 📉 L: ₹98.0 <br>💵 USDT: ₹99.77 | 📈 H: ₹100.13 | 📉 L: ₹98.75 <br>♦ ETH: ₹206997.7 | 📈 H: ₹212000.0 | 📉 L: ₹203044.8 <br>₿ BTC: ₹7618299.0 | 📈 H: ₹7700474.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64687.81 | 📈 H: ₹65558.15 | 📉 L: ₹64517.59 <br> 
+  🪙 USDC: ₹98.52 | 📈 H: ₹98.52 | 📉 L: ₹98.0 <br>💵 USDT: ₹99.66 | 📈 H: ₹100.13 | 📉 L: ₹98.76 <br>♦ ETH: ₹206997.7 | 📈 H: ₹212000.0 | 📉 L: ₹203044.8 <br>₿ BTC: ₹7600000.0 | 📈 H: ₹7700474.0 | 📉 L: ₹7600000.0 <br>⚡ BNB: ₹64737.14 | 📈 H: ₹65558.15 | 📉 L: ₹64517.59 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Channeling Opposite Nike: 'Just don't do it.' 🛑❌ 
+  error code: 502 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
