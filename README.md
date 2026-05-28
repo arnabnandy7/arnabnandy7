@@ -18,14 +18,13 @@
   <p>Kolkata, India - 28/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:53 PM, Set: 01:53 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:15 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 28.7 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:51 PM, Set: 02:29 AM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:15 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 35.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.75 <strong>PM10:</strong> 37.15</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.75 <strong>PM10:</strong> 36.95</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-28 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 37.2 | 64 | 16.9 | 0 |
 | 2026-05-28 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 38.4 | 56 | 20.9 | 0 |
 | 2026-05-28 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 40.7 | 48 | 20.5 | 0 |
 | 2026-05-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.9 | 42.5 | 42 | 20.2 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 44.6 | 39 | 25.2 | 0 |
 | 2026-05-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 37.1 | 43.5 | 43 | 32.8 | 0 |
 | 2026-05-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 35.6 | 41.6 | 47 | 29.5 | 0 |
+| 2026-05-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.5 | 39.3 | 55 | 32.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.08 | 📈 H: ₹99.0 | 📉 L: ₹98.08 <br>💵 USDT: ₹99.24 | 📈 H: ₹99.87 | 📉 L: ₹98.87 <br>♦ ETH: ₹203426.5 | 📈 H: ₹210069.8 | 📉 L: ₹198563.2 <br>₿ BTC: ₹7386176.0 | 📈 H: ₹7618297.0 | 📉 L: ₹7386000.0 <br>⚡ BNB: ₹64116.27 | 📈 H: ₹65558.15 | 📉 L: ₹64028.14 <br> 
+  🪙 USDC: ₹98.08 | 📈 H: ₹99.0 | 📉 L: ₹98.08 <br>💵 USDT: ₹99.63 | 📈 H: ₹99.87 | 📉 L: ₹98.87 <br>♦ ETH: ₹198903.2 | 📈 H: ₹210069.8 | 📉 L: ₹198563.2 <br>₿ BTC: ₹7386176.0 | 📈 H: ₹7618297.0 | 📉 L: ₹7386000.0 <br>⚡ BNB: ₹64116.27 | 📈 H: ₹65558.15 | 📉 L: ₹64028.14 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
