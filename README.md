@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 30/05/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:47 PM, Set: 03:49 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 21.6 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 36.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:47 PM, Set: 03:49 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 20.5 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.95000076293945 <strong>PM10:</strong> 52.04999923706055</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 40.150001525878906 <strong>PM10:</strong> 46.150001525878906</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-30 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.5 | 36.0 | 69 | 19.8 | 0 |
 | 2026-05-30 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.2 | 35.8 | 72 | 18.0 | 0 |
 | 2026-05-30 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.9 | 35.5 | 74 | 16.6 | 0 |
 | 2026-05-31 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 35.2 | 75 | 15.5 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-31 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.5 | 33.9 | 82 | 10.4 | 0 |
 | 2026-05-31 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.9 | 34.5 | 81 | 9.7 | 0 |
 | 2026-05-31 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 35.9 | 74 | 11.2 | 0 |
+| 2026-05-31 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.8 | 38.0 | 64 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.98 | 📈 H: ₹100.49 | 📉 L: ₹99.0 <br>💵 USDT: ₹99.66 | 📈 H: ₹100.07 | 📉 L: ₹99.35 <br>♦ ETH: ₹201081.2 | 📈 H: ₹203928.4 | 📉 L: ₹199731.4 <br>₿ BTC: ₹7408120.0 | 📈 H: ₹7408139.0 | 📉 L: ₹7287444.0 <br>⚡ BNB: ₹68087.01 | 📈 H: ₹68087.02 | 📉 L: ₹63000.0 <br> 
+  🪙 USDC: ₹99.98 | 📈 H: ₹100.49 | 📉 L: ₹99.0 <br>💵 USDT: ₹99.77 | 📈 H: ₹100.07 | 📉 L: ₹99.4 <br>♦ ETH: ₹203883.2 | 📈 H: ₹203928.4 | 📉 L: ₹199731.4 <br>₿ BTC: ₹7408120.0 | 📈 H: ₹7408139.0 | 📉 L: ₹7287444.0 <br>⚡ BNB: ₹68531.0 | 📈 H: ₹68531.0 | 📉 L: ₹63000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm the hero my couch deserves, so I must stay with it. 🛑❌ 
+  Your request has been denied due to a lack of interest on my part. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
