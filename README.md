@@ -18,14 +18,13 @@
   <p>Kolkata, India - 31/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 06:44 PM, Set: 04:35 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 06:44 PM, Set: 04:35 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 55.5 <strong>PM10:</strong> 62.9</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.9 <strong>PM10:</strong> 65.4</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-01 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.4 | 33.6 | 82 | 13.3 | 0 |
 | 2026-06-01 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.3 | 33.3 | 82 | 13.0 | 0 |
 | 2026-06-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.5 | 33.9 | 82 | 13.7 | 0 |
 | 2026-06-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.0 | 36.0 | 75 | 17.3 | 0 |
@@ -35,10 +34,11 @@
 | 2026-06-01 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.6 | 42.8 | 44 | 17.6 | 0 |
 | 2026-06-01 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.3 | 43.2 | 41 | 18.7 | 0 |
 | 2026-06-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.3 | 43.0 | 41 | 18.7 | 0 |
+| 2026-06-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.8 | 43.3 | 39 | 18.0 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹98.6 <br>💵 USDT: ₹99.65 | 📈 H: ₹100.03 | 📉 L: ₹99.06 <br>♦ ETH: ₹199550.0 | 📈 H: ₹203883.5 | 📉 L: ₹199550.0 <br>₿ BTC: ₹7300000.0 | 📈 H: ₹7408120.0 | 📉 L: ₹7260660.0 <br>⚡ BNB: ₹69960.51 | 📈 H: ₹74550.03 | 📉 L: ₹69953.52 <br> 
+  🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹98.6 <br>💵 USDT: ₹99.65 | 📈 H: ₹100.03 | 📉 L: ₹99.06 <br>♦ ETH: ₹199550.0 | 📈 H: ₹203883.5 | 📉 L: ₹199550.0 <br>₿ BTC: ₹7274450.0 | 📈 H: ₹7408120.0 | 📉 L: ₹7260660.0 <br>⚡ BNB: ₹69960.51 | 📈 H: ₹74550.03 | 📉 L: ₹69953.52 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My alarm clock and I had a fight, and it won by not ringing. 🛑❌ 
+  I'm truly touched you asked. Truly. Still no, though. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
