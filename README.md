@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 30/05/2026</p>
+  <p>Kolkata, India - 31/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:47 PM, Set: 03:49 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 28.6 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:47 PM, Set: 03:49 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 77% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 73.25 <strong>PM10:</strong> 81.44999694824219</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 70.6500015258789 <strong>PM10:</strong> 78.8499984741211</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-05-31 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 35.1 | 70 | 11.2 | 0 |
 | 2026-05-31 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.8 | 36.8 | 60 | 11.5 | 0 |
 | 2026-05-31 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.2 | 53 | 11.2 | 0 |
 | 2026-05-31 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.8 | 39.6 | 47 | 10.4 | 0 |
@@ -35,10 +34,11 @@
 | 2026-05-31 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.2 | 40.6 | 35 | 7.2 | 0 |
 | 2026-05-31 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.1 | 40.9 | 36 | 11.2 | 0 |
 | 2026-05-31 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.3 | 41.5 | 37 | 13.7 | 76 |
+| 2026-05-31 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 35.1 | 39.8 | 45 | 20.2 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.98 | 📈 H: ₹100.49 | 📉 L: ₹99.0 <br>💵 USDT: ₹99.91 | 📈 H: ₹100.07 | 📉 L: ₹99.5 <br>♦ ETH: ₹203842.2 | 📈 H: ₹203883.6 | 📉 L: ₹199999.0 <br>₿ BTC: ₹7323824.0 | 📈 H: ₹7408135.0 | 📉 L: ₹7287444.0 <br>⚡ BNB: ₹72132.0 | 📈 H: ₹72132.0 | 📉 L: ₹63858.12 <br> 
+  🪙 USDC: ₹99.98 | 📈 H: ₹100.49 | 📉 L: ₹99.0 <br>💵 USDT: ₹100.03 | 📈 H: ₹100.07 | 📉 L: ₹99.5 <br>♦ ETH: ₹201500.0 | 📈 H: ₹203883.5 | 📉 L: ₹199999.0 <br>₿ BTC: ₹7323824.0 | 📈 H: ₹7408135.0 | 📉 L: ₹7290552.0 <br>⚡ BNB: ₹72132.0 | 📈 H: ₹72132.0 | 📉 L: ₹63858.12 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I pulled a card from a deck; it said 'Do Not Pass Go, Do Not Say Yes'. 🛑❌ 
+  I have a dinner date with a pizza and it would be jealous if I cancel. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
