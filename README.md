@@ -18,14 +18,13 @@
   <p>Kolkata, India - 31/05/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 06:44 PM, Set: 04:35 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 33.6 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 06:44 PM, Set: 04:35 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 61.9 <strong>PM10:</strong> 70.1</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 66.8 <strong>PM10:</strong> 75.9</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-01 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.5 | 33.9 | 82 | 13.7 | 0 |
 | 2026-06-01 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.0 | 36.0 | 75 | 17.3 | 0 |
 | 2026-06-01 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.8 | 38.1 | 65 | 17.3 | 0 |
 | 2026-06-01 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.6 | 39.9 | 56 | 16.9 | 89 |
@@ -35,10 +34,11 @@
 | 2026-06-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.3 | 43.0 | 41 | 18.7 | 0 |
 | 2026-06-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.8 | 43.3 | 39 | 18.0 | 100 |
 | 2026-06-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.0 | 43.0 | 37 | 18.7 | 0 |
+| 2026-06-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 36.8 | 41.8 | 41 | 20.5 | 100 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹98.6 <br>💵 USDT: ₹99.15 | 📈 H: ₹100.03 | 📉 L: ₹99.06 <br>♦ ETH: ₹199550.0 | 📈 H: ₹203883.5 | 📉 L: ₹199550.0 <br>₿ BTC: ₹7304803.0 | 📈 H: ₹7408120.0 | 📉 L: ₹7260001.0 <br>⚡ BNB: ₹69960.51 | 📈 H: ₹74550.03 | 📉 L: ₹69953.52 <br> 
+  🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹98.6 <br>💵 USDT: ₹99.65 | 📈 H: ₹100.03 | 📉 L: ₹99.06 <br>♦ ETH: ₹199550.0 | 📈 H: ₹203883.5 | 📉 L: ₹199550.0 <br>₿ BTC: ₹7304804.0 | 📈 H: ₹7408120.0 | 📉 L: ₹7260001.0 <br>⚡ BNB: ₹69960.51 | 📈 H: ₹74550.03 | 📉 L: ₹69953.52 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
