@@ -18,27 +18,27 @@
   <p>Kolkata, India - 02/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:28 PM, Set: 06:18 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 38% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:28 PM, Set: 06:18 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 50% | 🌡️ <strong>Feels Like:</strong> 37.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.9 <strong>PM10:</strong> 44.1</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.6 <strong>PM10:</strong> 43.3</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.8 | 37.5 | 54 | 18.0 | 1 |
-| 2026-06-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.0 | 36.9 | 59 | 19.1 | 1 |
-| 2026-06-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 36.8 | 66 | 23.0 | 1 |
-| 2026-06-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.5 | 36.7 | 72 | 24.5 | 2 |
-| 2026-06-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 36.4 | 75 | 22.3 | 2 |
-| 2026-06-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.2 | 36.0 | 73 | 20.5 | 2 |
-| 2026-06-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 35.5 | 71 | 18.7 | 2 |
-| 2026-06-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.9 | 35.1 | 71 | 17.3 | 2 |
-| 2026-06-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 35.2 | 74 | 19.1 | 2 |
-| 2026-06-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 35.3 | 76 | 20.2 | 3 |
+| 2026-06-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 36.7 | 66 | 23.0 | 1 |
+| 2026-06-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.5 | 36.6 | 72 | 24.5 | 2 |
+| 2026-06-02 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 36.3 | 75 | 22.3 | 2 |
+| 2026-06-02 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 36.0 | 74 | 20.5 | 2 |
+| 2026-06-03 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.0 | 35.4 | 72 | 18.7 | 2 |
+| 2026-06-03 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 35.0 | 72 | 16.9 | 2 |
+| 2026-06-03 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 35.0 | 74 | 18.7 | 2 |
+| 2026-06-03 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 35.1 | 76 | 20.2 | 3 |
+| 2026-06-03 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 34.8 | 77 | 19.1 | 3 |
+| 2026-06-03 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.5 | 34.9 | 75 | 18.4 | 3 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.85 | 📈 H: ₹98.85 | 📉 L: ₹98.4 <br>💵 USDT: ₹99.1 | 📈 H: ₹99.75 | 📉 L: ₹99.01 <br>♦ ETH: ₹195546.7 | 📈 H: ₹199500.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6858836.0 | 📈 H: ₹7249727.0 | 📉 L: ₹6858836.0 <br>⚡ BNB: ₹67290.64 | 📈 H: ₹69654.18 | 📉 L: ₹67290.64 <br> 
+  🪙 USDC: ₹98.85 | 📈 H: ₹98.85 | 📉 L: ₹98.4 <br>💵 USDT: ₹99.1 | 📈 H: ₹99.75 | 📉 L: ₹99.05 <br>♦ ETH: ₹195500.0 | 📈 H: ₹199500.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹6810999.0 | 📈 H: ₹7179998.0 | 📉 L: ₹6809904.0 <br>⚡ BNB: ₹66661.81 | 📈 H: ₹69654.18 | 📉 L: ₹66661.81 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, the universe might collapse from the shock. 🛑❌ 
+  I need to sit by the phone in case Hogwarts calls. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
