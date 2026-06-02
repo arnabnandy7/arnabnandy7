@@ -16,18 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 02/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:28 PM, Set: 06:18 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 36.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+  <p>Partly Cloudy (অংশত মেঘলা)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:28 PM, Set: 06:18 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 45% | 🌡️ <strong>Feels Like:</strong> 41.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 61.9 <strong>PM10:</strong> 72.4</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.5 <strong>PM10:</strong> 56.3</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.3 | 42.3 | 45 | 17.3 | 0 |
-| 2026-06-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 43.5 | 40 | 17.6 | 0 |
-| 2026-06-02 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.0 | 44.5 | 36 | 18.4 | 1 |
 | 2026-06-02 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.8 | 45.1 | 33 | 19.4 | 0 |
 | 2026-06-02 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.0 | 44.0 | 34 | 21.2 | 1 |
 | 2026-06-02 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.1 | 42.9 | 36 | 21.2 | 1 |
@@ -35,10 +32,13 @@
 | 2026-06-02 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 38.9 | 53 | 21.2 | 3 |
 | 2026-06-02 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.0 | 39.2 | 51 | 20.9 | 1 |
 | 2026-06-02 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.3 | 37.6 | 58 | 24.5 | 1 |
+| 2026-06-02 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 36.6 | 65 | 23.0 | 1 |
+| 2026-06-02 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.4 | 36.0 | 70 | 22.0 | 2 |
+| 2026-06-02 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.2 | 35.7 | 71 | 22.0 | 2 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.4 | 📈 H: ₹99.0 | 📉 L: ₹98.4 <br>💵 USDT: ₹99.1 | 📈 H: ₹99.64 | 📉 L: ₹98.55 <br>♦ ETH: ₹199499.7 | 📈 H: ₹199999.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹7065000.0 | 📈 H: ₹7323899.0 | 📉 L: ₹7060000.0 <br>⚡ BNB: ₹69654.18 | 📈 H: ₹71259.18 | 📉 L: ₹67514.72 <br> 
+  🪙 USDC: ₹98.57 | 📈 H: ₹99.0 | 📉 L: ₹98.4 <br>💵 USDT: ₹99.25 | 📈 H: ₹99.35 | 📉 L: ₹98.86 <br>♦ ETH: ₹196286.3 | 📈 H: ₹199500.0 | 📉 L: ₹195000.0 <br>₿ BTC: ₹7060000.0 | 📈 H: ₹7323899.0 | 📉 L: ₹7000000.0 <br>⚡ BNB: ₹69337.65 | 📈 H: ₹71259.18 | 📉 L: ₹67514.72 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I took an oath as a kid to avoid anything resembling this. 🛑❌ 
+  I'm currently out of order. Please try again never. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
