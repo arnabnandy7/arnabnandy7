@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 05/06/2026</p>
+  <p>Kolkata, India - 06/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:29 PM, Set: 09:01 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.5 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:29 PM, Set: 09:01 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.4 <strong>PM10:</strong> 49.7</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.4 <strong>PM10:</strong> 45.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.0 | 38.3 | 73 | 15.5 | 2 |
 | 2026-06-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 40.1 | 62 | 16.9 | 1 |
 | 2026-06-06 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 41.1 | 54 | 16.2 | 1 |
 | 2026-06-06 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.8 | 42.0 | 47 | 15.1 | 1 |
@@ -35,10 +34,11 @@
 | 2026-06-06 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 45.6 | 32 | 16.9 | 0 |
 | 2026-06-06 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 40.6 | 45.7 | 31 | 20.2 | 1 |
 | 2026-06-06 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.4 | 44.5 | 34 | 23.4 | 0 |
+| 2026-06-06 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 43.0 | 39 | 20.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.87 | 📈 H: ₹101.0 | 📉 L: ₹99.62 <br>💵 USDT: ₹100.68 | 📈 H: ₹101.97 | 📉 L: ₹98.56 <br>♦ ETH: ₹159661.5 | 📈 H: ₹178641.2 | 📉 L: ₹159000.0 <br>₿ BTC: ₹6244061.0 | 📈 H: ₹6439529.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹57912.48 | 📈 H: ₹61118.41 | 📉 L: ₹57807.29 <br> 
+  🪙 USDC: ₹100.87 | 📈 H: ₹101.0 | 📉 L: ₹99.62 <br>💵 USDT: ₹99.65 | 📈 H: ₹101.97 | 📉 L: ₹98.56 <br>♦ ETH: ₹160582.0 | 📈 H: ₹178641.2 | 📉 L: ₹159000.0 <br>₿ BTC: ₹6188708.0 | 📈 H: ₹6439529.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹57912.48 | 📈 H: ₹61118.41 | 📉 L: ₹57807.29 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Any timeline where I say yes ends in chaos, so I'm choosing wisely. 🛑❌ 
+  I'm sorry, I suffer from CRS (Can't Remember Saying yes). 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
