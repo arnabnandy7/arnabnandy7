@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:02 PM, Set: 09:53 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:02 PM, Set: 09:53 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.1 <strong>PM10:</strong> 43.5</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.5 <strong>PM10:</strong> 46.3</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-06 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 37.9 | 70 | 21.6 | 2 |
 | 2026-06-06 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.0 | 38.0 | 72 | 25.9 | 2 |
 | 2026-06-06 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.7 | 37.7 | 74 | 22.7 | 3 |
 | 2026-06-07 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.7 | 37.7 | 74 | 18.4 | 3 |
@@ -35,10 +34,11 @@
 | 2026-06-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.1 | 37.4 | 80 | 23.4 | 6 |
 | 2026-06-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.4 | 37.6 | 77 | 18.7 | 5 |
 | 2026-06-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.3 | 38.7 | 72 | 22.0 | 3 |
+| 2026-06-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.2 | 39.9 | 67 | 20.5 | 3 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.35 | 📈 H: ₹101.35 | 📉 L: ₹100.26 <br>💵 USDT: ₹101.95 | 📈 H: ₹104.0 | 📉 L: ₹99.61 <br>♦ ETH: ₹158014.8 | 📈 H: ₹166130.8 | 📉 L: ₹154839.7 <br>₿ BTC: ₹6173129.0 | 📈 H: ₹6290000.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹58405.79 | 📈 H: ₹59605.93 | 📉 L: ₹57807.29 <br> 
+  🪙 USDC: ₹101.35 | 📈 H: ₹101.35 | 📉 L: ₹100.26 <br>💵 USDT: ₹102.98 | 📈 H: ₹104.0 | 📉 L: ₹99.61 <br>♦ ETH: ₹157556.8 | 📈 H: ₹166130.8 | 📉 L: ₹154839.7 <br>₿ BTC: ₹6173129.0 | 📈 H: ₹6290000.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹58405.79 | 📈 H: ₹59605.93 | 📉 L: ₹57807.29 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  In the grand tapestry of life, I'm the thread that sits this one out. 🛑❌ 
+  My calendar is aligned with Jupiter, and the stars say no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
