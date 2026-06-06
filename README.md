@@ -18,14 +18,13 @@
   <p>Kolkata, India - 06/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:02 PM, Set: 09:53 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:02 PM, Set: 09:53 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.9 <strong>PM10:</strong> 57.9</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.6 <strong>PM10:</strong> 57.6</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.4 | 32.2 | 73 | 6.5 | 4 |
 | 2026-06-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.4 | 32.1 | 74 | 7.2 | 4 |
 | 2026-06-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.8 | 32.9 | 73 | 6.5 | 3 |
 | 2026-06-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.9 | 34.3 | 68 | 8.3 | 2 |
@@ -35,10 +34,11 @@
 | 2026-06-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.6 | 38.8 | 53 | 9.0 | 1 |
 | 2026-06-07 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.6 | 39.9 | 49 | 12.2 | 1 |
 | 2026-06-07 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.8 | 41.3 | 45 | 12.2 | 0 |
+| 2026-06-07 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.4 | 42.9 | 40 | 11.5 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.54 | 📈 H: ₹101.54 | 📉 L: ₹101.35 <br>💵 USDT: ₹102.96 | 📈 H: ₹104.0 | 📉 L: ₹99.61 <br>♦ ETH: ₹159000.1 | 📈 H: ₹166130.8 | 📉 L: ₹154839.7 <br>₿ BTC: ₹6270139.0 | 📈 H: ₹6290000.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹58324.16 | 📈 H: ₹59605.93 | 📉 L: ₹57912.48 <br> 
+  🪙 USDC: ₹101.54 | 📈 H: ₹101.54 | 📉 L: ₹101.35 <br>💵 USDT: ₹101.85 | 📈 H: ₹104.0 | 📉 L: ₹99.61 <br>♦ ETH: ₹159000.1 | 📈 H: ₹166130.8 | 📉 L: ₹154839.7 <br>₿ BTC: ₹6276296.0 | 📈 H: ₹6290000.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹58324.16 | 📈 H: ₹59605.93 | 📉 L: ₹57912.48 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  There's a rerun of a show I've never seen that I just can't miss. 🛑❌ 
+  Saying yes would be as unusual as a cat becoming a vegan. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
