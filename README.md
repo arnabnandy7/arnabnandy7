@@ -18,14 +18,13 @@
   <p>Kolkata, India - 07/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:33 PM, Set: 10:44 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 23.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 28.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:33 PM, Set: 10:44 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 58.6 <strong>PM10:</strong> 63.3</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.3 <strong>PM10:</strong> 62.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-08 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.5 | 38.0 | 78 | 22.3 | 5 |
 | 2026-06-08 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.3 | 38.0 | 80 | 23.0 | 7 |
 | 2026-06-08 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.1 | 37.8 | 81 | 22.7 | 8 |
 | 2026-06-08 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.9 | 37.5 | 82 | 20.5 | 9 |
@@ -35,10 +34,11 @@
 | 2026-06-08 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 42.2 | 65 | 24.1 | 1 |
 | 2026-06-08 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 44.1 | 56 | 23.8 | 1 |
 | 2026-06-08 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 45.7 | 49 | 23.4 | 0 |
+| 2026-06-08 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 46.9 | 43 | 23.0 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.54 | 📈 H: ₹101.54 | 📉 L: ₹101.35 <br>💵 USDT: ₹100.3 | 📈 H: ₹102.98 | 📉 L: ₹100.3 <br>♦ ETH: ₹166500.0 | 📈 H: ₹168550.0 | 📉 L: ₹159000.1 <br>₿ BTC: ₹6321338.0 | 📈 H: ₹6469090.0 | 📉 L: ₹6173101.0 <br>⚡ BNB: ₹59960.11 | 📈 H: ₹60663.05 | 📉 L: ₹58246.0 <br> 
+  🪙 USDC: ₹101.54 | 📈 H: ₹101.54 | 📉 L: ₹101.35 <br>💵 USDT: ₹101.57 | 📈 H: ₹102.97 | 📉 L: ₹100.3 <br>♦ ETH: ₹164600.0 | 📈 H: ₹168550.0 | 📉 L: ₹159000.1 <br>₿ BTC: ₹6380999.0 | 📈 H: ₹6469090.0 | 📉 L: ₹6173101.0 <br>⚡ BNB: ₹59960.11 | 📈 H: ₹60663.05 | 📉 L: ₹58246.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm experiencing JOMO (Joy Of Missing Out) for this event. 🛑❌ 
+  I'm raising awareness for the endangered word 'no' by using it frequently. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
