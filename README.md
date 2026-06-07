@@ -18,14 +18,13 @@
   <p>Kolkata, India - 07/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:33 PM, Set: 10:44 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 11:33 PM, Set: 10:44 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.1 <strong>PM10:</strong> 47.4</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-08 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.1 | 37.8 | 81 | 22.7 | 8 |
 | 2026-06-08 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.9 | 37.5 | 82 | 20.5 | 9 |
 | 2026-06-08 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 37.5 | 83 | 19.4 | 5 |
 | 2026-06-08 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.0 | 38.0 | 83 | 20.5 | 7 |
@@ -35,10 +34,11 @@
 | 2026-06-08 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 45.7 | 49 | 23.4 | 0 |
 | 2026-06-08 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.6 | 46.9 | 43 | 23.0 | 0 |
 | 2026-06-08 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 47.8 | 38 | 21.6 | 0 |
+| 2026-06-08 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.7 | 48.2 | 35 | 19.4 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.54 | 📈 H: ₹101.54 | 📉 L: ₹101.35 <br>💵 USDT: ₹100.64 | 📈 H: ₹102.96 | 📉 L: ₹100.3 <br>♦ ETH: ₹164799.7 | 📈 H: ₹168550.0 | 📉 L: ₹159528.2 <br>₿ BTC: ₹6250000.0 | 📈 H: ₹6469090.0 | 📉 L: ₹6200006.0 <br>⚡ BNB: ₹59687.14 | 📈 H: ₹60663.05 | 📉 L: ₹58246.0 <br> 
+  🪙 USDC: ₹101.54 | 📈 H: ₹101.54 | 📉 L: ₹101.35 <br>💵 USDT: ₹101.0 | 📈 H: ₹102.96 | 📉 L: ₹100.3 <br>♦ ETH: ₹166499.7 | 📈 H: ₹168550.0 | 📉 L: ₹159528.2 <br>₿ BTC: ₹6250000.0 | 📈 H: ₹6469090.0 | 📉 L: ₹6200006.0 <br>⚡ BNB: ₹59687.14 | 📈 H: ₹60663.05 | 📉 L: ₹58246.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
