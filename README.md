@@ -18,27 +18,27 @@
   <p>Kolkata, India - 08/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: Does not rise today, Set: 11:35 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
+  🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: Does not rise today, Set: 11:35 AM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.9 <strong>PM10:</strong> 54.6</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.2 <strong>PM10:</strong> 39.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-09 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.5 | 34.0 | 59 | 15.5 | 1 |
-| 2026-06-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.2 | 33.8 | 62 | 20.2 | 1 |
-| 2026-06-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 34.0 | 69 | 19.8 | 2 |
-| 2026-06-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.3 | 72 | 19.1 | 2 |
-| 2026-06-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 34.5 | 71 | 18.0 | 2 |
-| 2026-06-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 36.0 | 62 | 22.7 | 1 |
-| 2026-06-09 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 38.0 | 53 | 24.8 | 1 |
-| 2026-06-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.1 | 40.5 | 47 | 23.8 | 0 |
-| 2026-06-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 42.7 | 42 | 21.6 | 0 |
-| 2026-06-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 44.5 | 36 | 20.9 | 0 |
+| 2026-06-09 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 33.8 | 63 | 19.8 | 1 |
+| 2026-06-09 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 33.9 | 69 | 19.8 | 2 |
+| 2026-06-09 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.4 | 34.2 | 73 | 19.1 | 2 |
+| 2026-06-09 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.6 | 34.6 | 72 | 18.0 | 2 |
+| 2026-06-09 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 36.0 | 62 | 23.0 | 1 |
+| 2026-06-09 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 38.1 | 53 | 25.2 | 1 |
+| 2026-06-09 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.2 | 40.6 | 47 | 24.5 | 0 |
+| 2026-06-09 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 42.8 | 42 | 22.3 | 0 |
+| 2026-06-09 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 44.5 | 37 | 21.2 | 0 |
+| 2026-06-09 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 45.9 | 34 | 20.9 | 0 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹102.29 | 📈 H: ₹102.29 | 📉 L: ₹99.96 <br>💵 USDT: ₹100.6 | 📈 H: ₹101.3 | 📉 L: ₹100.26 <br>♦ ETH: ₹169019.2 | 📈 H: ₹173723.1 | 📉 L: ₹163323.3 <br>₿ BTC: ₹6366622.0 | 📈 H: ₹6515834.0 | 📉 L: ₹6250000.0 <br>⚡ BNB: ₹62465.51 | 📈 H: ₹62465.51 | 📉 L: ₹59687.14 <br> 
+  🪙 USDC: ₹102.29 | 📈 H: ₹102.29 | 📉 L: ₹99.96 <br>💵 USDT: ₹101.27 | 📈 H: ₹101.3 | 📉 L: ₹100.26 <br>♦ ETH: ₹169159.6 | 📈 H: ₹173723.1 | 📉 L: ₹163323.3 <br>₿ BTC: ₹6356951.0 | 📈 H: ₹6515834.0 | 📉 L: ₹6271051.0 <br>⚡ BNB: ₹62465.51 | 📈 H: ₹62465.51 | 📉 L: ₹59687.14 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
