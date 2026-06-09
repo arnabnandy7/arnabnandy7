@@ -18,27 +18,27 @@
   <p>Kolkata, India - 09/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:04 AM, Set: 12:26 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 37.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:04 AM, Set: 12:26 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 41.6 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.7 <strong>PM10:</strong> 37.3</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.1 <strong>PM10:</strong> 37.4</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-10 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 37.8 | 84 | 18.0 | 12 |
-| 2026-06-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 37.6 | 85 | 18.4 | 12 |
-| 2026-06-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.7 | 37.9 | 85 | 21.6 | 12 |
-| 2026-06-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 39.5 | 75 | 26.6 | 7 |
-| 2026-06-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 40.9 | 61 | 26.3 | 3 |
-| 2026-06-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.2 | 42.1 | 51 | 23.0 | 2 |
-| 2026-06-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 43.0 | 43 | 20.5 | 1 |
-| 2026-06-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.4 | 43.6 | 37 | 17.6 | 1 |
-| 2026-06-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.5 | 44.5 | 34 | 19.8 | 1 |
-| 2026-06-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 45.4 | 33 | 22.0 | 1 |
+| 2026-06-10 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 37.7 | 85 | 20.2 | 12 |
+| 2026-06-10 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.8 | 37.8 | 85 | 20.9 | 12 |
+| 2026-06-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 39.3 | 76 | 23.4 | 8 |
+| 2026-06-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 41.0 | 62 | 23.8 | 4 |
+| 2026-06-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 42.6 | 52 | 24.1 | 2 |
+| 2026-06-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 43.7 | 44 | 22.3 | 1 |
+| 2026-06-10 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.5 | 44.6 | 39 | 20.5 | 1 |
+| 2026-06-10 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.7 | 45.2 | 34 | 21.2 | 1 |
+| 2026-06-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.3 | 45.6 | 32 | 22.7 | 1 |
+| 2026-06-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 45.7 | 32 | 23.8 | 1 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.99 | 📈 H: ₹102.29 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.18 | 📈 H: ₹101.0 | 📉 L: ₹99.5 <br>♦ ETH: ₹167499.8 | 📈 H: ₹173120.4 | 📉 L: ₹164000.1 <br>₿ BTC: ₹6247000.0 | 📈 H: ₹6487350.0 | 📉 L: ₹6149961.0 <br>⚡ BNB: ₹59419.8 | 📈 H: ₹61298.28 | 📉 L: ₹59144.58 <br> 
+  🪙 USDC: ₹99.99 | 📈 H: ₹102.29 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.16 | 📈 H: ₹101.0 | 📉 L: ₹99.55 <br>♦ ETH: ₹167499.8 | 📈 H: ₹173120.4 | 📉 L: ₹164000.1 <br>₿ BTC: ₹6247000.0 | 📈 H: ₹6487350.0 | 📉 L: ₹6149961.0 <br>⚡ BNB: ₹59419.8 | 📈 H: ₹61298.28 | 📉 L: ₹59144.58 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't; I've got Festivus grievances to air that day. 🛑❌ 
+  Yes, you may interpret my silence as a no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
