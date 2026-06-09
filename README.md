@@ -18,15 +18,13 @@
   <p>Kolkata, India - 09/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:04 AM, Set: 12:26 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 43.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:04 AM, Set: 12:26 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 46.1 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.9 <strong>PM10:</strong> 67.1</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.2 <strong>PM10:</strong> 84.3</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-09 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 41.2 | 45.8 | 29 | 16.9 | 0 |
-| 2026-06-09 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 41.5 | 45.9 | 28 | 17.6 | 0 |
 | 2026-06-09 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 41.5 | 45.7 | 28 | 17.6 | 0 |
 | 2026-06-09 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 39.4 | 44.4 | 34 | 20.5 | 73 |
 | 2026-06-09 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/305.png) Heavy rain at times | 31.4 | 37.8 | 68 | 33.1 | 73 |
@@ -35,10 +33,12 @@
 | 2026-06-09 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 31.9 | 36.2 | 56 | 24.8 | 1 |
 | 2026-06-09 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 31.3 | 38.9 | 72 | 25.6 | 4 |
 | 2026-06-09 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 31.2 | 39.4 | 76 | 23.0 | 9 |
+| 2026-06-09 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.8 | 39.1 | 79 | 26.3 | 8 |
+| 2026-06-09 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.5 | 38.2 | 78 | 18.4 | 3 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹102.29 | 📈 H: ₹102.29 | 📉 L: ₹99.96 <br>💵 USDT: ₹100.32 | 📈 H: ₹101.3 | 📉 L: ₹99.45 <br>♦ ETH: ₹172328.0 | 📈 H: ₹173723.1 | 📉 L: ₹167000.0 <br>₿ BTC: ₹6434797.0 | 📈 H: ₹6515834.0 | 📉 L: ₹6271051.0 <br>⚡ BNB: ₹60237.63 | 📈 H: ₹62465.51 | 📉 L: ₹59909.21 <br> 
+  🪙 USDC: ₹102.29 | 📈 H: ₹102.29 | 📉 L: ₹99.96 <br>💵 USDT: ₹100.41 | 📈 H: ₹101.3 | 📉 L: ₹99.45 <br>♦ ETH: ₹168385.4 | 📈 H: ₹173723.1 | 📉 L: ₹167000.0 <br>₿ BTC: ₹6324644.0 | 📈 H: ₹6515834.0 | 📉 L: ₹6300000.0 <br>⚡ BNB: ₹60237.63 | 📈 H: ₹62465.51 | 📉 L: ₹59909.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've dedicated that time to an ice cream in need of company. 🛑❌ 
+  I gave it some thought. The thought was 'no'. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
