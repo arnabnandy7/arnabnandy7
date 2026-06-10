@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 09/06/2026</p>
+  <p>Kolkata, India - 10/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:04 AM, Set: 12:26 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 39.6 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:04 AM, Set: 12:26 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 38.5 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.2 <strong>PM10:</strong> 40.2</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.8 <strong>PM10:</strong> 42.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-10 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 39.3 | 76 | 23.4 | 8 |
 | 2026-06-10 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 41.0 | 62 | 23.8 | 4 |
 | 2026-06-10 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 42.6 | 52 | 24.1 | 2 |
 | 2026-06-10 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 43.7 | 44 | 22.3 | 1 |
@@ -35,10 +34,11 @@
 | 2026-06-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.4 | 45.7 | 32 | 23.8 | 1 |
 | 2026-06-10 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.9 | 45.7 | 34 | 25.6 | 1 |
 | 2026-06-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.8 | 44.8 | 37 | 28.1 | 1 |
+| 2026-06-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.7 | 43.6 | 40 | 28.8 | 1 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.99 | 📈 H: ₹102.29 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.7 | 📈 H: ₹100.99 | 📉 L: ₹99.66 <br>♦ ETH: ₹164000.1 | 📈 H: ₹173120.4 | 📉 L: ₹164000.1 <br>₿ BTC: ₹6246999.0 | 📈 H: ₹6487350.0 | 📉 L: ₹6149961.0 <br>⚡ BNB: ₹59419.8 | 📈 H: ₹61298.28 | 📉 L: ₹59144.58 <br> 
+  🪙 USDC: ₹99.99 | 📈 H: ₹102.29 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.55 | 📈 H: ₹100.95 | 📉 L: ₹99.7 <br>♦ ETH: ₹167497.6 | 📈 H: ₹172328.0 | 📉 L: ₹164000.1 <br>₿ BTC: ₹6246999.0 | 📈 H: ₹6487350.0 | 📉 L: ₹6149961.0 <br>⚡ BNB: ₹59419.8 | 📈 H: ₹61298.28 | 📉 L: ₹59144.58 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Yes, you may interpret my silence as a no. 🛑❌ 
+  My enthusiasm is sincere, but my availability is imaginary. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
