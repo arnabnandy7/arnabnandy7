@@ -18,15 +18,13 @@
   <p>Kolkata, India - 10/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
   <p>Sunny (সূর্যোজ্জ্বল)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:35 AM, Set: 01:19 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 46.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:35 AM, Set: 01:19 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 46.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.9 <strong>PM10:</strong> 52.4</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.7 <strong>PM10:</strong> 54.9</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-10 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.0 | 46.0 | 34 | 21.2 | 1 |
-| 2026-06-10 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 40.1 | 46.1 | 34 | 22.7 | 1 |
 | 2026-06-10 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.8 | 45.9 | 35 | 25.6 | 1 |
 | 2026-06-10 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.9 | 45.1 | 37 | 27.4 | 1 |
 | 2026-06-10 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.9 | 44.1 | 40 | 27.4 | 1 |
@@ -35,10 +33,12 @@
 | 2026-06-10 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 31.6 | 38.3 | 68 | 19.8 | 12 |
 | 2026-06-10 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 31.0 | 37.9 | 72 | 25.2 | 8 |
 | 2026-06-10 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.9 | 38.1 | 74 | 23.8 | 13 |
+| 2026-06-10 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.9 | 38.6 | 75 | 25.2 | 14 |
+| 2026-06-10 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.6 | 38.2 | 77 | 23.8 | 16 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.99 | 📈 H: ₹102.29 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.75 | 📈 H: ₹100.95 | 📉 L: ₹99.7 <br>♦ ETH: ₹163333.3 | 📈 H: ₹170725.2 | 📉 L: ₹163333.3 <br>₿ BTC: ₹6165001.0 | 📈 H: ₹6487350.0 | 📉 L: ₹6149961.0 <br>⚡ BNB: ₹58634.91 | 📈 H: ₹60593.21 | 📉 L: ₹58634.91 <br> 
+  🪙 USDC: ₹99.99 | 📈 H: ₹99.99 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.35 | 📈 H: ₹100.95 | 📉 L: ₹99.7 <br>♦ ETH: ₹165000.0 | 📈 H: ₹170725.2 | 📉 L: ₹163333.3 <br>₿ BTC: ₹6201003.0 | 📈 H: ₹6448238.0 | 📉 L: ₹6149961.0 <br>⚡ BNB: ₹59126.29 | 📈 H: ₹60593.21 | 📉 L: ₹58634.91 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The word 'yes' gives me hives; I'm avoiding an allergic reaction. 🛑❌ 
+  No is part of my self-care routine. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
