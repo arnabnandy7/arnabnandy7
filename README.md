@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 10/06/2026</p>
+  <p>Kolkata, India - 11/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:35 AM, Set: 01:19 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:35 AM, Set: 01:19 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.6 <strong>PM10:</strong> 38.8</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.6 <strong>PM10:</strong> 40.7</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.2 | 39.2 | 74 | 17.6 | 9 |
 | 2026-06-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.9 | 40.9 | 65 | 16.6 | 6 |
 | 2026-06-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 42.5 | 56 | 14.4 | 3 |
 | 2026-06-11 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 36.4 | 44.0 | 48 | 13.7 | 3 |
@@ -35,10 +34,11 @@
 | 2026-06-11 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 39.2 | 45.2 | 36 | 16.6 | 36 |
 | 2026-06-11 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/299.png) Moderate rain at times | 33.3 | 39.6 | 58 | 29.2 | 68 |
 | 2026-06-11 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/305.png) Heavy rain at times | 26.6 | 29.8 | 82 | 16.6 | 86 |
+| 2026-06-11 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/305.png) Heavy rain at times | 25.7 | 28.0 | 78 | 15.1 | 82 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.3 | 📈 H: ₹100.39 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.84 | 📈 H: ₹100.93 | 📉 L: ₹100.0 <br>♦ ETH: ₹162000.0 | 📈 H: ₹167660.4 | 📉 L: ₹162000.0 <br>₿ BTC: ₹6160998.0 | 📈 H: ₹6312848.0 | 📉 L: ₹6150000.0 <br>⚡ BNB: ₹58882.0 | 📈 H: ₹59792.45 | 📉 L: ₹58309.37 <br> 
+  🪙 USDC: ₹100.3 | 📈 H: ₹100.39 | 📉 L: ₹99.99 <br>💵 USDT: ₹100.56 | 📈 H: ₹100.93 | 📉 L: ₹100.01 <br>♦ ETH: ₹164577.5 | 📈 H: ₹167660.4 | 📉 L: ₹162000.0 <br>₿ BTC: ₹6260749.0 | 📈 H: ₹6312848.0 | 📉 L: ₹6150000.0 <br>⚡ BNB: ₹58882.0 | 📈 H: ₹59792.45 | 📉 L: ₹58309.37 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I made a bet that I could say no to everything for a week. I'm about to win. 🛑❌ 
+  I only work on commission, and this request doesn't pay in pizza. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
