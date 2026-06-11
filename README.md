@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 11/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:09 AM, Set: 02:15 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 28.9 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
+  <p>Smoky haze ()</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:09 AM, Set: 02:15 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 28.5 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.6 <strong>PM10:</strong> 63.3</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 54.7 <strong>PM10:</strong> 63.6</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-12 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.8 | 30.0 | 80 | 11.5 | 13 |
 | 2026-06-12 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.9 | 30.1 | 80 | 10.4 | 11 |
 | 2026-06-12 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.0 | 30.4 | 81 | 9.4 | 12 |
 | 2026-06-12 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.0 | 30.5 | 81 | 11.2 | 11 |
@@ -35,10 +34,11 @@
 | 2026-06-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.8 | 35.5 | 74 | 7.6 | 51 |
 | 2026-06-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.7 | 37.9 | 65 | 8.3 | 5 |
 | 2026-06-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.9 | 39.1 | 58 | 8.6 | 5 |
+| 2026-06-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 39.7 | 55 | 9.4 | 4 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.0 | 📈 H: ₹100.3 | 📉 L: ₹100.0 <br>💵 USDT: ₹100.47 | 📈 H: ₹100.84 | 📉 L: ₹100.04 <br>♦ ETH: ₹165404.6 | 📈 H: ₹167661.8 | 📉 L: ₹162000.0 <br>₿ BTC: ₹6303483.0 | 📈 H: ₹6404609.0 | 📉 L: ₹6160998.0 <br>⚡ BNB: ₹60841.38 | 📈 H: ₹60841.38 | 📉 L: ₹58882.0 <br> 
+  🪙 USDC: ₹100.12 | 📈 H: ₹101.0 | 📉 L: ₹100.0 <br>💵 USDT: ₹100.4 | 📈 H: ₹100.84 | 📉 L: ₹100.04 <br>♦ ETH: ₹168497.4 | 📈 H: ₹171738.0 | 📉 L: ₹162000.0 <br>₿ BTC: ₹6397122.0 | 📈 H: ₹6404609.0 | 📉 L: ₹6160998.0 <br>⚡ BNB: ₹60526.7 | 📈 H: ₹60841.38 | 📉 L: ₹58882.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in social stealth mode, so I must decline any invitations. 🛑❌ 
+  My interest level is somewhere between zero and negative. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
