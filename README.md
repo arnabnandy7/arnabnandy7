@@ -18,14 +18,13 @@
   <p>Kolkata, India - 11/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:09 AM, Set: 02:15 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 27.5 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:09 AM, Set: 02:15 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 28.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 61.2 <strong>PM10:</strong> 68.5</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 68.7 <strong>PM10:</strong> 75.7</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.3 | 30.4 | 77 | 4.0 | 9 |
 | 2026-06-12 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.6 | 32.2 | 72 | 5.4 | 7 |
 | 2026-06-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 34.1 | 67 | 4.3 | 6 |
 | 2026-06-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 31.2 | 36.1 | 63 | 3.6 | 10 |
@@ -35,6 +34,7 @@
 | 2026-06-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.4 | 41.6 | 42 | 5.8 | 3 |
 | 2026-06-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.4 | 42.5 | 39 | 7.2 | 8 |
 | 2026-06-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.9 | 42.4 | 42 | 16.2 | 4 |
+| 2026-06-12 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.7 | 40.5 | 50 | 21.6 | 5 |
 
 
   ## ⛓️ Cryptocurrency Prices  
