@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 14/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:19 AM, Set: 05:29 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 25.9 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 37.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
+  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:19 AM, Set: 05:29 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 42.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.9 <strong>PM10:</strong> 39.5</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.8 <strong>PM10:</strong> 35.9</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-14 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.3 | 36.9 | 76 | 27.0 | 12 |
-| 2026-06-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.9 | 36.7 | 79 | 25.6 | 16 |
-| 2026-06-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.7 | 36.5 | 80 | 21.6 | 14 |
-| 2026-06-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 36.2 | 80 | 17.6 | 10 |
-| 2026-06-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 35.9 | 80 | 19.1 | 10 |
-| 2026-06-15 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 35.6 | 80 | 20.5 | 13 |
-| 2026-06-15 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.3 | 35.7 | 82 | 20.5 | 19 |
-| 2026-06-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.2 | 35.6 | 82 | 19.4 | 16 |
-| 2026-06-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.3 | 35.9 | 82 | 20.2 | 14 |
-| 2026-06-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.5 | 37.4 | 75 | 22.0 | 10 |
+| 2026-06-14 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.2 | 32.4 | 64 | 20.2 | 14 |
+| 2026-06-14 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.1 | 32.9 | 69 | 16.9 | 7 |
+| 2026-06-15 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.2 | 33.5 | 72 | 15.8 | 7 |
+| 2026-06-15 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 34.4 | 75 | 14.8 | 8 |
+| 2026-06-15 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.3 | 34.7 | 77 | 13.3 | 9 |
+| 2026-06-15 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.2 | 34.7 | 78 | 10.8 | 9 |
+| 2026-06-15 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.0 | 34.3 | 78 | 10.1 | 9 |
+| 2026-06-15 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.2 | 34.4 | 77 | 10.1 | 9 |
+| 2026-06-15 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.7 | 36.3 | 69 | 14.4 | 6 |
+| 2026-06-15 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.4 | 38.0 | 60 | 15.8 | 4 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.67 | 📈 H: ₹99.67 | 📉 L: ₹99.43 <br>💵 USDT: ₹100.11 | 📈 H: ₹100.46 | 📉 L: ₹99.45 <br>♦ ETH: ₹168503.2 | 📈 H: ₹169553.5 | 📉 L: ₹167182.7 <br>₿ BTC: ₹6489659.0 | 📈 H: ₹6515833.0 | 📉 L: ₹6400000.0 <br>⚡ BNB: ₹60957.28 | 📈 H: ₹61805.55 | 📉 L: ₹60393.21 <br> 
+  🪙 USDC: ₹99.67 | 📈 H: ₹99.67 | 📉 L: ₹99.43 <br>💵 USDT: ₹100.25 | 📈 H: ₹100.46 | 📉 L: ₹99.45 <br>♦ ETH: ₹168854.1 | 📈 H: ₹169553.5 | 📉 L: ₹167182.7 <br>₿ BTC: ₹6489650.0 | 📈 H: ₹6515833.0 | 📉 L: ₹6400000.0 <br>⚡ BNB: ₹60957.28 | 📈 H: ₹61805.55 | 📉 L: ₹60393.21 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have a dinner date with a pizza and it would be jealous if I cancel. 🛑❌ 
+  I appreciate the offer, but I'll have to decline, mainly out of laziness. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
