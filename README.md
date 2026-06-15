@@ -18,14 +18,13 @@
   <p>Kolkata, India - 15/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:18 AM, Set: 06:36 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 39.0 °C  
+  🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:18 AM, Set: 06:36 PM)  <br>🌅 <strong>Sunrise:</strong> 04:51 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 39.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.2 <strong>PM10:</strong> 52.7</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.2 <strong>PM10:</strong> 57.7</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-16 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.5 | 35.6 | 78 | 17.3 | 10 |
 | 2026-06-16 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.3 | 35.2 | 79 | 15.8 | 9 |
 | 2026-06-16 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.2 | 34.9 | 79 | 14.0 | 11 |
 | 2026-06-16 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.1 | 34.7 | 79 | 13.0 | 10 |
@@ -35,10 +34,11 @@
 | 2026-06-16 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 40.4 | 55 | 16.6 | 3 |
 | 2026-06-16 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 41.9 | 48 | 16.9 | 2 |
 | 2026-06-16 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.0 | 43.3 | 43 | 16.9 | 1 |
+| 2026-06-16 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.0 | 44.3 | 40 | 16.2 | 1 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.42 | 📈 H: ₹99.47 | 📉 L: ₹99.42 <br>💵 USDT: ₹99.95 | 📈 H: ₹100.48 | 📉 L: ₹99.52 <br>♦ ETH: ₹185000.0 | 📈 H: ₹185000.0 | 📉 L: ₹166933.4 <br>₿ BTC: ₹6685204.0 | 📈 H: ₹6809499.0 | 📉 L: ₹6330923.0 <br>⚡ BNB: ₹62203.5 | 📈 H: ₹64187.64 | 📉 L: ₹61226.4 <br> 
+  🪙 USDC: ₹98.66 | 📈 H: ₹99.96 | 📉 L: ₹98.66 <br>💵 USDT: ₹100.15 | 📈 H: ₹100.48 | 📉 L: ₹99.52 <br>♦ ETH: ₹182009.8 | 📈 H: ₹185000.0 | 📉 L: ₹168939.8 <br>₿ BTC: ₹6807999.0 | 📈 H: ₹6809499.0 | 📉 L: ₹6372861.0 <br>⚡ BNB: ₹61974.06 | 📈 H: ₹64187.64 | 📉 L: ₹61226.4 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I just looked in the mirror and practiced saying 'no' and it felt right. 🛑❌ 
+  I appreciate the thought, but it’s not the right fit for me right now. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
