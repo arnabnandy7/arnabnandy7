@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-17 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.2 | 34.6 | 78 | 16.9 | 9 |
 | 2026-06-17 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.0 | 34.3 | 79 | 15.5 | 9 |
 | 2026-06-17 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 34.2 | 80 | 14.8 | 10 |
 | 2026-06-17 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.0 | 34.6 | 80 | 15.8 | 10 |
@@ -35,10 +34,11 @@
 | 2026-06-17 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.6 | 42.1 | 49 | 23.4 | 2 |
 | 2026-06-17 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.8 | 43.1 | 44 | 23.4 | 2 |
 | 2026-06-17 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.8 | 44.0 | 40 | 23.4 | 1 |
+| 2026-06-17 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.3 | 44.2 | 39 | 23.8 | 1 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.4 | 📈 H: ₹99.96 | 📉 L: ₹98.66 <br>💵 USDT: ₹99.33 | 📈 H: ₹100.3 | 📉 L: ₹98.1 <br>♦ ETH: ₹177498.0 | 📈 H: ₹184559.5 | 📉 L: ₹175590.0 <br>₿ BTC: ₹6497989.0 | 📈 H: ₹6791321.0 | 📉 L: ₹6416344.0 <br>⚡ BNB: ₹60296.52 | 📈 H: ₹62601.94 | 📉 L: ₹60039.36 <br> 
+  🪙 USDC: ₹99.4 | 📈 H: ₹99.96 | 📉 L: ₹98.66 <br>💵 USDT: ₹99.34 | 📈 H: ₹100.3 | 📉 L: ₹98.1 <br>♦ ETH: ₹177758.3 | 📈 H: ₹184559.5 | 📉 L: ₹175590.0 <br>₿ BTC: ₹6519533.0 | 📈 H: ₹6771743.0 | 📉 L: ₹6416344.0 <br>⚡ BNB: ₹60296.52 | 📈 H: ₹62601.94 | 📉 L: ₹60039.36 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
