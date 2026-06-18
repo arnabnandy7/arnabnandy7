@@ -15,17 +15,16 @@
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
-  <p>Kolkata, India - 17/06/2026</p>
+  <p>Kolkata, India - 18/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
-  <p>Sunny (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:35 AM, Set: 08:36 PM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 37.3 °C  
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:35 AM, Set: 08:36 PM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 37.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.7 <strong>PM10:</strong> 45.9</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.9 <strong>PM10:</strong> 50.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-18 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 37.8 | 72 | 17.6 | 7 |
 | 2026-06-18 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.8 | 39.3 | 61 | 17.3 | 4 |
 | 2026-06-18 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 40.9 | 51 | 15.8 | 2 |
 | 2026-06-18 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 36.5 | 42.5 | 44 | 15.8 | 2 |
@@ -35,10 +34,11 @@
 | 2026-06-18 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 39.1 | 44.5 | 36 | 23.8 | 5 |
 | 2026-06-18 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.2 | 43.0 | 42 | 25.6 | 8 |
 | 2026-06-18 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 36.3 | 42.6 | 45 | 26.6 | 9 |
+| 2026-06-18 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.1 | 41.4 | 49 | 28.8 | 17 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.0 | 📈 H: ₹99.0 | 📉 L: ₹98.61 <br>💵 USDT: ₹99.24 | 📈 H: ₹100.34 | 📉 L: ₹98.58 <br>♦ ETH: ₹175014.9 | 📈 H: ₹179772.2 | 📉 L: ₹174000.0 <br>₿ BTC: ₹6420000.0 | 📈 H: ₹6644637.0 | 📉 L: ₹6420000.0 <br>⚡ BNB: ₹60157.64 | 📈 H: ₹61444.24 | 📉 L: ₹58965.6 <br> 
+  🪙 USDC: ₹99.0 | 📈 H: ₹99.0 | 📉 L: ₹98.61 <br>💵 USDT: ₹99.23 | 📈 H: ₹100.34 | 📉 L: ₹98.64 <br>♦ ETH: ₹176962.8 | 📈 H: ₹179772.2 | 📉 L: ₹174000.0 <br>₿ BTC: ₹6534579.0 | 📈 H: ₹6644637.0 | 📉 L: ₹6420000.0 <br>⚡ BNB: ₹60157.64 | 📈 H: ₹61444.24 | 📉 L: ₹58965.6 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No is my middle name. Well, not legally, but spiritually. 🛑❌ 
+  I'm not my circus, and those are not my monkeys—so it's not my act to perform. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
