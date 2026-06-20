@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 20/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:55 AM, Set: 10:45 PM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 40.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:55 AM, Set: 10:45 PM)  <br>🌅 <strong>Sunrise:</strong> 04:52 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 24.1 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 35.9 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.2 <strong>PM10:</strong> 39.1</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 32.5 <strong>PM10:</strong> 37.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-20 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.7 | 43.0 | 39 | 24.1 | 2 |
-| 2026-06-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 42.3 | 40 | 24.5 | 2 |
-| 2026-06-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.5 | 41.5 | 41 | 27.7 | 1 |
-| 2026-06-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.8 | 40.1 | 48 | 29.5 | 2 |
-| 2026-06-20 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.5 | 38.2 | 59 | 28.8 | 4 |
-| 2026-06-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 31.3 | 37.5 | 68 | 28.8 | 7 |
-| 2026-06-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.9 | 37.1 | 70 | 24.5 | 8 |
-| 2026-06-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 31.1 | 37.2 | 68 | 20.9 | 11 |
-| 2026-06-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.9 | 36.8 | 68 | 19.4 | 6 |
-| 2026-06-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.8 | 36.7 | 69 | 15.1 | 6 |
+| 2026-06-20 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 46.0 | 44 | 31.3 | 1 |
+| 2026-06-20 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 36.3 | 44.2 | 50 | 32.8 | 21 |
+| 2026-06-20 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 34.0 | 41.7 | 58 | 30.2 | 24 |
+| 2026-06-20 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 32.2 | 39.7 | 67 | 24.5 | 39 |
+| 2026-06-20 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 31.3 | 38.8 | 72 | 22.0 | 8 |
+| 2026-06-20 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.0 | 38.2 | 73 | 27.4 | 8 |
+| 2026-06-20 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.9 | 38.2 | 74 | 30.6 | 10 |
+| 2026-06-20 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.5 | 37.8 | 76 | 28.8 | 13 |
+| 2026-06-20 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.3 | 37.6 | 78 | 28.8 | 14 |
+| 2026-06-21 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.5 | 37.7 | 77 | 24.8 | 21 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.87 | 📈 H: ₹100.01 | 📉 L: ₹99.32 <br>💵 USDT: ₹99.9 | 📈 H: ₹100.78 | 📉 L: ₹99.65 <br>♦ ETH: ₹172490.3 | 📈 H: ₹173500.0 | 📉 L: ₹168050.0 <br>₿ BTC: ₹6366269.0 | 📈 H: ₹6376439.0 | 📉 L: ₹6225000.0 <br>⚡ BNB: ₹57873.2 | 📈 H: ₹59160.55 | 📉 L: ₹56863.02 <br> 
+  🪙 USDC: ₹99.87 | 📈 H: ₹100.01 | 📉 L: ₹99.32 <br>💵 USDT: ₹99.88 | 📈 H: ₹100.65 | 📉 L: ₹99.65 <br>♦ ETH: ₹173500.1 | 📈 H: ₹173500.1 | 📉 L: ₹169000.0 <br>₿ BTC: ₹6376439.0 | 📈 H: ₹6376439.0 | 📉 L: ₹6225011.0 <br>⚡ BNB: ₹57873.2 | 📈 H: ₹59160.55 | 📉 L: ₹56863.02 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
