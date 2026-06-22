@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 22/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:53 AM, Set: 11:55 PM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.2 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear (পরিষ্কার)</p>
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:53 AM, Set: 11:55 PM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 30.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.6 <strong>PM10:</strong> 42.7</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 47.3 <strong>PM10:</strong> 48.4</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-23 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.9 | 34.1 | 78 | 19.4 | 11 |
 | 2026-06-23 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 33.9 | 79 | 16.6 | 10 |
 | 2026-06-23 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.6 | 33.3 | 78 | 15.8 | 9 |
 | 2026-06-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.5 | 32.9 | 77 | 16.6 | 9 |
@@ -35,10 +34,11 @@
 | 2026-06-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.4 | 39.5 | 57 | 18.0 | 6 |
 | 2026-06-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.1 | 41.4 | 50 | 18.7 | 4 |
 | 2026-06-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.4 | 42.7 | 45 | 20.5 | 3 |
+| 2026-06-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.4 | 43.5 | 41 | 19.8 | 2 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.63 | 📈 H: ₹99.7 | 📉 L: ₹99.53 <br>💵 USDT: ₹100.2 | 📈 H: ₹100.83 | 📉 L: ₹99.86 <br>♦ ETH: ₹174088.8 | 📈 H: ₹179000.0 | 📉 L: ₹172138.2 <br>₿ BTC: ₹6500187.0 | 📈 H: ₹6542571.0 | 📉 L: ₹6387317.0 <br>⚡ BNB: ₹59368.79 | 📈 H: ₹60199.84 | 📉 L: ₹58786.93 <br> 
+  🪙 USDC: ₹99.62 | 📈 H: ₹99.7 | 📉 L: ₹99.53 <br>💵 USDT: ₹100.75 | 📈 H: ₹100.83 | 📉 L: ₹99.86 <br>♦ ETH: ₹172523.6 | 📈 H: ₹179000.0 | 📉 L: ₹172138.2 <br>₿ BTC: ₹6505369.0 | 📈 H: ₹6542571.0 | 📉 L: ₹6387317.0 <br>⚡ BNB: ₹59071.18 | 📈 H: ₹60199.84 | 📉 L: ₹58789.58 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would, but I'm trying this new thing called sleeping. 🛑❌ 
+  It would set a bad precedent if I started agreeing to reasonable requests. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
