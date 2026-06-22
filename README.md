@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 22/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:53 AM, Set: 11:55 PM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.6 °C  
+  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:53 AM, Set: 11:55 PM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.6 <strong>PM10:</strong> 51.6</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 55.1 <strong>PM10:</strong> 56.1</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-23 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.6 | 33.2 | 77 | 12.6 | 9 |
 | 2026-06-23 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.8 | 33.2 | 74 | 13.3 | 9 |
 | 2026-06-23 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.2 | 34.8 | 66 | 16.2 | 6 |
 | 2026-06-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.1 | 36.7 | 57 | 15.1 | 4 |
@@ -35,6 +34,7 @@
 | 2026-06-23 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.2 | 42.7 | 41 | 17.3 | 2 |
 | 2026-06-23 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.8 | 43.3 | 39 | 16.6 | 2 |
 | 2026-06-23 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 38.0 | 43.3 | 38 | 16.6 | 17 |
+| 2026-06-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 36.7 | 42.0 | 41 | 19.1 | 17 |
 
 
   ## ⛓️ Cryptocurrency Prices  
