@@ -18,14 +18,13 @@
   <p>Kolkata, India - 23/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 11:53 AM, Set: 11:55 PM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 28.4 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:49 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 34.7 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 61.5 <strong>PM10:</strong> 62.4</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 58.8 <strong>PM10:</strong> 61.0</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-23 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.1 | 36.7 | 57 | 15.1 | 4 |
 | 2026-06-23 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.7 | 38.5 | 50 | 16.2 | 3 |
 | 2026-06-23 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.1 | 40.0 | 46 | 16.6 | 3 |
 | 2026-06-23 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.2 | 41.3 | 43 | 17.3 | 4 |
@@ -35,6 +34,7 @@
 | 2026-06-23 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 36.7 | 42.0 | 41 | 19.1 | 17 |
 | 2026-06-23 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.9 | 41.4 | 45 | 24.1 | 3 |
 | 2026-06-23 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.2 | 40.6 | 47 | 29.5 | 3 |
+| 2026-06-23 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 38.7 | 53 | 29.2 | 3 |
 
 
   ## ⛓️ Cryptocurrency Prices  
