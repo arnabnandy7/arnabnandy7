@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-24 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.5 | 33.5 | 68 | 18.0 | 6 |
 | 2026-06-24 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.1 | 32.6 | 68 | 19.8 | 6 |
 | 2026-06-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.9 | 32.5 | 69 | 18.7 | 6 |
 | 2026-06-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 32.4 | 68 | 18.4 | 5 |
@@ -35,6 +34,7 @@
 | 2026-06-24 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 41.8 | 47 | 24.5 | 2 |
 | 2026-06-24 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 37.2 | 43.4 | 42 | 21.2 | 1 |
 | 2026-06-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.5 | 44.5 | 38 | 18.7 | 2 |
+| 2026-06-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 39.4 | 45.1 | 35 | 16.6 | 2 |
 
 
   ## ⛓️ Cryptocurrency Prices  
