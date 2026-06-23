@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 23/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:49 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 18.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:49 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.4 °C  
 
-  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 70.8 <strong>PM10:</strong> 75.0</p>
+  <p><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 68.7 <strong>PM10:</strong> 72.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-24 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.3 | 32.7 | 66 | 18.4 | 5 |
 | 2026-06-24 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.3 | 32.6 | 65 | 16.6 | 5 |
 | 2026-06-24 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.7 | 34.4 | 60 | 21.2 | 4 |
 | 2026-06-24 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.5 | 37.0 | 54 | 24.5 | 3 |
@@ -35,10 +34,11 @@
 | 2026-06-24 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.1 | 42.0 | 34 | 14.4 | 1 |
 | 2026-06-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.0 | 42.6 | 32 | 11.5 | 1 |
 | 2026-06-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 39.2 | 42.6 | 30 | 7.6 | 1 |
+| 2026-06-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 38.7 | 42.6 | 33 | 11.5 | 1 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.0 | 📈 H: ₹101.0 | 📉 L: ₹99.62 <br>💵 USDT: ₹100.61 | 📈 H: ₹101.5 | 📉 L: ₹100.18 <br>♦ ETH: ₹167000.0 | 📈 H: ₹172523.6 | 📉 L: ₹166933.4 <br>₿ BTC: ₹6350000.0 | 📈 H: ₹6477459.0 | 📉 L: ₹6245906.0 <br>⚡ BNB: ₹57644.41 | 📈 H: ₹58122.49 | 📉 L: ₹57347.73 <br> 
+  🪙 USDC: ₹101.0 | 📈 H: ₹101.0 | 📉 L: ₹99.62 <br>💵 USDT: ₹100.61 | 📈 H: ₹101.5 | 📉 L: ₹100.18 <br>♦ ETH: ₹167000.0 | 📈 H: ₹172523.6 | 📉 L: ₹166933.4 <br>₿ BTC: ₹6289446.0 | 📈 H: ₹6477459.0 | 📉 L: ₹6245906.0 <br>⚡ BNB: ₹57644.41 | 📈 H: ₹58122.49 | 📉 L: ₹57347.73 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
