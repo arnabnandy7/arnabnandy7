@@ -18,14 +18,13 @@
   <p>Kolkata, India - 24/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 56.5 <strong>PM10:</strong> 57.0</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 57.0 <strong>PM10:</strong> 57.6</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.9 | 36.0 | 65 | 13.7 | 6 |
 | 2026-06-25 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.9 | 37.0 | 60 | 16.2 | 6 |
 | 2026-06-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.5 | 38.8 | 53 | 16.6 | 4 |
 | 2026-06-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.4 | 39.8 | 50 | 18.0 | 3 |
@@ -35,6 +34,7 @@
 | 2026-06-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.1 | 43.3 | 37 | 22.0 | 3 |
 | 2026-06-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.7 | 43.6 | 35 | 21.2 | 2 |
 | 2026-06-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.7 | 43.1 | 34 | 21.2 | 2 |
+| 2026-06-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.4 | 42.6 | 34 | 23.0 | 2 |
 
 
   ## ⛓️ Cryptocurrency Prices  
