@@ -18,15 +18,13 @@
   <p>Kolkata, India - 24/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 31.6 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 30.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.3 <strong>PM10:</strong> 54.5</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 54.5 <strong>PM10:</strong> 67.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-24 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 40.4 | 43.8 | 28 | 13.3 | 1 |
-| 2026-06-24 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 40.9 | 44.1 | 27 | 13.0 | 6 |
 | 2026-06-24 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 38.4 | 42.6 | 35 | 20.9 | 3 |
 | 2026-06-24 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 36.6 | 41.6 | 41 | 26.6 | 4 |
 | 2026-06-24 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.9 | 40.6 | 49 | 31.3 | 2 |
@@ -35,10 +33,12 @@
 | 2026-06-24 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.4 | 38.0 | 60 | 26.6 | 4 |
 | 2026-06-24 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.1 | 37.4 | 60 | 22.0 | 4 |
 | 2026-06-24 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.5 | 36.9 | 63 | 20.9 | 4 |
+| 2026-06-24 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 36.8 | 67 | 22.3 | 5 |
+| 2026-06-24 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.8 | 36.7 | 69 | 24.1 | 6 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹102.64 | 📈 H: ₹102.64 | 📉 L: ₹99.64 <br>💵 USDT: ₹100.87 | 📈 H: ₹101.5 | 📉 L: ₹100.18 <br>♦ ETH: ₹167026.9 | 📈 H: ₹172500.0 | 📉 L: ₹166933.4 <br>₿ BTC: ₹6350000.0 | 📈 H: ₹6466363.0 | 📉 L: ₹6245906.0 <br>⚡ BNB: ₹57683.3 | 📈 H: ₹58122.49 | 📉 L: ₹57347.73 <br> 
+  🪙 USDC: ₹102.64 | 📈 H: ₹102.64 | 📉 L: ₹99.64 <br>💵 USDT: ₹101.0 | 📈 H: ₹101.5 | 📉 L: ₹100.28 <br>♦ ETH: ₹170199.7 | 📈 H: ₹170199.7 | 📉 L: ₹166933.4 <br>₿ BTC: ₹6349960.0 | 📈 H: ₹6350000.0 | 📉 L: ₹6245906.0 <br>⚡ BNB: ₹57946.64 | 📈 H: ₹58122.49 | 📉 L: ₹57347.73 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I said yes, people might expect me to do it again. Perish the thought. 🛑❌ 
+  I had a dream I said yes; I woke up in a cold sweat. Not doing that in reality. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
