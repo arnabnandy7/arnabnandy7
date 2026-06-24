@@ -18,14 +18,13 @@
   <p>Kolkata, India - 24/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 30.6 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 33.1 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 41.9 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.4 <strong>PM10:</strong> 52.6</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.9 <strong>PM10:</strong> 49.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-24 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.4 | 36.7 | 73 | 28.8 | 9 |
 | 2026-06-24 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.0 | 36.3 | 76 | 27.7 | 13 |
 | 2026-06-24 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.8 | 36.2 | 77 | 30.2 | 15 |
 | 2026-06-24 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.7 | 35.8 | 77 | 29.5 | 13 |
@@ -35,10 +34,11 @@
 | 2026-06-25 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.2 | 33.9 | 74 | 23.0 | 16 |
 | 2026-06-25 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.9 | 33.5 | 75 | 22.0 | 10 |
 | 2026-06-25 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.7 | 33.8 | 79 | 21.2 | 16 |
+| 2026-06-25 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 34.5 | 80 | 21.2 | 12 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹102.64 | 📈 H: ₹102.64 | 📉 L: ₹100.13 <br>💵 USDT: ₹101.5 | 📈 H: ₹101.59 | 📉 L: ₹100.28 <br>♦ ETH: ₹170194.4 | 📈 H: ₹170200.0 | 📉 L: ₹167000.0 <br>₿ BTC: ₹6349161.0 | 📈 H: ₹6350000.0 | 📉 L: ₹6259906.0 <br>⚡ BNB: ₹57946.64 | 📈 H: ₹57946.64 | 📉 L: ₹57350.77 <br> 
+  🪙 USDC: ₹102.64 | 📈 H: ₹102.64 | 📉 L: ₹100.13 <br>💵 USDT: ₹101.51 | 📈 H: ₹101.61 | 📉 L: ₹100.28 <br>♦ ETH: ₹169084.6 | 📈 H: ₹170200.0 | 📉 L: ₹167000.0 <br>₿ BTC: ₹6288906.0 | 📈 H: ₹6350000.0 | 📉 L: ₹6259906.0 <br>⚡ BNB: ₹57946.64 | 📈 H: ₹57946.64 | 📉 L: ₹57350.77 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
