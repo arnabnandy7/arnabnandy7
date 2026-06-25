@@ -18,14 +18,13 @@
   <p>Kolkata, India - 25/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:43 PM, Set: 01:07 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 22.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 27.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:43 PM, Set: 01:07 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 22.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 27.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.1 <strong>PM10:</strong> 31.0</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.2 <strong>PM10:</strong> 30.9</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-25 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.4 | 37.6 | 66 | 25.6 | 6 |
 | 2026-06-25 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.2 | 37.5 | 68 | 22.7 | 6 |
 | 2026-06-25 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.9 | 37.5 | 71 | 22.7 | 7 |
 | 2026-06-25 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.6 | 37.1 | 73 | 22.0 | 9 |
@@ -35,10 +34,11 @@
 | 2026-06-26 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.1 | 35.9 | 73 | 18.4 | 8 |
 | 2026-06-26 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.0 | 36.0 | 74 | 18.7 | 9 |
 | 2026-06-26 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.2 | 36.2 | 74 | 20.2 | 11 |
+| 2026-06-26 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.7 | 37.0 | 71 | 21.6 | 8 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.76 | 📈 H: ₹102.57 | 📉 L: ₹100.94 <br>💵 USDT: ₹102.06 | 📈 H: ₹103.6 | 📉 L: ₹101.1 <br>♦ ETH: ₹161000.0 | 📈 H: ₹169909.4 | 📉 L: ₹161000.0 <br>₿ BTC: ₹6074571.0 | 📈 H: ₹6349177.0 | 📉 L: ₹6074571.0 <br>⚡ BNB: ₹57571.89 | 📈 H: ₹57930.52 | 📉 L: ₹56152.5 <br> 
+  🪙 USDC: ₹102.65 | 📈 H: ₹102.65 | 📉 L: ₹100.94 <br>💵 USDT: ₹102.7 | 📈 H: ₹103.6 | 📉 L: ₹101.21 <br>♦ ETH: ₹162000.0 | 📈 H: ₹169909.4 | 📉 L: ₹160000.0 <br>₿ BTC: ₹6193153.0 | 📈 H: ₹6349177.0 | 📉 L: ₹6028054.0 <br>⚡ BNB: ₹56994.51 | 📈 H: ₹57930.52 | 📉 L: ₹56000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
