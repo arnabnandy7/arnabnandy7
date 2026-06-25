@@ -18,27 +18,27 @@
   <p>Kolkata, India - 25/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:46 PM, Set: 12:30 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:43 PM, Set: 01:07 AM)  <br>🌅 <strong>Sunrise:</strong> 04:53 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 36.8 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 58.6 <strong>PM10:</strong> 59.0</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 55.6 <strong>PM10:</strong> 56.1</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-25 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.4 | 38.7 | 53 | 16.6 | 5 |
-| 2026-06-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.3 | 39.6 | 50 | 17.6 | 3 |
-| 2026-06-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.8 | 40.2 | 49 | 19.1 | 3 |
-| 2026-06-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.9 | 41.4 | 45 | 21.2 | 4 |
-| 2026-06-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.3 | 42.9 | 40 | 22.0 | 4 |
-| 2026-06-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.2 | 43.4 | 37 | 22.0 | 3 |
+| 2026-06-25 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.4 | 39.8 | 50 | 18.0 | 3 |
+| 2026-06-25 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.8 | 40.2 | 48 | 19.8 | 3 |
+| 2026-06-25 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.8 | 41.3 | 45 | 21.6 | 4 |
+| 2026-06-25 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.3 | 42.8 | 41 | 22.3 | 4 |
+| 2026-06-25 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.1 | 43.3 | 37 | 22.0 | 3 |
 | 2026-06-25 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.7 | 43.6 | 35 | 21.2 | 2 |
-| 2026-06-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.7 | 43.2 | 34 | 21.2 | 2 |
-| 2026-06-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.4 | 42.6 | 34 | 22.3 | 2 |
-| 2026-06-25 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.3 | 41.3 | 37 | 24.8 | 2 |
+| 2026-06-25 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.7 | 43.1 | 34 | 21.2 | 2 |
+| 2026-06-25 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 38.4 | 42.6 | 34 | 23.0 | 2 |
+| 2026-06-25 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.2 | 41.3 | 37 | 24.8 | 2 |
+| 2026-06-25 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.3 | 39.4 | 43 | 27.0 | 2 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.94 | 📈 H: ₹102.64 | 📉 L: ₹100.75 <br>💵 USDT: ₹102.1 | 📈 H: ₹103.6 | 📉 L: ₹100.5 <br>♦ ETH: ₹167078.3 | 📈 H: ₹170200.0 | 📉 L: ₹162000.0 <br>₿ BTC: ₹6238568.0 | 📈 H: ₹6350000.0 | 📉 L: ₹6105023.0 <br>⚡ BNB: ₹57009.88 | 📈 H: ₹57946.64 | 📉 L: ₹56152.5 <br> 
+  🪙 USDC: ₹100.94 | 📈 H: ₹102.64 | 📉 L: ₹100.75 <br>💵 USDT: ₹101.65 | 📈 H: ₹103.6 | 📉 L: ₹100.5 <br>♦ ETH: ₹164000.0 | 📈 H: ₹170200.0 | 📉 L: ₹162000.0 <br>₿ BTC: ₹6238568.0 | 📈 H: ₹6350000.0 | 📉 L: ₹6105023.0 <br>⚡ BNB: ₹57306.09 | 📈 H: ₹57946.64 | 📉 L: ₹56152.5 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
