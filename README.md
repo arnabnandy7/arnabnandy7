@@ -16,17 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 26/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:41 PM, Set: 01:47 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 22.7 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
+  <p>Sunny (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:41 PM, Set: 01:47 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.5 <strong>PM10:</strong> 31.5</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.6 <strong>PM10:</strong> 27.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-26 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.6 | 42.9 | 39 | 26.6 | 2 |
-| 2026-06-26 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 36.4 | 41.7 | 43 | 29.2 | 1 |
 | 2026-06-26 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 39.7 | 49 | 29.5 | 2 |
 | 2026-06-26 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.6 | 37.6 | 56 | 27.4 | 3 |
 | 2026-06-26 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.4 | 36.6 | 63 | 27.4 | 4 |
@@ -35,10 +33,12 @@
 | 2026-06-26 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.1 | 35.7 | 72 | 21.2 | 7 |
 | 2026-06-26 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.9 | 35.5 | 74 | 23.0 | 8 |
 | 2026-06-27 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.6 | 35.0 | 75 | 22.3 | 8 |
+| 2026-06-27 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.5 | 35.1 | 76 | 22.3 | 10 |
+| 2026-06-27 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.3 | 34.9 | 77 | 22.0 | 10 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹103.0 | 📈 H: ₹105.21 | 📉 L: ₹101.76 <br>💵 USDT: ₹102.35 | 📈 H: ₹105.5 | 📉 L: ₹101.8 <br>♦ ETH: ₹164655.2 | 📈 H: ₹169909.0 | 📉 L: ₹157558.0 <br>₿ BTC: ₹6250000.0 | 📈 H: ₹6346278.0 | 📉 L: ₹6028054.0 <br>⚡ BNB: ₹59106.29 | 📈 H: ₹59106.29 | 📉 L: ₹56000.0 <br> 
+  🪙 USDC: ₹103.0 | 📈 H: ₹105.21 | 📉 L: ₹101.76 <br>💵 USDT: ₹103.65 | 📈 H: ₹105.5 | 📉 L: ₹101.8 <br>♦ ETH: ₹159305.1 | 📈 H: ₹169661.5 | 📉 L: ₹157558.0 <br>₿ BTC: ₹6103060.0 | 📈 H: ₹6346278.0 | 📉 L: ₹6028054.0 <br>⚡ BNB: ₹58325.68 | 📈 H: ₹59106.29 | 📉 L: ₹56000.0 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'll put this request on my to-do list right after 'learn teleportation'. 🛑❌ 
+  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
