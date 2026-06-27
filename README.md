@@ -18,14 +18,13 @@
   <p>Kolkata, India - 27/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
   <p>Clear (পরিষ্কার)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:38 PM, Set: 02:31 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 21.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:38 PM, Set: 02:31 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.8 <strong>PM10:</strong> 26.3</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.6 <strong>PM10:</strong> 27.1</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-28 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.1 | 34.6 | 78 | 18.4 | 9 |
 | 2026-06-28 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.9 | 34.2 | 79 | 18.4 | 10 |
 | 2026-06-28 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.1 | 34.5 | 78 | 18.7 | 10 |
 | 2026-06-28 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 35.9 | 73 | 22.7 | 8 |
@@ -35,10 +34,11 @@
 | 2026-06-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 35.8 | 42.5 | 48 | 20.5 | 7 |
 | 2026-06-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.8 | 43.6 | 45 | 20.9 | 4 |
 | 2026-06-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 36.9 | 43.3 | 44 | 21.6 | 10 |
+| 2026-06-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.5 | 41.5 | 48 | 22.0 | 3 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.61 | 📈 H: ₹104.34 | 📉 L: ₹101.6 <br>💵 USDT: ₹102.28 | 📈 H: ₹103.17 | 📉 L: ₹101.8 <br>♦ ETH: ₹162350.1 | 📈 H: ₹165722.6 | 📉 L: ₹161551.6 <br>₿ BTC: ₹6175650.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6124789.0 <br>⚡ BNB: ₹57365.08 | 📈 H: ₹58618.38 | 📉 L: ₹57365.08 <br> 
+  🪙 USDC: ₹101.61 | 📈 H: ₹104.34 | 📉 L: ₹101.6 <br>💵 USDT: ₹102.1 | 📈 H: ₹103.17 | 📉 L: ₹101.8 <br>♦ ETH: ₹162350.1 | 📈 H: ₹165722.6 | 📉 L: ₹161551.6 <br>₿ BTC: ₹6175650.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6124789.0 <br>⚡ BNB: ₹57365.08 | 📈 H: ₹58618.38 | 📉 L: ₹57365.08 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm doing a silent retreat away from responsibilities. 🛑❌ 
+  I'm on strike until further notice, and I'm the union leader. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
