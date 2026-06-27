@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 27/06/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:38 PM, Set: 02:31 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 26.6 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 42.5 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:38 PM, Set: 02:31 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 28.8 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 43.1 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.7 <strong>PM10:</strong> 14.7</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.1 <strong>PM10:</strong> 16.1</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-27 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 32.2 | 37.3 | 58 | 28.1 | 12 |
 | 2026-06-27 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.0 | 36.2 | 65 | 28.1 | 4 |
 | 2026-06-27 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.4 | 35.9 | 70 | 28.1 | 6 |
 | 2026-06-27 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.1 | 35.9 | 73 | 27.0 | 8 |
@@ -35,10 +34,11 @@
 | 2026-06-28 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.3 | 35.0 | 78 | 23.8 | 13 |
 | 2026-06-28 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.2 | 34.9 | 79 | 23.8 | 14 |
 | 2026-06-28 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.2 | 34.9 | 79 | 24.8 | 13 |
+| 2026-06-28 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.1 | 34.7 | 79 | 24.1 | 12 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹102.04 | 📈 H: ₹103.0 | 📉 L: ₹101.98 <br>💵 USDT: ₹102.28 | 📈 H: ₹103.98 | 📉 L: ₹101.8 <br>♦ ETH: ₹162351.0 | 📈 H: ₹165722.5 | 📉 L: ₹159500.0 <br>₿ BTC: ₹6245885.0 | 📈 H: ₹6273498.0 | 📉 L: ₹6106001.0 <br>⚡ BNB: ₹57831.13 | 📈 H: ₹57965.84 | 📉 L: ₹57536.92 <br> 
+  🪙 USDC: ₹102.04 | 📈 H: ₹103.0 | 📉 L: ₹101.98 <br>💵 USDT: ₹102.32 | 📈 H: ₹103.98 | 📉 L: ₹101.8 <br>♦ ETH: ₹162350.0 | 📈 H: ₹165722.5 | 📉 L: ₹159500.0 <br>₿ BTC: ₹6245885.0 | 📈 H: ₹6273498.0 | 📉 L: ₹6106001.0 <br>⚡ BNB: ₹57601.28 | 📈 H: ₹58618.38 | 📉 L: ₹57536.92 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Even if I wanted to, I couldn't. And I don't want to. 🛑❌ 
+  I'd rather bathe in week-old soup than do that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
