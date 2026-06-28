@@ -18,27 +18,27 @@
   <p>Kolkata, India - 28/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:33 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 36.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:33 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 33.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.4 <strong>PM10:</strong> 30.6</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.0 <strong>PM10:</strong> 23.7</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-28 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.8 | 41.1 | 51 | 16.9 | 6 |
-| 2026-06-28 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.1 | 42.4 | 46 | 16.9 | 4 |
-| 2026-06-28 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 37.2 | 43.4 | 42 | 18.7 | 6 |
 | 2026-06-28 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 37.7 | 43.7 | 40 | 21.2 | 4 |
 | 2026-06-28 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 37.4 | 43.2 | 41 | 24.5 | 8 |
-| 2026-06-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 36.0 | 41.8 | 45 | 25.6 | 6 |
-| 2026-06-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.5 | 41.1 | 47 | 25.6 | 2 |
-| 2026-06-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.7 | 40.1 | 49 | 24.8 | 2 |
-| 2026-06-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.6 | 38.9 | 53 | 25.6 | 3 |
+| 2026-06-28 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.4 | 42.2 | 44 | 18.4 | 4 |
+| 2026-06-28 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.1 | 42.2 | 46 | 19.1 | 3 |
+| 2026-06-28 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.7 | 42.0 | 47 | 22.7 | 2 |
+| 2026-06-28 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 40.5 | 52 | 25.2 | 3 |
 | 2026-06-28 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.1 | 37.3 | 60 | 24.1 | 4 |
+| 2026-06-28 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 31.1 | 36.8 | 67 | 24.5 | 6 |
+| 2026-06-28 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.8 | 36.7 | 69 | 24.1 | 6 |
+| 2026-06-28 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.6 | 36.5 | 70 | 23.8 | 7 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹101.61 | 📈 H: ₹104.34 | 📉 L: ₹101.6 <br>💵 USDT: ₹102.22 | 📈 H: ₹102.94 | 📉 L: ₹101.8 <br>♦ ETH: ₹161558.4 | 📈 H: ₹165722.6 | 📉 L: ₹161552.7 <br>₿ BTC: ₹6245883.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6139765.0 <br>⚡ BNB: ₹57024.07 | 📈 H: ₹58618.38 | 📉 L: ₹56937.99 <br> 
+  🪙 USDC: ₹101.61 | 📈 H: ₹104.34 | 📉 L: ₹101.6 <br>💵 USDT: ₹102.66 | 📈 H: ₹102.94 | 📉 L: ₹102.03 <br>♦ ETH: ₹161555.1 | 📈 H: ₹165722.6 | 📉 L: ₹161552.7 <br>₿ BTC: ₹6244426.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6139765.0 <br>⚡ BNB: ₹57024.07 | 📈 H: ₹58618.38 | 📉 L: ₹56937.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Got a conference call with myself, and it's very time-consuming. 🛑❌ 
+  I'm afraid saying yes now will open floodgates of expectations. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
