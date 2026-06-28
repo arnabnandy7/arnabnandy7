@@ -18,14 +18,13 @@
   <p>Kolkata, India - 28/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:33 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 40.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:33 PM, Set: 03:20 AM)  <br>🌅 <strong>Sunrise:</strong> 04:54 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 40.7 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.0 <strong>PM10:</strong> 21.4</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.2 <strong>PM10:</strong> 21.8</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-29 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.2 | 35.9 | 72 | 18.4 | 8 |
 | 2026-06-29 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.1 | 36.0 | 74 | 18.4 | 10 |
 | 2026-06-29 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.8 | 35.8 | 76 | 17.6 | 11 |
 | 2026-06-29 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.6 | 35.7 | 78 | 16.9 | 17 |
@@ -35,10 +34,11 @@
 | 2026-06-29 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 39.6 | 64 | 18.4 | 5 |
 | 2026-06-29 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.3 | 41.8 | 57 | 17.6 | 4 |
 | 2026-06-29 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 35.9 | 43.6 | 51 | 18.7 | 3 |
+| 2026-06-29 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 37.2 | 45.0 | 46 | 18.4 | 5 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹102.08 | 📈 H: ₹102.33 | 📉 L: ₹102.08 <br>💵 USDT: ₹101.87 | 📈 H: ₹102.94 | 📉 L: ₹101.81 <br>♦ ETH: ₹163484.6 | 📈 H: ₹164318.0 | 📉 L: ₹161552.7 <br>₿ BTC: ₹6150000.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6150000.0 <br>⚡ BNB: ₹57587.95 | 📈 H: ₹57921.3 | 📉 L: ₹56749.18 <br> 
+  🪙 USDC: ₹102.08 | 📈 H: ₹102.33 | 📉 L: ₹102.08 <br>💵 USDT: ₹101.89 | 📈 H: ₹102.94 | 📉 L: ₹101.81 <br>♦ ETH: ₹162500.0 | 📈 H: ₹164318.0 | 📉 L: ₹161552.7 <br>₿ BTC: ₹6150000.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6150000.0 <br>⚡ BNB: ₹57492.36 | 📈 H: ₹57921.3 | 📉 L: ₹56749.18 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I end up liking it, then I'll have to do it again, so no. 🛑❌ 
+  Life is short, and I choose to waste it my way, not on that. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
