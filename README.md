@@ -18,14 +18,13 @@
   <p>Kolkata, India - 30/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 07:10 PM, Set: 05:06 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 35.1 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 07:10 PM, Set: 05:06 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.8 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 39.1 <strong>PM10:</strong> 40.0</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.0 <strong>PM10:</strong> 36.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-30 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.9 | 36.0 | 65 | 2.9 | 8 |
 | 2026-06-30 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.8 | 36.8 | 61 | 3.2 | 7 |
 | 2026-06-30 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.2 | 38.2 | 55 | 3.6 | 4 |
 | 2026-06-30 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.9 | 39.9 | 48 | 4.3 | 17 |
@@ -35,10 +34,11 @@
 | 2026-06-30 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.9 | 41.6 | 47 | 15.8 | 17 |
 | 2026-06-30 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.2 | 40.1 | 54 | 18.7 | 17 |
 | 2026-06-30 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.4 | 39.5 | 57 | 19.4 | 4 |
+| 2026-06-30 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 32.3 | 38.5 | 62 | 20.9 | 4 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.12 | 📈 H: ₹102.35 | 📉 L: ₹100.04 <br>💵 USDT: ₹102.01 | 📈 H: ₹102.85 | 📉 L: ₹102.0 <br>♦ ETH: ₹160936.2 | 📈 H: ₹168000.6 | 📉 L: ₹159500.0 <br>₿ BTC: ₹6132623.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6072828.0 <br>⚡ BNB: ₹55950.71 | 📈 H: ₹56530.09 | 📉 L: ₹55598.98 <br> 
+  🪙 USDC: ₹100.12 | 📈 H: ₹102.35 | 📉 L: ₹100.04 <br>💵 USDT: ₹102.01 | 📈 H: ₹102.85 | 📉 L: ₹102.0 <br>♦ ETH: ₹160936.2 | 📈 H: ₹168000.6 | 📉 L: ₹159500.0 <br>₿ BTC: ₹6199999.0 | 📈 H: ₹6245885.0 | 📉 L: ₹6072828.0 <br>⚡ BNB: ₹56062.01 | 📈 H: ₹56490.08 | 📉 L: ₹55598.98 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
