@@ -18,15 +18,13 @@
   <p>Kolkata, India - 30/06/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
   <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 07:10 PM, Set: 05:06 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 36.3 °C  
+  🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 07:10 PM, Set: 05:06 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 34.3 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.9 <strong>PM10:</strong> 42.6</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.0 <strong>PM10:</strong> 35.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-30 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.9 | 38.5 | 51 | 5.4 | 3 |
-| 2026-06-30 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.2 | 39.8 | 47 | 4.7 | 3 |
 | 2026-06-30 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.2 | 40.6 | 43 | 5.8 | 3 |
 | 2026-06-30 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 36.4 | 40.6 | 42 | 7.6 | 3 |
 | 2026-06-30 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.4 | 40.2 | 46 | 11.9 | 17 |
@@ -35,10 +33,12 @@
 | 2026-06-30 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 31.6 | 37.4 | 64 | 22.3 | 6 |
 | 2026-06-30 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.9 | 36.8 | 68 | 21.6 | 7 |
 | 2026-06-30 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.4 | 36.4 | 71 | 17.6 | 10 |
+| 2026-06-30 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.3 | 36.2 | 72 | 16.2 | 10 |
+| 2026-06-30 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.2 | 36.2 | 72 | 15.5 | 11 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹100.12 | 📈 H: ₹102.35 | 📉 L: ₹100.04 <br>💵 USDT: ₹102.01 | 📈 H: ₹102.85 | 📉 L: ₹102.01 <br>♦ ETH: ₹167980.7 | 📈 H: ₹168000.6 | 📉 L: ₹159500.0 <br>₿ BTC: ₹6100001.0 | 📈 H: ₹6245879.0 | 📉 L: ₹6072828.0 <br>⚡ BNB: ₹56062.01 | 📈 H: ₹56490.08 | 📉 L: ₹55598.98 <br> 
+  🪙 USDC: ₹100.12 | 📈 H: ₹102.35 | 📉 L: ₹100.04 <br>💵 USDT: ₹102.12 | 📈 H: ₹102.84 | 📉 L: ₹102.01 <br>♦ ETH: ₹167982.9 | 📈 H: ₹168000.6 | 📉 L: ₹159500.0 <br>₿ BTC: ₹6198998.0 | 📈 H: ₹6245879.0 | 📉 L: ₹6072828.0 <br>⚡ BNB: ₹55620.56 | 📈 H: ₹56070.26 | 📉 L: ₹55598.98 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm stuck in a black hole of procrastination and can't escape in time to do that. 🛑❌ 
+  Mentally, I'm already on vacation. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
