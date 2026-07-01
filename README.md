@@ -16,16 +16,15 @@
 
 <div align="center">
   <p>Kolkata, India - 01/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:52 PM, Set: 06:01 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.3 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"/>
+  <p>Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:52 PM, Set: 06:01 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.4 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.7 <strong>PM10:</strong> 28.6</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.6 <strong>PM10:</strong> 25.6</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-02 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.2 | 34.4 | 76 | 12.2 | 12 |
 | 2026-07-02 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 29.0 | 34.1 | 77 | 11.2 | 37 |
 | 2026-07-02 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.8 | 33.7 | 77 | 9.7 | 16 |
 | 2026-07-02 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.7 | 33.5 | 77 | 9.0 | 14 |
@@ -35,10 +34,11 @@
 | 2026-07-02 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.5 | 35.6 | 68 | 13.0 | 7 |
 | 2026-07-02 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.8 | 37.1 | 62 | 13.7 | 5 |
 | 2026-07-02 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.6 | 39.3 | 55 | 13.0 | 4 |
+| 2026-07-02 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 34.9 | 40.9 | 51 | 12.6 | 40 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.04 | 📈 H: ₹99.04 | 📉 L: ₹98.84 <br>💵 USDT: ₹101.4 | 📈 H: ₹101.95 | 📉 L: ₹100.36 <br>♦ ETH: ₹163000.1 | 📈 H: ₹163950.9 | 📉 L: ₹158000.0 <br>₿ BTC: ₹6037748.0 | 📈 H: ₹6100001.0 | 📉 L: ₹5872400.0 <br>⚡ BNB: ₹55165.43 | 📈 H: ₹56000.0 | 📉 L: ₹53800.01 <br> 
+  🪙 USDC: ₹99.04 | 📈 H: ₹99.04 | 📉 L: ₹98.84 <br>💵 USDT: ₹101.01 | 📈 H: ₹101.95 | 📉 L: ₹100.36 <br>♦ ETH: ₹163950.9 | 📈 H: ₹163950.9 | 📉 L: ₹158000.0 <br>₿ BTC: ₹6041000.0 | 📈 H: ₹6100001.0 | 📉 L: ₹5895175.0 <br>⚡ BNB: ₹55165.43 | 📈 H: ₹56000.0 | 📉 L: ₹53800.01 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is aligned with Jupiter, and the stars say no. 🛑❌ 
+  I have to rotate the tires on my office chair. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
