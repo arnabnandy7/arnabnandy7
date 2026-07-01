@@ -18,27 +18,27 @@
   <p>Kolkata, India - 01/07/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
   <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:52 PM, Set: 06:01 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.0 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:52 PM, Set: 06:01 AM)  <br>🌅 <strong>Sunrise:</strong> 04:55 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.4 <strong>PM10:</strong> 32.1</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.8 <strong>PM10:</strong> 27.4</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-01 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.0 | 40.3 | 48 | 10.4 | 17 |
-| 2026-07-01 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.8 | 40.0 | 48 | 9.4 | 17 |
-| 2026-07-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 39.6 | 49 | 9.0 | 17 |
-| 2026-07-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.3 | 39.5 | 50 | 7.9 | 17 |
-| 2026-07-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.1 | 39.3 | 51 | 6.1 | 17 |
-| 2026-07-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.7 | 39.1 | 53 | 6.8 | 17 |
-| 2026-07-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 32.8 | 37.9 | 56 | 10.8 | 8 |
-| 2026-07-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 31.8 | 36.7 | 60 | 15.5 | 18 |
-| 2026-07-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 31.1 | 35.9 | 63 | 17.3 | 18 |
-| 2026-07-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.5 | 35.5 | 66 | 16.6 | 23 |
+| 2026-07-01 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.4 | 39.5 | 49 | 9.0 | 17 |
+| 2026-07-01 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.2 | 39.4 | 50 | 7.6 | 17 |
+| 2026-07-01 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 39.2 | 51 | 6.1 | 17 |
+| 2026-07-01 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 38.9 | 53 | 7.2 | 17 |
+| 2026-07-01 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 32.6 | 37.8 | 56 | 11.5 | 8 |
+| 2026-07-01 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 31.6 | 36.5 | 60 | 15.8 | 19 |
+| 2026-07-01 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.9 | 35.7 | 64 | 17.3 | 21 |
+| 2026-07-01 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.5 | 35.4 | 67 | 16.9 | 22 |
+| 2026-07-01 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.2 | 35.3 | 69 | 15.8 | 20 |
+| 2026-07-01 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.0 | 35.1 | 70 | 15.1 | 15 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.92 | 📈 H: ₹100.12 | 📉 L: ₹98.84 <br>💵 USDT: ₹101.11 | 📈 H: ₹102.19 | 📉 L: ₹100.02 <br>♦ ETH: ₹162000.0 | 📈 H: ₹167982.9 | 📉 L: ₹158011.8 <br>₿ BTC: ₹5950000.0 | 📈 H: ₹6199882.0 | 📉 L: ₹5872400.0 <br>⚡ BNB: ₹56000.0 | 📈 H: ₹56924.58 | 📉 L: ₹53800.01 <br> 
+  🪙 USDC: ₹98.92 | 📈 H: ₹100.12 | 📉 L: ₹98.84 <br>💵 USDT: ₹101.2 | 📈 H: ₹102.19 | 📉 L: ₹100.02 <br>♦ ETH: ₹160000.1 | 📈 H: ₹167982.9 | 📉 L: ₹158011.8 <br>₿ BTC: ₹5904697.0 | 📈 H: ₹6100001.0 | 📉 L: ₹5872400.0 <br>⚡ BNB: ₹55102.45 | 📈 H: ₹56924.58 | 📉 L: ₹53800.01 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I avoid anything that might make me smile too much. 🛑❌ 
+  I'm practicing social distancing... from everyone. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
