@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 04/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png"/>
-  <p>Moderate or heavy rain in area with thunder (এলাকায় বজ্রবিদ্যুত সহ অনিয়মিত মাঝারি ও ভারী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:34 PM, Set: 08:39 AM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 27.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 37.8 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
+  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:34 PM, Set: 08:39 AM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 27.0 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.4 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.7 <strong>PM10:</strong> 10.0</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.6 <strong>PM10:</strong> 9.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-04 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/389.png) Moderate or heavy rain in area with thunder | 33.5 | 40.3 | 59 | 28.8 | 61 |
-| 2026-07-04 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.0 | 39.9 | 61 | 28.1 | 57 |
-| 2026-07-04 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.4 | 40.2 | 59 | 24.1 | 48 |
-| 2026-07-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.8 | 39.4 | 61 | 20.2 | 48 |
-| 2026-07-04 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.6 | 65 | 18.4 | 36 |
-| 2026-07-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 30.4 | 36.8 | 73 | 17.3 | 39 |
-| 2026-07-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 29.6 | 36.0 | 77 | 12.2 | 52 |
-| 2026-07-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.2 | 35.2 | 80 | 13.3 | 61 |
-| 2026-07-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/266.png) Light drizzle | 28.9 | 34.7 | 82 | 17.3 | 60 |
-| 2026-07-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.6 | 34.3 | 83 | 16.6 | 32 |
+| 2026-07-04 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.2 | 38.7 | 64 | 20.9 | 17 |
+| 2026-07-04 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.3 | 38.9 | 63 | 19.1 | 11 |
+| 2026-07-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.9 | 37.2 | 69 | 19.4 | 16 |
+| 2026-07-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.0 | 36.0 | 74 | 18.7 | 16 |
+| 2026-07-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 35.2 | 77 | 16.9 | 11 |
+| 2026-07-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.0 | 34.6 | 80 | 15.5 | 11 |
+| 2026-07-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.6 | 34.1 | 82 | 15.1 | 15 |
+| 2026-07-04 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.3 | 33.6 | 85 | 14.0 | 21 |
+| 2026-07-05 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.3 | 87 | 13.3 | 29 |
+| 2026-07-05 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.2 | 86 | 13.7 | 19 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.5 | 📈 H: ₹102.6 | 📉 L: ₹98.5 <br>💵 USDT: ₹99.28 | 📈 H: ₹100.42 | 📉 L: ₹98.0 <br>♦ ETH: ₹173885.0 | 📈 H: ₹174088.8 | 📉 L: ₹170000.0 <br>₿ BTC: ₹6138027.0 | 📈 H: ₹6247699.0 | 📉 L: ₹6096612.0 <br>⚡ BNB: ₹56039.84 | 📈 H: ₹56039.84 | 📉 L: ₹55430.35 <br> 
+  🪙 USDC: ₹98.5 | 📈 H: ₹102.6 | 📉 L: ₹98.5 <br>💵 USDT: ₹98.45 | 📈 H: ₹100.0 | 📉 L: ₹98.0 <br>♦ ETH: ₹173885.0 | 📈 H: ₹174088.8 | 📉 L: ₹170000.0 <br>₿ BTC: ₹6115629.0 | 📈 H: ₹6247699.0 | 📉 L: ₹6096612.0 <br>⚡ BNB: ₹56000.0 | 📈 H: ₹56039.84 | 📉 L: ₹55430.35 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My phone's calendar just facepalmed at me for even considering it. 🛑❌ 
+  Let me check my schedule... oh look, it's a permanent no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
