@@ -18,27 +18,27 @@
   <p>Kolkata, India - 04/07/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:34 PM, Set: 08:39 AM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 24.8 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 37.8 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:34 PM, Set: 08:39 AM)  <br>🌅 <strong>Sunrise:</strong> 04:56 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 32.3 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.3 <strong>PM10:</strong> 8.9</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.8 <strong>PM10:</strong> 12.7</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-04 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.9 | 37.2 | 69 | 19.4 | 16 |
-| 2026-07-04 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 30.0 | 36.0 | 74 | 18.7 | 16 |
-| 2026-07-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 35.2 | 77 | 16.9 | 11 |
-| 2026-07-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.0 | 34.6 | 80 | 15.5 | 11 |
+| 2026-07-04 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 35.0 | 77 | 16.9 | 11 |
+| 2026-07-04 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.0 | 34.5 | 80 | 15.5 | 11 |
 | 2026-07-04 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.6 | 34.1 | 82 | 15.1 | 15 |
-| 2026-07-04 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.3 | 33.6 | 85 | 14.0 | 21 |
-| 2026-07-05 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.3 | 87 | 13.3 | 29 |
-| 2026-07-05 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.2 | 86 | 13.7 | 19 |
-| 2026-07-05 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.8 | 32.8 | 87 | 14.0 | 18 |
-| 2026-07-05 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 32.5 | 87 | 14.0 | 17 |
+| 2026-07-04 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.3 | 33.8 | 85 | 14.0 | 21 |
+| 2026-07-05 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.5 | 87 | 13.3 | 29 |
+| 2026-07-05 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.4 | 86 | 13.7 | 19 |
+| 2026-07-05 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.8 | 33.1 | 87 | 14.0 | 18 |
+| 2026-07-05 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 32.8 | 87 | 14.0 | 17 |
+| 2026-07-05 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 32.7 | 87 | 15.8 | 17 |
+| 2026-07-05 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 27.9 | 32.9 | 85 | 16.2 | 17 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.5 | 📈 H: ₹102.6 | 📉 L: ₹98.5 <br>💵 USDT: ₹98.43 | 📈 H: ₹99.8 | 📉 L: ₹98.0 <br>♦ ETH: ₹173000.0 | 📈 H: ₹174088.1 | 📉 L: ₹170360.5 <br>₿ BTC: ₹6109699.0 | 📈 H: ₹6247699.0 | 📉 L: ₹6096612.0 <br>⚡ BNB: ₹56000.0 | 📈 H: ₹56039.84 | 📉 L: ₹55430.35 <br> 
+  🪙 USDC: ₹98.5 | 📈 H: ₹102.6 | 📉 L: ₹98.5 <br>💵 USDT: ₹99.28 | 📈 H: ₹99.8 | 📉 L: ₹98.0 <br>♦ ETH: ₹172080.8 | 📈 H: ₹174000.0 | 📉 L: ₹170360.5 <br>₿ BTC: ₹6193828.0 | 📈 H: ₹6247699.0 | 📉 L: ₹6096612.0 <br>⚡ BNB: ₹55909.75 | 📈 H: ₹56039.84 | 📉 L: ₹55430.35 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  This doesn’t align with my values or current focus. 🛑❌ 
+  Sleep and I have a standing date, can't break it. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
