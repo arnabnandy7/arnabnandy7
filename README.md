@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 05/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png"/>
-  <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:04 PM, Set: 09:29 AM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 14.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 42.4 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"/>
+  <p>Clear (সূর্যোজ্জ্বল)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:04 PM, Set: 09:29 AM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 34.2 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.9 <strong>PM10:</strong> 8.1</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.5 <strong>PM10:</strong> 12.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.5 | 37.7 | 66 | 16.6 | 10 |
-| 2026-07-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.8 | 36.7 | 69 | 17.6 | 9 |
-| 2026-07-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.8 | 35.1 | 73 | 16.9 | 8 |
 | 2026-07-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 34.4 | 75 | 16.2 | 9 |
 | 2026-07-05 20:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.9 | 34.1 | 78 | 16.2 | 10 |
 | 2026-07-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.7 | 34.0 | 80 | 15.8 | 12 |
 | 2026-07-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 33.8 | 82 | 14.4 | 12 |
-| 2026-07-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.3 | 33.2 | 82 | 13.7 | 38 |
-| 2026-07-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.2 | 32.9 | 82 | 14.0 | 36 |
-| 2026-07-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.7 | 82 | 13.0 | 29 |
+| 2026-07-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.3 | 33.3 | 82 | 13.7 | 38 |
+| 2026-07-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.2 | 33.0 | 82 | 14.0 | 36 |
+| 2026-07-06 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.9 | 82 | 13.0 | 29 |
+| 2026-07-06 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.0 | 32.6 | 82 | 11.2 | 14 |
+| 2026-07-06 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.3 | 82 | 10.4 | 22 |
+| 2026-07-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 31.9 | 82 | 10.8 | 14 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.9 | 📈 H: ₹98.5 | 📉 L: ₹96.9 <br>💵 USDT: ₹97.6 | 📈 H: ₹99.36 | 📉 L: ₹97.33 <br>♦ ETH: ₹171676.9 | 📈 H: ₹177499.9 | 📉 L: ₹171535.3 <br>₿ BTC: ₹6199953.0 | 📈 H: ₹6199998.0 | 📉 L: ₹6101856.0 <br>⚡ BNB: ₹56571.51 | 📈 H: ₹56571.51 | 📉 L: ₹55886.26 <br> 
+  🪙 USDC: ₹96.9 | 📈 H: ₹98.5 | 📉 L: ₹96.9 <br>💵 USDT: ₹98.1 | 📈 H: ₹99.36 | 📉 L: ₹97.33 <br>♦ ETH: ₹175048.8 | 📈 H: ₹177499.9 | 📉 L: ₹171657.1 <br>₿ BTC: ₹6199950.0 | 📈 H: ₹6199998.0 | 📉 L: ₹6101856.0 <br>⚡ BNB: ₹57144.89 | 📈 H: ₹57144.89 | 📉 L: ₹55886.26 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to be on standby in case Netflix needs me to watch something. 🛑❌ 
+  That isn't on my bucket list; in fact, it's on my chuck-it list. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
