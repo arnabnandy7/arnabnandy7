@@ -18,14 +18,13 @@
   <p>Kolkata, India - 05/07/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png"/>
   <p>Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:04 PM, Set: 09:29 AM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.9 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:04 PM, Set: 09:29 AM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.4 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.9 <strong>PM10:</strong> 14.7</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.3 <strong>PM10:</strong> 16.1</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-05 21:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.7 | 34.0 | 80 | 15.8 | 12 |
 | 2026-07-05 22:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 33.8 | 82 | 14.4 | 12 |
 | 2026-07-05 23:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.3 | 33.2 | 82 | 13.7 | 38 |
 | 2026-07-06 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 28.2 | 32.9 | 82 | 14.0 | 36 |
@@ -35,10 +34,11 @@
 | 2026-07-06 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 31.6 | 82 | 10.8 | 14 |
 | 2026-07-06 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 27.8 | 31.6 | 80 | 11.2 | 11 |
 | 2026-07-06 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.8 | 32.6 | 72 | 14.0 | 9 |
+| 2026-07-06 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 33.6 | 65 | 14.4 | 6 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.06 | 📈 H: ₹98.5 | 📉 L: ₹96.04 <br>💵 USDT: ₹97.54 | 📈 H: ₹99.36 | 📉 L: ₹97.33 <br>♦ ETH: ₹173123.0 | 📈 H: ₹177499.9 | 📉 L: ₹171657.1 <br>₿ BTC: ₹6103710.0 | 📈 H: ₹6199998.0 | 📉 L: ₹6101856.0 <br>⚡ BNB: ₹57144.9 | 📈 H: ₹57144.9 | 📉 L: ₹55909.75 <br> 
+  🪙 USDC: ₹96.06 | 📈 H: ₹98.5 | 📉 L: ₹96.04 <br>💵 USDT: ₹97.54 | 📈 H: ₹99.0 | 📉 L: ₹97.33 <br>♦ ETH: ₹173123.7 | 📈 H: ₹177499.9 | 📉 L: ₹171657.1 <br>₿ BTC: ₹6128615.0 | 📈 H: ₹6199998.0 | 📉 L: ₹6101856.0 <br>⚡ BNB: ₹57034.93 | 📈 H: ₹57144.9 | 📉 L: ₹55928.1 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  What a great idea! I'm sad I can't be part of it. Well, not that sad. 🛑❌ 
+  I'd come, but Nostradamus predicted I'd say no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
