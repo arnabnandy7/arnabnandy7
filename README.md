@@ -25,20 +25,20 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-05 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 33.6 | 82 | 15.5 | 68 |
-| 2026-07-05 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.7 | 33.8 | 79 | 17.6 | 51 |
-| 2026-07-05 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.9 | 34.1 | 79 | 18.0 | 15 |
-| 2026-07-05 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.3 | 34.8 | 77 | 19.8 | 15 |
 | 2026-07-05 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.5 | 36.7 | 71 | 20.9 | 31 |
 | 2026-07-05 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.3 | 39.2 | 64 | 21.6 | 57 |
 | 2026-07-05 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 39.7 | 62 | 22.0 | 17 |
 | 2026-07-05 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 32.9 | 39.9 | 62 | 22.7 | 57 |
 | 2026-07-05 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 39.2 | 65 | 22.0 | 58 |
 | 2026-07-05 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.7 | 38.4 | 67 | 21.2 | 44 |
+| 2026-07-05 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.4 | 38.1 | 68 | 21.6 | 17 |
+| 2026-07-05 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.6 | 37.2 | 72 | 19.8 | 14 |
+| 2026-07-05 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.5 | 35.6 | 77 | 19.1 | 24 |
+| 2026-07-05 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.1 | 35.0 | 80 | 18.7 | 39 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹98.5 | 📈 H: ₹98.5 | 📉 L: ₹98.5 <br>💵 USDT: ₹98.88 | 📈 H: ₹99.69 | 📉 L: ₹98.03 <br>♦ ETH: ₹176000.0 | 📈 H: ₹177499.9 | 📉 L: ₹171202.8 <br>₿ BTC: ₹6183829.0 | 📈 H: ₹6247699.0 | 📉 L: ₹6109699.0 <br>⚡ BNB: ₹56046.88 | 📈 H: ₹56400.0 | 📉 L: ₹55886.26 <br> 
+  🪙 USDC: ₹98.5 | 📈 H: ₹98.5 | 📉 L: ₹98.5 <br>💵 USDT: ₹98.04 | 📈 H: ₹99.36 | 📉 L: ₹98.0 <br>♦ ETH: ₹172002.5 | 📈 H: ₹177499.9 | 📉 L: ₹171535.3 <br>₿ BTC: ₹6183828.0 | 📈 H: ₹6236861.0 | 📉 L: ₹6109699.0 <br>⚡ BNB: ₹56571.51 | 📈 H: ₹56571.51 | 📉 L: ₹55886.26 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I consulted Lady Luck; she told me to stay home. 🛑❌ 
+  While I appreciate it, exploring this isn't something I can commit to. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
