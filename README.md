@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 06/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"/>
-  <p>Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:34 PM, Set: 10:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:34 PM, Set: 10:19 AM)  <br>🌅 <strong>Sunrise:</strong> 04:57 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.5 °C  
 
-  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.3 <strong>PM10:</strong> 13.6</p>
+  <p><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.5 <strong>PM10:</strong> 15.2</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-07 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 30.7 | 82 | 12.6 | 23 |
-| 2026-07-07 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 30.8 | 83 | 11.9 | 27 |
-| 2026-07-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.0 | 30.7 | 83 | 12.6 | 38 |
-| 2026-07-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.7 | 83 | 13.0 | 16 |
-| 2026-07-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.0 | 30.7 | 83 | 12.6 | 21 |
-| 2026-07-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 31.8 | 80 | 15.5 | 28 |
-| 2026-07-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 32.7 | 78 | 15.5 | 33 |
+| 2026-07-07 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.0 | 30.0 | 83 | 12.6 | 38 |
+| 2026-07-07 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.1 | 83 | 13.0 | 16 |
+| 2026-07-07 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.0 | 30.1 | 83 | 12.6 | 21 |
+| 2026-07-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 31.5 | 80 | 15.5 | 28 |
+| 2026-07-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 32.5 | 78 | 15.5 | 33 |
 | 2026-07-07 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.2 | 33.8 | 73 | 15.8 | 16 |
 | 2026-07-07 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 35.0 | 69 | 16.9 | 17 |
 | 2026-07-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 35.0 | 69 | 17.3 | 17 |
+| 2026-07-07 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 30.4 | 35.5 | 68 | 16.6 | 21 |
+| 2026-07-07 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 38.2 | 60 | 18.0 | 36 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.32 | 📈 H: ₹96.47 | 📉 L: ₹96.05 <br>💵 USDT: ₹98.8 | 📈 H: ₹98.88 | 📉 L: ₹97.0 <br>♦ ETH: ₹175260.1 | 📈 H: ₹176701.3 | 📉 L: ₹171657.0 <br>₿ BTC: ₹6299999.0 | 📈 H: ₹6300314.0 | 📉 L: ₹6050215.0 <br>⚡ BNB: ₹57159.14 | 📈 H: ₹58238.52 | 📉 L: ₹55944.51 <br> 
+  🪙 USDC: ₹96.32 | 📈 H: ₹96.47 | 📉 L: ₹96.05 <br>💵 USDT: ₹98.99 | 📈 H: ₹98.99 | 📉 L: ₹97.0 <br>♦ ETH: ₹175944.5 | 📈 H: ₹176701.3 | 📉 L: ₹171657.0 <br>₿ BTC: ₹6301000.0 | 📈 H: ₹6301000.0 | 📉 L: ₹6050215.0 <br>⚡ BNB: ₹57159.14 | 📈 H: ₹58238.52 | 📉 L: ₹55944.51 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm choosing Netflix over stress, sorry. 🛑❌ 
+  I can't shock my system with responsibility like that; doctor’s orders. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
