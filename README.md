@@ -25,20 +25,20 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-07 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.6 | 32.9 | 76 | 17.6 | 19 |
-| 2026-07-07 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 34.6 | 69 | 21.6 | 16 |
-| 2026-07-07 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 30.7 | 35.8 | 66 | 20.9 | 21 |
-| 2026-07-07 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 34.9 | 70 | 18.4 | 20 |
 | 2026-07-07 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.4 | 36.9 | 65 | 19.4 | 43 |
 | 2026-07-07 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 32.3 | 38.6 | 63 | 21.6 | 57 |
 | 2026-07-07 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.8 | 39.7 | 62 | 22.3 | 57 |
 | 2026-07-07 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 31.8 | 38.3 | 65 | 20.5 | 57 |
 | 2026-07-07 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.2 | 65 | 20.5 | 39 |
 | 2026-07-07 15:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.4 | 36.3 | 71 | 20.9 | 10 |
+| 2026-07-07 16:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 30.2 | 36.1 | 72 | 19.1 | 19 |
+| 2026-07-07 17:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.8 | 35.8 | 75 | 18.4 | 18 |
+| 2026-07-07 18:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.1 | 34.8 | 79 | 18.0 | 15 |
+| 2026-07-07 19:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.7 | 34.1 | 81 | 19.1 | 16 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.32 | 📈 H: ₹96.47 | 📉 L: ₹96.05 <br>💵 USDT: ₹98.5 | 📈 H: ₹98.99 | 📉 L: ₹97.0 <br>♦ ETH: ₹180000.0 | 📈 H: ₹180000.0 | 📉 L: ₹171657.0 <br>₿ BTC: ₹6264181.0 | 📈 H: ₹6349177.0 | 📉 L: ₹6050215.0 <br>⚡ BNB: ₹58000.0 | 📈 H: ₹58238.52 | 📉 L: ₹55944.51 <br> 
+  🪙 USDC: ₹96.32 | 📈 H: ₹96.47 | 📉 L: ₹96.05 <br>💵 USDT: ₹98.96 | 📈 H: ₹98.99 | 📉 L: ₹97.0 <br>♦ ETH: ₹177387.9 | 📈 H: ₹180000.0 | 📉 L: ₹171657.0 <br>₿ BTC: ₹6259605.0 | 📈 H: ₹6349177.0 | 📉 L: ₹6050215.0 <br>⚡ BNB: ₹56807.32 | 📈 H: ₹58238.52 | 📉 L: ₹55944.51 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of me as the final boss of saying no – undefeated. 🛑❌ 
+  I'm afraid I'll set the bar too high if I say yes and do a good job. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
