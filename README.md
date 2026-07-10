@@ -25,7 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.8 | 31.8 | 82 | 15.1 | 16 |
 | 2026-07-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 31.5 | 83 | 14.8 | 15 |
 | 2026-07-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.5 | 31.3 | 83 | 15.8 | 23 |
 | 2026-07-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.5 | 79 | 19.1 | 25 |
@@ -35,10 +34,11 @@
 | 2026-07-11 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.3 | 79 | 21.6 | 29 |
 | 2026-07-11 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.6 | 31.3 | 82 | 23.4 | 30 |
 | 2026-07-11 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 27.1 | 30.3 | 84 | 23.0 | 45 |
+| 2026-07-11 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 27.0 | 30.3 | 85 | 22.3 | 46 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.26 | 📈 H: ₹99.09 | 📉 L: ₹96.0 <br>💵 USDT: ₹97.55 | 📈 H: ₹99.2 | 📉 L: ₹97.5 <br>♦ ETH: ₹175129.3 | 📈 H: ₹178299.2 | 📉 L: ₹170050.0 <br>₿ BTC: ₹6204055.0 | 📈 H: ₹6345579.0 | 📉 L: ₹6158568.0 <br>⚡ BNB: ₹55710.46 | 📈 H: ₹56405.2 | 📉 L: ₹55603.99 <br> 
+  🪙 USDC: ₹96.26 | 📈 H: ₹99.09 | 📉 L: ₹96.0 <br>💵 USDT: ₹98.0 | 📈 H: ₹99.2 | 📉 L: ₹97.5 <br>♦ ETH: ₹175129.3 | 📈 H: ₹178299.2 | 📉 L: ₹170050.0 <br>₿ BTC: ₹6204055.0 | 📈 H: ₹6345579.0 | 📉 L: ₹6158568.0 <br>⚡ BNB: ₹55710.46 | 📈 H: ₹56405.2 | 📉 L: ₹55603.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I trained for years under a master of saying no. 🛑❌ 
+  Picture a skywriter writing 'NO' above your house—that's my answer. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
