@@ -16,29 +16,29 @@
 
 <div align="center">
   <p>Kolkata, India - 10/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"/>
-  <p>Cloudy (মেঘলা)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:20 AM, Set: 02:02 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:25 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 31.1 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png"/>
+  <p>Overcast (মেঘাচ্ছন্ন)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:20 AM, Set: 02:01 PM)  <br>🌅 <strong>Sunrise:</strong> 04:58 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.2 °C  
 
-  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.8 <strong>PM10:</strong> 31.1</p>
+  <p><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.1 <strong>PM10:</strong> 38.9</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-11 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.3 | 33.2 | 82 | 14.4 | 20 |
-| 2026-07-11 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.1 | 32.8 | 82 | 15.5 | 18 |
-| 2026-07-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.1 | 32.5 | 81 | 16.9 | 21 |
+| 2026-07-11 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.2 | 32.6 | 80 | 17.6 | 21 |
 | 2026-07-11 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.8 | 31.8 | 82 | 15.1 | 16 |
-| 2026-07-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 31.5 | 83 | 14.8 | 15 |
-| 2026-07-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.5 | 31.3 | 83 | 15.8 | 23 |
-| 2026-07-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.5 | 79 | 19.1 | 25 |
-| 2026-07-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 32.5 | 79 | 18.7 | 25 |
+| 2026-07-11 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 31.5 | 83 | 15.1 | 15 |
+| 2026-07-11 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.5 | 31.3 | 83 | 16.2 | 23 |
+| 2026-07-11 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.4 | 79 | 19.1 | 25 |
+| 2026-07-11 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 32.5 | 79 | 18.7 | 26 |
 | 2026-07-11 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.2 | 32.4 | 79 | 19.1 | 23 |
 | 2026-07-11 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.4 | 79 | 18.0 | 24 |
+| 2026-07-11 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 32.2 | 79 | 22.0 | 30 |
+| 2026-07-11 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.5 | 31.1 | 82 | 23.0 | 31 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.26 | 📈 H: ₹99.09 | 📉 L: ₹96.0 <br>💵 USDT: ₹97.5 | 📈 H: ₹99.2 | 📉 L: ₹97.5 <br>♦ ETH: ₹175129.3 | 📈 H: ₹178299.2 | 📉 L: ₹170050.0 <br>₿ BTC: ₹6267850.0 | 📈 H: ₹6345579.0 | 📉 L: ₹6152292.0 <br>⚡ BNB: ₹55743.29 | 📈 H: ₹56405.2 | 📉 L: ₹55499.73 <br> 
+  🪙 USDC: ₹96.26 | 📈 H: ₹99.09 | 📉 L: ₹96.0 <br>💵 USDT: ₹98.0 | 📈 H: ₹99.2 | 📉 L: ₹97.5 <br>♦ ETH: ₹175129.3 | 📈 H: ₹178299.2 | 📉 L: ₹170050.0 <br>₿ BTC: ₹6215810.0 | 📈 H: ₹6345579.0 | 📉 L: ₹6158568.0 <br>⚡ BNB: ₹55710.46 | 📈 H: ₹56405.2 | 📉 L: ₹55603.99 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me doing that would be like a chicken trying to do algebra. 🛑❌ 
+  I trained for years under a master of saying no. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
