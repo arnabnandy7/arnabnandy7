@@ -10,123 +10,149 @@
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<h3 align="center">Open Source Contributions</h3>
+<h3 align="center">Open Source Quest Log</h3>
 
-**20 merged pull requests across 12 external repositories.**
+| # | Repository | Contribution | Updated |
+| :---: | :---: | :---: | :---: |
+| **1** | [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1205 - feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) | 2026-07-10 |
+| **2** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2274 - fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) | 2026-07-07 |
+| **3** | [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#257 - Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) | 2026-07-06 |
+| **4** | [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | [#394 - Add virtual thread support for pooled event processors](https://github.com/meks77/quarkus-axonframework-extension/pull/394) | 2026-07-06 |
+| **5** | [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#258 - feat: Add realtime chat typing indicators with scoped WebSocket relay](https://github.com/Vault-Web/vault-web/pull/258) | 2026-07-05 |
+| **6** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2251 - fix: avoid protobuf debug reflection in native images](https://github.com/prometheus/client_java/pull/2251) | 2026-07-02 |
+| **7** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2266 - test: make Gauge timer test deterministic](https://github.com/prometheus/client_java/pull/2266) | 2026-07-01 |
+| **8** | [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | [#388 - Add configurable Axon Blackbird serialization support](https://github.com/meks77/quarkus-axonframework-extension/pull/388) | 2026-07-01 |
 
-| Repository | Merged PRs | Latest contribution |
-| --- | ---: | --- |
-| [prometheus/client_java](https://github.com/prometheus/client_java) | 4 | [fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) |
-| [buntychakraborty/corona-app](https://github.com/buntychakraborty/corona-app) | 3 | [Created pull request for functionality addition regarding same page viewing](https://github.com/buntychakraborty/corona-app/pull/2) |
-| [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | 2 | [Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) |
-| [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | 2 | [Add virtual thread support for pooled event processors](https://github.com/meks77/quarkus-axonframework-extension/pull/394) |
-| [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | 2 | [Make multi-file skip a global offset](https://github.com/hardwood-hq/hardwood/pull/707) |
-| [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | 1 | [feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) |
-| [jbangdev/jbang](https://github.com/jbangdev/jbang) | 1 | [fix: resolve jbang deps search hang on Windows #2549](https://github.com/jbangdev/jbang/pull/2568) |
-| [objectionary/eo](https://github.com/objectionary/eo) | 1 | [fixed #5260: return self from floor for values >= 2^52](https://github.com/objectionary/eo/pull/5266) |
+[Explore the complete open source quest log](./docs/contributions.md)
 
-[View the complete contribution history](./docs/contributions.md)
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<h3 align="center">Selected Projects</h3>
+
+| Project | What it does | Built with |
+| :---: | :---: | :---: |
+| [bugdna](https://github.com/arnabnandy7/bugdna) | Converts noisy Java stack traces into deterministic failure signatures. | Java |
+| [svcguardian](https://github.com/arnabnandy7/svcguardian) | Detects Windows service configuration drift, restores services, and records an audit timeline. | PowerShell |
+| [openissue.dev](https://github.com/arnabnandy7/openissue.dev) | Finds contributor-friendly GitHub issues by technology and label. | TypeScript |
+| [api-response-comparator](https://github.com/arnabnandy7/api-response-comparator) | Compares API responses across environments to surface regression risks. | TypeScript |
+
+<h3 align="center">Core Technical Stack</h3>
+
+<p align="center">
+  Java · Spring · Quarkus · JavaScript · TypeScript · React · Node.js · PostgreSQL · Redis · Google Cloud · Linux · GitHub Actions
+</p>
 
 <h3 align="center">Today's Weather</h3>
 
-<div align="center">
-  <p>Kolkata, India - 11/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
+<p align="center">Kolkata, India - 11/07/2026</p>
+<p align="center">
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
 
-  ## ⏰ Hourly Forecast  
-  | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 29.8 | 81 | 8.3 | 53 |
-| 2026-07-12 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.7 | 31.0 | 78 | 9.0 | 46 |
-| 2026-07-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 32.5 | 72 | 11.2 | 45 |
-| 2026-07-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 33.7 | 69 | 13.3 | 41 |
-| 2026-07-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 35.5 | 65 | 11.9 | 23 |
-| 2026-07-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 37.7 | 60 | 10.4 | 11 |
-| 2026-07-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.5 | 39.4 | 56 | 8.6 | 11 |
-| 2026-07-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.5 | 40.7 | 53 | 7.9 | 4 |
-| 2026-07-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.1 | 41.4 | 51 | 8.3 | 21 |
-| 2026-07-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 41.2 | 55 | 6.8 | 20 |
+<details>
+  <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
+  <br/>
+
+<h3 align="center">⏰ Hourly Forecast</h3>
+
+| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2026-07-12 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 29.8 | 81 | 8.3 | 53 |
+| 2026-07-12 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.7 | 31.0 | 78 | 9.0 | 46 |
+| 2026-07-12 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 32.5 | 72 | 11.2 | 45 |
+| 2026-07-12 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 33.7 | 69 | 13.3 | 41 |
+| 2026-07-12 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 35.5 | 65 | 11.9 | 23 |
+| 2026-07-12 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 37.7 | 60 | 10.4 | 11 |
+| 2026-07-12 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.5 | 39.4 | 56 | 8.6 | 11 |
+| 2026-07-12 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.5 | 40.7 | 53 | 7.9 | 4 |
+| 2026-07-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.1 | 41.4 | 51 | 8.3 | 21 |
+| 2026-07-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 41.2 | 55 | 6.8 | 20 |
 
 
-  ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.99 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6224501.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6204055.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
+<h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-  ## 🔋 Fuel Prices  
-  ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
-</div>
+<p align="center">🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.99 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6299992.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6215854.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br></p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<h3 align="center">🔋 Fuel Prices</h3>
+
+<p align="center">⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <h3 align="center">😒 Tired of Saying No to someone?</h3>
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm learning an alien language; they don't have a word for yes and neither do I right now. 🛑❌ 
+  I'm not feeling a strong gravitational pull towards doing that. 🛑❌ 
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <h3 align="center">Let's Connect 🌐</h3>
 
 <p align="center">
-  <a href="https://profile.codersrank.io/user/arnabnandy7" target="blank">
+  <a href="https://profile.codersrank.io/user/arnabnandy7" target="_blank" rel="noreferrer">
     <img alt="arnabnandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/codersrank.svg" />
   </a>
-  <a href="https://stackoverflow.com/users/3892259/arnab-nandy" target="blank">
+  <a href="https://stackoverflow.com/users/3892259/arnab-nandy" target="_blank" rel="noreferrer">
     <img alt="arnab-nandy" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
-  <a href="https://twitter.com/arnabnandy2" target="blank">
+  <a href="https://twitter.com/arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/nandyarnab/" target="blank">
+  <a href="https://www.linkedin.com/in/nandyarnab/" target="_blank" rel="noreferrer">
     <img alt="nandyarnab" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://codesandbox.com/arnabnandy2" target="blank">
+  <a href="https://codesandbox.com/arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />
   </a>
-  <a href="https://hashnode.com/@arnabnandy" target="blank">
+  <a href="https://hashnode.com/@arnabnandy" target="_blank" rel="noreferrer">
     <img alt="arnabnandy" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
   </a>
-  <a href="https://medium.com/@arnabnandy2" target="blank">
+  <a href="https://medium.com/@arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
-  <a href="https://www.codechef.com/users/arnabnandy7" target="blank">
+  <a href="https://www.codechef.com/users/arnabnandy7" target="_blank" rel="noreferrer">
     <img alt="arnabnandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
-  <a href="https://www.hackerrank.com/arnab_nandy7" target="blank">
+  <a href="https://www.hackerrank.com/arnab_nandy7" target="_blank" rel="noreferrer">
     <img alt="arnab_nandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
-  <a href="https://www.hackerearth.com/@arnabnandy7" target="blank">
+  <a href="https://www.hackerearth.com/@arnabnandy7" target="_blank" rel="noreferrer">
     <img alt="arnabnandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
   </a>
-  <a href="https://codeforces.com/profile/arnab_nandy7" target="blank">
+  <a href="https://codeforces.com/profile/arnab_nandy7" target="_blank" rel="noreferrer">
     <img alt="arnab_nandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
-  <a href="https://www.topcoder.com/members/arnab_nandy7" target="blank">
+  <a href="https://www.topcoder.com/members/arnab_nandy7" target="_blank" rel="noreferrer">
     <img alt="arnab_nandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg" />
   </a>
-  <a href="https://www.leetcode.com/arnabnandy2" target="blank">
+  <a href="https://www.leetcode.com/arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
 </p>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<h2 id="guestbook-📖✒️">GuestBook  📖✒️</h2>
+<details>
+  <summary align="center"><strong>GuestBook</strong></summary>
+  <br/>
 
 [![GuestBook](https://github.com/arnabnandy7/arnabnandy7/blob/main/images/sign_my_guestbook.gif)](https://gist.github.com/arnabnandy7/152ac4cc7d16816c60f90db165b28568)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
-<h3 align="center">Languages and Tools 🛠️</h3>
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -157,7 +183,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <picture>
   <source
@@ -171,7 +197,7 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <div align="center" id="github-metrics">
   <img src="https://stackexchange.com/users/flair/4821761.png" width="210" height="60" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
@@ -188,13 +214,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
-<h2 align="left" id="## 🏅 Badge Wall">🏅 Badge Wall</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
+<h2 align="center" id="badge-wall">🏅 Badge Wall</h2>
 
 > 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
 
 <details>
-  <summary>📜 Click here to expand and view my badges</summary>
+  <summary align="center">📜 Click here to expand and view my badges</summary>
 
   <br/>
 
@@ -217,13 +243,21 @@
 
 </details>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
+
+<details>
+  <summary align="center"><strong>Memes and sponsorship</strong></summary>
+  <br/>
 
 <p align="center">
-<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+  <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150" alt="Loading animation">
+</p>
 <p align="center">
-<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
+  <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px" alt="Random programming meme"/>
+</p>
 
 ## GitAds Sponsored
 
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/arnabnandy7@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/arnabnandy7@github)
+
+</details>
