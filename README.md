@@ -14,16 +14,16 @@
 
 <h3 align="center">Open Source Quest Log</h3>
 
-| # | Repository | Contribution | Updated |
-| :---: | :---: | :---: | :---: |
-| **1** | [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1205 - feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) | 2026-07-10 |
-| **2** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2274 - fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) | 2026-07-07 |
-| **3** | [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#257 - Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) | 2026-07-06 |
-| **4** | [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | [#394 - Add virtual thread support for pooled event processors](https://github.com/meks77/quarkus-axonframework-extension/pull/394) | 2026-07-06 |
-| **5** | [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#258 - feat: Add realtime chat typing indicators with scoped WebSocket relay](https://github.com/Vault-Web/vault-web/pull/258) | 2026-07-05 |
-| **6** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2251 - fix: avoid protobuf debug reflection in native images](https://github.com/prometheus/client_java/pull/2251) | 2026-07-02 |
-| **7** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2266 - test: make Gauge timer test deterministic](https://github.com/prometheus/client_java/pull/2266) | 2026-07-01 |
-| **8** | [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | [#388 - Add configurable Axon Blackbird serialization support](https://github.com/meks77/quarkus-axonframework-extension/pull/388) | 2026-07-01 |
+| Repository | Contribution | Updated |
+| :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1205 - feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) | 2026-07-10 |
+| <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/client_java](https://github.com/prometheus/client_java) | [#2274 - fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) | 2026-07-07 |
+| <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#257 - Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) | 2026-07-06 |
+| <img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | [#394 - Add virtual thread support for pooled event processors](https://github.com/meks77/quarkus-axonframework-extension/pull/394) | 2026-07-06 |
+| <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#258 - feat: Add realtime chat typing indicators with scoped WebSocket relay](https://github.com/Vault-Web/vault-web/pull/258) | 2026-07-05 |
+| <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/client_java](https://github.com/prometheus/client_java) | [#2251 - fix: avoid protobuf debug reflection in native images](https://github.com/prometheus/client_java/pull/2251) | 2026-07-02 |
+| <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/client_java](https://github.com/prometheus/client_java) | [#2266 - test: make Gauge timer test deterministic](https://github.com/prometheus/client_java/pull/2266) | 2026-07-01 |
+| <img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | [#388 - Add configurable Axon Blackbird serialization support](https://github.com/meks77/quarkus-axonframework-extension/pull/388) | 2026-07-01 |
 
 [Explore the complete open source quest log](./docs/contributions.md)
 
@@ -51,9 +51,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 51.2 <strong>PM10:</strong> 63.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
