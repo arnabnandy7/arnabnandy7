@@ -3,29 +3,15 @@ on:
   schedule:
     - cron: '25 * * * *'
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'warning'
-        type: choice
-        options:
-        - info
-        - warning
-        - debug
-      tags:
-        description: 'Test scenario tags'
-        required: false
-        type: boolean
-      environment:
-        description: 'Environment to run tests against'
-        type: environment
-        required: true
 
+concurrency:
+  group: profile-content-writes
+  cancel-in-progress: false
 
 jobs:
   download-weather:
-    permissions: write-all
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -50,19 +36,19 @@ jobs:
       # Fetch data from your API
       - name: Fetch Current/Realtime API data
         run: |
-          curl -X GET "http://api.weatherapi.com/v1/current.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&aqi=yes" -o tmp/current_weather_response.json
+          curl -X GET "https://api.weatherapi.com/v1/current.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&aqi=yes" -o tmp/current_weather_response.json
           
       - name: Fetch Marine API data
         run: |
-          curl -X GET "http://api.weatherapi.com/v1/marine.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=3" -o tmp/marine_weather_response.json
+          curl -X GET "https://api.weatherapi.com/v1/marine.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=3" -o tmp/marine_weather_response.json
           
       - name: Fetch Astronomy API data
         run: |
-          curl -X GET "http://api.weatherapi.com/v1/astronomy.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&dt=${{ steps.current_date.outputs.date }}" -o tmp/astronomy_response.json
+          curl -X GET "https://api.weatherapi.com/v1/astronomy.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&dt=${{ steps.current_date.outputs.date }}" -o tmp/astronomy_response.json
           
       - name: Fetch Forecast API data
         run: |
-          curl -X GET "http://api.weatherapi.com/v1/forecast.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=2&aqi=yes&alerts=yes" -o tmp/forecast_response.json
+          curl -X GET "https://api.weatherapi.com/v1/forecast.json?key=${{ secrets.WEATHER_API_KEY }}&q=22.5744,88.3629&days=2&aqi=yes&alerts=yes" -o tmp/forecast_response.json
 
       - name: Check if files changed
         run: |

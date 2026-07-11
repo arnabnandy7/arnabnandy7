@@ -5,9 +5,14 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-content-writes
+  cancel-in-progress: false
+
 jobs:
   update-humour:
-    permissions: write-all
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5

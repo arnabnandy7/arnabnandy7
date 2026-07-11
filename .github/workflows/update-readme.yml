@@ -3,25 +3,10 @@ on:
   schedule:
     - cron: '20 * * * *'
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'warning'
-        type: choice
-        options:
-        - info
-        - warning
-        - debug
-      tags:
-        description: 'Test scenario tags'
-        required: false
-        type: boolean
-      environment:
-        description: 'Environment to run tests against'
-        type: environment
-        required: true
 
+concurrency:
+  group: profile-content-writes
+  cancel-in-progress: false
 
 jobs:
   update-readme:
@@ -41,7 +26,7 @@ jobs:
       - name: Update open source contributions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate_contributions.py
+        run: bash scripts/generate_contributions.sh
 
       # Extract reason from the API response and update README
       - name: Update Weather
@@ -51,7 +36,7 @@ jobs:
           CURRENT_DATE=$(date +"%d/%m/%Y")
           
           # Replace [date] placeholder in README.md
-          sed -i "s#\[date\]#$CURRENT_DATE#g" README.md
+          bash scripts/render_readme.sh replace '[date]' "$CURRENT_DATE"
 
           # Get current epoch time (in seconds)
           NOW_EPOCH=$(date +%s)
@@ -81,15 +66,15 @@ jobs:
           PM10=$(jq -r '.current.air_quality.pm10' tmp/forecast_response.json)
           
           echo $TEXT $ICON $BNG_DAY_TEXT $BNG_NIT_TEXT $ISDAY
-          sed -i "s#\[icon\]#$ICON#g" README.md
-          sed -i "s#\[todays_condition\]#$TEXT#g" README.md
+          bash scripts/render_readme.sh replace '[icon]' "$ICON"
+          bash scripts/render_readme.sh replace '[todays_condition]' "$TEXT"
           if [ "$ISDAY" -eq "1" ]; then
-              sed -i "s#\[todays_condition_in_bengali\]#$BNG_DAY_TEXT#g" README.md
+              bash scripts/render_readme.sh replace '[todays_condition_in_bengali]' "$BNG_DAY_TEXT"
           else
-              sed -i "s#\[todays_condition_in_bengali\]#$BNG_NIT_TEXT#g" README.md
+              bash scripts/render_readme.sh replace '[todays_condition_in_bengali]' "$BNG_NIT_TEXT"
           fi
-          sed -i "s#\[PM2_5\]#$PM2_5#g" README.md
-          sed -i "s#\[PM10\]#$PM10#g" README.md
+          bash scripts/render_readme.sh replace '[PM2_5]' "$PM2_5"
+          bash scripts/render_readme.sh replace '[PM10]' "$PM10"
 
           case "$AQI" in
             1)
@@ -114,7 +99,7 @@ jobs:
               AQI_VALUE="Unknown"
               ;;
           esac
-          sed -i "s#\[aqi\]#$AQI_VALUE#g" README.md
+          bash scripts/render_readme.sh replace '[aqi]' "$AQI_VALUE"
 
           # Generate header once
           HOURLY_MD="| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |\n"
@@ -143,7 +128,7 @@ jobs:
           done <<< "$HOURLY_ROWS"
           
           # Replace placeholder in README.md
-          sed -i "s#\[hourly_forecast_table\]#${HOURLY_MD//$'\n'/\\n}#g" README.md
+          bash scripts/render_readme.sh replace '[hourly_forecast_table]' "$HOURLY_MD"
 
           LUNAR_PHASE=$(jq -r '.astronomy.astro.moon_phase' tmp/astronomy_response.json)
           MOONRISE=$(jq -r '.astronomy.astro.moonrise' tmp/astronomy_response.json)
@@ -160,7 +145,7 @@ jobs:
           DASHBOARD+="💧 <strong>Humidity:</strong> $HUMIDITY% | "
           DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  \n"
           
-          sed -i "s#\[weather_dashboard\]#${DASHBOARD//$'\n'/\\n}#g" README.md
+          bash scripts/render_readme.sh replace '[weather_dashboard]' "$DASHBOARD"
 
       - name: Fetch & Format Crypto Prices
         run: |
@@ -196,14 +181,14 @@ jobs:
           done
 
           echo -e "$OUTPUT"
-          sed -i "s#\[crypto_prices\]#${OUTPUT//$'\n'/\\n}#g" README.md
+          bash scripts/render_readme.sh replace '[crypto_prices]' "$OUTPUT"
           
       # Extract reason from the API response and update README
       - name: Update README with API reason
         run: |
           REASON=$(jq -r '.reason' tmp/humour_response.json)
           echo $REASON
-          sed -i "s/\[funny_no_statement\]/$REASON/g" README.md
+          bash scripts/render_readme.sh replace '[funny_no_statement]' "$REASON"
           
       - name: Get current year
         id: current_year
@@ -211,7 +196,7 @@ jobs:
 
       - name: Update README with current year
         run: |
-          sed -i "s/\[current_year_placeholder\]/${{ env.year }}/g" README.md
+          bash scripts/render_readme.sh replace '[current_year_placeholder]' "${{ env.year }}"
 
       - name: Make script executable
         run: chmod +x scripts/generate_fuel_cards.sh
@@ -219,6 +204,9 @@ jobs:
       - name: Generate fuel cards and update README
         run: |
           ./scripts/generate_fuel_cards.sh
+
+      - name: Validate generated README
+        run: bash scripts/render_readme.sh validate
           
       - name: Commit
         run: |

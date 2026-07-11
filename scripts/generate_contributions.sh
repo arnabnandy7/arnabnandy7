@@ -1,0 +1,157 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+USERNAME="${CONTRIBUTIONS_USERNAME:-arnabnandy7}"
+README_PATH="README.md"
+DOC_PATH="docs/contributions.md"
+PLACEHOLDER="[contribution_summary]"
+RECENT_CONTRIBUTIONS=8
+
+work_dir=$(mktemp -d)
+trap 'rm -rf "$work_dir"' EXIT
+
+all_items="$work_dir/all-items.json"
+sorted_items="$work_dir/sorted-items.json"
+summary="$work_dir/summary.md"
+rendered_readme="$work_dir/README.md"
+printf '[]\n' > "$all_items"
+
+base_query="is:pr is:merged author:${USERNAME} -user:${USERNAME}"
+request_count=0
+
+api_search() {
+  local raw_query="$1" page="$2" output="$3" encoded_query
+  encoded_query=$(jq -rn --arg query "$raw_query" '$query | @uri')
+  headers=(
+    -H "Accept: application/vnd.github+json"
+    -H "X-GitHub-Api-Version: 2022-11-28"
+    -H "User-Agent: ${USERNAME}-profile-readme"
+  )
+  if [[ -n "${GITHUB_TOKEN:-}" ]]; then
+    headers+=(-H "Authorization: Bearer ${GITHUB_TOKEN}")
+  fi
+
+  curl --fail-with-body --silent --show-error \
+    "${headers[@]}" \
+    "https://api.github.com/search/issues?q=${encoded_query}&sort=updated&order=desc&per_page=100&page=${page}" \
+    --output "$output"
+}
+
+append_items() {
+  local response="$1"
+  jq -s '.[0] + .[1].items' "$all_items" "$response" > "$work_dir/combined.json"
+  mv "$work_dir/combined.json" "$all_items"
+}
+
+fetch_pages() {
+  local raw_query="$1" first_response="$2" total_count="$3"
+  local page=1 response="$first_response" fetched=0 batch_size
+  while :; do
+    append_items "$response"
+    batch_size=$(jq '.items | length' "$response")
+    ((fetched += batch_size))
+    (( batch_size < 100 || fetched >= total_count )) && break
+    ((page += 1))
+    response="$work_dir/response-$((++request_count)).json"
+    api_search "$raw_query" "$page" "$response"
+  done
+}
+
+fetch_window() {
+  local start_date="$1" end_date="$2" window_query response total_count
+  local start_epoch end_epoch midpoint_epoch midpoint_date next_date
+  window_query="${base_query} created:${start_date}..${end_date}"
+  response="$work_dir/response-$((++request_count)).json"
+  api_search "$window_query" 1 "$response"
+  total_count=$(jq '.total_count' "$response")
+
+  if (( total_count <= 1000 )); then
+    fetch_pages "$window_query" "$response" "$total_count"
+    return
+  fi
+  if [[ "$start_date" == "$end_date" ]]; then
+    echo "More than 1,000 contributions found on $start_date; GitHub Search cannot return complete results." >&2
+    exit 1
+  fi
+
+  start_epoch=$(date -u -d "$start_date" +%s)
+  end_epoch=$(date -u -d "$end_date" +%s)
+  midpoint_epoch=$(( (start_epoch + end_epoch) / 2 ))
+  midpoint_date=$(date -u -d "@${midpoint_epoch}" +%F)
+  next_date=$(date -u -d "${midpoint_date} + 1 day" +%F)
+  fetch_window "$start_date" "$midpoint_date"
+  fetch_window "$next_date" "$end_date"
+}
+
+initial_response="$work_dir/response-$((++request_count)).json"
+api_search "$base_query" 1 "$initial_response"
+total_count=$(jq '.total_count' "$initial_response")
+if (( total_count <= 1000 )); then
+  fetch_pages "$base_query" "$initial_response" "$total_count"
+else
+  fetch_window "2008-01-01" "$(date -u +%F)"
+fi
+
+# The query excludes owned repositories; this owner check is an additional guard.
+jq --arg username "${USERNAME,,}" '
+  def repository_name: .repository_url | sub("^https://api.github.com/repos/"; "");
+  unique_by(.id)
+  | map(select((repository_name | split("/")[0] | ascii_downcase) != $username))
+  | sort_by(.updated_at) | reverse
+' "$all_items" > "$sorted_items"
+
+markdown_rows() {
+  local limit="${1:-}"
+  local filter='to_entries[]'
+  [[ -n "$limit" ]] && filter="to_entries[:${limit}][]"
+
+  jq -r "$filter"' |
+    def repository_name: .repository_url | tostring | sub("^https://api.github.com/repos/"; "");
+    def markdown_text: tostring | gsub("\\|"; "\\\\|") | gsub("[\\r\\n]"; " ");
+    "| **\(.key + 1)** | [\(.value | repository_name)](https://github.com/\(.value | repository_name)) | [#\(.value.number) - \(.value.title | markdown_text)](\(.value.html_url)) | \(.value.updated_at[0:10]) |"
+  ' "$sorted_items"
+}
+
+if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
+  printf 'No merged pull requests found yet.\n' > "$summary"
+else
+  {
+    printf '| # | Repository | Contribution | Updated |\n'
+    printf '| ---: | --- | --- | --- |\n'
+    markdown_rows "$RECENT_CONTRIBUTIONS"
+    printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
+  } > "$summary"
+fi
+
+awk -v placeholder="$PLACEHOLDER" -v summary_file="$summary" '
+  $0 == placeholder {
+    while ((getline line < summary_file) > 0) print line
+    close(summary_file)
+    next
+  }
+  { print }
+' "$README_PATH" > "$rendered_readme"
+
+if cmp -s "$README_PATH" "$rendered_readme"; then
+  if ! grep -Fxq "$PLACEHOLDER" "$README_PATH"; then
+    echo "Missing $PLACEHOLDER in $README_PATH" >&2
+    exit 1
+  fi
+fi
+mv "$rendered_readme" "$README_PATH"
+
+mkdir -p "$(dirname "$DOC_PATH")"
+{
+  printf '# Open Source Quest Log\n\n'
+  printf 'Merged contributions by [@%s](https://github.com/%s) to external repositories, newest activity first.\n\n' "$USERNAME" "$USERNAME"
+  printf 'This quest log is refreshed automatically by the profile README workflow.\n\n'
+  if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
+    printf 'No merged pull requests found yet.\n'
+  else
+    printf '| # | Repository | Contribution | Updated |\n'
+    printf '| ---: | --- | --- | --- |\n'
+    markdown_rows
+  fi
+} > "$DOC_PATH"
+
+echo "Generated external contribution quest log"
