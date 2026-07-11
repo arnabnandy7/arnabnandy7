@@ -18,14 +18,13 @@
   <p>Kolkata, India - 11/07/2026</p>
   <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
   <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 42.3 °C  
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 36.6 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.5 <strong>PM10:</strong> 64.7</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.4 <strong>PM10:</strong> 64.0</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-12 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.3 | 82 | 9.4 | 12 |
 | 2026-07-12 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.2 | 81 | 9.0 | 12 |
 | 2026-07-12 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.2 | 81 | 9.0 | 12 |
 | 2026-07-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 32.3 | 80 | 8.6 | 19 |
@@ -35,10 +34,11 @@
 | 2026-07-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.9 | 37.1 | 61 | 10.1 | 7 |
 | 2026-07-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.8 | 38.2 | 58 | 9.0 | 8 |
 | 2026-07-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.0 | 39.6 | 54 | 10.1 | 5 |
+| 2026-07-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.6 | 40.4 | 52 | 9.4 | 5 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.39 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176755.0 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6228034.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6204055.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
+  🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.0 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6224501.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6204055.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
