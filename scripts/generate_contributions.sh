@@ -117,7 +117,7 @@ if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
 else
   {
     printf '| # | Repository | Contribution | Updated |\n'
-    printf '| ---: | --- | --- | --- |\n'
+    printf '| :---: | :---: | :---: | :---: |\n'
     markdown_rows "$RECENT_CONTRIBUTIONS"
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
   } > "$summary"
@@ -149,7 +149,7 @@ mkdir -p "$(dirname "$DOC_PATH")"
     printf 'No merged pull requests found yet.\n'
   else
     printf '| # | Repository | Contribution | Updated |\n'
-    printf '| ---: | --- | --- | --- |\n'
+    printf '| :---: | :---: | :---: | :---: |\n'
     markdown_rows
   fi
 } > "$DOC_PATH"

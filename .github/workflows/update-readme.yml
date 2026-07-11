@@ -103,7 +103,7 @@ jobs:
 
           # Generate header once
           HOURLY_MD="| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |"$'\n'
-          HOURLY_MD+="| --- | --- | --- | --- | --- | --- | --- |"$'\n'
+          HOURLY_MD+="| :---: | :---: | :---: | :---: | :---: | :---: | :---: |"$'\n'
 
           # Extract only upcoming hours (time_epoch >= NOW_EPOCH)
           HOURLY_ROWS=$(jq -r --argjson now "$NOW_EPOCH" '
@@ -139,11 +139,11 @@ jobs:
           HUMIDITY=$(jq -r '.current.humidity' tmp/current_weather_response.json)
           FEELSLIKE=$(jq -r '.current.feelslike_c' tmp/current_weather_response.json)
           
-          DASHBOARD="🌙 <strong>Moon Phase:</strong> $LUNAR_PHASE (Rise: $MOONRISE, Set: $MOONSET)  <br>"
+          DASHBOARD="<p align=\"center\">🌙 <strong>Moon Phase:</strong> $LUNAR_PHASE (Rise: $MOONRISE, Set: $MOONSET)  <br>"
           DASHBOARD+="🌅 <strong>Sunrise:</strong> $SUNRISE | <strong>Sunset:</strong> $SUNSET  <br>"
           DASHBOARD+="💨 <strong>Wind:</strong> $WIND kph | "
           DASHBOARD+="💧 <strong>Humidity:</strong> $HUMIDITY% | "
-          DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  "$'\n'
+          DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C</p>"$'\n'
           
           bash scripts/render_readme.sh replace '[weather_dashboard]' "$DASHBOARD"
 
