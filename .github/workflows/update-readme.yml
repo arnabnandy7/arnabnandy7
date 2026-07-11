@@ -102,8 +102,8 @@ jobs:
           bash scripts/render_readme.sh replace '[aqi]' "$AQI_VALUE"
 
           # Generate header once
-          HOURLY_MD="| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |\n"
-          HOURLY_MD+="| --- | --- | --- | --- | --- | --- | --- |\n"
+          HOURLY_MD="| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |"$'\n'
+          HOURLY_MD+="| --- | --- | --- | --- | --- | --- | --- |"$'\n'
 
           # Extract only upcoming hours (time_epoch >= NOW_EPOCH)
           HOURLY_ROWS=$(jq -r --argjson now "$NOW_EPOCH" '
@@ -111,7 +111,7 @@ jobs:
                       | map(select(.time_epoch >= $now))
                       | .[] | [
                 .time,
-                ("![](http:" + .condition.icon + ") " + .condition.text),
+                ("![](https:" + .condition.icon + ") " + .condition.text),
                 .temp_c,
                 .feelslike_c,
                 .humidity,
@@ -124,7 +124,7 @@ jobs:
           echo $HOURLY_ROWS
           
           while IFS=$'\t' read -r t cond temp feel hum wind rain; do
-            HOURLY_MD+="| $t | $cond | $temp | $feel | $hum | $wind | $rain |\n"
+            HOURLY_MD+="| $t | $cond | $temp | $feel | $hum | $wind | $rain |"$'\n'
           done <<< "$HOURLY_ROWS"
           
           # Replace placeholder in README.md
@@ -143,7 +143,7 @@ jobs:
           DASHBOARD+="🌅 <strong>Sunrise:</strong> $SUNRISE | <strong>Sunset:</strong> $SUNSET  <br>"
           DASHBOARD+="💨 <strong>Wind:</strong> $WIND kph | "
           DASHBOARD+="💧 <strong>Humidity:</strong> $HUMIDITY% | "
-          DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  \n"
+          DASHBOARD+="🌡️ <strong>Feels Like:</strong> $FEELSLIKE °C  "$'\n'
           
           bash scripts/render_readme.sh replace '[weather_dashboard]' "$DASHBOARD"
 
