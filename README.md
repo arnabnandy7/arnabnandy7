@@ -15,7 +15,7 @@
 <h3 align="center">Open Source Quest Log</h3>
 
 | # | Repository | Contribution | Updated |
-| ---: | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | **1** | [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1205 - feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) | 2026-07-10 |
 | **2** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2274 - fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) | 2026-07-07 |
 | **3** | [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#257 - Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) | 2026-07-06 |
@@ -32,7 +32,7 @@
 <h3 align="center">Selected Projects</h3>
 
 | Project | What it does | Built with |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [bugdna](https://github.com/arnabnandy7/bugdna) | Converts noisy Java stack traces into deterministic failure signatures. | Java |
 | [svcguardian](https://github.com/arnabnandy7/svcguardian) | Detects Windows service configuration drift, restores services, and records an audit timeline. | PowerShell |
 | [openissue.dev](https://github.com/arnabnandy7/openissue.dev) | Finds contributor-friendly GitHub issues by technology and label. | TypeScript |
@@ -44,10 +44,6 @@
   Java · Spring · Quarkus · JavaScript · TypeScript · React · Node.js · PostgreSQL · Redis · Google Cloud · Linux · GitHub Actions
 </p>
 
-<details>
-  <summary><strong>Live dashboards and profile experiments</strong></summary>
-  <br/>
-
 <h3 align="center">Today's Weather</h3>
 
 <p align="center">Kolkata, India - 11/07/2026</p>
@@ -55,13 +51,18 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
 
-  <p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
 
-  ## ⏰ Hourly Forecast  
-  | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
-| --- | --- | --- | --- | --- | --- | --- |
+<details>
+  <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
+  <br/>
+
+<h3 align="center">⏰ Hourly Forecast</h3>
+
+| Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2026-07-12 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 29.8 | 81 | 8.3 | 53 |
 | 2026-07-12 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.7 | 31.0 | 78 | 9.0 | 46 |
 | 2026-07-12 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 32.5 | 72 | 11.2 | 45 |
@@ -74,11 +75,13 @@
 | 2026-07-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 41.2 | 55 | 6.8 | 20 |
 
 
-  ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.99 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6299992.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6215854.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
+<h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-  ## 🔋 Fuel Prices  
-  ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
+<p align="center">🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.99 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6299992.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6215854.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br></p>
+
+<h3 align="center">🔋 Fuel Prices</h3>
+
+<p align="center">⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
@@ -141,7 +144,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <details>
-  <summary><strong>GuestBook</strong></summary>
+  <summary align="center"><strong>GuestBook</strong></summary>
   <br/>
 
 [![GuestBook](https://github.com/arnabnandy7/arnabnandy7/blob/main/images/sign_my_guestbook.gif)](https://gist.github.com/arnabnandy7/152ac4cc7d16816c60f90db165b28568)
@@ -212,12 +215,12 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
-<h2 align="left" id="## 🏅 Badge Wall">🏅 Badge Wall</h2>
+<h2 align="center" id="badge-wall">🏅 Badge Wall</h2>
 
 > 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
 
 <details>
-  <summary>📜 Click here to expand and view my badges</summary>
+  <summary align="center">📜 Click here to expand and view my badges</summary>
 
   <br/>
 
@@ -243,7 +246,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <details>
-  <summary><strong>Memes and sponsorship</strong></summary>
+  <summary align="center"><strong>Memes and sponsorship</strong></summary>
   <br/>
 
 <p align="center">

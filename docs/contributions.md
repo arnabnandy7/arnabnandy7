@@ -5,7 +5,7 @@ Merged contributions by [@arnabnandy7](https://github.com/arnabnandy7) to extern
 This quest log is refreshed automatically by the profile README workflow.
 
 | # | Repository | Contribution | Updated |
-| ---: | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | **1** | [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1205 - feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) | 2026-07-10 |
 | **2** | [prometheus/client_java](https://github.com/prometheus/client_java) | [#2274 - fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) | 2026-07-07 |
 | **3** | [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#257 - Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) | 2026-07-06 |
