@@ -25,7 +25,8 @@ on:
 
 jobs:
   update-readme:
-    permissions: write-all
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -36,6 +37,11 @@ jobs:
           
       - name: Install jq
         run: sudo apt-get install jq
+
+      - name: Update open source contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_contributions.py
 
       # Extract reason from the API response and update README
       - name: Update Weather
