@@ -50,22 +50,35 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<div align="center">
-  <p>Kolkata, India - 11/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/>
-  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  \n
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
+<p align="center">Kolkata, India - 11/07/2026</p>
+<p align="center">
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
+
+  <p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
 
   ## ⏰ Hourly Forecast  
-  | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 2026-07-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 29.8 | 81 | 8.3 | 53 |\n| 2026-07-12 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.7 | 31.0 | 78 | 9.0 | 46 |\n| 2026-07-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 32.5 | 72 | 11.2 | 45 |\n| 2026-07-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 33.7 | 69 | 13.3 | 41 |\n| 2026-07-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 35.5 | 65 | 11.9 | 23 |\n| 2026-07-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 37.7 | 60 | 10.4 | 11 |\n| 2026-07-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.5 | 39.4 | 56 | 8.6 | 11 |\n| 2026-07-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.5 | 40.7 | 53 | 7.9 | 4 |\n| 2026-07-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.1 | 41.4 | 51 | 8.3 | 21 |\n| 2026-07-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 41.2 | 55 | 6.8 | 20 |\n
+  | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-12 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 29.8 | 81 | 8.3 | 53 |
+| 2026-07-12 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.7 | 31.0 | 78 | 9.0 | 46 |
+| 2026-07-12 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 32.5 | 72 | 11.2 | 45 |
+| 2026-07-12 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 33.7 | 69 | 13.3 | 41 |
+| 2026-07-12 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 35.5 | 65 | 11.9 | 23 |
+| 2026-07-12 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 37.7 | 60 | 10.4 | 11 |
+| 2026-07-12 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.5 | 39.4 | 56 | 8.6 | 11 |
+| 2026-07-12 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.5 | 40.7 | 53 | 7.9 | 4 |
+| 2026-07-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.1 | 41.4 | 51 | 8.3 | 21 |
+| 2026-07-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 41.2 | 55 | 6.8 | 20 |
+
 
   ## ⛓️ Cryptocurrency Prices  
   🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.99 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6299992.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6215854.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
-</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
@@ -136,9 +149,7 @@
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
-<details>
-  <summary><strong>Full Languages and Tools Wall</strong></summary>
-  <br/>
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -168,8 +179,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-</details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
