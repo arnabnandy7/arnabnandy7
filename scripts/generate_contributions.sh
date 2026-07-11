@@ -102,13 +102,14 @@ jq --arg username "${USERNAME,,}" '
 
 markdown_rows() {
   local limit="${1:-}"
-  local filter='to_entries[]'
-  [[ -n "$limit" ]] && filter="to_entries[:${limit}][]"
+  local filter='.[]'
+  [[ -n "$limit" ]] && filter=".[:${limit}][]"
 
   jq -r "$filter"' |
     def repository_name: .repository_url | tostring | sub("^https://api.github.com/repos/"; "");
+    def repository_owner: repository_name | split("/")[0];
     def markdown_text: tostring | gsub("\\|"; "\\\\|") | gsub("[\\r\\n]"; " ");
-    "| **\(.key + 1)** | [\(.value | repository_name)](https://github.com/\(.value | repository_name)) | [#\(.value.number) - \(.value.title | markdown_text)](\(.value.html_url)) | \(.value.updated_at[0:10]) |"
+    "| <img src=\"https://github.com/\(repository_owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(repository_owner) avatar\"> [\(repository_name)](https://github.com/\(repository_name)) | [#\(.number) - \(.title | markdown_text)](\(.html_url)) | \(.updated_at[0:10]) |"
   ' "$sorted_items"
 }
 
@@ -116,8 +117,8 @@ if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
 else
   {
-    printf '| # | Repository | Contribution | Updated |\n'
-    printf '| :---: | :---: | :---: | :---: |\n'
+    printf '| Repository | Contribution | Updated |\n'
+    printf '| :---: | :---: | :---: |\n'
     markdown_rows "$RECENT_CONTRIBUTIONS"
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
   } > "$summary"
@@ -148,8 +149,8 @@ mkdir -p "$(dirname "$DOC_PATH")"
   if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
     printf 'No merged pull requests found yet.\n'
   else
-    printf '| # | Repository | Contribution | Updated |\n'
-    printf '| :---: | :---: | :---: | :---: |\n'
+    printf '| Repository | Contribution | Updated |\n'
+    printf '| :---: | :---: | :---: |\n'
     markdown_rows
   fi
 } > "$DOC_PATH"
