@@ -12,33 +12,52 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
+<h3 align="center">Open Source Contributions</h3>
+
+**20 merged pull requests across 12 external repositories.**
+
+| Repository | Merged PRs | Latest contribution |
+| --- | ---: | --- |
+| [prometheus/client_java](https://github.com/prometheus/client_java) | 4 | [fix: correct native histogram bucket merge on scale-down](https://github.com/prometheus/client_java/pull/2274) |
+| [buntychakraborty/corona-app](https://github.com/buntychakraborty/corona-app) | 3 | [Created pull request for functionality addition regarding same page viewing](https://github.com/buntychakraborty/corona-app/pull/2) |
+| [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | 2 | [Add E2EE emoji and sticker support for private and group chats](https://github.com/Vault-Web/vault-web/pull/257) |
+| [meks77/quarkus-axonframework-extension](https://github.com/meks77/quarkus-axonframework-extension) | 2 | [Add virtual thread support for pooled event processors](https://github.com/meks77/quarkus-axonframework-extension/pull/394) |
+| [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | 2 | [Make multi-file skip a global offset](https://github.com/hardwood-hq/hardwood/pull/707) |
+| [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | 1 | [feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) |
+| [jbangdev/jbang](https://github.com/jbangdev/jbang) | 1 | [fix: resolve jbang deps search hang on Windows #2549](https://github.com/jbangdev/jbang/pull/2568) |
+| [objectionary/eo](https://github.com/objectionary/eo) | 1 | [fixed #5260: return self from floor for values >= 2^52](https://github.com/objectionary/eo/pull/5266) |
+
+[View the complete contribution history](./docs/contributions.md)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
   <p>Kolkata, India - 11/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
-  <p>Smoky haze ()</p>
-  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 36.6 °C  
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/>
+  <p>Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)</p>
+  🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C  
 
-  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.4 <strong>PM10:</strong> 64.0</p>
+  <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.0 <strong>PM10:</strong> 64.5</p>
 
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-12 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.2 | 81 | 9.0 | 12 |
-| 2026-07-12 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.2 | 81 | 9.0 | 12 |
-| 2026-07-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 32.3 | 80 | 8.6 | 19 |
-| 2026-07-12 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.8 | 33.5 | 76 | 9.0 | 10 |
-| 2026-07-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.4 | 35.3 | 67 | 9.0 | 8 |
-| 2026-07-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.2 | 36.3 | 64 | 9.0 | 7 |
-| 2026-07-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.9 | 37.1 | 61 | 10.1 | 7 |
-| 2026-07-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.8 | 38.2 | 58 | 9.0 | 8 |
-| 2026-07-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.0 | 39.6 | 54 | 10.1 | 5 |
-| 2026-07-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.6 | 40.4 | 52 | 9.4 | 5 |
+| 2026-07-12 05:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 29.8 | 81 | 8.3 | 53 |
+| 2026-07-12 06:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.7 | 31.0 | 78 | 9.0 | 46 |
+| 2026-07-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.8 | 32.5 | 72 | 11.2 | 45 |
+| 2026-07-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 33.7 | 69 | 13.3 | 41 |
+| 2026-07-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 35.5 | 65 | 11.9 | 23 |
+| 2026-07-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 37.7 | 60 | 10.4 | 11 |
+| 2026-07-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.5 | 39.4 | 56 | 8.6 | 11 |
+| 2026-07-12 12:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.5 | 40.7 | 53 | 7.9 | 4 |
+| 2026-07-12 13:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 35.1 | 41.4 | 51 | 8.3 | 21 |
+| 2026-07-12 14:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 41.2 | 55 | 6.8 | 20 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.0 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6224501.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6204055.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
+  🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.99 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176677.6 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6224501.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6204055.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +69,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My wardrobe and I have an agreement: it only sees the couch. 🛑❌ 
+  I'm learning an alien language; they don't have a word for yes and neither do I right now. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
@@ -208,4 +227,3 @@
 ## GitAds Sponsored
 
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/arnabnandy7@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/arnabnandy7@github)
-
