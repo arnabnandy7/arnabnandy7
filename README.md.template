@@ -10,19 +10,38 @@
   💬 Got questions? Let's chat <a href="https://github.com/arnabnandy7/arnabnandy7/issues">here</a><br/>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<h3 align="center">Open Source Contributions</h3>
+<h3 align="center">Open Source Quest Log</h3>
 
 [contribution_summary]
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
+
+<h3 align="center">Selected Projects</h3>
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [bugdna](https://github.com/arnabnandy7/bugdna) | Converts noisy Java stack traces into deterministic failure signatures. | Java |
+| [svcguardian](https://github.com/arnabnandy7/svcguardian) | Detects Windows service configuration drift, restores services, and records an audit timeline. | PowerShell |
+| [openissue.dev](https://github.com/arnabnandy7/openissue.dev) | Finds contributor-friendly GitHub issues by technology and label. | TypeScript |
+| [api-response-comparator](https://github.com/arnabnandy7/api-response-comparator) | Compares API responses across environments to surface regression risks. | TypeScript |
+
+<h3 align="center">Core Technical Stack</h3>
+
+<p align="center">
+  Java · Spring · Quarkus · JavaScript · TypeScript · React · Node.js · PostgreSQL · Redis · Google Cloud · Linux · GitHub Actions
+</p>
+
+<details>
+  <summary><strong>Live dashboards and profile experiments</strong></summary>
+  <br/>
 
 <h3 align="center">Today's Weather</h3>
 
 <div align="center">
   <p>Kolkata, India - [date]</p>
-  <img src="https:[icon]"/>
+  <img src="https:[icon]" alt="[todays_condition] weather icon"/>
   <p>[todays_condition] ([todays_condition_in_bengali])</p>
   [weather_dashboard]
   <p><strong>AQI:</strong> [aqi] <strong>PM2.5:</strong> [PM2_5] <strong>PM10:</strong> [PM10]</p>
@@ -37,7 +56,7 @@
   [fuel_price]
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <h3 align="center">😒 Tired of Saying No to someone?</h3>
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
@@ -46,61 +65,69 @@
   [funny_no_statement] 🛑❌ 
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <h3 align="center">Let's Connect 🌐</h3>
 
 <p align="center">
-  <a href="https://profile.codersrank.io/user/arnabnandy7" target="blank">
+  <a href="https://profile.codersrank.io/user/arnabnandy7" target="_blank" rel="noreferrer">
     <img alt="arnabnandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/codersrank.svg" />
   </a>
-  <a href="https://stackoverflow.com/users/3892259/arnab-nandy" target="blank">
+  <a href="https://stackoverflow.com/users/3892259/arnab-nandy" target="_blank" rel="noreferrer">
     <img alt="arnab-nandy" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
-  <a href="https://twitter.com/arnabnandy2" target="blank">
+  <a href="https://twitter.com/arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/nandyarnab/" target="blank">
+  <a href="https://www.linkedin.com/in/nandyarnab/" target="_blank" rel="noreferrer">
     <img alt="nandyarnab" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://codesandbox.com/arnabnandy2" target="blank">
+  <a href="https://codesandbox.com/arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" />
   </a>
-  <a href="https://hashnode.com/@arnabnandy" target="blank">
+  <a href="https://hashnode.com/@arnabnandy" target="_blank" rel="noreferrer">
     <img alt="arnabnandy" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
   </a>
-  <a href="https://medium.com/@arnabnandy2" target="blank">
+  <a href="https://medium.com/@arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
-  <a href="https://www.codechef.com/users/arnabnandy7" target="blank">
+  <a href="https://www.codechef.com/users/arnabnandy7" target="_blank" rel="noreferrer">
     <img alt="arnabnandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a>
-  <a href="https://www.hackerrank.com/arnab_nandy7" target="blank">
+  <a href="https://www.hackerrank.com/arnab_nandy7" target="_blank" rel="noreferrer">
     <img alt="arnab_nandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
-  <a href="https://www.hackerearth.com/@arnabnandy7" target="blank">
+  <a href="https://www.hackerearth.com/@arnabnandy7" target="_blank" rel="noreferrer">
     <img alt="arnabnandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
   </a>
-  <a href="https://codeforces.com/profile/arnab_nandy7" target="blank">
+  <a href="https://codeforces.com/profile/arnab_nandy7" target="_blank" rel="noreferrer">
     <img alt="arnab_nandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
-  <a href="https://www.topcoder.com/members/arnab_nandy7" target="blank">
+  <a href="https://www.topcoder.com/members/arnab_nandy7" target="_blank" rel="noreferrer">
     <img alt="arnab_nandy7" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg" />
   </a>
-  <a href="https://www.leetcode.com/arnabnandy2" target="blank">
+  <a href="https://www.leetcode.com/arnabnandy2" target="_blank" rel="noreferrer">
     <img alt="arnabnandy2" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
 </p>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<h2 id="guestbook-📖✒️">GuestBook  📖✒️</h2>
+<details>
+  <summary><strong>GuestBook</strong></summary>
+  <br/>
 
 [![GuestBook](https://github.com/arnabnandy7/arnabnandy7/blob/main/images/sign_my_guestbook.gif)](https://gist.github.com/arnabnandy7/152ac4cc7d16816c60f90db165b28568)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
-<h3 align="center">Languages and Tools 🛠️</h3>
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
+<details>
+  <summary><strong>Full Languages and Tools Wall</strong></summary>
+  <br/>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -131,7 +158,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <picture>
   <source
@@ -145,7 +174,7 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <div align="center" id="github-metrics">
   <img src="https://stackexchange.com/users/flair/4821761.png" width="210" height="60" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
@@ -162,7 +191,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 <h2 align="left" id="## 🏅 Badge Wall">🏅 Badge Wall</h2>
 
 > 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
@@ -191,13 +220,21 @@
 
 </details>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
+
+<details>
+  <summary><strong>Memes and sponsorship</strong></summary>
+  <br/>
 
 <p align="center">
-<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+  <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150" alt="Loading animation">
+</p>
 <p align="center">
-<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
+  <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px" alt="Random programming meme"/>
+</p>
 
 ## GitAds Sponsored
 
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/arnabnandy7@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/arnabnandy7@github)
+
+</details>
