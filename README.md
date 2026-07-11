@@ -16,8 +16,8 @@
 
 <div align="center">
   <p>Kolkata, India - 11/07/2026</p>
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"/>
-  <p>Partly Cloudy (অংশত মেঘলা)</p>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png"/>
+  <p>Smoky haze ()</p>
   🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:05 AM, Set: 03:07 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 42.3 °C  
 
   <p><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 52.5 <strong>PM10:</strong> 64.7</p>
@@ -25,8 +25,6 @@
   ## ⏰ Hourly Forecast  
   | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-12 00:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.9 | 32.4 | 84 | 12.2 | 15 |
-| 2026-07-12 01:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.9 | 32.4 | 83 | 10.8 | 13 |
 | 2026-07-12 02:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.3 | 82 | 9.4 | 12 |
 | 2026-07-12 03:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.2 | 81 | 9.0 | 12 |
 | 2026-07-12 04:00 | ![](http://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 32.2 | 81 | 9.0 | 12 |
@@ -35,10 +33,12 @@
 | 2026-07-12 07:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.4 | 35.3 | 67 | 9.0 | 8 |
 | 2026-07-12 08:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.2 | 36.3 | 64 | 9.0 | 7 |
 | 2026-07-12 09:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.9 | 37.1 | 61 | 10.1 | 7 |
+| 2026-07-12 10:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.8 | 38.2 | 58 | 9.0 | 8 |
+| 2026-07-12 11:00 | ![](http://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.0 | 39.6 | 54 | 10.1 | 5 |
 
 
   ## ⛓️ Cryptocurrency Prices  
-  🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.89 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹177527.0 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6233771.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6190238.0 <br>⚡ BNB: ₹56249.3 | 📈 H: ₹57315.25 | 📉 L: ₹55710.46 <br> 
+  🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.39 | 📈 H: ₹98.78 | 📉 L: ₹97.07 <br>♦ ETH: ₹176755.0 | 📈 H: ₹177752.7 | 📉 L: ₹175129.3 <br>₿ BTC: ₹6228034.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6204055.0 <br>⚡ BNB: ₹56385.98 | 📈 H: ₹57315.25 | 📉 L: ₹55838.45 <br> 
 
   ## 🔋 Fuel Prices  
   ⛽ Petrol: ₹105.45 ➖ 🛢️ Diesel: ₹92.02 ➖
@@ -50,7 +50,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar just sent me a restraining order against new events. 🛑❌ 
+  My wardrobe and I have an agreement: it only sees the couch. 🛑❌ 
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
