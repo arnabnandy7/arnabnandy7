@@ -123,20 +123,21 @@ repository_summary_rows() {
     | sort_by([-.count, (.name | ascii_downcase)])
     | .[:9]
     | map(
-        "<img src=\"https://github.com/\(.owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.owner) avatar\"> [\(.name)](https://github.com/\(.name)) (**\(.count)**)"
+        "<img src=\"https://github.com/\(.owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<strong>\(.count)</strong>)"
       )
     | . as $repositories
     | range(0; length; 3) as $index
-    | "| \($repositories[$index]) | \($repositories[$index + 1] // "") | \($repositories[$index + 2] // "") |"
+    | "  <tr><td>\($repositories[$index])</td><td>\($repositories[$index + 1] // "")</td><td>\($repositories[$index + 2] // "")</td></tr>"
   ' "$sorted_items"
 }
 
 if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
-else
+  else
   {
-    printf '| :--- | :--- | :--- |\n'
+    printf '<table>\n'
     repository_summary_rows
+    printf '</table>\n'
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
   } > "$summary"
 fi
