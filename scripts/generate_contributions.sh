@@ -127,7 +127,7 @@ repository_summary_rows() {
       )
     | . as $repositories
     | range(0; length; 3) as $index
-    | "  <tr><td>\($repositories[$index])</td><td>\($repositories[$index + 1] // "")</td><td>\($repositories[$index + 2] // "")</td></tr>"
+    | "  <tr><td align=\"center\" valign=\"middle\" width=\"33%\">\($repositories[$index])</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($repositories[$index + 1] // "")</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($repositories[$index + 2] // "")</td></tr>"
   ' "$sorted_items"
 }
 
@@ -135,7 +135,7 @@ if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
   else
   {
-    printf '<table>\n'
+    printf '<table align="center">\n'
     repository_summary_rows
     printf '</table>\n'
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
