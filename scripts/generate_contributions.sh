@@ -5,7 +5,6 @@ USERNAME="${CONTRIBUTIONS_USERNAME:-arnabnandy7}"
 README_PATH="README.md"
 DOC_PATH="docs/contributions.md"
 PLACEHOLDER="[contribution_summary]"
-RECENT_CONTRIBUTIONS=8
 
 work_dir=$(mktemp -d)
 trap 'rm -rf "$work_dir"' EXIT
@@ -113,13 +112,32 @@ markdown_rows() {
   ' "$sorted_items"
 }
 
+repository_summary_rows() {
+  jq -r '
+    def repository_name: .repository_url | tostring | sub("^https://api.github.com/repos/"; "");
+    def repository_owner: repository_name | split("/")[0];
+    map({ name: repository_name, owner: repository_owner })
+    | sort_by(.name)
+    | group_by(.name)
+    | map({ name: .[0].name, owner: .[0].owner, count: length })
+    | sort_by([-.count, (.name | ascii_downcase)])
+    | .[:9]
+    | map(
+        "<img src=\"https://github.com/\(.owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.owner) avatar\"> [\(.name)](https://github.com/\(.name)) (**\(.count)**)"
+      )
+    | . as $repositories
+    | range(0; length; 3) as $index
+    | "| \($repositories[$index]) | \($repositories[$index + 1] // "") | \($repositories[$index + 2] // "") |"
+  ' "$sorted_items"
+}
+
 if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
 else
   {
-    printf '| Repository | Contribution | Updated |\n'
-    printf '| :---: | :---: | :---: |\n'
-    markdown_rows "$RECENT_CONTRIBUTIONS"
+    printf '| Repository | Repository | Repository |\n'
+    printf '| :--- | :--- | :--- |\n'
+    repository_summary_rows
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
   } > "$summary"
 fi
