@@ -58,8 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-13 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.1 | 36.3 | 74 | 12.6 | 9 |
-| 2026-07-13 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.0 | 36.1 | 75 | 12.2 | 10 |
 | 2026-07-13 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.9 | 35.8 | 74 | 11.2 | 11 |
 | 2026-07-13 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.8 | 35.6 | 74 | 10.4 | 9 |
 | 2026-07-13 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.7 | 35.2 | 74 | 11.5 | 10 |
@@ -68,11 +66,13 @@
 | 2026-07-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.2 | 36.9 | 66 | 9.7 | 12 |
 | 2026-07-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.3 | 37.9 | 61 | 11.2 | 7 |
 | 2026-07-13 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.9 | 38.7 | 58 | 15.5 | 6 |
+| 2026-07-13 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.8 | 38.5 | 59 | 17.6 | 6 |
+| 2026-07-13 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.7 | 38.3 | 59 | 16.6 | 6 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.03 | 📈 H: ₹98.4 | 📉 L: ₹97.89 <br>♦ ETH: ₹176410.2 | 📈 H: ₹178006.9 | 📉 L: ₹174300.8 <br>₿ BTC: ₹6230081.0 | 📈 H: ₹6300000.0 | 📉 L: ₹6220001.0 <br>⚡ BNB: ₹56375.26 | 📈 H: ₹57315.25 | 📉 L: ₹55585.48 <br></p>
+<p align="center">🪙 USDC: ₹96.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.9 | 📈 H: ₹98.4 | 📉 L: ₹97.89 <br>♦ ETH: ₹176550.3 | 📈 H: ₹178006.9 | 📉 L: ₹174300.8 <br>₿ BTC: ₹6230081.0 | 📈 H: ₹6300000.0 | 📉 L: ₹6220001.0 <br>⚡ BNB: ₹56147.21 | 📈 H: ₹57000.0 | 📉 L: ₹55585.48 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm awaiting Prince Charming with pizza, so I can't go anywhere. 🛑❌ 
+  This opportunity deserves more than I can give it right now. 🛑❌ 
 </p>
 
 </details>
