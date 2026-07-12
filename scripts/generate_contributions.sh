@@ -135,7 +135,6 @@ if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
 else
   {
-    printf '| Repository | Repository | Repository |\n'
     printf '| :--- | :--- | :--- |\n'
     repository_summary_rows
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
