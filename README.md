@@ -12,7 +12,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<h3 align="center">Open Source Quest Log</h3>
+<h3 align="center">Open Source Quest summary</h3>
 
 <table>
   <tr><td><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td></tr>
@@ -24,7 +24,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
-<h3 align="center">Selected Projects</h3>
+<h3 align="center">Projects launched by me</h3>
 
 | Project | What it does | Built with |
 | :---: | :---: | :---: |
@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 12/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:59 AM, Set: 04:14 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 33.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:59 AM, Set: 04:14 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 40.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 47.6 <strong>PM10:</strong> 76.4</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 48.1 <strong>PM10:</strong> 75.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-12 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.2 | 41.2 | 57 | 8.3 | 11 |
-| 2026-07-12 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.6 | 40.7 | 59 | 8.6 | 11 |
-| 2026-07-12 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.7 | 39.6 | 62 | 12.2 | 11 |
-| 2026-07-12 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 31.7 | 38.2 | 66 | 15.5 | 8 |
-| 2026-07-12 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 31.0 | 37.1 | 69 | 16.9 | 15 |
-| 2026-07-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 30.0 | 35.7 | 73 | 16.9 | 36 |
-| 2026-07-12 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.9 | 34.2 | 78 | 14.4 | 25 |
-| 2026-07-12 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.7 | 33.8 | 80 | 10.1 | 40 |
-| 2026-07-12 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 33.5 | 81 | 6.5 | 32 |
-| 2026-07-13 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.5 | 33.6 | 81 | 6.1 | 23 |
+| 2026-07-12 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 39.2 | 58 | 8.3 | 11 |
+| 2026-07-12 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 39.2 | 63 | 8.6 | 21 |
+| 2026-07-12 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/299.png) Moderate rain at times | 30.2 | 36.7 | 74 | 5.0 | 67 |
+| 2026-07-12 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.0 | 34.9 | 80 | 3.6 | 49 |
+| 2026-07-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.0 | 34.8 | 81 | 2.9 | 46 |
+| 2026-07-12 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.6 | 34.1 | 82 | 9.4 | 55 |
+| 2026-07-12 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.8 | 32.6 | 86 | 15.1 | 48 |
+| 2026-07-12 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.3 | 31.5 | 89 | 18.0 | 63 |
+| 2026-07-13 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 31.2 | 88 | 15.5 | 28 |
+| 2026-07-13 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 27.0 | 30.9 | 89 | 12.2 | 65 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.0 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.9 | 📈 H: ₹98.78 | 📉 L: ₹97.5 <br>♦ ETH: ₹178006.9 | 📈 H: ₹178006.9 | 📉 L: ₹174300.8 <br>₿ BTC: ₹6220462.0 | 📈 H: ₹6318005.0 | 📉 L: ₹6215854.0 <br>⚡ BNB: ₹56628.41 | 📈 H: ₹57315.25 | 📉 L: ₹55585.48 <br></p>
+<p align="center">🪙 USDC: ₹97.0 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.01 | 📈 H: ₹98.77 | 📉 L: ₹97.89 <br>♦ ETH: ₹178006.9 | 📈 H: ₹178006.9 | 📉 L: ₹174300.8 <br>₿ BTC: ₹6299998.0 | 📈 H: ₹6318003.0 | 📉 L: ₹6215854.0 <br>⚡ BNB: ₹56628.41 | 📈 H: ₹57315.25 | 📉 L: ₹55585.48 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
