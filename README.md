@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
   Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:02 AM, Set: 05:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:00 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 03:02 AM, Set: 05:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:00 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 70.3 <strong>PM10:</strong> 85.0</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.0 <strong>PM10:</strong> 69.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-14 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.7 | 88 | 8.3 | 33 |
-| 2026-07-14 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 30.8 | 88 | 8.6 | 23 |
-| 2026-07-14 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 30.5 | 88 | 11.9 | 54 |
-| 2026-07-14 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.5 | 30.2 | 88 | 9.0 | 69 |
-| 2026-07-14 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 30.5 | 87 | 7.6 | 72 |
-| 2026-07-14 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 30.8 | 86 | 5.4 | 54 |
-| 2026-07-14 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.5 | 31.7 | 82 | 4.0 | 44 |
-| 2026-07-14 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 32.8 | 78 | 3.6 | 23 |
-| 2026-07-14 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.3 | 71 | 7.9 | 27 |
+| 2026-07-14 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 29.0 | 88 | 8.6 | 23 |
+| 2026-07-14 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 27.7 | 88 | 11.9 | 54 |
+| 2026-07-14 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.5 | 26.9 | 88 | 9.0 | 69 |
+| 2026-07-14 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 28.1 | 87 | 7.6 | 72 |
+| 2026-07-14 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 29.4 | 86 | 5.4 | 54 |
+| 2026-07-14 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.5 | 31.3 | 82 | 4.0 | 44 |
+| 2026-07-14 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.3 | 32.6 | 78 | 3.6 | 23 |
+| 2026-07-14 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.4 | 71 | 7.9 | 27 |
 | 2026-07-14 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 37.6 | 65 | 8.6 | 57 |
+| 2026-07-14 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 38.2 | 63 | 5.0 | 60 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.05 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.5 | 📈 H: ₹99.18 | 📉 L: ₹97.9 <br>♦ ETH: ₹173000.0 | 📈 H: ₹179001.9 | 📉 L: ₹172749.7 <br>₿ BTC: ₹6081805.0 | 📈 H: ₹6299999.0 | 📉 L: ₹6081799.0 <br>⚡ BNB: ₹56034.39 | 📈 H: ₹56147.21 | 📉 L: ₹55000.0 <br></p>
+<p align="center">🪙 USDC: ₹99.05 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.5 | 📈 H: ₹99.18 | 📉 L: ₹97.9 <br>♦ ETH: ₹173000.0 | 📈 H: ₹179001.9 | 📉 L: ₹172749.7 <br>₿ BTC: ₹6098966.0 | 📈 H: ₹6299999.0 | 📉 L: ₹6081799.0 <br>⚡ BNB: ₹56034.39 | 📈 H: ₹56147.21 | 📉 L: ₹55000.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
