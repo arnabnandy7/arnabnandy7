@@ -41,14 +41,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 12/07/2026</p>
+<p align="center">Kolkata, India - 13/07/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
   Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:59 AM, Set: 04:14 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:59 AM, Set: 04:14 PM)  <br>🌅 <strong>Sunrise:</strong> 04:59 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.9 <strong>PM10:</strong> 48.1</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 36.6 <strong>PM10:</strong> 46.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-13 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.0 | 33.9 | 76 | 10.8 | 10 |
 | 2026-07-13 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.7 | 35.0 | 73 | 9.7 | 8 |
 | 2026-07-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.2 | 36.5 | 65 | 11.2 | 6 |
 | 2026-07-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.8 | 38.0 | 57 | 10.4 | 5 |
@@ -68,11 +67,12 @@
 | 2026-07-13 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 34.0 | 39.6 | 54 | 14.4 | 7 |
 | 2026-07-13 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 39.7 | 54 | 17.6 | 17 |
 | 2026-07-13 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.4 | 39.0 | 56 | 19.1 | 17 |
+| 2026-07-13 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/299.png) Moderate rain at times | 31.7 | 37.2 | 63 | 16.2 | 64 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹98.29 | 📈 H: ₹98.38 | 📉 L: ₹97.89 <br>♦ ETH: ₹176550.3 | 📈 H: ₹178006.9 | 📉 L: ₹174300.8 <br>₿ BTC: ₹6230081.0 | 📈 H: ₹6300000.0 | 📉 L: ₹6220001.0 <br>⚡ BNB: ₹56147.21 | 📈 H: ₹57000.0 | 📉 L: ₹55585.48 <br></p>
+<p align="center">🪙 USDC: ₹99.08 | 📈 H: ₹99.08 | 📉 L: ₹96.08 <br>💵 USDT: ₹97.9 | 📈 H: ₹98.38 | 📉 L: ₹97.89 <br>♦ ETH: ₹177600.0 | 📈 H: ₹178006.9 | 📉 L: ₹174300.8 <br>₿ BTC: ₹6230081.0 | 📈 H: ₹6300000.0 | 📉 L: ₹6220001.0 <br>⚡ BNB: ₹56147.21 | 📈 H: ₹57000.0 | 📉 L: ₹55585.48 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
