@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16106 - fix: NPE in zbMATH fetcher and mock network requests](https://github.com/JabRef/jabref/pull/16106) | 2026-07-14 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16156 - Fix Postgres binary packaging](https://github.com/JabRef/jabref/pull/16156) | 2026-07-13 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2595 - fix: load local artifacts asynchronously](https://github.com/jbangdev/jbang/pull/2595) | 2026-07-12 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1205 - feat: Add Neuro SAN Studio version to root API endpoint](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1205) | 2026-07-10 |
