@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 14/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
-  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze ()
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:11 AM, Set: 06:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:00 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 41.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:11 AM, Set: 06:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:00 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 43.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 34.7 <strong>PM10:</strong> 42.1</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.7 <strong>PM10:</strong> 27.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-14 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.0 | 38.2 | 72 | 7.2 | 58 |
-| 2026-07-14 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.6 | 36.3 | 79 | 7.2 | 66 |
-| 2026-07-14 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.8 | 35.2 | 84 | 6.1 | 69 |
-| 2026-07-14 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 34.4 | 86 | 8.6 | 37 |
-| 2026-07-14 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.3 | 34.1 | 86 | 8.6 | 16 |
-| 2026-07-14 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.4 | 34.2 | 86 | 8.3 | 48 |
-| 2026-07-14 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.2 | 33.6 | 86 | 9.4 | 63 |
-| 2026-07-15 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.1 | 33.2 | 85 | 9.4 | 58 |
-| 2026-07-15 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.5 | 31.8 | 87 | 6.5 | 71 |
-| 2026-07-15 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.0 | 30.8 | 88 | 4.7 | 68 |
+| 2026-07-14 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.2 | 32.4 | 79 | 9.4 | 13 |
+| 2026-07-14 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.9 | 31.8 | 79 | 8.6 | 13 |
+| 2026-07-14 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.8 | 31.5 | 79 | 9.0 | 13 |
+| 2026-07-14 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.6 | 31.1 | 80 | 9.7 | 15 |
+| 2026-07-14 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 30.9 | 81 | 9.7 | 21 |
+| 2026-07-15 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 30.9 | 82 | 9.7 | 25 |
+| 2026-07-15 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.3 | 30.7 | 83 | 10.4 | 35 |
+| 2026-07-15 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 30.5 | 84 | 9.7 | 24 |
+| 2026-07-15 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 30.7 | 85 | 8.6 | 24 |
+| 2026-07-15 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.3 | 31.0 | 85 | 7.2 | 19 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.05 | 📈 H: ₹99.08 | 📉 L: ₹96.22 <br>💵 USDT: ₹98.75 | 📈 H: ₹99.18 | 📉 L: ₹98.03 <br>♦ ETH: ₹174961.0 | 📈 H: ₹175472.6 | 📉 L: ₹172500.0 <br>₿ BTC: ₹6126919.0 | 📈 H: ₹6243205.0 | 📉 L: ₹6081799.0 <br>⚡ BNB: ₹55489.41 | 📈 H: ₹56034.39 | 📉 L: ₹55000.0 <br></p>
+<p align="center">🪙 USDC: ₹99.05 | 📈 H: ₹99.08 | 📉 L: ₹96.22 <br>💵 USDT: ₹99.01 | 📈 H: ₹99.35 | 📉 L: ₹98.05 <br>♦ ETH: ₹178298.6 | 📈 H: ₹178298.6 | 📉 L: ₹172500.0 <br>₿ BTC: ₹6230547.0 | 📈 H: ₹6230547.0 | 📉 L: ₹6081799.0 <br>⚡ BNB: ₹56572.36 | 📈 H: ₹56572.36 | 📉 L: ₹55000.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
