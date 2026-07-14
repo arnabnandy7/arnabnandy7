@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 14/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze ()
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
+  Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:11 AM, Set: 06:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:00 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 36.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:11 AM, Set: 06:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:00 AM | <strong>Sunset:</strong> 06:24 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 35.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 86.1 <strong>PM10:</strong> 89.4</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 74.0 <strong>PM10:</strong> 77.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-15 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.6 | 32.3 | 88 | 8.3 | 14 |
 | 2026-07-15 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.4 | 32.1 | 89 | 8.3 | 15 |
 | 2026-07-15 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.2 | 31.8 | 90 | 8.6 | 17 |
 | 2026-07-15 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.3 | 32.0 | 90 | 7.9 | 17 |
@@ -68,11 +67,12 @@
 | 2026-07-15 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.8 | 38.4 | 66 | 11.9 | 16 |
 | 2026-07-15 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.3 | 62 | 12.6 | 23 |
 | 2026-07-15 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.8 | 39.3 | 61 | 13.0 | 20 |
+| 2026-07-15 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 40.0 | 59 | 13.7 | 9 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.23 | 📈 H: ₹97.05 | 📉 L: ₹96.23 <br>💵 USDT: ₹98.2 | 📈 H: ₹99.35 | 📉 L: ₹98.05 <br>♦ ETH: ₹182602.0 | 📈 H: ₹184002.2 | 📉 L: ₹172500.0 <br>₿ BTC: ₹6274904.0 | 📈 H: ₹6349177.0 | 📉 L: ₹6081800.0 <br>⚡ BNB: ₹55489.42 | 📈 H: ₹56572.36 | 📉 L: ₹55402.62 <br></p>
+<p align="center">🪙 USDC: ₹96.23 | 📈 H: ₹97.05 | 📉 L: ₹96.23 <br>💵 USDT: ₹98.16 | 📈 H: ₹99.35 | 📉 L: ₹98.05 <br>♦ ETH: ₹182746.8 | 📈 H: ₹184002.2 | 📉 L: ₹172500.0 <br>₿ BTC: ₹6270548.0 | 📈 H: ₹6349177.0 | 📉 L: ₹6081800.0 <br>⚡ BNB: ₹56260.84 | 📈 H: ₹56572.36 | 📉 L: ₹55402.62 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
