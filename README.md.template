@@ -176,20 +176,31 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
 
 <div align="center" id="github-metrics">
+  <p>
   <img src="https://stackexchange.com/users/flair/4821761.png" width="210" height="60" alt="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnab Nandy on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+  </p>
 
+  <p>
   <a href="https://gitroll.io/profile/uSMjarJMivBcLjxMFV7XYsS3oe472" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uSMjarJMivBcLjxMFV7XYsS3oe472?theme=dark" height="150" alt="GitRoll Profile Badge"/></a>
+  </p>
 
-  <img src="https://github-readme-stats-delta-six-18.vercel.app/api?username=arnabnandy7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <p>
+  <img src="https://github-readme-stats-delta-six-18.vercel.app/api?username=arnabnandy7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs?username=arnabnandy7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" width="49%" alt="Most used languages" />
+  </p>
 
-  <img src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs?username=arnabnandy7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
+  <p>
   <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=arnabnandy7&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
-  
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-  <img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  </p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+  <p>
+  <img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="100%" alt="GitHub trophies" />
+  </p>
+
+  <p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabnandy7&radius=16&theme=gotham&area=true&order=5" width="100%" alt="GitHub activity graph" />
+  </p>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70" alt="" role="presentation">
