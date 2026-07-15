@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#276 - fix(dashboard): polish profile dashboard](https://github.com/Vault-Web/vault-web/pull/276) | 2026-07-15 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16106 - fix: NPE in zbMATH fetcher and mock network requests](https://github.com/JabRef/jabref/pull/16106) | 2026-07-14 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16156 - Fix Postgres binary packaging](https://github.com/JabRef/jabref/pull/16156) | 2026-07-13 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2595 - fix: load local artifacts asynchronously](https://github.com/jbangdev/jbang/pull/2595) | 2026-07-12 |
