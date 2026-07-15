@@ -41,7 +41,7 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 14/07/2026</p>
+<p align="center">Kolkata, India - 15/07/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
   Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-15 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.1 | 32.1 | 91 | 10.8 | 20 |
 | 2026-07-15 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.9 | 33.1 | 86 | 13.3 | 18 |
 | 2026-07-15 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.2 | 34.8 | 79 | 13.7 | 17 |
 | 2026-07-15 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.5 | 36.7 | 72 | 13.7 | 18 |
@@ -68,11 +67,12 @@
 | 2026-07-15 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.8 | 40.7 | 57 | 13.3 | 36 |
 | 2026-07-15 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.0 | 41.0 | 57 | 14.8 | 36 |
 | 2026-07-15 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.6 | 40.6 | 59 | 16.9 | 57 |
+| 2026-07-15 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.8 | 39.8 | 62 | 17.6 | 36 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.23 | 📈 H: ₹97.05 | 📉 L: ₹96.23 <br>💵 USDT: ₹98.89 | 📈 H: ₹99.35 | 📉 L: ₹98.05 <br>♦ ETH: ₹185000.0 | 📈 H: ₹185000.0 | 📉 L: ₹172500.0 <br>₿ BTC: ₹6312964.0 | 📈 H: ₹6375700.0 | 📉 L: ₹6081800.0 <br>⚡ BNB: ₹56260.84 | 📈 H: ₹56572.36 | 📉 L: ₹55402.62 <br></p>
+<p align="center">🪙 USDC: ₹96.23 | 📈 H: ₹97.05 | 📉 L: ₹96.23 <br>💵 USDT: ₹98.26 | 📈 H: ₹99.35 | 📉 L: ₹98.05 <br>♦ ETH: ₹185000.0 | 📈 H: ₹185000.0 | 📉 L: ₹172500.0 <br>₿ BTC: ₹6370636.0 | 📈 H: ₹6375700.0 | 📉 L: ₹6081800.0 <br>⚡ BNB: ₹56999.99 | 📈 H: ₹56999.99 | 📉 L: ₹55402.62 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
