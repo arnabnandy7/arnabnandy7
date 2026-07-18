@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
   Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:43 AM, Set: 09:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:43 AM, Set: 09:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.9 <strong>PM10:</strong> 24.7</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.7 <strong>PM10:</strong> 25.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-19 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.7 | 32.5 | 86 | 15.8 | 23 |
 | 2026-07-19 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.6 | 32.0 | 86 | 15.1 | 23 |
 | 2026-07-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.6 | 32.2 | 87 | 15.8 | 21 |
 | 2026-07-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.6 | 34.1 | 82 | 18.7 | 18 |
@@ -68,11 +67,12 @@
 | 2026-07-19 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.9 | 63 | 24.1 | 41 |
 | 2026-07-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 40.2 | 63 | 25.6 | 26 |
 | 2026-07-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.9 | 64 | 25.6 | 50 |
+| 2026-07-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 39.7 | 64 | 24.5 | 43 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.04 | 📈 H: ₹99.04 | 📉 L: ₹96.21 <br>💵 USDT: ₹98.5 | 📈 H: ₹99.09 | 📉 L: ₹98.11 <br>♦ ETH: ₹181905.1 | 📈 H: ₹182249.8 | 📉 L: ₹180000.6 <br>₿ BTC: ₹6366694.0 | 📈 H: ₹6375258.0 | 📉 L: ₹6245958.0 <br>⚡ BNB: ₹55894.94 | 📈 H: ₹56400.0 | 📉 L: ₹55426.65 <br></p>
+<p align="center">🪙 USDC: ₹99.04 | 📈 H: ₹99.04 | 📉 L: ₹96.21 <br>💵 USDT: ₹98.43 | 📈 H: ₹99.09 | 📉 L: ₹98.11 <br>♦ ETH: ₹182045.3 | 📈 H: ₹182249.8 | 📉 L: ₹180000.6 <br>₿ BTC: ₹6369135.0 | 📈 H: ₹6375258.0 | 📉 L: ₹6245958.0 <br>⚡ BNB: ₹55986.87 | 📈 H: ₹56400.0 | 📉 L: ₹55426.65 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm flattered you asked, but I'll pass with flying colors. 🛑❌ 
+  I'm declining out of an abundance of apathy. 🛑❌ 
 </p>
 
 </details>
