@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 18/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:43 AM, Set: 09:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 25.9 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 38.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:43 AM, Set: 09:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 24.1 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 36.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.6 <strong>PM10:</strong> 16.5</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.8 <strong>PM10:</strong> 15.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-18 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 38.6 | 65 | 24.8 | 12 |
-| 2026-07-18 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.1 | 37.6 | 69 | 22.7 | 11 |
-| 2026-07-18 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.8 | 35.6 | 74 | 22.3 | 12 |
-| 2026-07-18 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.2 | 34.8 | 78 | 22.3 | 12 |
-| 2026-07-18 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.8 | 34.1 | 80 | 21.6 | 15 |
-| 2026-07-18 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.6 | 34.0 | 81 | 21.2 | 18 |
-| 2026-07-18 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.5 | 33.6 | 82 | 20.5 | 17 |
-| 2026-07-18 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.3 | 33.4 | 83 | 18.7 | 17 |
-| 2026-07-19 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.2 | 33.2 | 84 | 17.6 | 23 |
-| 2026-07-19 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.0 | 32.9 | 84 | 17.6 | 19 |
+| 2026-07-18 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.5 | 37.8 | 67 | 22.7 | 10 |
+| 2026-07-18 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 30.2 | 35.9 | 72 | 22.0 | 13 |
+| 2026-07-18 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.5 | 35.3 | 76 | 20.9 | 14 |
+| 2026-07-18 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.1 | 34.9 | 79 | 19.8 | 13 |
+| 2026-07-18 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.9 | 34.6 | 81 | 19.8 | 14 |
+| 2026-07-18 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.7 | 34.1 | 81 | 19.4 | 16 |
+| 2026-07-18 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.6 | 33.8 | 81 | 19.1 | 17 |
+| 2026-07-19 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.3 | 33.1 | 81 | 17.6 | 18 |
+| 2026-07-19 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.7 | 82 | 16.2 | 17 |
+| 2026-07-19 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.0 | 32.6 | 83 | 16.6 | 17 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.23 | 📈 H: ₹97.99 | 📉 L: ₹96.16 <br>💵 USDT: ₹98.96 | 📈 H: ₹99.49 | 📉 L: ₹98.11 <br>♦ ETH: ₹180243.1 | 📈 H: ₹182249.8 | 📉 L: ₹179719.8 <br>₿ BTC: ₹6252498.0 | 📈 H: ₹6389225.0 | 📉 L: ₹6143248.0 <br>⚡ BNB: ₹55574.41 | 📈 H: ₹56400.0 | 📉 L: ₹54554.39 <br></p>
+<p align="center">🪙 USDC: ₹98.0 | 📈 H: ₹98.0 | 📉 L: ₹96.16 <br>💵 USDT: ₹98.42 | 📈 H: ₹99.4 | 📉 L: ₹98.11 <br>♦ ETH: ₹180327.5 | 📈 H: ₹182249.8 | 📉 L: ₹180000.0 <br>₿ BTC: ₹6254983.0 | 📈 H: ₹6389225.0 | 📉 L: ₹6143248.0 <br>⚡ BNB: ₹55680.0 | 📈 H: ₹56400.0 | 📉 L: ₹54770.92 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My limbs have gone on strike until further notice. 🛑❌ 
+  My psychiatrist advised me to avoid potentially fun activities. 🛑❌ 
 </p>
 
 </details>
