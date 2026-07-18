@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:43 AM, Set: 09:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 34.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:43 AM, Set: 09:18 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 40.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.7 <strong>PM10:</strong> 20.0</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.7 <strong>PM10:</strong> 17.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-18 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.8 | 40.0 | 63 | 22.3 | 36 |
-| 2026-07-18 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.1 | 40.2 | 61 | 23.0 | 21 |
-| 2026-07-18 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.1 | 40.0 | 61 | 24.8 | 25 |
-| 2026-07-18 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.2 | 40.0 | 60 | 25.9 | 21 |
-| 2026-07-18 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.0 | 39.5 | 60 | 26.3 | 17 |
-| 2026-07-18 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.8 | 62 | 25.6 | 11 |
-| 2026-07-18 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.1 | 38.0 | 63 | 25.2 | 8 |
-| 2026-07-18 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.3 | 37.3 | 67 | 23.0 | 9 |
-| 2026-07-18 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.9 | 35.4 | 72 | 23.0 | 11 |
-| 2026-07-18 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.2 | 34.7 | 77 | 23.4 | 12 |
+| 2026-07-18 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 40.1 | 63 | 23.4 | 57 |
+| 2026-07-18 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 39.9 | 62 | 24.5 | 36 |
+| 2026-07-18 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.6 | 63 | 25.9 | 40 |
+| 2026-07-18 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 39.1 | 63 | 25.6 | 11 |
+| 2026-07-18 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 38.6 | 65 | 24.8 | 12 |
+| 2026-07-18 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.1 | 37.6 | 69 | 22.7 | 11 |
+| 2026-07-18 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.8 | 35.6 | 74 | 22.3 | 12 |
+| 2026-07-18 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.2 | 34.8 | 78 | 22.3 | 12 |
+| 2026-07-18 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.8 | 34.1 | 80 | 21.6 | 15 |
+| 2026-07-18 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.6 | 34.0 | 81 | 21.2 | 18 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.22 | 📈 H: ₹97.99 | 📉 L: ₹96.16 <br>💵 USDT: ₹98.12 | 📈 H: ₹99.49 | 📉 L: ₹98.0 <br>♦ ETH: ₹182249.8 | 📈 H: ₹185788.8 | 📉 L: ₹178558.9 <br>₿ BTC: ₹6375258.0 | 📈 H: ₹6389225.0 | 📉 L: ₹6087816.0 <br>⚡ BNB: ₹55526.06 | 📈 H: ₹57201.05 | 📉 L: ₹54554.39 <br></p>
+<p align="center">🪙 USDC: ₹96.23 | 📈 H: ₹97.99 | 📉 L: ₹96.16 <br>💵 USDT: ₹98.16 | 📈 H: ₹99.49 | 📉 L: ₹98.0 <br>♦ ETH: ₹182249.8 | 📈 H: ₹182374.9 | 📉 L: ₹178692.9 <br>₿ BTC: ₹6258792.0 | 📈 H: ₹6389225.0 | 📉 L: ₹6087816.0 <br>⚡ BNB: ₹55526.06 | 📈 H: ₹57201.05 | 📉 L: ₹54554.39 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Improv theater time: I play a person who says no. End scene. 🛑❌ 
+  I played the lottery of caring and lost. 🛑❌ 
 </p>
 
 </details>
