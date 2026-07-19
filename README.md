@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 19/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:44 AM, Set: 09:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 33.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:44 AM, Set: 09:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 22.7 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 30.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.6 <strong>PM10:</strong> 27.1</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.5 <strong>PM10:</strong> 18.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-19 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 39.4 | 63 | 24.5 | 21 |
-| 2026-07-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.3 | 63 | 24.5 | 39 |
-| 2026-07-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.5 | 63 | 24.8 | 42 |
-| 2026-07-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.6 | 62 | 24.8 | 36 |
-| 2026-07-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 39.3 | 63 | 24.8 | 18 |
-| 2026-07-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.4 | 65 | 24.5 | 36 |
-| 2026-07-19 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.6 | 38.2 | 67 | 24.5 | 23 |
-| 2026-07-19 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.6 | 37.0 | 72 | 22.3 | 28 |
-| 2026-07-19 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.5 | 35.4 | 77 | 22.3 | 15 |
-| 2026-07-19 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.9 | 34.5 | 80 | 20.9 | 17 |
+| 2026-07-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.8 | 63 | 24.8 | 42 |
+| 2026-07-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 39.1 | 65 | 24.1 | 38 |
+| 2026-07-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 38.5 | 68 | 23.8 | 27 |
+| 2026-07-19 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 37.3 | 72 | 23.4 | 16 |
+| 2026-07-19 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.8 | 36.0 | 75 | 22.3 | 15 |
+| 2026-07-19 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.9 | 34.5 | 80 | 22.0 | 17 |
+| 2026-07-19 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.6 | 34.0 | 82 | 21.6 | 19 |
+| 2026-07-19 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 33.7 | 83 | 21.6 | 21 |
+| 2026-07-19 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.3 | 33.6 | 84 | 20.9 | 22 |
+| 2026-07-19 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.2 | 33.3 | 84 | 19.4 | 28 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.04 | 📈 H: ₹99.04 | 📉 L: ₹96.21 <br>💵 USDT: ₹99.0 | 📈 H: ₹99.09 | 📉 L: ₹98.11 <br>♦ ETH: ₹183685.9 | 📈 H: ₹183685.9 | 📉 L: ₹180000.6 <br>₿ BTC: ₹6350390.0 | 📈 H: ₹6390000.0 | 📉 L: ₹6245958.0 <br>⚡ BNB: ₹55986.87 | 📈 H: ₹56400.0 | 📉 L: ₹55426.65 <br></p>
+<p align="center">🪙 USDC: ₹96.45 | 📈 H: ₹99.04 | 📉 L: ₹96.23 <br>💵 USDT: ₹99.23 | 📈 H: ₹99.39 | 📉 L: ₹98.11 <br>♦ ETH: ₹183253.6 | 📈 H: ₹184999.9 | 📉 L: ₹180000.6 <br>₿ BTC: ₹6347958.0 | 📈 H: ₹6396685.0 | 📉 L: ₹6245958.0 <br>⚡ BNB: ₹56000.0 | 📈 H: ₹56400.0 | 📉 L: ₹55484.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm currently trending towards 'no'. 🛑❌ 
+  My enthusiasm filed for bankruptcy, so I can't invest in that. 🛑❌ 
 </p>
 
 </details>
