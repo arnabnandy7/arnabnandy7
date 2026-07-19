@@ -17,7 +17,7 @@
 <table align="center">
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td></tr>
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<strong>2</strong>)</td></tr>
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<strong>1</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab/neuro-san-studio">cognizant-ai-lab/neuro-san-studio</a> (<strong>1</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<strong>1</strong>)</td></tr>
 </table>
 
 [Explore the complete open source quest log](./docs/contributions.md)
@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 19/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
-  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy weather icon"/><br/>
+  Cloudy (মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:44 AM, Set: 09:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 23.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:44 AM, Set: 09:54 PM)  <br>🌅 <strong>Sunrise:</strong> 05:02 AM | <strong>Sunset:</strong> 06:23 PM  <br>💨 <strong>Wind:</strong> 23.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.7 <strong>PM10:</strong> 17.1</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.9 <strong>PM10:</strong> 19.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-19 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 36.9 | 71 | 22.3 | 26 |
-| 2026-07-19 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.6 | 35.3 | 76 | 22.7 | 16 |
-| 2026-07-19 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.1 | 34.6 | 78 | 22.3 | 15 |
-| 2026-07-19 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.9 | 34.3 | 80 | 22.0 | 16 |
-| 2026-07-19 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.7 | 34.2 | 81 | 21.6 | 31 |
-| 2026-07-19 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.6 | 34.0 | 82 | 20.9 | 54 |
-| 2026-07-19 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.4 | 33.5 | 82 | 20.5 | 65 |
-| 2026-07-20 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.0 | 32.8 | 83 | 19.4 | 69 |
-| 2026-07-20 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.6 | 32.1 | 84 | 18.0 | 65 |
-| 2026-07-20 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.7 | 32.1 | 83 | 15.8 | 50 |
+| 2026-07-19 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.8 | 35.6 | 75 | 22.7 | 15 |
+| 2026-07-19 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.3 | 34.8 | 77 | 22.7 | 15 |
+| 2026-07-19 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.0 | 34.5 | 79 | 22.3 | 15 |
+| 2026-07-19 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.9 | 34.3 | 80 | 22.0 | 32 |
+| 2026-07-19 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.7 | 34.1 | 81 | 21.2 | 49 |
+| 2026-07-19 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.5 | 33.7 | 81 | 20.5 | 61 |
+| 2026-07-20 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.1 | 32.9 | 83 | 19.8 | 73 |
+| 2026-07-20 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.7 | 32.2 | 83 | 18.0 | 64 |
+| 2026-07-20 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.8 | 32.2 | 82 | 15.8 | 45 |
+| 2026-07-20 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.6 | 32.0 | 83 | 14.4 | 57 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.59 | 📈 H: ₹99.04 | 📉 L: ₹96.45 <br>💵 USDT: ₹98.85 | 📈 H: ₹99.39 | 📉 L: ₹98.21 <br>♦ ETH: ₹183498.6 | 📈 H: ₹184999.9 | 📉 L: ₹180000.7 <br>₿ BTC: ₹6341906.0 | 📈 H: ₹6400000.0 | 📉 L: ₹6250031.0 <br>⚡ BNB: ₹56000.0 | 📈 H: ₹56400.0 | 📉 L: ₹55574.41 <br></p>
+<p align="center">🪙 USDC: ₹96.59 | 📈 H: ₹99.04 | 📉 L: ₹96.45 <br>💵 USDT: ₹98.49 | 📈 H: ₹99.39 | 📉 L: ₹98.21 <br>♦ ETH: ₹185000.0 | 📈 H: ₹185000.0 | 📉 L: ₹180000.7 <br>₿ BTC: ₹6308629.0 | 📈 H: ₹6400000.0 | 📉 L: ₹6250031.0 <br>⚡ BNB: ₹56000.0 | 📈 H: ₹56400.0 | 📉 L: ₹55574.41 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
