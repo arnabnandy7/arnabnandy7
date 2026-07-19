@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/cloud-page](https://github.com/Vault-Web/cloud-page) | [#104 - feat: add expiring secure send links](https://github.com/Vault-Web/cloud-page/pull/104) | 2026-07-19 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/cloud-page](https://github.com/Vault-Web/cloud-page) | [#102 - feat: improve inline file viewing](https://github.com/Vault-Web/cloud-page/pull/102) | 2026-07-19 |
 | <img src="https://github.com/janhaesen.png?size=24" width="24" height="24" alt="janhaesen avatar"> [janhaesen/observability](https://github.com/janhaesen/observability) | [#48 - #34 feat: Spring Boot autoconfiguration module](https://github.com/janhaesen/observability/pull/48) | 2026-07-19 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/cloud-page](https://github.com/Vault-Web/cloud-page) | [#103 - feat: rate-limit folder virus scans](https://github.com/Vault-Web/cloud-page/pull/103) | 2026-07-18 |
