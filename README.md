@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 20/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle weather icon"/><br/>
-  Light drizzle (হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy weather icon"/><br/>
+  Cloudy (মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:42 AM, Set: 10:30 PM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 37.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:42 AM, Set: 10:30 PM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 20.9 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 41.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.9 <strong>PM10:</strong> 32.5</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.6 <strong>PM10:</strong> 19.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-20 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 30.1 | 36.2 | 73 | 20.9 | 36 |
-| 2026-07-20 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.6 | 35.5 | 76 | 22.3 | 17 |
-| 2026-07-20 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.0 | 34.4 | 78 | 20.9 | 18 |
-| 2026-07-20 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.6 | 33.7 | 80 | 19.8 | 18 |
 | 2026-07-20 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.4 | 33.2 | 81 | 15.8 | 20 |
 | 2026-07-20 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.0 | 32.5 | 82 | 14.0 | 19 |
 | 2026-07-20 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.8 | 32.2 | 84 | 14.8 | 17 |
 | 2026-07-20 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.7 | 32.0 | 85 | 14.0 | 17 |
 | 2026-07-20 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.5 | 31.6 | 86 | 13.7 | 25 |
 | 2026-07-20 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.2 | 31.1 | 87 | 12.2 | 47 |
+| 2026-07-20 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 30.7 | 87 | 13.0 | 19 |
+| 2026-07-21 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.0 | 30.4 | 88 | 12.6 | 17 |
+| 2026-07-21 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.8 | 29.5 | 88 | 11.2 | 17 |
+| 2026-07-21 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 28.1 | 89 | 10.8 | 59 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹96.71 | 📈 H: ₹98.98 | 📉 L: ₹96.59 <br>💵 USDT: ₹98.1 | 📈 H: ₹99.1 | 📉 L: ₹97.65 <br>♦ ETH: ₹182977.0 | 📈 H: ₹185000.0 | 📉 L: ₹182977.0 <br>₿ BTC: ₹6310000.0 | 📈 H: ₹6400000.0 | 📉 L: ₹6300001.0 <br>⚡ BNB: ₹55588.24 | 📈 H: ₹56400.0 | 📉 L: ₹55588.24 <br></p>
+<p align="center">🪙 USDC: ₹96.71 | 📈 H: ₹98.98 | 📉 L: ₹96.59 <br>💵 USDT: ₹98.17 | 📈 H: ₹99.07 | 📉 L: ₹97.65 <br>♦ ETH: ₹182482.3 | 📈 H: ₹185000.0 | 📉 L: ₹182000.0 <br>₿ BTC: ₹6301248.0 | 📈 H: ₹6399998.0 | 📉 L: ₹6300001.0 <br>⚡ BNB: ₹55550.0 | 📈 H: ₹56400.0 | 📉 L: ₹55550.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That request is the peanut butter to my allergy. 🛑❌ 
+  Channeling Opposite Nike: 'Just don't do it.' 🛑❌ 
 </p>
 
 </details>
