@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16312 - Simplify rate limiting changelog entry](https://github.com/JabRef/jabref/pull/16312) | 2026-07-22 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16305 - Generalize fetcher rate limiting](https://github.com/JabRef/jabref/pull/16305) | 2026-07-22 |
 | <img src="https://github.com/keycloak.png?size=24" width="24" height="24" alt="keycloak avatar"> [keycloak/keycloak](https://github.com/keycloak/keycloak) | [#50801 - #50798 Apply protocol defaults when creating clients through Admin AP…](https://github.com/keycloak/keycloak/pull/50801) | 2026-07-21 |
 | <img src="https://github.com/quarkiverse.png?size=24" width="24" height="24" alt="quarkiverse avatar"> [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) | [#2675 - Fix missing thinking events for Ollama streaming](https://github.com/quarkiverse/quarkus-langchain4j/pull/2675) | 2026-07-20 |
