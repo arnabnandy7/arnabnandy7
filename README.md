@@ -46,7 +46,7 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:38 PM, Set: 11:46 PM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:38 PM, Set: 11:46 PM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.3 °C</p>
 
 <p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.8 <strong>PM10:</strong> 19.1</p>
 
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-23 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 25.8 | 85 | 16.2 | 69 |
 | 2026-07-23 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 24.0 | 86 | 16.2 | 71 |
 | 2026-07-23 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.7 | 21.8 | 89 | 15.5 | 72 |
 | 2026-07-23 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.6 | 21.0 | 90 | 15.1 | 75 |
@@ -68,11 +67,12 @@
 | 2026-07-23 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.6 | 20.7 | 90 | 16.6 | 35 |
 | 2026-07-23 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.7 | 21.6 | 89 | 16.6 | 21 |
 | 2026-07-23 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.9 | 22.9 | 88 | 16.2 | 19 |
+| 2026-07-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.0 | 23.3 | 88 | 15.5 | 29 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹99.08 | 📉 L: ₹96.95 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.5 | 📉 L: ₹99.0 <br>♦ ETH: ₹192999.7 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6491653.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6491653.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57506.27 | 📉 L: ₹56112.84 <br></p>
+<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹99.08 | 📉 L: ₹96.95 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.5 | 📉 L: ₹99.01 <br>♦ ETH: ₹192999.7 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6491653.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6491653.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57506.27 | 📉 L: ₹56112.84 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Occupational Health and Safety flagged that activity as a hazard for me. 🛑❌ 
+  I would come, but I'm trying this new thing where I just don't. 🛑❌ 
 </p>
 
 </details>
