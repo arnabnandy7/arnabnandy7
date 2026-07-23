@@ -15,8 +15,8 @@
 <h3 align="center">Open Source Quest summary</h3>
 
 <table align="center">
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td></tr>
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>4</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td></tr>
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<strong>1</strong>)</td></tr>
 </table>
 
@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 23/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:36 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:04 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:36 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:04 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 37.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.2 <strong>PM10:</strong> 21.2</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.1 <strong>PM10:</strong> 16.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.2 | 32.2 | 77 | 14.0 | 22 |
-| 2026-07-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.6 | 32.8 | 75 | 14.4 | 13 |
-| 2026-07-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.6 | 32.9 | 76 | 13.7 | 14 |
-| 2026-07-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.2 | 32.4 | 78 | 12.2 | 13 |
-| 2026-07-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.8 | 32.0 | 80 | 10.1 | 19 |
-| 2026-07-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.4 | 31.4 | 82 | 9.7 | 19 |
-| 2026-07-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.2 | 31.1 | 83 | 9.0 | 23 |
-| 2026-07-23 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 30.9 | 84 | 9.7 | 30 |
-| 2026-07-23 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.1 | 31.1 | 84 | 10.4 | 16 |
-| 2026-07-23 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.0 | 30.9 | 85 | 9.7 | 16 |
+| 2026-07-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.0 | 32.1 | 79 | 12.2 | 13 |
+| 2026-07-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.6 | 31.4 | 82 | 10.4 | 18 |
+| 2026-07-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.3 | 30.7 | 83 | 10.1 | 20 |
+| 2026-07-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.0 | 30.2 | 85 | 9.4 | 22 |
+| 2026-07-23 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 29.6 | 85 | 10.1 | 30 |
+| 2026-07-23 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.0 | 30.1 | 85 | 10.4 | 17 |
+| 2026-07-23 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.8 | 29.2 | 86 | 9.7 | 16 |
+| 2026-07-23 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 26.7 | 27.9 | 86 | 9.7 | 68 |
+| 2026-07-24 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.2 | 25.5 | 88 | 8.6 | 73 |
+| 2026-07-24 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.1 | 24.6 | 88 | 7.6 | 75 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.73 | 📈 H: ₹99.05 | 📉 L: ₹98.22 <br>💵 USDT: ₹99.55 | 📈 H: ₹100.5 | 📉 L: ₹99.36 <br>♦ ETH: ₹190000.0 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6489237.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6477353.0 <br>⚡ BNB: ₹56126.95 | 📈 H: ₹57200.88 | 📉 L: ₹56112.84 <br></p>
+<p align="center">🪙 USDC: ₹98.55 | 📈 H: ₹99.05 | 📉 L: ₹98.22 <br>💵 USDT: ₹99.99 | 📈 H: ₹100.5 | 📉 L: ₹99.36 <br>♦ ETH: ₹190264.6 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6500000.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6477353.0 <br>⚡ BNB: ₹56140.38 | 📈 H: ₹57200.88 | 📉 L: ₹56112.84 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Me, myself, and I had a meeting; we unanimously decided to decline. 🛑❌ 
+  My life is like a sitcom about avoiding responsibility, and I can't break character. 🛑❌ 
 </p>
 
 </details>
