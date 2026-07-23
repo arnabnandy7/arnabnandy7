@@ -41,7 +41,7 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 22/07/2026</p>
+<p align="center">Kolkata, India - 23/07/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-23 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.5 | 20.7 | 91 | 14.8 | 79 |
 | 2026-07-23 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.4 | 20.5 | 92 | 13.3 | 79 |
 | 2026-07-23 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 25.4 | 20.4 | 92 | 13.7 | 77 |
 | 2026-07-23 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.8 | 22.7 | 90 | 14.0 | 63 |
@@ -68,11 +67,12 @@
 | 2026-07-23 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 26.3 | 86 | 13.3 | 32 |
 | 2026-07-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.5 | 27.0 | 85 | 14.0 | 27 |
 | 2026-07-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.9 | 29.2 | 84 | 15.5 | 23 |
+| 2026-07-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.5 | 31.1 | 81 | 16.6 | 19 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹99.08 | 📉 L: ₹96.95 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.5 | 📉 L: ₹99.01 <br>♦ ETH: ₹192998.8 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6491653.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6491653.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57506.27 | 📉 L: ₹56112.84 <br></p>
+<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹99.08 | 📉 L: ₹96.95 <br>💵 USDT: ₹99.51 | 📈 H: ₹100.5 | 📉 L: ₹99.06 <br>♦ ETH: ₹192998.8 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6491653.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6491653.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57506.27 | 📉 L: ₹56112.84 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
