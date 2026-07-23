@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:38 PM, Set: 11:46 PM)  <br>🌅 <strong>Sunrise:</strong> 05:03 AM | <strong>Sunset:</strong> 06:22 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 31.5 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:36 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:04 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 29.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.2 <strong>PM10:</strong> 20.4</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.8 <strong>PM10:</strong> 21.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-23 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.4 | 20.5 | 92 | 13.3 | 79 |
-| 2026-07-23 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 25.4 | 20.4 | 92 | 13.7 | 77 |
-| 2026-07-23 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.8 | 22.7 | 90 | 14.0 | 63 |
-| 2026-07-23 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.3 | 25.2 | 87 | 14.0 | 57 |
 | 2026-07-23 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 26.4 | 86 | 13.3 | 52 |
 | 2026-07-23 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.5 | 26.6 | 86 | 13.0 | 41 |
 | 2026-07-23 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 26.3 | 86 | 13.3 | 32 |
 | 2026-07-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.5 | 27.0 | 85 | 14.0 | 27 |
 | 2026-07-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.9 | 29.2 | 84 | 15.5 | 23 |
 | 2026-07-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.5 | 31.1 | 81 | 16.6 | 19 |
+| 2026-07-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.7 | 31.4 | 80 | 17.6 | 27 |
+| 2026-07-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.2 | 30.5 | 83 | 15.5 | 35 |
+| 2026-07-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 27.0 | 86 | 13.7 | 26 |
+| 2026-07-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.4 | 26.2 | 87 | 11.9 | 18 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹99.08 | 📉 L: ₹96.95 <br>💵 USDT: ₹99.51 | 📈 H: ₹100.5 | 📉 L: ₹99.06 <br>♦ ETH: ₹192998.8 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6491653.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6491653.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57506.27 | 📉 L: ₹56112.84 <br></p>
+<p align="center">🪙 USDC: ₹99.05 | 📈 H: ₹99.05 | 📉 L: ₹98.22 <br>💵 USDT: ₹99.51 | 📈 H: ₹100.5 | 📉 L: ₹99.07 <br>♦ ETH: ₹192998.8 | 📈 H: ₹193000.0 | 📉 L: ₹190000.0 <br>₿ BTC: ₹6503278.0 | 📈 H: ₹6596907.0 | 📉 L: ₹6491653.0 <br>⚡ BNB: ₹56177.48 | 📈 H: ₹57506.27 | 📉 L: ₹56112.84 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would come, but I'm trying this new thing where I just don't. 🛑❌ 
+  You really don't want me on this – my specialty is ruining things. 🛑❌ 
 </p>
 
 </details>
