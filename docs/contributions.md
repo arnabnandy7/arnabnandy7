@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16323 - Resolve packaged Postgres runtime module](https://github.com/JabRef/jabref/pull/16323) | 2026-07-23 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16156 - Fix Postgres binary packaging](https://github.com/JabRef/jabref/pull/16156) | 2026-07-23 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/cloud-page](https://github.com/Vault-Web/cloud-page) | [#106 - feat: stream folder downloads as zip](https://github.com/Vault-Web/cloud-page/pull/106) | 2026-07-23 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16312 - Simplify rate limiting changelog entry](https://github.com/JabRef/jabref/pull/16312) | 2026-07-22 |

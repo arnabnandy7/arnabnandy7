@@ -15,7 +15,7 @@
 <h3 align="center">Open Source Quest summary</h3>
 
 <table align="center">
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>4</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>5</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>4</strong>)</td></tr>
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td></tr>
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<strong>1</strong>)</td></tr>
 </table>
@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:36 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:04 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 31.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:36 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:04 AM | <strong>Sunset:</strong> 06:21 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.7 <strong>PM10:</strong> 24.4</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.0 <strong>PM10:</strong> 22.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-24 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.6 | 27.6 | 86 | 9.4 | 62 |
 | 2026-07-24 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.6 | 27.7 | 86 | 10.4 | 73 |
 | 2026-07-24 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.7 | 28.3 | 84 | 10.8 | 72 |
 | 2026-07-24 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.9 | 29.0 | 83 | 11.2 | 50 |
@@ -68,11 +67,12 @@
 | 2026-07-24 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.0 | 31.4 | 75 | 10.1 | 20 |
 | 2026-07-24 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.2 | 32.9 | 69 | 13.0 | 9 |
 | 2026-07-24 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.2 | 34.4 | 65 | 12.6 | 17 |
+| 2026-07-24 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.2 | 34.6 | 66 | 10.1 | 19 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.73 | 📈 H: ₹99.05 | 📉 L: ₹98.5 <br>💵 USDT: ₹99.85 | 📈 H: ₹100.5 | 📉 L: ₹99.2 <br>♦ ETH: ₹186000.1 | 📈 H: ₹192999.7 | 📉 L: ₹186000.0 <br>₿ BTC: ₹6500603.0 | 📈 H: ₹6596154.0 | 📉 L: ₹6443289.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57000.0 | 📉 L: ₹56112.84 <br></p>
+<p align="center">🪙 USDC: ₹98.73 | 📈 H: ₹99.05 | 📉 L: ₹98.5 <br>💵 USDT: ₹100.3 | 📈 H: ₹100.5 | 📉 L: ₹99.2 <br>♦ ETH: ₹186000.0 | 📈 H: ₹192998.8 | 📉 L: ₹186000.0 <br>₿ BTC: ₹6443321.0 | 📈 H: ₹6596154.0 | 📉 L: ₹6443289.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57000.0 | 📉 L: ₹56112.84 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The contract I signed with my bed doesn't allow me to do anything else. 🛑❌ 
+  It's a 'no' from the committee of me, myself, and I. 🛑❌ 
 </p>
 
 </details>
