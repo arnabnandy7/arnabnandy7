@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-24 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.8 | 29.0 | 89 | 13.3 | 64 |
-| 2026-07-24 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.6 | 28.8 | 90 | 13.3 | 47 |
-| 2026-07-24 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.9 | 29.2 | 89 | 13.7 | 39 |
-| 2026-07-24 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 30.7 | 84 | 14.0 | 41 |
 | 2026-07-24 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.1 | 32.2 | 78 | 14.0 | 31 |
 | 2026-07-24 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.4 | 33.9 | 71 | 15.1 | 26 |
 | 2026-07-24 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.2 | 35.0 | 67 | 16.6 | 28 |
 | 2026-07-24 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 30.1 | 34.9 | 68 | 17.3 | 54 |
 | 2026-07-24 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.7 | 34.4 | 70 | 18.4 | 34 |
 | 2026-07-24 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.8 | 34.5 | 70 | 16.2 | 15 |
+| 2026-07-24 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 34.9 | 69 | 15.8 | 14 |
+| 2026-07-24 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.5 | 34.3 | 73 | 14.0 | 11 |
+| 2026-07-24 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.2 | 32.5 | 79 | 13.0 | 12 |
+| 2026-07-24 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.5 | 31.6 | 82 | 12.2 | 13 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.73 | 📈 H: ₹99.05 | 📉 L: ₹98.5 <br>💵 USDT: ₹100.3 | 📈 H: ₹100.5 | 📉 L: ₹99.2 <br>♦ ETH: ₹185984.0 | 📈 H: ₹192887.6 | 📉 L: ₹185984.0 <br>₿ BTC: ₹6443321.0 | 📈 H: ₹6596154.0 | 📉 L: ₹6443289.0 <br>⚡ BNB: ₹56112.84 | 📈 H: ₹57000.0 | 📉 L: ₹56112.84 <br></p>
+<p align="center">🪙 USDC: ₹98.73 | 📈 H: ₹99.05 | 📉 L: ₹98.5 <br>💵 USDT: ₹100.1 | 📈 H: ₹100.5 | 📉 L: ₹99.2 <br>♦ ETH: ₹185367.1 | 📈 H: ₹192887.6 | 📉 L: ₹185367.1 <br>₿ BTC: ₹6443289.0 | 📈 H: ₹6596154.0 | 📉 L: ₹6443289.0 <br>⚡ BNB: ₹56112.85 | 📈 H: ₹57000.0 | 📉 L: ₹56112.84 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Saying yes is on my list of things to quit. 🛑❌ 
+  I have to decline; I wouldn't want to outshine everyone with my presence. 🛑❌ 
 </p>
 
 </details>
