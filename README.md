@@ -15,7 +15,7 @@
 <h3 align="center">Open Source Quest summary</h3>
 
 <table align="center">
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>5</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>4</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>6</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>4</strong>)</td></tr>
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td></tr>
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<strong>1</strong>)</td></tr>
 </table>
@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 25/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:28 PM, Set: 01:17 AM)  <br>🌅 <strong>Sunrise:</strong> 05:05 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:28 PM, Set: 01:17 AM)  <br>🌅 <strong>Sunrise:</strong> 05:05 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.9 <strong>PM10:</strong> 23.6</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.0 <strong>PM10:</strong> 21.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-26 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 26.8 | 86 | 19.8 | 20 |
-| 2026-07-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.3 | 24.9 | 87 | 19.1 | 17 |
-| 2026-07-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 22.3 | 90 | 21.2 | 31 |
-| 2026-07-26 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.2 | 24.0 | 89 | 23.0 | 35 |
-| 2026-07-26 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.3 | 25.2 | 89 | 20.5 | 40 |
-| 2026-07-26 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 25.9 | 89 | 20.9 | 31 |
-| 2026-07-26 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.7 | 27.6 | 88 | 22.3 | 29 |
-| 2026-07-26 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.8 | 81 | 27.0 | 30 |
-| 2026-07-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.7 | 35.3 | 75 | 33.1 | 58 |
-| 2026-07-26 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 33.5 | 80 | 29.2 | 43 |
+| 2026-07-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.1 | 24.1 | 88 | 19.1 | 18 |
+| 2026-07-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.8 | 21.9 | 91 | 21.6 | 32 |
+| 2026-07-26 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.1 | 23.6 | 90 | 22.7 | 36 |
+| 2026-07-26 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.2 | 24.5 | 90 | 20.5 | 40 |
+| 2026-07-26 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.3 | 25.1 | 90 | 20.9 | 31 |
+| 2026-07-26 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.6 | 27.3 | 88 | 22.3 | 29 |
+| 2026-07-26 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.8 | 82 | 27.7 | 29 |
+| 2026-07-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 35.2 | 76 | 33.1 | 57 |
+| 2026-07-26 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 33.5 | 81 | 29.5 | 42 |
+| 2026-07-26 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 34.9 | 77 | 29.5 | 33 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.94 | 📈 H: ₹100.84 | 📉 L: ₹98.94 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.69 | 📉 L: ₹99.28 <br>♦ ETH: ₹185433.1 | 📈 H: ₹188999.9 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6372386.0 | 📈 H: ₹6466415.0 | 📉 L: ₹6339343.0 <br>⚡ BNB: ₹56263.99 | 📈 H: ₹57000.0 | 📉 L: ₹55885.01 <br></p>
+<p align="center">🪙 USDC: ₹98.94 | 📈 H: ₹100.84 | 📉 L: ₹98.94 <br>💵 USDT: ₹100.44 | 📈 H: ₹100.69 | 📉 L: ₹99.28 <br>♦ ETH: ₹185663.1 | 📈 H: ₹188999.9 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6368648.0 | 📈 H: ₹6466415.0 | 📉 L: ₹6339343.0 <br>⚡ BNB: ₹56263.99 | 📈 H: ₹57000.0 | 📉 L: ₹55885.01 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
