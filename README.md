@@ -58,8 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-26 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 27.7 | 88 | 20.2 | 26 |
-| 2026-07-26 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 26.1 | 88 | 19.8 | 26 |
 | 2026-07-26 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 26.8 | 86 | 19.8 | 20 |
 | 2026-07-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.3 | 24.9 | 87 | 19.1 | 17 |
 | 2026-07-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 22.3 | 90 | 21.2 | 31 |
@@ -68,11 +66,13 @@
 | 2026-07-26 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.4 | 25.9 | 89 | 20.9 | 31 |
 | 2026-07-26 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.7 | 27.6 | 88 | 22.3 | 29 |
 | 2026-07-26 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.2 | 32.8 | 81 | 27.0 | 30 |
+| 2026-07-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.7 | 35.3 | 75 | 33.1 | 58 |
+| 2026-07-26 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 33.5 | 80 | 29.2 | 43 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.94 | 📈 H: ₹100.84 | 📉 L: ₹98.94 <br>💵 USDT: ₹100.42 | 📈 H: ₹100.75 | 📉 L: ₹99.28 <br>♦ ETH: ₹185283.3 | 📈 H: ₹188999.9 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6381389.0 | 📈 H: ₹6466415.0 | 📉 L: ₹6339343.0 <br>⚡ BNB: ₹57000.0 | 📈 H: ₹57000.0 | 📉 L: ₹55500.0 <br></p>
+<p align="center">🪙 USDC: ₹98.94 | 📈 H: ₹100.84 | 📉 L: ₹98.94 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.69 | 📉 L: ₹99.28 <br>♦ ETH: ₹185433.1 | 📈 H: ₹188999.9 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6372386.0 | 📈 H: ₹6466415.0 | 📉 L: ₹6339343.0 <br>⚡ BNB: ₹56263.99 | 📈 H: ₹57000.0 | 📉 L: ₹55885.01 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Think of me as the final boss of saying no – undefeated. 🛑❌ 
+  I've pre-booked my next thousand refusals; you're just one of them. 🛑❌ 
 </p>
 
 </details>
