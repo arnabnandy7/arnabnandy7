@@ -43,8 +43,8 @@
 
 <p align="center">Kolkata, India - 25/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
-  Partly Cloudy (অংশত মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:28 PM, Set: 01:17 AM)  <br>🌅 <strong>Sunrise:</strong> 05:05 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 39.3 °C</p>
 
@@ -58,8 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-25 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.5 | 35.2 | 76 | 15.5 | 12 |
-| 2026-07-25 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.7 | 34.1 | 80 | 14.0 | 12 |
 | 2026-07-25 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 33.5 | 83 | 13.7 | 21 |
 | 2026-07-25 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 33.0 | 84 | 11.5 | 22 |
 | 2026-07-25 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.4 | 85 | 10.1 | 24 |
@@ -68,11 +66,13 @@
 | 2026-07-26 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.2 | 31.5 | 89 | 9.7 | 15 |
 | 2026-07-26 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 31.0 | 90 | 10.8 | 62 |
 | 2026-07-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 29.6 | 90 | 10.8 | 32 |
+| 2026-07-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 29.2 | 90 | 11.9 | 27 |
+| 2026-07-26 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 26.6 | 28.1 | 91 | 11.9 | 17 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.02 | 📈 H: ₹101.13 | 📉 L: ₹99.02 <br>💵 USDT: ₹99.81 | 📈 H: ₹100.94 | 📉 L: ₹99.81 <br>♦ ETH: ₹187404.4 | 📈 H: ₹189000.1 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6345245.0 | 📈 H: ₹6500010.0 | 📉 L: ₹6325004.0 <br>⚡ BNB: ₹55945.9 | 📈 H: ₹56934.99 | 📉 L: ₹55500.0 <br></p>
+<p align="center">🪙 USDC: ₹99.02 | 📈 H: ₹101.13 | 📉 L: ₹99.02 <br>💵 USDT: ₹100.64 | 📈 H: ₹100.94 | 📉 L: ₹99.28 <br>♦ ETH: ₹185135.0 | 📈 H: ₹188999.9 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6345001.0 | 📈 H: ₹6486912.0 | 📉 L: ₹6325004.0 <br>⚡ BNB: ₹56102.23 | 📈 H: ₹56934.99 | 📉 L: ₹55500.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I got a black belt in No-jitsu. 🛑❌ 
+  No can do—said in the nicest possible way. 🛑❌ 
 </p>
 
 </details>
