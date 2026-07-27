@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/apple.png?size=24" width="24" height="24" alt="apple avatar"> [apple/servicetalk](https://github.com/apple/servicetalk) | [#3570 - opentelemetry-http: stabilize lifecycle cancellation test](https://github.com/apple/servicetalk/pull/3570) | 2026-07-27 |
+| <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#22908 - KAFKA-20828: Derive client throttling from response schema](https://github.com/apache/kafka/pull/22908) | 2026-07-27 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/cloud-page](https://github.com/Vault-Web/cloud-page) | [#107 - feat: add secure user resource sharing](https://github.com/Vault-Web/cloud-page/pull/107) | 2026-07-27 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16334 - Fix embedded PostgreSQL for Gradle run](https://github.com/JabRef/jabref/pull/16334) | 2026-07-25 |
 | <img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> [JabRef/jabref](https://github.com/JabRef/jabref) | [#16323 - Resolve packaged Postgres runtime module](https://github.com/JabRef/jabref/pull/16323) | 2026-07-23 |
