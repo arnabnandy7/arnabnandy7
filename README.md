@@ -41,10 +41,10 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 26/07/2026</p>
+<p align="center">Kolkata, India - 27/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle weather icon"/><br/>
-  Light drizzle (হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:21 PM, Set: 02:07 AM)  <br>🌅 <strong>Sunrise:</strong> 05:05 AM | <strong>Sunset:</strong> 06:20 PM  <br>💨 <strong>Wind:</strong> 23.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 25.0 °C</p>
 
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-27 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 26.2 | 24.1 | 89 | 25.9 | 62 |
 | 2026-07-27 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.2 | 24.1 | 89 | 28.4 | 64 |
 | 2026-07-27 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.2 | 23.6 | 90 | 29.2 | 74 |
 | 2026-07-27 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.3 | 25.1 | 92 | 26.6 | 77 |
@@ -68,11 +67,12 @@
 | 2026-07-27 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 35.7 | 81 | 31.7 | 68 |
 | 2026-07-27 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.1 | 37.2 | 77 | 36.0 | 68 |
 | 2026-07-27 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 36.7 | 79 | 33.8 | 70 |
+| 2026-07-27 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.9 | 36.9 | 78 | 31.3 | 66 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.13 | 📈 H: ₹99.23 | 📉 L: ₹98.94 <br>💵 USDT: ₹100.29 | 📈 H: ₹100.6 | 📉 L: ₹99.42 <br>♦ ETH: ₹194534.1 | 📈 H: ₹194534.1 | 📉 L: ₹186414.1 <br>₿ BTC: ₹6456742.0 | 📈 H: ₹6502610.0 | 📉 L: ₹6371515.0 <br>⚡ BNB: ₹57025.61 | 📈 H: ₹57025.61 | 📉 L: ₹56536.19 <br></p>
+<p align="center">🪙 USDC: ₹99.13 | 📈 H: ₹99.23 | 📉 L: ₹98.94 <br>💵 USDT: ₹99.82 | 📈 H: ₹100.6 | 📉 L: ₹99.42 <br>♦ ETH: ₹194534.1 | 📈 H: ₹194534.1 | 📉 L: ₹186414.1 <br>₿ BTC: ₹6472271.0 | 📈 H: ₹6502610.0 | 📉 L: ₹6379386.0 <br>⚡ BNB: ₹56852.79 | 📈 H: ₹57025.61 | 📉 L: ₹56536.19 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
