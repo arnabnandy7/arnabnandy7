@@ -6,8 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
-| <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-async-profiler](https://github.com/grafana/pyroscope-async-profiler) | [#21 - Sync fork with upstream async-profiler 4.5](https://github.com/grafana/pyroscope-async-profiler/pull/21) | 2026-07-29 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#22908 - KAFKA-20828: Derive client throttling from response schema](https://github.com/apache/kafka/pull/22908) | 2026-07-29 |
+| <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-async-profiler](https://github.com/grafana/pyroscope-async-profiler) | [#21 - Sync fork with upstream async-profiler 4.5](https://github.com/grafana/pyroscope-async-profiler/pull/21) | 2026-07-29 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2617 - fix: avoid replacing active Windows command launcher](https://github.com/jbangdev/jbang/pull/2617) | 2026-07-29 |
 | <img src="https://github.com/apple.png?size=24" width="24" height="24" alt="apple avatar"> [apple/servicetalk](https://github.com/apple/servicetalk) | [#3570 - opentelemetry-http: stabilize lifecycle cancellation test](https://github.com/apple/servicetalk/pull/3570) | 2026-07-27 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/cloud-page](https://github.com/Vault-Web/cloud-page) | [#107 - feat: add secure user resource sharing](https://github.com/Vault-Web/cloud-page/pull/107) | 2026-07-27 |
