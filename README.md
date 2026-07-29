@@ -16,8 +16,8 @@
 
 <table align="center">
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<strong>6</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<strong>5</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<strong>4</strong>)</td></tr>
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td></tr>
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> <a href="https://github.com/apache/kafka">apache/kafka</a> (<strong>1</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<strong>3</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<strong>3</strong>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/meks77.png?size=24" width="24" height="24" alt="meks77 avatar"> <a href="https://github.com/meks77/quarkus-axonframework-extension">meks77/quarkus-axonframework-extension</a> (<strong>2</strong>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> <a href="https://github.com/apache/kafka">apache/kafka</a> (<strong>1</strong>)</td></tr>
 </table>
 
 [Explore the complete open source quest log](./docs/contributions.md)
@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 29/07/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
-  Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png" alt="Patchy light drizzle weather icon"/><br/>
+  Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 06:30 PM, Set: 04:50 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 31.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 06:29 PM, Set: 04:50 AM)  <br>🌅 <strong>Sunrise:</strong> 05:06 AM | <strong>Sunset:</strong> 06:19 PM  <br>💨 <strong>Wind:</strong> 24.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.8 <strong>PM10:</strong> 11.2</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.4 <strong>PM10:</strong> 7.9</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-29 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.4 | 37.9 | 67 | 23.8 | 24 |
-| 2026-07-29 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.3 | 65 | 23.8 | 19 |
-| 2026-07-29 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.0 | 65 | 23.0 | 36 |
-| 2026-07-29 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 37.7 | 66 | 22.0 | 45 |
-| 2026-07-29 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.5 | 37.4 | 65 | 22.3 | 17 |
-| 2026-07-29 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.0 | 36.8 | 68 | 21.6 | 23 |
-| 2026-07-29 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.9 | 35.3 | 73 | 21.2 | 11 |
-| 2026-07-29 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.6 | 33.6 | 79 | 19.1 | 11 |
-| 2026-07-29 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.2 | 32.9 | 82 | 16.9 | 13 |
-| 2026-07-29 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 32.7 | 83 | 16.2 | 21 |
+| 2026-07-29 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.3 | 38.6 | 63 | 23.4 | 27 |
+| 2026-07-29 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.3 | 38.6 | 62 | 23.0 | 28 |
+| 2026-07-29 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 31.9 | 38.2 | 65 | 23.0 | 36 |
+| 2026-07-29 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.0 | 37.2 | 69 | 22.7 | 18 |
+| 2026-07-29 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.6 | 35.4 | 76 | 20.2 | 10 |
+| 2026-07-29 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 33.5 | 81 | 17.3 | 12 |
+| 2026-07-29 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.3 | 33.2 | 82 | 16.9 | 14 |
+| 2026-07-29 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.1 | 33.0 | 84 | 16.2 | 23 |
+| 2026-07-29 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.9 | 32.7 | 85 | 15.5 | 42 |
+| 2026-07-29 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.6 | 32.1 | 86 | 15.5 | 55 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.19 | 📈 H: ₹100.0 | 📉 L: ₹99.13 <br>💵 USDT: ₹99.83 | 📈 H: ₹100.75 | 📉 L: ₹99.67 <br>♦ ETH: ₹192459.8 | 📈 H: ₹193599.4 | 📉 L: ₹185946.9 <br>₿ BTC: ₹6333173.0 | 📈 H: ₹6419108.0 | 📉 L: ₹6240124.0 <br>⚡ BNB: ₹57000.0 | 📈 H: ₹57312.54 | 📉 L: ₹56067.83 <br></p>
+<p align="center">🪙 USDC: ₹99.19 | 📈 H: ₹100.0 | 📉 L: ₹99.13 <br>💵 USDT: ₹100.01 | 📈 H: ₹100.75 | 📉 L: ₹99.71 <br>♦ ETH: ₹190599.4 | 📈 H: ₹193599.4 | 📉 L: ₹185946.9 <br>₿ BTC: ₹6397434.0 | 📈 H: ₹6419228.0 | 📉 L: ₹6240124.0 <br>⚡ BNB: ₹56675.48 | 📈 H: ₹57312.62 | 📉 L: ₹56072.75 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
