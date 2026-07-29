@@ -113,7 +113,7 @@ markdown_rows() {
 }
 
 repository_summary_rows() {
-  jq -r '
+  jq -r --arg username "$USERNAME" '
     def repository_name: .repository_url | tostring | sub("^https://api.github.com/repos/"; "");
     def repository_owner: repository_name | split("/")[0];
     map({ name: repository_name, owner: repository_owner })
@@ -123,7 +123,7 @@ repository_summary_rows() {
     | sort_by([-.count, (.name | ascii_downcase)])
     | .[:9]
     | map(
-        "<img src=\"https://github.com/\(.owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<strong>\(.count)</strong>)"
+        "<img src=\"https://github.com/\(.owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/\(.name)/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)\"><strong>\(.count)</strong></a>)"
       )
     | . as $repositories
     | range(0; length; 3) as $index
