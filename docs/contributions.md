@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/spring-projects.png?size=24" width="24" height="24" alt="spring-projects avatar"> [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | [#37081 - Ignore static get/is accessor methods in PropertyDescriptorUtils](https://github.com/spring-projects/spring-framework/pull/37081) | 2026-07-30 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#49833 - Use dedicated JMS listener connection factory](https://github.com/Azure/azure-sdk-for-java/pull/49833) | 2026-07-30 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#22908 - KAFKA-20828: Derive client throttling from response schema](https://github.com/apache/kafka/pull/22908) | 2026-07-29 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-async-profiler](https://github.com/grafana/pyroscope-async-profiler) | [#21 - Sync fork with upstream async-profiler 4.5](https://github.com/grafana/pyroscope-async-profiler/pull/21) | 2026-07-29 |
