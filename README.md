@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/263.png" alt="Patchy light drizzle weather icon"/><br/>
   Patchy light drizzle (এক পশলা হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:04 PM, Set: 05:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 34.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:04 PM, Set: 05:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 87% | 🌡️ <strong>Feels Like:</strong> 31.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.2 <strong>PM10:</strong> 13.8</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.9 <strong>PM10:</strong> 14.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-07-30 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.3 | 31.2 | 87 | 18.7 | 62 |
-| 2026-07-30 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.2 | 31.0 | 87 | 18.0 | 44 |
-| 2026-07-30 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.1 | 30.9 | 88 | 17.6 | 17 |
-| 2026-07-31 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.9 | 30.2 | 89 | 15.8 | 20 |
-| 2026-07-31 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 29.6 | 89 | 14.0 | 28 |
-| 2026-07-31 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 28.6 | 90 | 13.3 | 23 |
-| 2026-07-31 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 27.8 | 90 | 13.3 | 21 |
-| 2026-07-31 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 27.6 | 90 | 13.0 | 21 |
-| 2026-07-31 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 26.6 | 28.0 | 90 | 12.2 | 23 |
-| 2026-07-31 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.5 | 31.9 | 86 | 14.8 | 22 |
+| 2026-07-30 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 27.0 | 30.9 | 88 | 16.6 | 51 |
+| 2026-07-31 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.7 | 88 | 15.8 | 36 |
+| 2026-07-31 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 26.9 | 30.5 | 89 | 14.8 | 57 |
+| 2026-07-31 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.8 | 30.3 | 89 | 13.3 | 25 |
+| 2026-07-31 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.6 | 29.9 | 90 | 11.9 | 18 |
+| 2026-07-31 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 29.7 | 92 | 11.5 | 22 |
+| 2026-07-31 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.5 | 29.8 | 92 | 11.5 | 25 |
+| 2026-07-31 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.5 | 32.1 | 88 | 13.7 | 35 |
+| 2026-07-31 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 28.8 | 34.2 | 81 | 16.2 | 29 |
+| 2026-07-31 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.0 | 36.1 | 74 | 17.3 | 25 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.35 | 📈 H: ₹99.35 | 📉 L: ₹99.0 <br>💵 USDT: ₹99.65 | 📈 H: ₹100.41 | 📉 L: ₹99.3 <br>♦ ETH: ₹192785.0 | 📈 H: ₹192786.2 | 📉 L: ₹187712.1 <br>₿ BTC: ₹6422995.0 | 📈 H: ₹6490873.0 | 📉 L: ₹6343319.0 <br>⚡ BNB: ₹58282.2 | 📈 H: ₹58314.98 | 📉 L: ₹56299.07 <br></p>
+<p align="center">🪙 USDC: ₹99.35 | 📈 H: ₹99.35 | 📉 L: ₹99.0 <br>💵 USDT: ₹99.86 | 📈 H: ₹100.39 | 📉 L: ₹99.3 <br>♦ ETH: ₹190722.0 | 📈 H: ₹192785.0 | 📉 L: ₹188450.0 <br>₿ BTC: ₹6487843.0 | 📈 H: ₹6489681.0 | 📉 L: ₹6343319.0 <br>⚡ BNB: ₹58754.96 | 📈 H: ₹58754.96 | 📉 L: ₹56697.13 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm declining out of an abundance of apathy. 🛑❌ 
+  I skipped class because I felt I owed it to myself to not learn bad things. 🛑❌ 
 </p>
 
 </details>
