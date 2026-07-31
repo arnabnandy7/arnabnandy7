@@ -46,9 +46,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
   Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:36 PM, Set: 06:35 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 13.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 33.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:36 PM, Set: 06:35 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.5 <strong>PM10:</strong> 12.0</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.0 <strong>PM10:</strong> 11.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-01 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 31.0 | 89 | 11.5 | 22 |
-| 2026-08-01 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.0 | 31.0 | 90 | 11.2 | 27 |
-| 2026-08-01 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 27.0 | 31.0 | 90 | 10.1 | 19 |
-| 2026-08-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.0 | 33.0 | 85 | 13.0 | 24 |
-| 2026-08-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.4 | 35.3 | 77 | 15.8 | 24 |
-| 2026-08-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.6 | 36.8 | 71 | 16.6 | 49 |
-| 2026-08-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 38.1 | 68 | 17.3 | 48 |
-| 2026-08-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 38.9 | 65 | 18.4 | 57 |
-| 2026-08-01 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 39.3 | 64 | 19.1 | 17 |
-| 2026-08-01 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.7 | 39.6 | 62 | 20.5 | 11 |
+| 2026-08-01 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.8 | 90 | 9.7 | 22 |
+| 2026-08-01 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 26.9 | 30.9 | 90 | 9.0 | 20 |
+| 2026-08-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.0 | 32.9 | 85 | 10.8 | 18 |
+| 2026-08-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 35.2 | 78 | 12.6 | 51 |
+| 2026-08-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.4 | 36.8 | 73 | 14.8 | 51 |
+| 2026-08-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 37.9 | 68 | 16.2 | 29 |
+| 2026-08-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 39.1 | 66 | 17.3 | 39 |
+| 2026-08-01 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.9 | 63 | 18.4 | 36 |
+| 2026-08-01 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.9 | 40.1 | 63 | 19.1 | 17 |
+| 2026-08-01 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.8 | 39.8 | 63 | 20.5 | 17 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.99 | 📈 H: ₹99.12 | 📉 L: ₹98.99 <br>💵 USDT: ₹99.31 | 📈 H: ₹100.44 | 📉 L: ₹99.18 <br>♦ ETH: ₹185000.1 | 📈 H: ₹192740.7 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6230867.0 | 📈 H: ₹6488984.0 | 📉 L: ₹6200000.0 <br>⚡ BNB: ₹57726.14 | 📈 H: ₹59300.0 | 📉 L: ₹57726.14 <br></p>
+<p align="center">🪙 USDC: ₹98.99 | 📈 H: ₹99.12 | 📉 L: ₹98.99 <br>💵 USDT: ₹99.31 | 📈 H: ₹100.44 | 📉 L: ₹99.18 <br>♦ ETH: ₹185000.1 | 📈 H: ₹191992.4 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6233028.0 | 📈 H: ₹6488984.0 | 📉 L: ₹6200000.0 <br>⚡ BNB: ₹57726.14 | 📈 H: ₹59300.0 | 📉 L: ₹57726.14 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My parole officer said I'm only allowed to work on being lazy. 🛑❌ 
+  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
 </p>
 
 </details>
