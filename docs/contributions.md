@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1837 - refactor: extract shared tool execution support](https://github.com/embabel/embabel-agent/pull/1837) | 2026-07-31 |
 | <img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> [buntychakraborty/corona-app](https://github.com/buntychakraborty/corona-app) | [#2 - Same page viewing](https://github.com/buntychakraborty/corona-app/pull/2) | 2026-07-30 |
 | <img src="https://github.com/spring-projects.png?size=24" width="24" height="24" alt="spring-projects avatar"> [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | [#37081 - Ignore static get/is accessor methods in PropertyDescriptorUtils](https://github.com/spring-projects/spring-framework/pull/37081) | 2026-07-30 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#49833 - Use dedicated JMS listener connection factory](https://github.com/Azure/azure-sdk-for-java/pull/49833) | 2026-07-30 |
