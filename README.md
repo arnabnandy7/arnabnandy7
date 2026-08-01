@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 01/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
-  Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:36 PM, Set: 06:35 AM)  <br>🌅 <strong>Sunrise:</strong> 05:07 AM | <strong>Sunset:</strong> 06:18 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 90% | 🌡️ <strong>Feels Like:</strong> 31.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:07 PM, Set: 07:25 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 85% | 🌡️ <strong>Feels Like:</strong> 32.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.5 <strong>PM10:</strong> 10.7</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.1 <strong>PM10:</strong> 13.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.0 | 32.9 | 85 | 10.8 | 18 |
-| 2026-08-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.3 | 35.2 | 78 | 12.6 | 51 |
-| 2026-08-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.4 | 36.8 | 73 | 14.8 | 51 |
-| 2026-08-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 37.9 | 68 | 16.2 | 29 |
 | 2026-08-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.1 | 39.1 | 66 | 17.3 | 39 |
 | 2026-08-01 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.9 | 63 | 18.4 | 36 |
 | 2026-08-01 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.9 | 40.1 | 63 | 19.1 | 17 |
 | 2026-08-01 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.8 | 39.8 | 63 | 20.5 | 17 |
 | 2026-08-01 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 39.3 | 63 | 20.9 | 10 |
 | 2026-08-01 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 39.0 | 63 | 20.9 | 9 |
+| 2026-08-01 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.9 | 38.5 | 65 | 18.7 | 8 |
+| 2026-08-01 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.0 | 37.7 | 70 | 17.6 | 9 |
+| 2026-08-01 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.6 | 35.5 | 76 | 16.6 | 11 |
+| 2026-08-01 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.9 | 34.6 | 80 | 16.9 | 13 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.99 | 📈 H: ₹99.12 | 📉 L: ₹98.99 <br>💵 USDT: ₹99.95 | 📈 H: ₹100.44 | 📉 L: ₹99.18 <br>♦ ETH: ₹185000.1 | 📈 H: ₹191992.4 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6230866.0 | 📈 H: ₹6488984.0 | 📉 L: ₹6200000.0 <br>⚡ BNB: ₹57726.14 | 📈 H: ₹59300.0 | 📉 L: ₹57726.14 <br></p>
+<p align="center">🪙 USDC: ₹99.15 | 📈 H: ₹99.15 | 📉 L: ₹98.99 <br>💵 USDT: ₹99.24 | 📈 H: ₹100.44 | 📉 L: ₹99.18 <br>♦ ETH: ₹185000.3 | 📈 H: ₹188804.4 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6330035.0 | 📈 H: ₹6487109.0 | 📉 L: ₹6200000.0 <br>⚡ BNB: ₹58451.69 | 📈 H: ₹59300.0 | 📉 L: ₹57726.14 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I truly value our connection, and I hope my no doesn’t change that. 🛑❌ 
+  I'll join you on the 32nd of this month. 🛑❌ 
 </p>
 
 </details>
