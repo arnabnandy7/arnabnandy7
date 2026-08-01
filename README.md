@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 01/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
-  Partly Cloudy (অংশত মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
+  Clear (পরিষ্কার)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:07 PM, Set: 07:25 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 16.2 kph | 💧 <strong>Humidity:</strong> 87% | 🌡️ <strong>Feels Like:</strong> 33.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:07 PM, Set: 07:25 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 32.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.2 <strong>PM10:</strong> 20.1</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.6 <strong>PM10:</strong> 16.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-02 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 32.4 | 87 | 12.2 | 14 |
 | 2026-08-02 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.5 | 31.9 | 88 | 11.2 | 14 |
 | 2026-08-02 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.3 | 31.7 | 88 | 10.1 | 14 |
 | 2026-08-02 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 27.3 | 31.7 | 88 | 10.8 | 15 |
@@ -68,6 +67,7 @@
 | 2026-08-02 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.4 | 39.6 | 65 | 13.7 | 38 |
 | 2026-08-02 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.1 | 40.5 | 62 | 15.8 | 57 |
 | 2026-08-02 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.4 | 40.9 | 61 | 16.2 | 36 |
+| 2026-08-02 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.8 | 41.4 | 60 | 16.9 | 36 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
