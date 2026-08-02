@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-03 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.9 | 32.9 | 86 | 12.6 | 30 |
 | 2026-08-03 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.7 | 87 | 11.5 | 19 |
 | 2026-08-03 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 32.4 | 87 | 11.2 | 18 |
 | 2026-08-03 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 27.7 | 32.6 | 88 | 10.8 | 17 |
@@ -68,11 +67,12 @@
 | 2026-08-03 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 32.5 | 40.1 | 66 | 12.6 | 57 |
 | 2026-08-03 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.4 | 41.2 | 62 | 13.7 | 44 |
 | 2026-08-03 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.1 | 41.8 | 58 | 14.4 | 39 |
+| 2026-08-03 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.3 | 42.2 | 58 | 16.2 | 36 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.03 | 📈 H: ₹100.94 | 📉 L: ₹99.03 <br>💵 USDT: ₹99.71 | 📈 H: ₹100.26 | 📉 L: ₹99.51 <br>♦ ETH: ₹187659.9 | 📈 H: ₹187680.1 | 📉 L: ₹182920.1 <br>₿ BTC: ₹6268161.0 | 📈 H: ₹6336326.0 | 📉 L: ₹6243529.0 <br>⚡ BNB: ₹58330.97 | 📈 H: ₹58800.0 | 📉 L: ₹57501.1 <br></p>
+<p align="center">🪙 USDC: ₹99.03 | 📈 H: ₹100.94 | 📉 L: ₹99.03 <br>💵 USDT: ₹99.71 | 📈 H: ₹100.26 | 📉 L: ₹99.51 <br>♦ ETH: ₹186427.8 | 📈 H: ₹187680.1 | 📉 L: ₹182920.1 <br>₿ BTC: ₹6336323.0 | 📈 H: ₹6336326.0 | 📉 L: ₹6243529.0 <br>⚡ BNB: ₹58330.97 | 📈 H: ₹58800.0 | 📉 L: ₹57501.1 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
