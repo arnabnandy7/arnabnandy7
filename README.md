@@ -16,8 +16,8 @@
 
 <table align="center">
   <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/JabRef.png?size=24" width="24" height="24" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">JabRef/jabref</a> (<a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">Vault-Web/cloud-page</a> (<a href="https://github.com/Vault-Web/cloud-page/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">prometheus/client_java</a> (<a href="https://github.com/prometheus/client_java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td></tr>
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<a href="https://github.com/jbangdev/jbang/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td></tr>
-  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<a href="https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> <a href="https://github.com/embabel/embabel-agent">embabel/embabel-agent</a> (<a href="https://github.com/embabel/embabel-agent/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<a href="https://github.com/hardwood-hq/hardwood/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/buntychakraborty.png?size=24" width="24" height="24" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">buntychakraborty/corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> <a href="https://github.com/embabel/embabel-agent">embabel/embabel-agent</a> (<a href="https://github.com/embabel/embabel-agent/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbangdev/jbang</a> (<a href="https://github.com/jbangdev/jbang/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td></tr>
+  <tr><td align="center" valign="middle" width="33%"><img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">Vault-Web/vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">Azure/azure-sdk-for-java</a> (<a href="https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td><td align="center" valign="middle" width="33%"><img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood-hq/hardwood</a> (<a href="https://github.com/hardwood-hq/hardwood/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
 </table>
 
 [Explore the complete open source quest log](./docs/contributions.md)
@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 02/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:37 PM, Set: 08:15 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 35.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:37 PM, Set: 08:15 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:17 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 35.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 24.5 <strong>PM10:</strong> 25.5</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.4 <strong>PM10:</strong> 24.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-02 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.8 | 34.7 | 83 | 16.9 | 21 |
-| 2026-08-02 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.6 | 34.3 | 84 | 16.6 | 17 |
-| 2026-08-02 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.3 | 33.8 | 85 | 14.8 | 17 |
-| 2026-08-03 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 33.3 | 86 | 15.1 | 13 |
-| 2026-08-03 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 28.0 | 33.1 | 86 | 13.0 | 37 |
-| 2026-08-03 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.8 | 32.8 | 87 | 12.6 | 16 |
-| 2026-08-03 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.7 | 87 | 11.5 | 34 |
-| 2026-08-03 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.7 | 32.4 | 86 | 11.5 | 59 |
-| 2026-08-03 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 32.5 | 86 | 12.2 | 35 |
-| 2026-08-03 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.7 | 34.4 | 82 | 12.2 | 60 |
+| 2026-08-02 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.6 | 34.5 | 84 | 14.4 | 27 |
+| 2026-08-02 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.5 | 34.2 | 84 | 14.4 | 16 |
+| 2026-08-03 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.1 | 33.5 | 86 | 13.0 | 46 |
+| 2026-08-03 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.1 | 33.0 | 85 | 13.7 | 64 |
+| 2026-08-03 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.9 | 32.9 | 86 | 12.6 | 30 |
+| 2026-08-03 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.7 | 87 | 11.5 | 19 |
+| 2026-08-03 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 32.4 | 87 | 11.2 | 18 |
+| 2026-08-03 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 27.7 | 32.6 | 88 | 10.8 | 17 |
+| 2026-08-03 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.7 | 34.4 | 83 | 13.0 | 14 |
+| 2026-08-03 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.0 | 36.7 | 76 | 14.0 | 12 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.94 | 📈 H: ₹100.94 | 📉 L: ₹99.03 <br>💵 USDT: ₹99.56 | 📈 H: ₹100.26 | 📉 L: ₹99.51 <br>♦ ETH: ₹187660.6 | 📈 H: ₹187680.1 | 📉 L: ₹182920.1 <br>₿ BTC: ₹6264550.0 | 📈 H: ₹6336326.0 | 📉 L: ₹6243529.0 <br>⚡ BNB: ₹57929.59 | 📈 H: ₹58800.0 | 📉 L: ₹57501.1 <br></p>
+<p align="center">🪙 USDC: ₹100.94 | 📈 H: ₹100.94 | 📉 L: ₹99.03 <br>💵 USDT: ₹99.85 | 📈 H: ₹100.26 | 📉 L: ₹99.51 <br>♦ ETH: ₹187660.6 | 📈 H: ₹187680.1 | 📉 L: ₹182920.1 <br>₿ BTC: ₹6264552.0 | 📈 H: ₹6336326.0 | 📉 L: ₹6243529.0 <br>⚡ BNB: ₹57929.59 | 📈 H: ₹58800.0 | 📉 L: ₹57501.1 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is full of blank spaces reserved for me-time. 🛑❌ 
+  I'll be busy exploring the great indoors. 🛑❌ 
 </p>
 
 </details>
