@@ -43,8 +43,8 @@
 
 <p align="center">Kolkata, India - 03/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
-  Clear (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:07 PM, Set: 09:05 AM)  <br>🌅 <strong>Sunrise:</strong> 05:08 AM | <strong>Sunset:</strong> 06:16 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 33.1 °C</p>
 
@@ -58,7 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-04 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.1 | 32.8 | 84 | 11.2 | 12 |
 | 2026-08-04 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.0 | 32.8 | 84 | 10.8 | 13 |
 | 2026-08-04 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.2 | 35.0 | 79 | 12.6 | 10 |
 | 2026-08-04 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 37.4 | 72 | 14.4 | 16 |
@@ -68,6 +67,7 @@
 | 2026-08-04 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.9 | 42.6 | 55 | 16.2 | 36 |
 | 2026-08-04 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 35.0 | 42.5 | 55 | 16.9 | 43 |
 | 2026-08-04 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.5 | 41.9 | 56 | 17.6 | 38 |
+| 2026-08-04 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.8 | 41.1 | 59 | 18.7 | 37 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
