@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 04/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
-  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:40 PM, Set: 09:57 AM)  <br>🌅 <strong>Sunrise:</strong> 05:09 AM | <strong>Sunset:</strong> 06:15 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 40.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:40 PM, Set: 09:57 AM)  <br>🌅 <strong>Sunrise:</strong> 05:09 AM | <strong>Sunset:</strong> 06:15 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 55% | 🌡️ <strong>Feels Like:</strong> 42.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.3 <strong>PM10:</strong> 13.4</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.3 <strong>PM10:</strong> 19.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,9 +58,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-04 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 35.0 | 42.7 | 55 | 13.7 | 57 |
-| 2026-08-04 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.0 | 41.6 | 59 | 16.6 | 57 |
-| 2026-08-04 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.1 | 40.5 | 62 | 19.8 | 36 |
 | 2026-08-04 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 39.7 | 66 | 19.1 | 19 |
 | 2026-08-04 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.5 | 38.4 | 69 | 18.4 | 17 |
 | 2026-08-04 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.4 | 36.8 | 72 | 16.9 | 8 |
@@ -68,11 +65,14 @@
 | 2026-08-04 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.4 | 35.4 | 78 | 17.6 | 14 |
 | 2026-08-04 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.1 | 35.1 | 80 | 17.3 | 14 |
 | 2026-08-04 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.9 | 34.7 | 81 | 16.2 | 19 |
+| 2026-08-04 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/266.png) Light drizzle | 28.6 | 34.2 | 82 | 14.0 | 52 |
+| 2026-08-05 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.5 | 33.9 | 83 | 13.0 | 34 |
+| 2026-08-05 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.4 | 33.7 | 84 | 13.3 | 40 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.56 | 📈 H: ₹100.94 | 📉 L: ₹98.56 <br>💵 USDT: ₹99.4 | 📈 H: ₹100.29 | 📉 L: ₹99.13 <br>♦ ETH: ₹188012.3 | 📈 H: ₹188013.1 | 📉 L: ₹183500.0 <br>₿ BTC: ₹6409434.0 | 📈 H: ₹6409443.0 | 📉 L: ₹6081799.0 <br>⚡ BNB: ₹58305.91 | 📈 H: ₹58800.0 | 📉 L: ₹57643.37 <br></p>
+<p align="center">🪙 USDC: ₹98.56 | 📈 H: ₹100.94 | 📉 L: ₹98.56 <br>💵 USDT: ₹99.15 | 📈 H: ₹100.29 | 📉 L: ₹99.15 <br>♦ ETH: ₹183442.0 | 📈 H: ₹188013.1 | 📉 L: ₹183442.0 <br>₿ BTC: ₹6275118.0 | 📈 H: ₹6409443.0 | 📉 L: ₹6081799.0 <br>⚡ BNB: ₹58232.23 | 📈 H: ₹58800.0 | 📉 L: ₹57764.43 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If I end up liking it, then I'll have to do it again, so no. 🛑❌ 
+  I'll spare you a half-hearted yes and give you an honest no. 🛑❌ 
 </p>
 
 </details>
