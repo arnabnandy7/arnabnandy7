@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#49855 - Fix azure-core native image logging initialization](https://github.com/Azure/azure-sdk-for-java/pull/49855) | 2026-08-04 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#55298 - Fix test selection for nested test classes](https://github.com/quarkusio/quarkus/pull/55298) | 2026-08-03 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#55784 - Fix static Mockito mocks in continuous testing](https://github.com/quarkusio/quarkus/pull/55784) | 2026-08-03 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1863 - chore(deps): upgrade LangChain4j to 1.14.1](https://github.com/embabel/embabel-agent/pull/1863) | 2026-08-02 |
