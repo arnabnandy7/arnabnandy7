@@ -43,12 +43,12 @@
 
 <p align="center">Kolkata, India - 05/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:16 PM, Set: 10:51 AM)  <br>🌅 <strong>Sunrise:</strong> 05:09 AM | <strong>Sunset:</strong> 06:15 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 34.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:16 PM, Set: 10:51 AM)  <br>🌅 <strong>Sunrise:</strong> 05:09 AM | <strong>Sunset:</strong> 06:15 PM  <br>💨 <strong>Wind:</strong> 16.6 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 40.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.7 <strong>PM10:</strong> 25.7</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.6 <strong>PM10:</strong> 28.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-05 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 39.2 | 64 | 16.2 | 16 |
-| 2026-08-05 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 39.2 | 63 | 14.8 | 26 |
-| 2026-08-05 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 38.9 | 62 | 13.0 | 36 |
-| 2026-08-05 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.4 | 38.6 | 61 | 11.5 | 21 |
-| 2026-08-05 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.1 | 64 | 11.5 | 22 |
-| 2026-08-05 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.8 | 37.2 | 71 | 12.6 | 23 |
-| 2026-08-05 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 36.1 | 75 | 13.3 | 23 |
-| 2026-08-05 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.4 | 35.2 | 78 | 11.9 | 36 |
-| 2026-08-05 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.0 | 34.5 | 79 | 11.9 | 27 |
-| 2026-08-05 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.8 | 34.1 | 80 | 10.4 | 64 |
+| 2026-08-05 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.2 | 41.0 | 63 | 17.6 | 57 |
+| 2026-08-05 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 39.8 | 67 | 16.6 | 36 |
+| 2026-08-05 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.0 | 38.1 | 72 | 17.6 | 21 |
+| 2026-08-05 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.9 | 36.3 | 76 | 13.0 | 50 |
+| 2026-08-05 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.2 | 35.1 | 79 | 9.4 | 56 |
+| 2026-08-05 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.9 | 34.7 | 81 | 5.4 | 63 |
+| 2026-08-05 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 28.6 | 34.2 | 83 | 4.3 | 79 |
+| 2026-08-05 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 28.1 | 33.3 | 85 | 5.4 | 84 |
+| 2026-08-05 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/308.png) Heavy rain | 27.0 | 31.4 | 92 | 1.1 | 93 |
+| 2026-08-05 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/308.png) Heavy rain | 26.3 | 30.5 | 96 | 0.7 | 94 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.42 | 📈 H: ₹98.53 | 📉 L: ₹98.42 <br>💵 USDT: ₹98.62 | 📈 H: ₹100.28 | 📉 L: ₹98.04 <br>♦ ETH: ₹184711.9 | 📈 H: ₹188012.4 | 📉 L: ₹183429.2 <br>₿ BTC: ₹6356411.0 | 📈 H: ₹6409435.0 | 📉 L: ₹6260000.0 <br>⚡ BNB: ₹59699.92 | 📈 H: ₹59699.92 | 📉 L: ₹58129.63 <br></p>
+<p align="center">🪙 USDC: ₹98.42 | 📈 H: ₹98.53 | 📉 L: ₹98.42 <br>💵 USDT: ₹98.27 | 📈 H: ₹99.65 | 📉 L: ₹98.04 <br>♦ ETH: ₹184711.8 | 📈 H: ₹188012.3 | 📉 L: ₹183429.2 <br>₿ BTC: ₹6356411.0 | 📈 H: ₹6409424.0 | 📉 L: ₹6260000.0 <br>⚡ BNB: ₹58937.42 | 📈 H: ₹59699.92 | 📉 L: ₹58129.63 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Frankly, my dear, I don't give a darn (about doing it). 🛑❌ 
+  May the 'no' be with you. 🛑❌ 
 </p>
 
 </details>
