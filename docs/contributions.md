@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/spring-ai-community.png?size=24" width="24" height="24" alt="spring-ai-community avatar"> [spring-ai-community/mcp-security](https://github.com/spring-ai-community/mcp-security) | [#90 - mcp-server: return 401 when API key is missing](https://github.com/spring-ai-community/mcp-security/pull/90) | 2026-08-05 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#335 - #307 Add experimental OTLP profiles export](https://github.com/grafana/pyroscope-java/pull/335) | 2026-08-05 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1247 - Remove mechanical langchain-community references](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1247) | 2026-08-04 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#49855 - Fix azure-core native image logging initialization](https://github.com/Azure/azure-sdk-for-java/pull/49855) | 2026-08-04 |
