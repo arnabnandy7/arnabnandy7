@@ -131,10 +131,34 @@ repository_summary_rows() {
   ' "$sorted_items"
 }
 
+organization_summary_rows() {
+  jq -r --arg username "$USERNAME" '
+    def repository_name: .repository_url | tostring | sub("^https://api.github.com/repos/"; "");
+    def repository_owner: repository_name | split("/")[0];
+    map(repository_owner)
+    | sort_by(ascii_downcase)
+    | group_by(ascii_downcase)
+    | map({ name: .[0], count: length })
+    | sort_by([-.count, (.name | ascii_downcase)])
+    | .[:6]
+    | map(
+        "<img src=\"https://github.com/\(.name).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.name) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)+org%3A\(.name)\"><strong>\(.count)</strong></a>)"
+      )
+    | . as $organizations
+    | range(0; length; 3) as $index
+    | "  <tr><td align=\"center\" valign=\"middle\" width=\"33%\">\($organizations[$index])</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($organizations[$index + 1] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($organizations[$index + 2] // \"\")</td></tr>"
+  ' "$sorted_items"
+}
+
 if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
   else
   {
+    printf '<h4 align="center">Top organizations</h4>\n\n'
+    printf '<table align="center">\n'
+    organization_summary_rows
+    printf '</table>\n\n'
+    printf '<h4 align="center">Top repositories</h4>\n\n'
     printf '<table align="center">\n'
     repository_summary_rows
     printf '</table>\n'
