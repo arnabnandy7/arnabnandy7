@@ -58,21 +58,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-06 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 30.5 | 88 | 7.9 | 52 |
-| 2026-08-06 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 30.5 | 87 | 8.6 | 52 |
-| 2026-08-06 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 30.6 | 87 | 9.0 | 32 |
-| 2026-08-06 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 30.6 | 88 | 8.3 | 44 |
 | 2026-08-06 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.9 | 30.4 | 88 | 8.3 | 41 |
 | 2026-08-06 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 30.3 | 88 | 9.7 | 50 |
 | 2026-08-06 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 30.0 | 88 | 10.1 | 50 |
 | 2026-08-06 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 26.6 | 29.7 | 88 | 9.7 | 50 |
 | 2026-08-06 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 29.5 | 88 | 9.4 | 39 |
 | 2026-08-06 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 26.1 | 29.2 | 90 | 9.7 | 56 |
+| 2026-08-06 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.9 | 29.2 | 91 | 8.6 | 53 |
+| 2026-08-06 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 25.8 | 29.2 | 92 | 8.3 | 46 |
+| 2026-08-06 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/263.png) Patchy light drizzle | 25.6 | 29.0 | 92 | 9.4 | 38 |
+| 2026-08-06 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.6 | 28.9 | 92 | 9.7 | 30 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.59 | 📈 H: ₹98.59 | 📉 L: ₹98.53 <br>💵 USDT: ₹99.66 | 📈 H: ₹99.75 | 📉 L: ₹98.15 <br>♦ ETH: ₹187604.2 | 📈 H: ₹190000.0 | 📉 L: ₹184009.0 <br>₿ BTC: ₹6408873.0 | 📈 H: ₹6408873.0 | 📉 L: ₹6293058.0 <br>⚡ BNB: ₹58351.45 | 📈 H: ₹59699.92 | 📉 L: ₹58351.45 <br></p>
+<p align="center">🪙 USDC: ₹98.59 | 📈 H: ₹98.59 | 📉 L: ₹98.53 <br>💵 USDT: ₹99.02 | 📈 H: ₹99.75 | 📉 L: ₹98.15 <br>♦ ETH: ₹189999.9 | 📈 H: ₹190000.0 | 📉 L: ₹184009.0 <br>₿ BTC: ₹6359232.0 | 📈 H: ₹6408873.0 | 📉 L: ₹6300895.0 <br>⚡ BNB: ₹58351.45 | 📈 H: ₹59699.92 | 📉 L: ₹58351.45 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -84,7 +84,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Socializing is off the table, literally, I flipped the table. 🛑❌ 
+  I'm truly touched you asked. Truly. Still no, though. 🛑❌ 
 </p>
 
 </details>
