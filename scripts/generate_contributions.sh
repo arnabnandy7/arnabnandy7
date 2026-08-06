@@ -145,8 +145,8 @@ organization_summary_rows() {
         "<img src=\"https://github.com/\(.name).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.name) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)+org%3A\(.name)\"><strong>\(.count)</strong></a>)"
       )
     | . as $organizations
-    | range(0; length; 3) as $index
-    | "  <tr><td align=\"center\" valign=\"middle\" width=\"33%\">\($organizations[$index])</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($organizations[$index + 1] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($organizations[$index + 2] // \"\")</td></tr>"
+    | range(0; length; 5) as $index
+    | "  <tr><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index])</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 1] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 2] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 3] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 4] // \"\")</td></tr>"
   ' "$sorted_items"
 }
 
