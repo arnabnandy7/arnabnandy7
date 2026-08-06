@@ -140,7 +140,7 @@ organization_summary_rows() {
     | group_by(ascii_downcase)
     | map({ name: .[0], count: length })
     | sort_by([-.count, (.name | ascii_downcase)])
-    | .[:6]
+    | .[:10]
     | map(
         "<img src=\"https://github.com/\(.name).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.name) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)+org%3A\(.name)\"><strong>\(.count)</strong></a>)"
       )
