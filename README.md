@@ -52,8 +52,8 @@
 
 <p align="center">Kolkata, India - 07/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
-  Partly Cloudy (অংশত মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:46 PM, Set: 12:51 PM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:14 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.7 °C</p>
 
@@ -67,7 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-07 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.0 | 30.4 | 85 | 13.7 | 14 |
 | 2026-08-07 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.5 | 87 | 13.7 | 26 |
 | 2026-08-07 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.3 | 87 | 14.4 | 54 |
 | 2026-08-08 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.4 | 86 | 14.4 | 21 |
@@ -77,11 +76,12 @@
 | 2026-08-08 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.8 | 30.0 | 87 | 11.5 | 40 |
 | 2026-08-08 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 26.9 | 30.1 | 85 | 12.6 | 16 |
 | 2026-08-08 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 31.9 | 82 | 12.2 | 21 |
+| 2026-08-08 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.1 | 33.8 | 74 | 14.8 | 21 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.57 | 📈 H: ₹98.61 | 📉 L: ₹98.47 <br>💵 USDT: ₹99.5 | 📈 H: ₹99.7 | 📉 L: ₹98.17 <br>♦ ETH: ₹191999.9 | 📈 H: ₹192000.9 | 📉 L: ₹186630.5 <br>₿ BTC: ₹6398847.0 | 📈 H: ₹6460937.0 | 📉 L: ₹6317987.0 <br>⚡ BNB: ₹58234.76 | 📈 H: ₹59125.75 | 📉 L: ₹57659.51 <br></p>
+<p align="center">🪙 USDC: ₹98.57 | 📈 H: ₹98.61 | 📉 L: ₹98.47 <br>💵 USDT: ₹99.25 | 📈 H: ₹99.68 | 📉 L: ₹98.17 <br>♦ ETH: ₹191999.9 | 📈 H: ₹192000.9 | 📉 L: ₹186630.5 <br>₿ BTC: ₹6400141.0 | 📈 H: ₹6460937.0 | 📉 L: ₹6317987.0 <br>⚡ BNB: ₹58234.76 | 📈 H: ₹59125.75 | 📉 L: ₹57659.51 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -93,7 +93,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to cancel; I've exceeded my people-ing quota for the week. 🛑❌ 
+  I'm observing a personal holiday called Nope-vember. 🛑❌ 
 </p>
 
 </details>

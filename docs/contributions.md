@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17185 - Use VarHandle JCTools queues without Unsafe](https://github.com/netty/netty/pull/17185) | 2026-08-07 |
 | <img src="https://github.com/Alchemists-Of-Yore.png?size=24" width="24" height="24" alt="Alchemists-Of-Yore avatar"> [Alchemists-Of-Yore/ClutterNoMore](https://github.com/Alchemists-Of-Yore/ClutterNoMore) | [#64 - Fix runtime tags after reload](https://github.com/Alchemists-Of-Yore/ClutterNoMore/pull/64) | 2026-08-07 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#826 - #814 Pool per-page level scratch by decode slot](https://github.com/hardwood-hq/hardwood/pull/826) | 2026-08-07 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1306 - #1304: Replace LangChain Slack helpers with slack-sdk](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1306) | 2026-08-07 |
