@@ -146,7 +146,7 @@ organization_summary_rows() {
       )
     | . as $organizations
     | range(0; length; 5) as $index
-    | "  <tr><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index])</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 1] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 2] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 3] // \"\")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 4] // \"\")</td></tr>"
+    | "  <tr><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index])</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 1] // "")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 2] // "")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 3] // "")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 4] // "")</td></tr>"
   ' "$sorted_items"
 }
 
