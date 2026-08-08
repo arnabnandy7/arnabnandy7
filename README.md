@@ -55,9 +55,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
   Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: Does not rise today, Set: 01:55 PM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 36.5 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: Does not rise today, Set: 01:55 PM)  <br>🌅 <strong>Sunrise:</strong> 05:10 AM | <strong>Sunset:</strong> 06:13 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 37.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.3 <strong>PM10:</strong> 12.3</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.2 <strong>PM10:</strong> 11.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,7 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-08 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.3 | 37.2 | 66 | 17.6 | 8 |
 | 2026-08-08 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.2 | 37.1 | 66 | 15.8 | 7 |
 | 2026-08-08 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.1 | 37.1 | 67 | 14.4 | 8 |
 | 2026-08-08 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 36.7 | 70 | 14.0 | 15 |
@@ -77,11 +76,12 @@
 | 2026-08-08 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 33.5 | 81 | 16.2 | 12 |
 | 2026-08-08 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.2 | 33.2 | 84 | 14.4 | 14 |
 | 2026-08-08 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.9 | 32.7 | 86 | 11.5 | 16 |
+| 2026-08-08 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.6 | 32.4 | 88 | 10.1 | 18 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.4 | 📈 H: ₹98.61 | 📉 L: ₹98.4 <br>💵 USDT: ₹99.2 | 📈 H: ₹99.68 | 📉 L: ₹98.17 <br>♦ ETH: ₹191967.9 | 📈 H: ₹192000.9 | 📉 L: ₹186630.5 <br>₿ BTC: ₹6393327.0 | 📈 H: ₹6460937.0 | 📉 L: ₹6332204.0 <br>⚡ BNB: ₹58245.87 | 📈 H: ₹59548.36 | 📉 L: ₹57659.51 <br></p>
+<p align="center">🪙 USDC: ₹98.4 | 📈 H: ₹98.61 | 📉 L: ₹98.4 <br>💵 USDT: ₹99.5 | 📈 H: ₹99.68 | 📉 L: ₹98.52 <br>♦ ETH: ₹188553.3 | 📈 H: ₹192000.9 | 📉 L: ₹188104.1 <br>₿ BTC: ₹6450570.0 | 📈 H: ₹6460937.0 | 📉 L: ₹6335581.0 <br>⚡ BNB: ₹58245.87 | 📈 H: ₹59548.36 | 📉 L: ₹57659.51 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -93,7 +93,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My gut feeling started doing the Macarena when you asked (that's a no dance). 🛑❌ 
+  Unfortunately, I'm volunteering as a taste-tester for my pet's new diet. 🛑❌ 
 </p>
 
 </details>
