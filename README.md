@@ -52,12 +52,12 @@
 
 <p align="center">Kolkata, India - 11/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
   Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:57 AM, Set: 04:58 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:57 AM, Set: 04:58 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:11 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.2 <strong>PM10:</strong> 31.0</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.4 <strong>PM10:</strong> 29.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,16 +67,16 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-12 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.3 | 33.0 | 81 | 6.8 | 14 |
-| 2026-08-12 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.3 | 33.1 | 81 | 6.5 | 14 |
-| 2026-08-12 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 34.0 | 79 | 6.1 | 21 |
-| 2026-08-12 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.0 | 35.4 | 71 | 6.5 | 10 |
-| 2026-08-12 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.7 | 36.3 | 68 | 7.6 | 11 |
-| 2026-08-12 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.9 | 36.5 | 67 | 7.9 | 9 |
-| 2026-08-12 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.0 | 37.6 | 62 | 6.5 | 17 |
-| 2026-08-12 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 33.1 | 38.9 | 57 | 5.8 | 9 |
-| 2026-08-12 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.8 | 39.0 | 60 | 5.8 | 9 |
-| 2026-08-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.0 | 37.9 | 63 | 6.1 | 8 |
+| 2026-08-12 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.0 | 32.2 | 81 | 6.1 | 14 |
+| 2026-08-12 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.8 | 33.6 | 77 | 6.5 | 12 |
+| 2026-08-12 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.0 | 35.1 | 71 | 7.2 | 10 |
+| 2026-08-12 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.0 | 36.6 | 66 | 7.9 | 10 |
+| 2026-08-12 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.0 | 37.9 | 63 | 9.4 | 13 |
+| 2026-08-12 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 32.9 | 39.2 | 60 | 10.4 | 36 |
+| 2026-08-12 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 33.7 | 40.3 | 57 | 11.5 | 41 |
+| 2026-08-12 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.1 | 40.7 | 56 | 9.7 | 36 |
+| 2026-08-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.2 | 41.0 | 56 | 8.3 | 57 |
+| 2026-08-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.7 | 40.7 | 58 | 10.1 | 57 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
