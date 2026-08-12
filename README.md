@@ -55,9 +55,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.5 <strong>PM10:</strong> 16.5</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.2 <strong>PM10:</strong> 15.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,7 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-13 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.8 | 32.5 | 86 | 4.0 | 53 |
 | 2026-08-13 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.3 | 33.6 | 84 | 9.4 | 61 |
 | 2026-08-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.9 | 80 | 16.9 | 36 |
 | 2026-08-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.4 | 35.7 | 79 | 20.2 | 32 |
@@ -77,11 +76,12 @@
 | 2026-08-13 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 40.3 | 66 | 14.0 | 48 |
 | 2026-08-13 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 40.6 | 65 | 15.5 | 40 |
 | 2026-08-13 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.3 | 40.2 | 67 | 15.5 | 62 |
+| 2026-08-13 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.7 | 39.5 | 70 | 18.7 | 57 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹97.84 <br>💵 USDT: ₹99.67 | 📈 H: ₹99.67 | 📉 L: ₹98.76 <br>♦ ETH: ₹185507.8 | 📈 H: ₹190000.0 | 📉 L: ₹185010.6 <br>₿ BTC: ₹6357002.0 | 📈 H: ₹6357912.0 | 📉 L: ₹6231545.0 <br>⚡ BNB: ₹61671.93 | 📈 H: ₹61671.93 | 📉 L: ₹59511.88 <br></p>
+<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹97.84 <br>💵 USDT: ₹99.2 | 📈 H: ₹99.67 | 📉 L: ₹98.76 <br>♦ ETH: ₹185507.8 | 📈 H: ₹190000.0 | 📉 L: ₹185010.6 <br>₿ BTC: ₹6232918.0 | 📈 H: ₹6357912.0 | 📉 L: ₹6069276.0 <br>⚡ BNB: ₹61671.93 | 📈 H: ₹61671.93 | 📉 L: ₹59511.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
