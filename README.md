@@ -52,8 +52,8 @@
 
 <p align="center">Kolkata, India - 12/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
-  Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 41.4 °C</p>
 
@@ -67,7 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-12 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.2 | 41.7 | 58 | 5.0 | 8 |
 | 2026-08-12 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 32.5 | 39.5 | 64 | 5.4 | 36 |
 | 2026-08-12 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 31.5 | 38.7 | 69 | 5.8 | 58 |
 | 2026-08-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 31.3 | 38.4 | 70 | 7.9 | 36 |
@@ -77,11 +76,12 @@
 | 2026-08-13 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 29.7 | 36.1 | 77 | 7.9 | 62 |
 | 2026-08-13 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/293.png) Patchy light rain | 29.3 | 35.0 | 77 | 8.3 | 57 |
 | 2026-08-13 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.8 | 34.0 | 79 | 5.8 | 66 |
+| 2026-08-13 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.4 | 33.3 | 82 | 2.5 | 66 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.23 | 📈 H: ₹98.23 | 📉 L: ₹97.79 <br>💵 USDT: ₹98.76 | 📈 H: ₹99.6 | 📉 L: ₹98.71 <br>♦ ETH: ₹187880.5 | 📈 H: ₹187880.5 | 📉 L: ₹184125.3 <br>₿ BTC: ₹6294687.0 | 📈 H: ₹6399998.0 | 📉 L: ₹6213323.0 <br>⚡ BNB: ₹60025.9 | 📈 H: ₹61671.65 | 📉 L: ₹59291.44 <br></p>
+<p align="center">🪙 USDC: ₹98.23 | 📈 H: ₹98.23 | 📉 L: ₹97.79 <br>💵 USDT: ₹98.8 | 📈 H: ₹99.6 | 📉 L: ₹98.71 <br>♦ ETH: ₹188900.0 | 📈 H: ₹188900.0 | 📉 L: ₹184125.3 <br>₿ BTC: ₹6274986.0 | 📈 H: ₹6399998.0 | 📉 L: ₹6213323.0 <br>⚡ BNB: ₹59706.69 | 📈 H: ₹61671.65 | 📉 L: ₹59511.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
