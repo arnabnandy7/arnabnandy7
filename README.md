@@ -52,12 +52,12 @@
 
 <p align="center">Kolkata, India - 12/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/266.png" alt="Light drizzle weather icon"/><br/>
-  Light drizzle (হাল্কা গুড়ি গুড়ি বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 30.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 41.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.6 <strong>PM10:</strong> 17.0</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.2 <strong>PM10:</strong> 30.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,21 +67,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-12 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 33.7 | 40.3 | 57 | 11.5 | 41 |
-| 2026-08-12 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.1 | 40.7 | 56 | 9.7 | 36 |
-| 2026-08-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.2 | 41.0 | 56 | 8.3 | 57 |
-| 2026-08-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.7 | 40.7 | 58 | 10.1 | 57 |
-| 2026-08-12 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.8 | 40.0 | 63 | 9.7 | 62 |
-| 2026-08-12 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 31.9 | 39.2 | 67 | 10.1 | 64 |
-| 2026-08-12 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 30.9 | 38.2 | 73 | 9.0 | 68 |
-| 2026-08-12 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 29.7 | 36.1 | 77 | 9.7 | 70 |
-| 2026-08-12 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.8 | 36.0 | 77 | 8.3 | 61 |
-| 2026-08-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.8 | 36.0 | 76 | 7.6 | 37 |
+| 2026-08-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.9 | 41.8 | 54 | 14.0 | 36 |
+| 2026-08-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 34.6 | 41.7 | 55 | 16.9 | 17 |
+| 2026-08-12 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.8 | 41.0 | 58 | 15.1 | 18 |
+| 2026-08-12 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 33.5 | 40.8 | 60 | 14.8 | 43 |
+| 2026-08-12 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 39.3 | 68 | 15.1 | 59 |
+| 2026-08-12 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 30.3 | 36.9 | 74 | 14.4 | 49 |
+| 2026-08-12 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 29.9 | 36.6 | 77 | 10.8 | 32 |
+| 2026-08-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.8 | 36.5 | 78 | 9.0 | 21 |
+| 2026-08-12 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/386.png) Patchy light rain in area with thunder | 29.5 | 35.8 | 78 | 9.4 | 65 |
+| 2026-08-12 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.2 | 35.3 | 79 | 9.0 | 31 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.84 | 📈 H: ₹99.99 | 📉 L: ₹97.79 <br>💵 USDT: ₹98.81 | 📈 H: ₹99.67 | 📉 L: ₹98.46 <br>♦ ETH: ₹186110.6 | 📈 H: ₹186110.6 | 📉 L: ₹183882.9 <br>₿ BTC: ₹6339000.0 | 📈 H: ₹6399998.0 | 📉 L: ₹6213323.0 <br>⚡ BNB: ₹60507.18 | 📈 H: ₹61671.65 | 📉 L: ₹58892.63 <br></p>
+<p align="center">🪙 USDC: ₹97.84 | 📈 H: ₹99.99 | 📉 L: ₹97.79 <br>💵 USDT: ₹99.02 | 📈 H: ₹99.67 | 📉 L: ₹98.46 <br>♦ ETH: ₹185495.8 | 📈 H: ₹186110.6 | 📉 L: ₹184102.1 <br>₿ BTC: ₹6247539.0 | 📈 H: ₹6399998.0 | 📉 L: ₹6213323.0 <br>⚡ BNB: ₹60146.1 | 📈 H: ₹61671.65 | 📉 L: ₹59291.44 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
