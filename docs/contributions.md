@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17266 - HTTP/2: Prevent reentrant flush on writability change](https://github.com/netty/netty/pull/17266) | 2026-08-12 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#55298 - Fix test selection for nested test classes](https://github.com/quarkusio/quarkus/pull/55298) | 2026-08-11 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17232 - http3: marshal QPACK resume/drain to stream event loop (fixes #17234)](https://github.com/netty/netty/pull/17232) | 2026-08-10 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17235 - Fix codec-native-quic published POM packaging](https://github.com/netty/netty/pull/17235) | 2026-08-10 |
