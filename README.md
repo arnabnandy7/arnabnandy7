@@ -52,8 +52,8 @@
 
 <p align="center">Kolkata, India - 12/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/356.png" alt="Moderate or heavy rain shower weather icon"/><br/>
-  Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 86% | 🌡️ <strong>Feels Like:</strong> 32.4 °C</p>
 
@@ -67,7 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-13 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 27.2 | 31.5 | 88 | 7.6 | 79 |
 | 2026-08-13 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.2 | 31.4 | 88 | 6.8 | 73 |
 | 2026-08-13 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.3 | 31.6 | 88 | 6.5 | 68 |
 | 2026-08-13 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.5 | 31.7 | 87 | 6.5 | 66 |
@@ -77,11 +76,12 @@
 | 2026-08-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.6 | 34.1 | 82 | 19.1 | 51 |
 | 2026-08-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 35.2 | 80 | 21.2 | 62 |
 | 2026-08-13 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.7 | 36.4 | 79 | 22.0 | 64 |
+| 2026-08-13 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.5 | 37.9 | 76 | 18.0 | 57 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹97.84 <br>💵 USDT: ₹99.15 | 📈 H: ₹99.6 | 📉 L: ₹98.76 <br>♦ ETH: ₹185354.7 | 📈 H: ₹190000.0 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6300000.0 | 📈 H: ₹6357912.0 | 📉 L: ₹6213323.0 <br>⚡ BNB: ₹61671.93 | 📈 H: ₹61671.93 | 📉 L: ₹59511.88 <br></p>
+<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹97.84 <br>💵 USDT: ₹99.67 | 📈 H: ₹99.67 | 📉 L: ₹98.76 <br>♦ ETH: ₹185507.8 | 📈 H: ₹190000.0 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6238690.0 | 📈 H: ₹6357912.0 | 📉 L: ₹6213323.0 <br>⚡ BNB: ₹61671.93 | 📈 H: ₹61671.93 | 📉 L: ₹59511.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -93,7 +93,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The word 'yes' gives me hives; I'm avoiding an allergic reaction. 🛑❌ 
+  Any timeline where I say yes ends in chaos, so I'm choosing wisely. 🛑❌ 
 </p>
 
 </details>
