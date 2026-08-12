@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1924 - Fix Bedrock chat options conversion](https://github.com/embabel/embabel-agent/pull/1924) | 2026-08-12 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1309 - #1301: Replace LangChain Confluence loader](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1309) | 2026-08-12 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17266 - HTTP/2: Prevent reentrant flush on writability change](https://github.com/netty/netty/pull/17266) | 2026-08-12 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#55298 - Fix test selection for nested test classes](https://github.com/quarkusio/quarkus/pull/55298) | 2026-08-11 |
