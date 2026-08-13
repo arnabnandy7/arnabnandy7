@@ -50,14 +50,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 12/08/2026</p>
+<p align="center">Kolkata, India - 13/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
-  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
+  Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 04:08 AM, Set: 05:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 34.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:18 AM, Set: 06:32 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 33.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 15.2 <strong>PM10:</strong> 15.3</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.3 <strong>PM10:</strong> 14.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,21 +67,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-13 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.3 | 33.6 | 84 | 9.4 | 61 |
-| 2026-08-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 34.9 | 80 | 16.9 | 36 |
-| 2026-08-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.4 | 35.7 | 79 | 20.2 | 32 |
-| 2026-08-13 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.4 | 37.5 | 75 | 19.1 | 18 |
-| 2026-08-13 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 39.0 | 71 | 16.2 | 37 |
-| 2026-08-13 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.1 | 39.8 | 68 | 15.1 | 25 |
-| 2026-08-13 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 40.3 | 66 | 14.0 | 48 |
-| 2026-08-13 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 40.6 | 65 | 15.5 | 40 |
-| 2026-08-13 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.3 | 40.2 | 67 | 15.5 | 62 |
-| 2026-08-13 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.7 | 39.5 | 70 | 18.7 | 57 |
+| 2026-08-13 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.6 | 37.6 | 74 | 18.7 | 17 |
+| 2026-08-13 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 39.1 | 70 | 15.8 | 40 |
+| 2026-08-13 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 39.9 | 67 | 14.8 | 25 |
+| 2026-08-13 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.8 | 40.5 | 64 | 13.7 | 43 |
+| 2026-08-13 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 40.8 | 64 | 15.1 | 36 |
+| 2026-08-13 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.4 | 40.2 | 66 | 15.1 | 61 |
+| 2026-08-13 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 39.5 | 69 | 18.4 | 57 |
+| 2026-08-13 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.6 | 38.3 | 76 | 21.6 | 52 |
+| 2026-08-13 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.4 | 36.2 | 81 | 21.6 | 51 |
+| 2026-08-13 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.6 | 34.3 | 83 | 20.5 | 31 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹97.84 <br>💵 USDT: ₹99.2 | 📈 H: ₹99.67 | 📉 L: ₹98.76 <br>♦ ETH: ₹185507.8 | 📈 H: ₹190000.0 | 📉 L: ₹185010.6 <br>₿ BTC: ₹6232918.0 | 📈 H: ₹6357912.0 | 📉 L: ₹6069276.0 <br>⚡ BNB: ₹61671.93 | 📈 H: ₹61671.93 | 📉 L: ₹59511.88 <br></p>
+<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹97.84 <br>💵 USDT: ₹99.67 | 📈 H: ₹99.67 | 📉 L: ₹98.76 <br>♦ ETH: ₹185507.8 | 📈 H: ₹190000.0 | 📉 L: ₹185010.6 <br>₿ BTC: ₹6289999.0 | 📈 H: ₹6357912.0 | 📉 L: ₹6069276.0 <br>⚡ BNB: ₹61671.93 | 📈 H: ₹61671.93 | 📉 L: ₹59511.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -93,7 +93,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Emergency! I just ran out of chocolate, and that's all I can handle right now. 🛑❌ 
+  I'm already committed to the Anti-Work Holiday. 🛑❌ 
 </p>
 
 </details>
