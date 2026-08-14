@@ -55,9 +55,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:24 AM, Set: 07:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 17.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 36.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:24 AM, Set: 07:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 19.8 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 38.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.4 <strong>PM10:</strong> 9.4</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.3 <strong>PM10:</strong> 10.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,8 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-14 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 39.2 | 68 | 20.5 | 47 |
-| 2026-08-14 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 39.1 | 68 | 20.5 | 45 |
 | 2026-08-14 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 39.5 | 66 | 21.2 | 41 |
 | 2026-08-14 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 38.9 | 69 | 22.3 | 36 |
 | 2026-08-14 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 38.4 | 68 | 22.7 | 19 |
@@ -77,11 +75,13 @@
 | 2026-08-14 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.8 | 33.9 | 78 | 19.1 | 11 |
 | 2026-08-14 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.2 | 33.0 | 82 | 17.6 | 12 |
 | 2026-08-14 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 32.6 | 84 | 16.9 | 15 |
+| 2026-08-14 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.8 | 32.4 | 86 | 15.8 | 18 |
+| 2026-08-14 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.5 | 31.9 | 87 | 15.1 | 21 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.15 | 📈 H: ₹99.92 | 📉 L: ₹98.15 <br>💵 USDT: ₹98.14 | 📈 H: ₹99.64 | 📉 L: ₹98.05 <br>♦ ETH: ₹186000.0 | 📈 H: ₹189240.9 | 📉 L: ₹185333.0 <br>₿ BTC: ₹6268280.0 | 📈 H: ₹6356990.0 | 📉 L: ₹6200001.0 <br>⚡ BNB: ₹59676.12 | 📈 H: ₹60261.42 | 📉 L: ₹59657.59 <br></p>
+<p align="center">🪙 USDC: ₹98.15 | 📈 H: ₹99.92 | 📉 L: ₹98.15 <br>💵 USDT: ₹98.1 | 📈 H: ₹99.64 | 📉 L: ₹98.05 <br>♦ ETH: ₹185333.0 | 📈 H: ₹189240.9 | 📉 L: ₹185333.0 <br>₿ BTC: ₹6268298.0 | 📈 H: ₹6356990.0 | 📉 L: ₹6200001.0 <br>⚡ BNB: ₹59676.12 | 📈 H: ₹60261.42 | 📉 L: ₹59657.59 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
