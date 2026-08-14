@@ -50,14 +50,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 13/08/2026</p>
+<p align="center">Kolkata, India - 14/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 05:18 AM, Set: 06:32 PM)  <br>🌅 <strong>Sunrise:</strong> 05:12 AM | <strong>Sunset:</strong> 06:10 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:24 AM, Set: 07:12 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:09 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.4 <strong>PM10:</strong> 17.5</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 15.5 <strong>PM10:</strong> 15.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -67,9 +67,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-14 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.5 | 32.2 | 88 | 13.3 | 25 |
-| 2026-08-14 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.6 | 34.0 | 83 | 16.2 | 21 |
-| 2026-08-14 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 30.1 | 36.7 | 75 | 17.6 | 51 |
 | 2026-08-14 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.2 | 38.3 | 71 | 18.7 | 58 |
 | 2026-08-14 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 38.9 | 69 | 19.8 | 55 |
 | 2026-08-14 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 39.2 | 68 | 20.5 | 47 |
@@ -77,11 +74,14 @@
 | 2026-08-14 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 39.5 | 66 | 21.2 | 41 |
 | 2026-08-14 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.6 | 38.9 | 69 | 22.3 | 36 |
 | 2026-08-14 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.5 | 38.4 | 68 | 22.7 | 19 |
+| 2026-08-14 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.1 | 37.9 | 70 | 22.0 | 17 |
+| 2026-08-14 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.0 | 36.0 | 73 | 21.2 | 9 |
+| 2026-08-14 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.8 | 33.9 | 78 | 19.1 | 11 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.23 | 📈 H: ₹98.23 | 📉 L: ₹98.15 <br>💵 USDT: ₹99.17 | 📈 H: ₹99.67 | 📉 L: ₹98.25 <br>♦ ETH: ₹186000.1 | 📈 H: ₹189240.9 | 📉 L: ₹185333.0 <br>₿ BTC: ₹6221931.0 | 📈 H: ₹6356990.0 | 📉 L: ₹6069276.0 <br>⚡ BNB: ₹59850.1 | 📈 H: ₹60261.42 | 📉 L: ₹59850.1 <br></p>
+<p align="center">🪙 USDC: ₹98.23 | 📈 H: ₹98.23 | 📉 L: ₹98.15 <br>💵 USDT: ₹98.19 | 📈 H: ₹99.67 | 📉 L: ₹98.14 <br>♦ ETH: ₹187852.5 | 📈 H: ₹189240.9 | 📉 L: ₹185333.0 <br>₿ BTC: ₹6268000.0 | 📈 H: ₹6356990.0 | 📉 L: ₹6200001.0 <br>⚡ BNB: ₹59908.45 | 📈 H: ₹60261.42 | 📉 L: ₹59850.1 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -93,7 +93,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm sorry, I can't hear you over the sound of me not doing that. 🛑❌ 
+  The Queen of England ghost-told me to stay home (I only take royal commands). 🛑❌ 
 </p>
 
 </details>
