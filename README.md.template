@@ -27,12 +27,6 @@
 | [openissue.dev](https://github.com/arnabnandy7/openissue.dev) | Finds contributor-friendly GitHub issues by technology and label. | TypeScript |
 | [api-response-comparator](https://github.com/arnabnandy7/api-response-comparator) | Compares API responses across environments to surface regression risks. | TypeScript |
 
-<h3 align="center">Core Technical Stack</h3>
-
-<p align="center">
-  Java · Spring · Quarkus · JavaScript · TypeScript · React · Node.js · PostgreSQL · Redis · Google Cloud · Linux · GitHub Actions
-</p>
-
 <h3 align="center">Today's Weather</h3>
 
 <p align="center">Kolkata, India - [date]</p>
