@@ -146,7 +146,7 @@ organization_summary_rows() {
       )
     | . as $organizations
     | range(0; length; 5) as $index
-    | "  <tr><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index])</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 1] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 2] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 3] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 4] // "")</td></tr>"
+    | "  <tr><td align=\"left\" valign=\"middle\" width=\"22%\">\($organizations[$index])</td><td align=\"left\" valign=\"middle\" width=\"22%\">\($organizations[$index + 1] // "")</td><td align=\"left\" valign=\"middle\" width=\"22%\">\($organizations[$index + 2] // "")</td><td align=\"left\" valign=\"middle\" width=\"22%\">\($organizations[$index + 3] // "")</td><td align=\"left\" valign=\"middle\" width=\"22%\">\($organizations[$index + 4] // "")</td></tr>"
   ' "$sorted_items"
 }
 
@@ -155,7 +155,7 @@ if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   else
   {
     printf '<h4 align="center">Top organizations / users</h4>\n\n'
-    printf '<table width="100%%" cellpadding="10" cellspacing="0">\n'
+    printf '<table width="110%%" cellpadding="10" cellspacing="0">\n'
     organization_summary_rows
     printf '</table>\n\n'
     printf '<h4 align="center">Top repositories</h4>\n\n'
