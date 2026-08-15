@@ -119,11 +119,16 @@ repository_summary_rows() {
     map({ name: repository_name, owner: repository_owner })
     | sort_by(.name)
     | group_by(.name)
-    | map({ name: .[0].name, owner: .[0].owner, count: length })
+    | map({
+        name: .[0].name,
+        owner: .[0].owner,
+        label: (.[0].name | split("/")[1]),
+        count: length
+      })
     | sort_by([-.count, (.name | ascii_downcase)])
     | .[:15]
     | map(
-        "<img src=\"https://github.com/\(.owner).png?size=20\" width=\"20\" height=\"20\" valign=\"middle\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name | split(\"/\")[1])</a> (<a href=\"https://github.com/\(.name)/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)\"><strong>\(.count)</strong></a>)"
+        "<img src=\"https://github.com/\(.owner).png?size=20\" width=\"20\" height=\"20\" valign=\"middle\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.label)</a> (<a href=\"https://github.com/\(.name)/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)\"><strong>\(.count)</strong></a>)"
       )
     | . as $repositories
     | range(0; length; 5) as $index
