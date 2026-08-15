@@ -123,11 +123,11 @@ repository_summary_rows() {
     | sort_by([-.count, (.name | ascii_downcase)])
     | .[:9]
     | map(
-        "<img src=\"https://github.com/\(.owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/\(.name)/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)\"><strong>\(.count)</strong></a>)"
+        "<img src=\"https://github.com/\(.owner).png?size=20\" width=\"20\" height=\"20\" valign=\"middle\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name | split(\"/\")[1])</a> (<a href=\"https://github.com/\(.name)/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)\"><strong>\(.count)</strong></a>)"
       )
     | . as $repositories
     | range(0; length; 3) as $index
-    | "  <tr><td align=\"center\" valign=\"middle\" width=\"33%\">\($repositories[$index])</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($repositories[$index + 1] // "")</td><td align=\"center\" valign=\"middle\" width=\"33%\">\($repositories[$index + 2] // "")</td></tr>"
+    | "  <tr><td align=\"left\" valign=\"middle\" width=\"33%\">\($repositories[$index])</td><td align=\"left\" valign=\"middle\" width=\"33%\">\($repositories[$index + 1] // "")</td><td align=\"left\" valign=\"middle\" width=\"33%\">\($repositories[$index + 2] // "")</td></tr>"
   ' "$sorted_items"
 }
 
@@ -142,11 +142,11 @@ organization_summary_rows() {
     | sort_by([-.count, (.name | ascii_downcase)])
     | .[:10]
     | map(
-        "<img src=\"https://github.com/\(.name).png?size=24\" width=\"24\" height=\"24\" alt=\"\(.name) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)+org%3A\(.name)\"><strong>\(.count)</strong></a>)"
+        "<img src=\"https://github.com/\(.name).png?size=20\" width=\"20\" height=\"20\" valign=\"middle\" alt=\"\(.name) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name)</a> (<a href=\"https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)+org%3A\(.name)\"><strong>\(.count)</strong></a>)"
       )
     | . as $organizations
     | range(0; length; 5) as $index
-    | "  <tr><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index])</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 1] // "")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 2] // "")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 3] // "")</td><td align=\"center\" valign=\"middle\" width=\"20%\">\($organizations[$index + 4] // "")</td></tr>"
+    | "  <tr><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index])</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 1] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 2] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 3] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($organizations[$index + 4] // "")</td></tr>"
   ' "$sorted_items"
 }
 
@@ -154,12 +154,12 @@ if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
   printf 'No merged pull requests found yet.\n' > "$summary"
   else
   {
-    printf '<h4 align="center">Top organizations</h4>\n\n'
-    printf '<table align="center">\n'
+    printf '<h4 align="center">Top organizations / users</h4>\n\n'
+    printf '<table width="100%%" cellpadding="10" cellspacing="0">\n'
     organization_summary_rows
     printf '</table>\n\n'
     printf '<h4 align="center">Top repositories</h4>\n\n'
-    printf '<table align="center">\n'
+    printf '<table width="100%%" cellpadding="10" cellspacing="0">\n'
     repository_summary_rows
     printf '</table>\n'
     printf '\n[Explore the complete open source quest log](./docs/contributions.md)\n'
