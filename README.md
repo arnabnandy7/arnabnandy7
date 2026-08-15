@@ -49,7 +49,7 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
   Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:27 AM, Set: 07:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:08 PM  <br>💨 <strong>Wind:</strong> 22.0 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 38.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:27 AM, Set: 07:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:08 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 37.5 °C</p>
 
 <p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.6 <strong>PM10:</strong> 9.1</p>
 
@@ -75,7 +75,7 @@
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.14 | 📈 H: ₹98.15 | 📉 L: ₹98.14 <br>💵 USDT: ₹98.56 | 📈 H: ₹99.17 | 📉 L: ₹98.22 <br>♦ ETH: ₹185333.0 | 📈 H: ₹186000.0 | 📉 L: ₹185333.0 <br>₿ BTC: ₹6190000.0 | 📈 H: ₹6268300.0 | 📉 L: ₹6143817.0 <br>⚡ BNB: ₹59639.94 | 📈 H: ₹60872.37 | 📉 L: ₹59615.21 <br></p>
+<p align="center">🪙 USDC: ₹98.14 | 📈 H: ₹98.15 | 📉 L: ₹98.14 <br>💵 USDT: ₹99.12 | 📈 H: ₹99.17 | 📉 L: ₹98.4 <br>♦ ETH: ₹186000.0 | 📈 H: ₹186000.0 | 📉 L: ₹185333.0 <br>₿ BTC: ₹6187926.0 | 📈 H: ₹6268300.0 | 📉 L: ₹6143817.0 <br>⚡ BNB: ₹59639.94 | 📈 H: ₹60872.37 | 📉 L: ₹59615.21 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
