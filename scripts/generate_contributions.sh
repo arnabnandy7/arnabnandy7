@@ -121,13 +121,13 @@ repository_summary_rows() {
     | group_by(.name)
     | map({ name: .[0].name, owner: .[0].owner, count: length })
     | sort_by([-.count, (.name | ascii_downcase)])
-    | .[:9]
+    | .[:15]
     | map(
         "<img src=\"https://github.com/\(.owner).png?size=20\" width=\"20\" height=\"20\" valign=\"middle\" alt=\"\(.owner) avatar\"> <a href=\"https://github.com/\(.name)\">\(.name | split(\"/\")[1])</a> (<a href=\"https://github.com/\(.name)/pulls?q=is%3Apr+is%3Amerged+author%3A\($username)\"><strong>\(.count)</strong></a>)"
       )
     | . as $repositories
-    | range(0; length; 3) as $index
-    | "  <tr><td align=\"left\" valign=\"middle\" width=\"33%\">\($repositories[$index])</td><td align=\"left\" valign=\"middle\" width=\"33%\">\($repositories[$index + 1] // "")</td><td align=\"left\" valign=\"middle\" width=\"33%\">\($repositories[$index + 2] // "")</td></tr>"
+    | range(0; length; 5) as $index
+    | "  <tr><td align=\"left\" valign=\"middle\" width=\"20%\">\($repositories[$index])</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($repositories[$index + 1] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($repositories[$index + 2] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($repositories[$index + 3] // "")</td><td align=\"left\" valign=\"middle\" width=\"20%\">\($repositories[$index + 4] // "")</td></tr>"
   ' "$sorted_items"
 }
 
