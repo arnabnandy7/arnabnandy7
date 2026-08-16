@@ -49,7 +49,7 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:28 AM, Set: 08:26 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 33.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:28 AM, Set: 08:26 PM)  <br>🌅 <strong>Sunrise:</strong> 05:13 AM | <strong>Sunset:</strong> 06:07 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 32.1 °C</p>
 
 <p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.3 <strong>PM10:</strong> 8.8</p>
 
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-17 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 29.2 | 92 | 15.5 | 77 |
 | 2026-08-17 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 28.8 | 93 | 15.8 | 77 |
 | 2026-08-17 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.2 | 29.0 | 93 | 15.8 | 68 |
 | 2026-08-17 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.3 | 29.2 | 92 | 14.4 | 47 |
@@ -71,11 +70,12 @@
 | 2026-08-17 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 36.2 | 77 | 11.5 | 62 |
 | 2026-08-17 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 37.8 | 73 | 11.9 | 61 |
 | 2026-08-17 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 38.6 | 70 | 13.0 | 61 |
+| 2026-08-17 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 38.5 | 71 | 14.8 | 66 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.55 | 📈 H: ₹99.49 | 📉 L: ₹97.47 <br>💵 USDT: ₹98.38 | 📈 H: ₹99.46 | 📉 L: ₹98.05 <br>♦ ETH: ₹183938.9 | 📈 H: ₹185999.9 | 📉 L: ₹183007.0 <br>₿ BTC: ₹6249288.0 | 📈 H: ₹6257940.0 | 📉 L: ₹6137614.0 <br>⚡ BNB: ₹59030.1 | 📈 H: ₹60464.62 | 📉 L: ₹58899.45 <br></p>
+<p align="center">🪙 USDC: ₹97.55 | 📈 H: ₹99.49 | 📉 L: ₹97.47 <br>💵 USDT: ₹98.75 | 📈 H: ₹99.46 | 📉 L: ₹98.05 <br>♦ ETH: ₹183900.9 | 📈 H: ₹185999.9 | 📉 L: ₹183007.0 <br>₿ BTC: ₹6174512.0 | 📈 H: ₹6257940.0 | 📉 L: ₹6137614.0 <br>⚡ BNB: ₹59030.1 | 📈 H: ₹60464.62 | 📉 L: ₹58899.45 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
