@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1929 - Make integration test suite runnable in bulk](https://github.com/embabel/embabel-agent/pull/1929) | 2026-08-16 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1331 - #1303: Replace LangChain Google Serper wrapper](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1331) | 2026-08-14 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1323 - #1302: Replace LangChain Wikipedia retriever](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1323) | 2026-08-13 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17266 - HTTP/2: Prevent reentrant flush on writability change](https://github.com/netty/netty/pull/17266) | 2026-08-13 |
