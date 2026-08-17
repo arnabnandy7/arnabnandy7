@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50052 - feat(spring): support Key Vault certificate alias filters 6x](https://github.com/Azure/azure-sdk-for-java/pull/50052) | 2026-08-17 |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50018 - feat(spring): support Key Vault certificate alias filters](https://github.com/Azure/azure-sdk-for-java/pull/50018) | 2026-08-17 |
 | <img src="https://github.com/iluwatar.png?size=24" width="24" height="24" alt="iluwatar avatar"> [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | [#3539 - Update factory method Java API links](https://github.com/iluwatar/java-design-patterns/pull/3539) | 2026-08-16 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1929 - Make integration test suite runnable in bulk](https://github.com/embabel/embabel-agent/pull/1929) | 2026-08-16 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1331 - #1303: Replace LangChain Google Serper wrapper](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1331) | 2026-08-14 |
