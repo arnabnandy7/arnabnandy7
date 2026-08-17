@@ -1,1 +1,3 @@
-{"reason":"I performed a risk assessment and the results said 'no'."}
+{
+  "reason": "error code: 522"
+}
