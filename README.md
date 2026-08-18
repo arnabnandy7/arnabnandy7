@@ -46,8 +46,8 @@
 
 <p align="center">Kolkata, India - 18/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
-  Partly Cloudy (অংশত মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:28 AM, Set: 09:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:06 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 86% | 🌡️ <strong>Feels Like:</strong> 30.6 °C</p>
 
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-19 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.9 | 30.2 | 86 | 10.4 | 18 |
-| 2026-08-19 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.5 | 29.5 | 87 | 9.7 | 18 |
-| 2026-08-19 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.4 | 29.4 | 87 | 9.7 | 23 |
-| 2026-08-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.2 | 29.1 | 88 | 9.7 | 32 |
-| 2026-08-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 29.9 | 84 | 11.5 | 11 |
-| 2026-08-19 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.1 | 32.1 | 78 | 14.4 | 10 |
-| 2026-08-19 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.4 | 34.2 | 73 | 14.8 | 16 |
-| 2026-08-19 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.5 | 36.0 | 68 | 15.1 | 14 |
-| 2026-08-19 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.8 | 37.8 | 64 | 16.2 | 9 |
-| 2026-08-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 38.3 | 62 | 19.4 | 11 |
+| 2026-08-19 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.3 | 30.9 | 84 | 4.3 | 48 |
+| 2026-08-19 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 30.5 | 84 | 4.7 | 55 |
+| 2026-08-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.1 | 30.6 | 86 | 5.8 | 56 |
+| 2026-08-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 32.0 | 83 | 6.1 | 28 |
+| 2026-08-19 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 33.7 | 78 | 7.6 | 25 |
+| 2026-08-19 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.7 | 73 | 9.4 | 24 |
+| 2026-08-19 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.3 | 37.6 | 68 | 11.2 | 16 |
+| 2026-08-19 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 32.2 | 38.7 | 64 | 12.2 | 23 |
+| 2026-08-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.2 | 61 | 12.6 | 43 |
+| 2026-08-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.2 | 61 | 14.0 | 40 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.86 | 📈 H: ₹99.61 | 📉 L: ₹97.44 <br>💵 USDT: ₹99.22 | 📈 H: ₹99.47 | 📉 L: ₹98.01 <br>♦ ETH: ₹188007.9 | 📈 H: ₹189097.5 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6331085.0 | 📈 H: ₹6357910.0 | 📉 L: ₹6224562.0 <br>⚡ BNB: ₹60229.43 | 📈 H: ₹60464.61 | 📉 L: ₹58729.19 <br></p>
+<p align="center">🪙 USDC: ₹97.86 | 📈 H: ₹99.61 | 📉 L: ₹97.44 <br>💵 USDT: ₹99.21 | 📈 H: ₹99.47 | 📉 L: ₹98.01 <br>♦ ETH: ₹188007.9 | 📈 H: ₹189097.5 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6332661.0 | 📈 H: ₹6357910.0 | 📉 L: ₹6224562.0 <br>⚡ BNB: ₹60229.43 | 📈 H: ₹60464.61 | 📉 L: ₹58729.19 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
