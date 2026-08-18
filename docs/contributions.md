@@ -6,6 +6,9 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#351 - fix: allow OTLP allocation and lock thresholds](https://github.com/grafana/pyroscope-java/pull/351) | 2026-08-18 |
+| <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#352 - fix: compress OTLP profile uploads](https://github.com/grafana/pyroscope-java/pull/352) | 2026-08-18 |
+| <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#353 - fix: set async-profiler timeout for OTLP recordings](https://github.com/grafana/pyroscope-java/pull/353) | 2026-08-18 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1337 - #1305: Replace LangChain Jira toolkit](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1337) | 2026-08-17 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#924 - #914 Reject non-string keys in Avro maps](https://github.com/hardwood-hq/hardwood/pull/924) | 2026-08-17 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50052 - feat(spring): support Key Vault certificate alias filters 6x](https://github.com/Azure/azure-sdk-for-java/pull/50052) | 2026-08-17 |
