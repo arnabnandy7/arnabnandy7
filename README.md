@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
   Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:28 AM, Set: 09:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:06 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:28 AM, Set: 09:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:06 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.1 <strong>PM10:</strong> 13.0</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.1 <strong>PM10:</strong> 13.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.1 | 30.6 | 86 | 5.8 | 56 |
 | 2026-08-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 32.0 | 83 | 6.1 | 28 |
 | 2026-08-19 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 33.7 | 78 | 7.6 | 25 |
 | 2026-08-19 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 35.7 | 73 | 9.4 | 24 |
@@ -71,6 +70,7 @@
 | 2026-08-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.2 | 61 | 14.0 | 40 |
 | 2026-08-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 39.6 | 63 | 18.4 | 47 |
 | 2026-08-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 32.5 | 39.4 | 64 | 18.0 | 36 |
+| 2026-08-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 32.2 | 39.0 | 64 | 18.7 | 39 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
