@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
   Clear (পরিষ্কার)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:28 AM, Set: 09:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:06 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 32.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:28 AM, Set: 09:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:06 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 32.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.2 <strong>PM10:</strong> 20.2</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.8 <strong>PM10:</strong> 20.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-18 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 32.0 | 81 | 8.3 | 10 |
-| 2026-08-18 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 31.9 | 81 | 7.9 | 10 |
-| 2026-08-18 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.0 | 83 | 9.0 | 21 |
-| 2026-08-18 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.7 | 31.9 | 84 | 9.7 | 36 |
-| 2026-08-19 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 31.4 | 86 | 9.7 | 68 |
+| 2026-08-18 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.9 | 32.0 | 81 | 7.9 | 10 |
+| 2026-08-18 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.1 | 83 | 9.0 | 21 |
+| 2026-08-18 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.7 | 31.9 | 84 | 9.7 | 34 |
+| 2026-08-19 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 31.5 | 86 | 9.7 | 67 |
 | 2026-08-19 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.2 | 30.9 | 86 | 10.1 | 40 |
-| 2026-08-19 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.9 | 30.3 | 87 | 9.4 | 20 |
-| 2026-08-19 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.6 | 29.7 | 88 | 8.6 | 41 |
+| 2026-08-19 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.9 | 30.4 | 87 | 9.4 | 20 |
+| 2026-08-19 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.6 | 29.8 | 88 | 8.6 | 41 |
 | 2026-08-19 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 29.5 | 88 | 8.6 | 13 |
-| 2026-08-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 26.3 | 29.5 | 88 | 7.6 | 23 |
+| 2026-08-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 26.4 | 29.5 | 88 | 7.6 | 23 |
+| 2026-08-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.1 | 30.5 | 84 | 7.6 | 25 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.86 | 📈 H: ₹99.61 | 📉 L: ₹97.44 <br>💵 USDT: ₹98.75 | 📈 H: ₹99.42 | 📉 L: ₹98.01 <br>♦ ETH: ₹188447.2 | 📈 H: ₹189097.5 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6277738.0 | 📈 H: ₹6349501.0 | 📉 L: ₹6207561.0 <br>⚡ BNB: ₹58729.19 | 📈 H: ₹60464.61 | 📉 L: ₹58729.19 <br></p>
+<p align="center">🪙 USDC: ₹97.86 | 📈 H: ₹99.61 | 📉 L: ₹97.44 <br>💵 USDT: ₹98.81 | 📈 H: ₹99.47 | 📉 L: ₹98.01 <br>♦ ETH: ₹187119.2 | 📈 H: ₹189097.5 | 📉 L: ₹185000.0 <br>₿ BTC: ₹6357910.0 | 📈 H: ₹6357910.0 | 📉 L: ₹6207561.0 <br>⚡ BNB: ₹58729.19 | 📈 H: ₹60464.61 | 📉 L: ₹58729.19 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
