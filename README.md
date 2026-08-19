@@ -46,10 +46,10 @@
 
 <p align="center">Kolkata, India - 19/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:27 AM, Set: 10:26 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:05 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 31.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:27 AM, Set: 10:26 PM)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:05 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 32.1 °C</p>
 
 <p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.6 <strong>PM10:</strong> 20.1</p>
 
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-20 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.5 | 30.9 | 80 | 9.0 | 19 |
 | 2026-08-20 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.2 | 30.2 | 80 | 7.9 | 23 |
 | 2026-08-20 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.1 | 29.9 | 81 | 8.3 | 22 |
-| 2026-08-20 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 26.9 | 29.7 | 82 | 7.9 | 21 |
-| 2026-08-20 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.6 | 31.0 | 79 | 7.6 | 18 |
-| 2026-08-20 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.8 | 32.8 | 73 | 7.9 | 19 |
-| 2026-08-20 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 30.1 | 34.5 | 67 | 8.6 | 13 |
-| 2026-08-20 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 31.5 | 36.4 | 62 | 10.8 | 15 |
-| 2026-08-20 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.7 | 37.9 | 58 | 12.2 | 14 |
-| 2026-08-20 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.5 | 38.8 | 55 | 14.0 | 13 |
+| 2026-08-20 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.2 | 30.8 | 86 | 9.7 | 26 |
+| 2026-08-20 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.0 | 32.5 | 82 | 9.7 | 22 |
+| 2026-08-20 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.5 | 35.1 | 75 | 11.5 | 17 |
+| 2026-08-20 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.7 | 36.6 | 70 | 11.9 | 18 |
+| 2026-08-20 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.7 | 38.0 | 65 | 11.9 | 14 |
+| 2026-08-20 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.7 | 39.3 | 62 | 11.5 | 58 |
+| 2026-08-20 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.1 | 39.6 | 60 | 13.0 | 60 |
+| 2026-08-20 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.0 | 39.6 | 60 | 14.4 | 28 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.01 | 📈 H: ₹99.81 | 📉 L: ₹97.01 <br>💵 USDT: ₹99.05 | 📈 H: ₹99.52 | 📉 L: ₹98.35 <br>♦ ETH: ₹202352.0 | 📈 H: ₹206000.0 | 📉 L: ₹186662.4 <br>₿ BTC: ₹6662441.0 | 📈 H: ₹6799998.0 | 📉 L: ₹6282960.0 <br>⚡ BNB: ₹60029.29 | 📈 H: ₹60229.44 | 📉 L: ₹58730.17 <br></p>
+<p align="center">🪙 USDC: ₹97.01 | 📈 H: ₹99.81 | 📉 L: ₹97.01 <br>💵 USDT: ₹98.76 | 📈 H: ₹99.52 | 📉 L: ₹98.35 <br>♦ ETH: ₹206365.9 | 📈 H: ₹206365.9 | 📉 L: ₹186662.4 <br>₿ BTC: ₹6699999.0 | 📈 H: ₹6799998.0 | 📉 L: ₹6282960.0 <br>⚡ BNB: ₹60029.29 | 📈 H: ₹60229.44 | 📉 L: ₹58730.17 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
