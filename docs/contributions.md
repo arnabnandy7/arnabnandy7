@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#357 - test: cover async-profiler JFR start command](https://github.com/grafana/pyroscope-java/pull/357) | 2026-08-19 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1938 - fix(openai): use versioned Mistral base URL](https://github.com/embabel/embabel-agent/pull/1938) | 2026-08-18 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#353 - fix: set async-profiler timeout for OTLP recordings](https://github.com/grafana/pyroscope-java/pull/353) | 2026-08-18 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#351 - fix: allow OTLP allocation and lock thresholds](https://github.com/grafana/pyroscope-java/pull/351) | 2026-08-18 |
