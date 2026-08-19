@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
   Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:27 AM, Set: 10:26 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:05 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 30.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:27 AM, Set: 10:26 PM)  <br>🌅 <strong>Sunrise:</strong> 05:14 AM | <strong>Sunset:</strong> 06:05 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 29.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.7 <strong>PM10:</strong> 20.3</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.6 <strong>PM10:</strong> 20.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-20 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.2 | 30.8 | 86 | 9.7 | 26 |
 | 2026-08-20 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.0 | 32.5 | 82 | 9.7 | 22 |
 | 2026-08-20 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.5 | 35.1 | 75 | 11.5 | 17 |
 | 2026-08-20 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.7 | 36.6 | 70 | 11.9 | 18 |
@@ -71,11 +70,12 @@
 | 2026-08-20 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.0 | 39.6 | 60 | 14.4 | 28 |
 | 2026-08-20 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 33.1 | 39.7 | 60 | 14.8 | 16 |
 | 2026-08-20 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 33.1 | 39.5 | 59 | 14.8 | 14 |
+| 2026-08-20 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.6 | 38.6 | 60 | 14.4 | 15 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.01 | 📈 H: ₹99.81 | 📉 L: ₹97.01 <br>💵 USDT: ₹98.23 | 📈 H: ₹99.52 | 📉 L: ₹98.13 <br>♦ ETH: ₹222397.2 | 📈 H: ₹225601.0 | 📉 L: ₹186662.4 <br>₿ BTC: ₹6700602.0 | 📈 H: ₹6800000.0 | 📉 L: ₹6282960.0 <br>⚡ BNB: ₹61700.0 | 📈 H: ₹61700.0 | 📉 L: ₹58730.17 <br></p>
+<p align="center">🪙 USDC: ₹97.01 | 📈 H: ₹99.81 | 📉 L: ₹97.01 <br>💵 USDT: ₹98.99 | 📈 H: ₹99.52 | 📉 L: ₹98.13 <br>♦ ETH: ₹223647.2 | 📈 H: ₹225601.0 | 📉 L: ₹186662.4 <br>₿ BTC: ₹6774878.0 | 📈 H: ₹6800000.0 | 📉 L: ₹6282960.0 <br>⚡ BNB: ₹61700.0 | 📈 H: ₹61700.0 | 📉 L: ₹58730.17 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
