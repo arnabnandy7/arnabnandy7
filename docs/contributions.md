@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/apple.png?size=24" width="24" height="24" alt="apple avatar"> [apple/servicetalk](https://github.com/apple/servicetalk) | [#3606 - http-netty: fix connection acceptor context test race](https://github.com/apple/servicetalk/pull/3606) | 2026-08-20 |
+| <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17308 - FileRegion: Remove outdated JDK upgrade warning](https://github.com/netty/netty/pull/17308) | 2026-08-20 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50069 - fix(cosmos): RxDocumentServiceRequest clone field copying](https://github.com/Azure/azure-sdk-for-java/pull/50069) | 2026-08-19 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#357 - test: cover async-profiler JFR start command](https://github.com/grafana/pyroscope-java/pull/357) | 2026-08-19 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1938 - fix(openai): use versioned Mistral base URL](https://github.com/embabel/embabel-agent/pull/1938) | 2026-08-18 |
