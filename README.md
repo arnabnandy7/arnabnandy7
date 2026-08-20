@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
   Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:26 PM, Set: 11:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:04 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 37.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:26 PM, Set: 11:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:04 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 35.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.2 <strong>PM10:</strong> 22.1</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 22.2 <strong>PM10:</strong> 24.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-20 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.0 | 34.8 | 69 | 14.8 | 17 |
 | 2026-08-20 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.5 | 33.9 | 71 | 15.5 | 18 |
 | 2026-08-20 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.0 | 33.4 | 74 | 14.4 | 20 |
 | 2026-08-20 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.7 | 33.4 | 77 | 14.0 | 22 |
@@ -71,11 +70,12 @@
 | 2026-08-21 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.3 | 33.1 | 81 | 9.7 | 24 |
 | 2026-08-21 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.6 | 82 | 8.6 | 26 |
 | 2026-08-21 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.9 | 32.5 | 84 | 6.1 | 26 |
+| 2026-08-21 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.3 | 84 | 3.2 | 26 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.13 | 📈 H: ₹97.7 | 📉 L: ₹96.72 <br>💵 USDT: ₹98.4 | 📈 H: ₹99.5 | 📉 L: ₹98.02 <br>♦ ETH: ₹225601.0 | 📈 H: ₹225601.0 | 📉 L: ₹187988.1 <br>₿ BTC: ₹7060000.0 | 📈 H: ₹7060000.0 | 📉 L: ₹6298351.0 <br>⚡ BNB: ₹63020.0 | 📈 H: ₹63020.0 | 📉 L: ₹58938.73 <br></p>
+<p align="center">🪙 USDC: ₹97.13 | 📈 H: ₹97.7 | 📉 L: ₹96.72 <br>💵 USDT: ₹98.4 | 📈 H: ₹99.41 | 📉 L: ₹98.02 <br>♦ ETH: ₹226931.1 | 📈 H: ₹226931.1 | 📉 L: ₹189171.5 <br>₿ BTC: ₹7000751.0 | 📈 H: ₹7086733.0 | 📉 L: ₹6338919.0 <br>⚡ BNB: ₹62536.33 | 📈 H: ₹63020.0 | 📉 L: ₹58938.73 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  If you rearrange the letters of 'yes', you get 'sye'—which is exactly how much sense it would make for me to do this. 🛑❌ 
+  I'm busy searching for motivation on Google; no results found. 🛑❌ 
 </p>
 
 </details>
