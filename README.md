@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 21/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy weather icon"/><br/>
+  Cloudy (মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:23 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:03 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 56% | 🌡️ <strong>Feels Like:</strong> 40.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:23 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:03 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 40.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.7 <strong>PM10:</strong> 34.8</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.4 <strong>PM10:</strong> 33.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-21 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 40.0 | 60 | 16.6 | 17 |
-| 2026-08-21 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.1 | 38.6 | 64 | 17.3 | 9 |
-| 2026-08-21 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.7 | 36.4 | 69 | 17.3 | 17 |
-| 2026-08-21 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.9 | 35.3 | 73 | 17.6 | 19 |
+| 2026-08-21 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.1 | 38.7 | 64 | 17.3 | 9 |
+| 2026-08-21 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.7 | 36.5 | 69 | 17.3 | 17 |
+| 2026-08-21 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.9 | 35.4 | 73 | 17.6 | 19 |
 | 2026-08-21 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.4 | 34.9 | 76 | 17.6 | 19 |
 | 2026-08-21 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.2 | 34.8 | 78 | 17.6 | 22 |
 | 2026-08-21 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.0 | 34.5 | 79 | 16.6 | 23 |
-| 2026-08-21 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.8 | 34.2 | 80 | 15.5 | 23 |
-| 2026-08-22 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.7 | 33.9 | 80 | 15.1 | 22 |
-| 2026-08-22 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.6 | 33.6 | 80 | 13.7 | 21 |
+| 2026-08-21 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.9 | 34.3 | 80 | 15.5 | 23 |
+| 2026-08-22 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.7 | 34.0 | 80 | 15.1 | 22 |
+| 2026-08-22 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.6 | 33.7 | 80 | 13.7 | 21 |
+| 2026-08-22 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.3 | 33.1 | 81 | 11.9 | 24 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.49 | 📈 H: ₹98.11 | 📉 L: ₹97.11 <br>💵 USDT: ₹98.5 | 📈 H: ₹99.24 | 📉 L: ₹98.01 <br>♦ ETH: ₹235139.7 | 📈 H: ₹239626.5 | 📉 L: ₹221068.7 <br>₿ BTC: ₹7645393.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7000002.0 <br>⚡ BNB: ₹65697.12 | 📈 H: ₹66203.02 | 📉 L: ₹62447.52 <br></p>
+<p align="center">🪙 USDC: ₹97.49 | 📈 H: ₹98.11 | 📉 L: ₹97.11 <br>💵 USDT: ₹98.14 | 📈 H: ₹99.24 | 📉 L: ₹98.01 <br>♦ ETH: ₹234555.0 | 📈 H: ₹239626.5 | 📉 L: ₹221068.7 <br>₿ BTC: ₹7778808.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7000009.0 <br>⚡ BNB: ₹66138.47 | 📈 H: ₹66203.02 | 📉 L: ₹62447.52 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
