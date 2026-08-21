@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 21/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
+  Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:23 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:03 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 33.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:23 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:03 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 33.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.6 <strong>PM10:</strong> 43.1</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.5 <strong>PM10:</strong> 43.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-22 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.1 | 32.7 | 82 | 8.6 | 25 |
 | 2026-08-22 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.1 | 32.8 | 83 | 8.3 | 25 |
 | 2026-08-22 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 28.9 | 34.1 | 78 | 9.7 | 23 |
 | 2026-08-22 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.0 | 35.4 | 72 | 11.2 | 19 |
@@ -71,11 +70,12 @@
 | 2026-08-22 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.3 | 40.1 | 53 | 15.1 | 12 |
 | 2026-08-22 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.8 | 40.7 | 51 | 15.1 | 11 |
 | 2026-08-22 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 35.1 | 40.8 | 49 | 15.5 | 11 |
+| 2026-08-22 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.5 | 40.5 | 53 | 16.9 | 12 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.78 | 📈 H: ₹99.78 | 📉 L: ₹97.45 <br>💵 USDT: ₹98.15 | 📈 H: ₹99.17 | 📉 L: ₹98.01 <br>♦ ETH: ₹243999.9 | 📈 H: ₹244283.3 | 📉 L: ₹225227.0 <br>₿ BTC: ₹7690486.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7068129.0 <br>⚡ BNB: ₹66400.87 | 📈 H: ₹67712.49 | 📉 L: ₹64200.0 <br></p>
+<p align="center">🪙 USDC: ₹99.78 | 📈 H: ₹99.78 | 📉 L: ₹97.45 <br>💵 USDT: ₹98.15 | 📈 H: ₹99.17 | 📉 L: ₹98.01 <br>♦ ETH: ₹247449.1 | 📈 H: ₹247934.0 | 📉 L: ₹225227.4 <br>₿ BTC: ₹7700065.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7100000.0 <br>⚡ BNB: ₹67621.97 | 📈 H: ₹67712.49 | 📉 L: ₹64200.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
