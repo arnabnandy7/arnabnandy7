@@ -17,7 +17,7 @@
 <h4 align="center">Top organizations / users</h4>
 
 <table width="100%" cellpadding="10" cellspacing="0">
-  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure">Azure</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AAzure"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web">Vault-Web</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AVault-Web"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab">cognizant-ai-lab</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Acognizant-ai-lab"><strong>7</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana">grafana</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Agrafana"><strong>7</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel">embabel</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aembabel"><strong>6</strong></a>)</td></tr>
+  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure">Azure</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AAzure"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab">cognizant-ai-lab</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Acognizant-ai-lab"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web">Vault-Web</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AVault-Web"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana">grafana</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Agrafana"><strong>7</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel">embabel</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aembabel"><strong>6</strong></a>)</td></tr>
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/JabRef.png?size=20" width="20" height="20" valign="middle" alt="JabRef avatar"> <a href="https://github.com/JabRef">JabRef</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AJabRef"><strong>6</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/hardwood-hq.png?size=20" width="20" height="20" valign="middle" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq">hardwood-hq</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Ahardwood-hq"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/netty.png?size=20" width="20" height="20" valign="middle" alt="netty avatar"> <a href="https://github.com/netty">netty</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Anetty"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/prometheus.png?size=20" width="20" height="20" valign="middle" alt="prometheus avatar"> <a href="https://github.com/prometheus">prometheus</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aprometheus"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty">buntychakraborty</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Abuntychakraborty"><strong>3</strong></a>)</td></tr>
 </table>
 
@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 21/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:23 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:03 PM  <br>💨 <strong>Wind:</strong> 15.5 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 36.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:23 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:03 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 35.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.7 <strong>PM10:</strong> 46.2</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.5 <strong>PM10:</strong> 48.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-21 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.2 | 34.8 | 78 | 17.6 | 22 |
 | 2026-08-21 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.1 | 34.3 | 77 | 14.0 | 22 |
 | 2026-08-21 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.0 | 34.4 | 78 | 13.0 | 23 |
 | 2026-08-22 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.8 | 34.1 | 80 | 11.2 | 21 |
@@ -71,11 +70,12 @@
 | 2026-08-22 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.2 | 32.9 | 82 | 10.4 | 12 |
 | 2026-08-22 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.1 | 32.7 | 82 | 9.7 | 18 |
 | 2026-08-22 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 34.5 | 78 | 10.1 | 25 |
+| 2026-08-22 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.4 | 36.4 | 72 | 11.2 | 19 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.49 | 📈 H: ₹98.11 | 📉 L: ₹97.11 <br>💵 USDT: ₹98.32 | 📈 H: ₹99.17 | 📉 L: ₹98.01 <br>♦ ETH: ₹235993.2 | 📈 H: ₹239626.5 | 📉 L: ₹221068.7 <br>₿ BTC: ₹7550001.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7000733.0 <br>⚡ BNB: ₹66422.81 | 📈 H: ₹66422.81 | 📉 L: ₹63077.66 <br></p>
+<p align="center">🪙 USDC: ₹97.49 | 📈 H: ₹98.11 | 📉 L: ₹97.11 <br>💵 USDT: ₹98.3 | 📈 H: ₹99.17 | 📉 L: ₹98.01 <br>♦ ETH: ₹234992.6 | 📈 H: ₹239626.5 | 📉 L: ₹224000.0 <br>₿ BTC: ₹7625000.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7047199.0 <br>⚡ BNB: ₹66366.39 | 📈 H: ₹66422.81 | 📉 L: ₹63077.66 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  error code: 502 🛑❌ 
+  Mentally, I'm already on vacation. 🛑❌ 
 </p>
 
 </details>
