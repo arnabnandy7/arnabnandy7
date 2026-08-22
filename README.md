@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
   Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:16 PM, Set: 12:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:15 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 15.1 kph | 💧 <strong>Humidity:</strong> 53% | 🌡️ <strong>Feels Like:</strong> 40.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:17 PM, Set: 12:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 54% | 🌡️ <strong>Feels Like:</strong> 41.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 29.3 <strong>PM10:</strong> 33.9</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 27.8 <strong>PM10:</strong> 31.9</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-22 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 35.1 | 40.8 | 49 | 15.5 | 11 |
-| 2026-08-22 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.5 | 40.5 | 53 | 16.9 | 12 |
-| 2026-08-22 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.3 | 39.2 | 57 | 18.4 | 13 |
-| 2026-08-22 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.4 | 38.1 | 60 | 17.6 | 11 |
-| 2026-08-22 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 37.0 | 64 | 18.7 | 4 |
-| 2026-08-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.2 | 35.3 | 69 | 16.6 | 5 |
-| 2026-08-22 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.7 | 34.7 | 72 | 15.1 | 10 |
-| 2026-08-22 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.3 | 34.5 | 75 | 13.3 | 21 |
-| 2026-08-22 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.9 | 34.0 | 78 | 13.0 | 22 |
-| 2026-08-22 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.7 | 33.8 | 80 | 12.6 | 23 |
+| 2026-08-22 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.4 | 40.9 | 54 | 16.2 | 12 |
+| 2026-08-22 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.1 | 40.6 | 56 | 15.5 | 13 |
+| 2026-08-22 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.6 | 40.2 | 58 | 15.8 | 15 |
+| 2026-08-22 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.3 | 38.6 | 63 | 17.3 | 15 |
+| 2026-08-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.8 | 36.4 | 68 | 17.3 | 16 |
+| 2026-08-22 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.9 | 35.1 | 71 | 16.6 | 18 |
+| 2026-08-22 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.3 | 34.3 | 74 | 16.2 | 20 |
+| 2026-08-22 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.1 | 34.0 | 76 | 15.5 | 21 |
+| 2026-08-22 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.8 | 33.8 | 78 | 15.8 | 22 |
+| 2026-08-22 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.6 | 33.4 | 79 | 14.8 | 23 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.78 | 📈 H: ₹99.78 | 📉 L: ₹97.45 <br>💵 USDT: ₹98.17 | 📈 H: ₹99.17 | 📉 L: ₹98.01 <br>♦ ETH: ₹236800.1 | 📈 H: ₹249450.0 | 📉 L: ₹228721.6 <br>₿ BTC: ₹7537298.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7125000.0 <br>⚡ BNB: ₹67898.99 | 📈 H: ₹70502.59 | 📉 L: ₹65131.71 <br></p>
+<p align="center">🪙 USDC: ₹99.78 | 📈 H: ₹99.78 | 📉 L: ₹97.45 <br>💵 USDT: ₹98.14 | 📈 H: ₹99.17 | 📉 L: ₹98.01 <br>♦ ETH: ₹237777.3 | 📈 H: ₹249450.0 | 📉 L: ₹228721.6 <br>₿ BTC: ₹7683892.0 | 📈 H: ₹7778843.0 | 📉 L: ₹7125000.0 <br>⚡ BNB: ₹68504.28 | 📈 H: ₹70502.59 | 📉 L: ₹65697.12 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
