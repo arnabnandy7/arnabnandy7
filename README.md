@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
   Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:17 PM, Set: 12:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 40.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:17 PM, Set: 12:03 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:02 PM  <br>💨 <strong>Wind:</strong> 17.3 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 38.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.3 <strong>PM10:</strong> 18.6</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.6 <strong>PM10:</strong> 17.9</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.8 | 36.4 | 68 | 17.3 | 16 |
 | 2026-08-22 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.9 | 35.1 | 71 | 16.6 | 18 |
 | 2026-08-22 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.3 | 34.3 | 74 | 16.2 | 20 |
 | 2026-08-22 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.1 | 34.0 | 76 | 15.5 | 21 |
@@ -71,11 +70,12 @@
 | 2026-08-23 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.1 | 32.6 | 82 | 10.4 | 24 |
 | 2026-08-23 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.9 | 32.3 | 83 | 9.7 | 25 |
 | 2026-08-23 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.8 | 32.3 | 84 | 10.1 | 26 |
+| 2026-08-23 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.7 | 32.1 | 85 | 9.7 | 22 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.48 | 📈 H: ₹99.78 | 📉 L: ₹97.45 <br>💵 USDT: ₹98.31 | 📈 H: ₹98.99 | 📉 L: ₹98.1 <br>♦ ETH: ₹236917.1 | 📈 H: ₹249450.0 | 📉 L: ₹231350.6 <br>₿ BTC: ₹7554166.0 | 📈 H: ₹7700065.0 | 📉 L: ₹7125000.0 <br>⚡ BNB: ₹68013.0 | 📈 H: ₹70502.59 | 📉 L: ₹65946.3 <br></p>
+<p align="center">🪙 USDC: ₹97.48 | 📈 H: ₹99.78 | 📉 L: ₹97.45 <br>💵 USDT: ₹98.3 | 📈 H: ₹98.99 | 📉 L: ₹98.1 <br>♦ ETH: ₹237005.1 | 📈 H: ₹249450.0 | 📉 L: ₹233000.0 <br>₿ BTC: ₹7649998.0 | 📈 H: ₹7700065.0 | 📉 L: ₹7125000.0 <br>⚡ BNB: ₹68013.0 | 📈 H: ₹70502.59 | 📉 L: ₹65997.46 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm going to seize the opportunity to do nothing instead. 🛑❌ 
+  I prefer the thrill of not doing it, thanks. 🛑❌ 
 </p>
 
 </details>
