@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:06 PM, Set: 12:56 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 16.9 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 39.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:06 PM, Set: 12:56 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 55% | 🌡️ <strong>Feels Like:</strong> 39.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.2 <strong>PM10:</strong> 12.3</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.4 <strong>PM10:</strong> 11.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 40.1 | 62 | 16.2 | 47 |
-| 2026-08-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 39.8 | 64 | 15.8 | 52 |
-| 2026-08-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 39.0 | 66 | 15.5 | 57 |
-| 2026-08-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 32.0 | 39.0 | 66 | 16.6 | 49 |
-| 2026-08-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 30.8 | 37.4 | 71 | 17.3 | 52 |
-| 2026-08-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 35.5 | 75 | 15.8 | 7 |
-| 2026-08-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 35.0 | 78 | 14.4 | 8 |
-| 2026-08-23 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 34.3 | 80 | 13.3 | 9 |
-| 2026-08-23 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.6 | 33.9 | 81 | 12.2 | 10 |
-| 2026-08-23 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 33.6 | 83 | 14.0 | 20 |
+| 2026-08-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.8 | 40.3 | 57 | 13.7 | 21 |
+| 2026-08-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 32.8 | 39.5 | 61 | 14.0 | 17 |
+| 2026-08-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 32.3 | 39.0 | 64 | 12.2 | 47 |
+| 2026-08-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 31.6 | 38.4 | 67 | 11.5 | 36 |
+| 2026-08-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 30.5 | 36.8 | 72 | 13.0 | 21 |
+| 2026-08-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.7 | 35.6 | 75 | 13.3 | 23 |
+| 2026-08-23 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 35.1 | 77 | 12.6 | 8 |
+| 2026-08-23 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.0 | 34.5 | 79 | 10.1 | 13 |
+| 2026-08-23 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.7 | 33.9 | 80 | 8.6 | 9 |
+| 2026-08-23 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 33.5 | 80 | 8.3 | 27 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.72 | 📈 H: ₹99.78 | 📉 L: ₹97.48 <br>💵 USDT: ₹98.79 | 📈 H: ₹98.79 | 📉 L: ₹98.13 <br>♦ ETH: ₹232777.3 | 📈 H: ₹239998.0 | 📉 L: ₹231967.7 <br>₿ BTC: ₹7426246.0 | 📈 H: ₹7683988.0 | 📉 L: ₹7424026.0 <br>⚡ BNB: ₹66756.37 | 📈 H: ₹69630.0 | 📉 L: ₹66178.31 <br></p>
+<p align="center">🪙 USDC: ₹97.72 | 📈 H: ₹99.78 | 📉 L: ₹97.48 <br>💵 USDT: ₹98.38 | 📈 H: ₹98.79 | 📉 L: ₹98.14 <br>♦ ETH: ₹235000.0 | 📈 H: ₹239998.0 | 📉 L: ₹231967.7 <br>₿ BTC: ₹7410000.0 | 📈 H: ₹7683988.0 | 📉 L: ₹7404583.0 <br>⚡ BNB: ₹66756.37 | 📈 H: ₹69630.0 | 📉 L: ₹66178.31 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
