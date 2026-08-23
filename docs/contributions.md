@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2637 - fix: select default init template by extension](https://github.com/jbangdev/jbang/pull/2637) | 2026-08-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1964 - fix: retain chunks when applying entity filters](https://github.com/embabel/embabel-agent/pull/1964) | 2026-08-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1962 - Share search property filter dispatch](https://github.com/embabel/embabel-agent/pull/1962) | 2026-08-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1958 - Fix eager search metadata filtering](https://github.com/embabel/embabel-agent/pull/1958) | 2026-08-21 |
