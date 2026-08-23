@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1964 - fix: retain chunks when applying entity filters](https://github.com/embabel/embabel-agent/pull/1964) | 2026-08-23 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1962 - Share search property filter dispatch](https://github.com/embabel/embabel-agent/pull/1962) | 2026-08-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1958 - Fix eager search metadata filtering](https://github.com/embabel/embabel-agent/pull/1958) | 2026-08-21 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#515 - Fix SettingsDialog test timeouts](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/515) | 2026-08-21 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/grafana-opentelemetry-java](https://github.com/grafana/grafana-opentelemetry-java) | [#1390 - fix: enforce UTF-8 resource attribute limit](https://github.com/grafana/grafana-opentelemetry-java/pull/1390) | 2026-08-21 |
