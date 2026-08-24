@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-24 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 38.8 | 66 | 20.2 | 23 |
 | 2026-08-24 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.2 | 39.1 | 65 | 19.8 | 39 |
 | 2026-08-24 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 39.4 | 64 | 20.2 | 49 |
 | 2026-08-24 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 31.8 | 38.6 | 67 | 20.9 | 23 |
@@ -71,11 +70,12 @@
 | 2026-08-24 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.3 | 36.4 | 72 | 19.4 | 20 |
 | 2026-08-24 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.4 | 35.0 | 76 | 19.1 | 20 |
 | 2026-08-24 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.9 | 34.2 | 79 | 18.7 | 23 |
+| 2026-08-24 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 33.7 | 81 | 17.3 | 24 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.54 | 📈 H: ₹99.54 | 📉 L: ₹97.51 <br>💵 USDT: ₹98.72 | 📈 H: ₹98.97 | 📉 L: ₹98.15 <br>♦ ETH: ₹238147.3 | 📈 H: ₹241777.1 | 📉 L: ₹231967.7 <br>₿ BTC: ₹7536770.0 | 📈 H: ₹7650000.0 | 📉 L: ₹7404583.0 <br>⚡ BNB: ₹67857.1 | 📈 H: ₹68500.0 | 📉 L: ₹66178.31 <br></p>
+<p align="center">🪙 USDC: ₹99.54 | 📈 H: ₹99.54 | 📉 L: ₹97.51 <br>💵 USDT: ₹98.2 | 📈 H: ₹98.97 | 📉 L: ₹98.15 <br>♦ ETH: ₹237561.3 | 📈 H: ₹241777.1 | 📉 L: ₹231967.7 <br>₿ BTC: ₹7513027.0 | 📈 H: ₹7650000.0 | 📉 L: ₹7404583.0 <br>⚡ BNB: ₹67857.1 | 📈 H: ₹68500.0 | 📉 L: ₹66178.31 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
