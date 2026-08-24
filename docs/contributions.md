@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) | [#1528 - Add configurable agent logging backend](https://github.com/prometheus/jmx_exporter/pull/1528) | 2026-08-24 |
 | <img src="https://github.com/grafana.png?size=24" width="24" height="24" alt="grafana avatar"> [grafana/pyroscope-java](https://github.com/grafana/pyroscope-java) | [#348 - fix: warn about ignored OTLP application name and labels](https://github.com/grafana/pyroscope-java/pull/348) | 2026-08-24 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2637 - fix: select default init template by extension](https://github.com/jbangdev/jbang/pull/2637) | 2026-08-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1964 - fix: retain chunks when applying entity filters](https://github.com/embabel/embabel-agent/pull/1964) | 2026-08-23 |
