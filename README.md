@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
   Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:50 PM, Set: 01:50 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:50 PM, Set: 01:50 AM)  <br>🌅 <strong>Sunrise:</strong> 05:16 AM | <strong>Sunset:</strong> 06:01 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 33.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.1 <strong>PM10:</strong> 15.9</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.3 <strong>PM10:</strong> 14.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-25 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.8 | 32.5 | 86 | 16.9 | 19 |
-| 2026-08-25 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.7 | 32.4 | 87 | 14.8 | 31 |
+| 2026-08-25 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.7 | 32.4 | 87 | 14.8 | 36 |
 | 2026-08-25 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.6 | 32.2 | 87 | 14.0 | 26 |
 | 2026-08-25 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.5 | 32.0 | 87 | 12.2 | 18 |
-| 2026-08-25 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.5 | 31.9 | 87 | 11.5 | 32 |
+| 2026-08-25 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.5 | 32.0 | 87 | 11.5 | 32 |
 | 2026-08-25 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.3 | 31.6 | 88 | 11.2 | 41 |
-| 2026-08-25 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.0 | 32.8 | 85 | 12.6 | 46 |
+| 2026-08-25 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.0 | 32.9 | 85 | 12.6 | 46 |
 | 2026-08-25 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.4 | 35.6 | 78 | 13.0 | 24 |
 | 2026-08-25 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.5 | 37.2 | 73 | 14.0 | 38 |
-| 2026-08-25 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.5 | 37.2 | 73 | 15.5 | 25 |
+| 2026-08-25 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 30.6 | 37.2 | 73 | 15.5 | 25 |
+| 2026-08-25 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.7 | 39.8 | 63 | 14.0 | 17 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.35 | 📈 H: ₹99.54 | 📉 L: ₹97.57 <br>💵 USDT: ₹98.46 | 📈 H: ₹99.19 | 📉 L: ₹98.15 <br>♦ ETH: ₹245000.0 | 📈 H: ₹248000.0 | 📉 L: ₹237561.3 <br>₿ BTC: ₹7740419.0 | 📈 H: ₹7850000.0 | 📉 L: ₹7513027.0 <br>⚡ BNB: ₹70000.0 | 📈 H: ₹70000.0 | 📉 L: ₹67846.06 <br></p>
+<p align="center">🪙 USDC: ₹98.35 | 📈 H: ₹99.54 | 📉 L: ₹97.57 <br>💵 USDT: ₹98.44 | 📈 H: ₹99.19 | 📉 L: ₹98.15 <br>♦ ETH: ₹245000.0 | 📈 H: ₹248000.0 | 📉 L: ₹237561.3 <br>₿ BTC: ₹7737241.0 | 📈 H: ₹7850000.0 | 📉 L: ₹7513027.0 <br>⚡ BNB: ₹69040.33 | 📈 H: ₹70000.0 | 📉 L: ₹67857.1 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I was reading tea leaves and they said to avoid this at all costs. 🛑❌ 
+  I'm overbooked with underachieving. 🛑❌ 
 </p>
 
 </details>
