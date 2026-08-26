@@ -61,7 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 39.9 | 62 | 7.2 | 61 |
 | 2026-08-26 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 40.2 | 63 | 6.8 | 48 |
 | 2026-08-26 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.7 | 41.1 | 59 | 15.8 | 57 |
 | 2026-08-26 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 41.5 | 58 | 15.8 | 18 |
@@ -71,11 +70,12 @@
 | 2026-08-26 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 37.9 | 70 | 17.3 | 7 |
 | 2026-08-26 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.9 | 36.1 | 75 | 16.2 | 8 |
 | 2026-08-26 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 35.6 | 78 | 14.4 | 8 |
+| 2026-08-26 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.2 | 35.3 | 80 | 13.7 | 11 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹98.52 | 📉 L: ₹98.07 <br>💵 USDT: ₹99.14 | 📈 H: ₹100.03 | 📉 L: ₹98.23 <br>♦ ETH: ₹242554.2 | 📈 H: ₹249000.0 | 📉 L: ₹240000.2 <br>₿ BTC: ₹7850564.0 | 📈 H: ₹7987973.0 | 📉 L: ₹7737678.0 <br>⚡ BNB: ₹68496.48 | 📈 H: ₹71499.99 | 📉 L: ₹68031.26 <br></p>
+<p align="center">🪙 USDC: ₹98.5 | 📈 H: ₹98.52 | 📉 L: ₹98.07 <br>💵 USDT: ₹99.14 | 📈 H: ₹100.03 | 📉 L: ₹98.24 <br>♦ ETH: ₹245485.0 | 📈 H: ₹249000.0 | 📉 L: ₹240000.2 <br>₿ BTC: ₹7761656.0 | 📈 H: ₹7987973.0 | 📉 L: ₹7737678.0 <br>⚡ BNB: ₹68496.48 | 📈 H: ₹71499.99 | 📉 L: ₹68031.26 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
