@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Updated |
 | :---: | :---: | :---: |
+| <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#55785 - Include method names in parameterized test results](https://github.com/quarkusio/quarkus/pull/55785) | 2026-08-26 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1259 - Fix duplicate descendant journaling events](https://github.com/cognizant-ai-lab/neuro-san/pull/1259) | 2026-08-24 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50155 - Fix handling of failed Cosmos bulk responses](https://github.com/Azure/azure-sdk-for-java/pull/50155) | 2026-08-24 |
 | <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) | [#1528 - Add configurable agent logging backend](https://github.com/prometheus/jmx_exporter/pull/1528) | 2026-08-24 |
