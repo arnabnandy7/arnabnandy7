@@ -26,7 +26,7 @@
 <table width="100%" cellpadding="10" cellspacing="0">
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">azure-sdk-for-java</a> (<a href="https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel/embabel-agent">embabel-agent</a> (<a href="https://github.com/embabel/embabel-agent/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab/neuro-san-studio">neuro-san-studio</a> (<a href="https://github.com/cognizant-ai-lab/neuro-san-studio/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>7</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana/pyroscope-java">pyroscope-java</a> (<a href="https://github.com/grafana/pyroscope-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/JabRef.png?size=20" width="20" height="20" valign="middle" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">jabref</a> (<a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td></tr>
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/hardwood-hq.png?size=20" width="20" height="20" valign="middle" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood</a> (<a href="https://github.com/hardwood-hq/hardwood/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/netty.png?size=20" width="20" height="20" valign="middle" alt="netty avatar"> <a href="https://github.com/netty/netty">netty</a> (<a href="https://github.com/netty/netty/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">cloud-page</a> (<a href="https://github.com/Vault-Web/cloud-page/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/jbangdev.png?size=20" width="20" height="20" valign="middle" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbang</a> (<a href="https://github.com/jbangdev/jbang/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/prometheus.png?size=20" width="20" height="20" valign="middle" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">client_java</a> (<a href="https://github.com/prometheus/client_java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td></tr>
-  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio/quarkus">quarkus</a> (<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache/kafka">kafka</a> (<a href="https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apple.png?size=20" width="20" height="20" valign="middle" alt="apple avatar"> <a href="https://github.com/apple/servicetalk">servicetalk</a> (<a href="https://github.com/apple/servicetalk/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
+  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio/quarkus">quarkus</a> (<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache/kafka">kafka</a> (<a href="https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apple.png?size=20" width="20" height="20" valign="middle" alt="apple avatar"> <a href="https://github.com/apple/servicetalk">servicetalk</a> (<a href="https://github.com/apple/servicetalk/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
 </table>
 
 [Explore the complete open source quest log](./docs/contributions.md)
@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 27/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:39 PM, Set: 04:30 AM)  <br>🌅 <strong>Sunrise:</strong> 05:17 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 34.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 05:39 PM, Set: 04:30 AM)  <br>🌅 <strong>Sunrise:</strong> 05:17 AM | <strong>Sunset:</strong> 05:58 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 43.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.3 <strong>PM10:</strong> 21.3</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.5 <strong>PM10:</strong> 21.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-27 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.4 | 39.9 | 65 | 10.1 | 57 |
-| 2026-08-27 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 40.9 | 62 | 10.4 | 39 |
-| 2026-08-27 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.7 | 41.2 | 59 | 8.6 | 36 |
-| 2026-08-27 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 33.9 | 41.5 | 59 | 8.6 | 59 |
-| 2026-08-27 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 34.0 | 41.7 | 59 | 9.7 | 57 |
-| 2026-08-27 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.8 | 41.6 | 60 | 10.4 | 36 |
-| 2026-08-27 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.6 | 41.5 | 61 | 10.4 | 57 |
-| 2026-08-27 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 41.2 | 63 | 10.8 | 13 |
-| 2026-08-27 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.2 | 40.2 | 68 | 13.0 | 57 |
-| 2026-08-27 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 30.8 | 38.2 | 74 | 15.1 | 56 |
+| 2026-08-27 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.4 | 36.0 | 81 | 15.1 | 12 |
+| 2026-08-27 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.2 | 35.8 | 82 | 13.3 | 41 |
+| 2026-08-27 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.0 | 35.6 | 84 | 11.9 | 18 |
+| 2026-08-27 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.7 | 35.0 | 85 | 11.9 | 44 |
+| 2026-08-28 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.7 | 34.7 | 85 | 11.2 | 71 |
+| 2026-08-28 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 28.4 | 34.4 | 86 | 7.6 | 83 |
+| 2026-08-28 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.9 | 34.7 | 81 | 7.6 | 67 |
+| 2026-08-28 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.1 | 35.2 | 80 | 5.8 | 23 |
+| 2026-08-28 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.0 | 34.9 | 81 | 4.0 | 69 |
+| 2026-08-28 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 29.0 | 34.9 | 81 | 3.6 | 24 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.2 | 📈 H: ₹99.54 | 📉 L: ₹98.2 <br>💵 USDT: ₹99.56 | 📈 H: ₹100.7 | 📉 L: ₹99.14 <br>♦ ETH: ₹245984.7 | 📈 H: ₹249000.0 | 📉 L: ₹242000.1 <br>₿ BTC: ₹7799999.0 | 📈 H: ₹7850595.0 | 📉 L: ₹7737426.0 <br>⚡ BNB: ₹69149.06 | 📈 H: ₹69149.06 | 📉 L: ₹68103.18 <br></p>
+<p align="center">🪙 USDC: ₹98.41 | 📈 H: ₹99.54 | 📉 L: ₹98.2 <br>💵 USDT: ₹99.31 | 📈 H: ₹100.63 | 📉 L: ₹99.01 <br>♦ ETH: ₹246541.4 | 📈 H: ₹251746.1 | 📉 L: ₹242777.7 <br>₿ BTC: ₹7870000.0 | 📈 H: ₹7945416.0 | 📉 L: ₹7737426.0 <br>⚡ BNB: ₹69740.0 | 📈 H: ₹70526.14 | 📉 L: ₹68358.68 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't; my ancestors' spirits would be displeased if I did. 🛑❌ 
+  My calendar at work has a big red 'NOPE' on that date. 🛑❌ 
 </p>
 
 </details>
