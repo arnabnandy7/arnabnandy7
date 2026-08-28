@@ -96,7 +96,7 @@ jq --arg username "${USERNAME,,}" '
   def repository_name: .repository_url | sub("^https://api.github.com/repos/"; "");
   unique_by(.id)
   | map(select((repository_name | split("/")[0] | ascii_downcase) != $username))
-  | sort_by(.updated_at) | reverse
+  | sort_by(.closed_at) | reverse
 ' "$all_items" > "$sorted_items"
 
 markdown_rows() {
@@ -108,7 +108,7 @@ markdown_rows() {
     def repository_name: .repository_url | tostring | sub("^https://api.github.com/repos/"; "");
     def repository_owner: repository_name | split("/")[0];
     def markdown_text: tostring | gsub("\\|"; "\\\\|") | gsub("[\\r\\n]"; " ");
-    "| <img src=\"https://github.com/\(repository_owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(repository_owner) avatar\"> [\(repository_name)](https://github.com/\(repository_name)) | [#\(.number) - \(.title | markdown_text)](\(.html_url)) | \(.updated_at[0:10]) |"
+    "| <img src=\"https://github.com/\(repository_owner).png?size=24\" width=\"24\" height=\"24\" alt=\"\(repository_owner) avatar\"> [\(repository_name)](https://github.com/\(repository_name)) | [#\(.number) - \(.title | markdown_text)](\(.html_url)) | \(.closed_at[0:10]) |"
   ' "$sorted_items"
 }
 
@@ -191,12 +191,12 @@ mv "$rendered_readme" "$README_PATH"
 mkdir -p "$(dirname "$DOC_PATH")"
 {
   printf '# Open Source Quest Log\n\n'
-  printf 'Merged contributions by [@%s](https://github.com/%s) to external repositories, newest activity first.\n\n' "$USERNAME" "$USERNAME"
+  printf 'Merged contributions by [@%s](https://github.com/%s) to external repositories, newest merges first.\n\n' "$USERNAME" "$USERNAME"
   printf 'This quest log is refreshed automatically by the profile README workflow.\n\n'
   if [[ $(jq 'length' "$sorted_items") -eq 0 ]]; then
     printf 'No merged pull requests found yet.\n'
   else
-    printf '| Repository | Contribution | Updated |\n'
+    printf '| Repository | Contribution | Merged |\n'
     printf '| :---: | :---: | :---: |\n'
     markdown_rows
   fi

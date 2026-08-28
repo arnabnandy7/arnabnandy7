@@ -1,10 +1,10 @@
 # Open Source Quest Log
 
-Merged contributions by [@arnabnandy7](https://github.com/arnabnandy7) to external repositories, newest activity first.
+Merged contributions by [@arnabnandy7](https://github.com/arnabnandy7) to external repositories, newest merges first.
 
 This quest log is refreshed automatically by the profile README workflow.
 
-| Repository | Contribution | Updated |
+| Repository | Contribution | Merged |
 | :---: | :---: | :---: |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1972 - refactor: remove no-op entity filtering](https://github.com/embabel/embabel-agent/pull/1972) | 2026-08-27 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1973 - fix: avoid search filter extension shadowing](https://github.com/embabel/embabel-agent/pull/1973) | 2026-08-27 |
