@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1978 - Configure nested Jinjava interpretation](https://github.com/embabel/embabel-agent/pull/1978) | 2026-08-28 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1972 - refactor: remove no-op entity filtering](https://github.com/embabel/embabel-agent/pull/1972) | 2026-08-27 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1973 - fix: avoid search filter extension shadowing](https://github.com/embabel/embabel-agent/pull/1973) | 2026-08-27 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-common](https://github.com/embabel/embabel-common) | [#135 - Disable nested Jinjava interpretation by default](https://github.com/embabel/embabel-common/pull/135) | 2026-08-27 |
