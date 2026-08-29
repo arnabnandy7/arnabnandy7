@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 29/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:40 PM, Set: 06:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:56 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 36.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:40 PM, Set: 06:11 AM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:56 PM  <br>💨 <strong>Wind:</strong> 5.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 34.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.5 <strong>PM10:</strong> 23.7</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.7 <strong>PM10:</strong> 21.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,9 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-29 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.2 | 35.7 | 82 | 7.9 | 19 |
-| 2026-08-29 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.0 | 35.2 | 82 | 6.5 | 23 |
-| 2026-08-30 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.8 | 34.8 | 83 | 6.1 | 23 |
 | 2026-08-30 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.7 | 34.6 | 84 | 5.8 | 24 |
 | 2026-08-30 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.5 | 34.1 | 84 | 4.3 | 26 |
 | 2026-08-30 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.4 | 33.8 | 84 | 4.7 | 26 |
@@ -71,11 +68,14 @@
 | 2026-08-30 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.2 | 33.4 | 85 | 6.8 | 23 |
 | 2026-08-30 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.9 | 34.7 | 81 | 7.2 | 24 |
 | 2026-08-30 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 30.2 | 36.8 | 75 | 8.3 | 16 |
+| 2026-08-30 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 31.4 | 38.6 | 70 | 10.1 | 8 |
+| 2026-08-30 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 40.0 | 65 | 11.9 | 18 |
+| 2026-08-30 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.9 | 40.5 | 63 | 14.0 | 13 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.19 | 📈 H: ₹99.99 | 📉 L: ₹98.54 <br>💵 USDT: ₹100.5 | 📈 H: ₹100.95 | 📉 L: ₹99.6 <br>♦ ETH: ₹242891.3 | 📈 H: ₹249949.8 | 📉 L: ₹240000.0 <br>₿ BTC: ₹7841611.0 | 📈 H: ₹7949987.0 | 📉 L: ₹7717975.0 <br>⚡ BNB: ₹68239.02 | 📈 H: ₹70000.0 | 📉 L: ₹68239.02 <br></p>
+<p align="center">🪙 USDC: ₹99.19 | 📈 H: ₹99.99 | 📉 L: ₹99.19 <br>💵 USDT: ₹100.84 | 📈 H: ₹100.95 | 📉 L: ₹99.75 <br>♦ ETH: ₹243962.7 | 📈 H: ₹246508.9 | 📉 L: ₹241710.6 <br>₿ BTC: ₹7776998.0 | 📈 H: ₹7872220.0 | 📉 L: ₹7717975.0 <br>⚡ BNB: ₹68921.99 | 📈 H: ₹70000.0 | 📉 L: ₹68239.02 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I don't have enough mana for that quest. 🛑❌ 
+  If you need someone to sabotage it, I'd be perfect. Otherwise, I'll pass. 🛑❌ 
 </p>
 
 </details>
