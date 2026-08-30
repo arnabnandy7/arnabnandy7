@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/200.png" alt="Thundery outbreaks in nearby weather icon"/><br/>
   Thundery outbreaks in nearby (পার্শ্ববর্তী এলাকায় বজ্রবিদ্যুতপূর্ণ ঝড়বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:10 PM, Set: 07:02 AM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 40.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:10 PM, Set: 07:02 AM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:55 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 34.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.9 <strong>PM10:</strong> 10.4</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.5 <strong>PM10:</strong> 17.9</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-08-30 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 29.0 | 35.0 | 81 | 15.5 | 25 |
-| 2026-08-30 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.5 | 34.3 | 85 | 16.2 | 26 |
-| 2026-08-30 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.1 | 33.3 | 86 | 14.8 | 27 |
-| 2026-08-30 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.0 | 86 | 13.3 | 25 |
-| 2026-08-30 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.9 | 32.9 | 86 | 11.9 | 27 |
-| 2026-08-31 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.8 | 32.7 | 87 | 11.5 | 30 |
-| 2026-08-31 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.7 | 32.4 | 87 | 10.1 | 31 |
-| 2026-08-31 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.6 | 32.1 | 87 | 10.8 | 30 |
-| 2026-08-31 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.6 | 32.3 | 87 | 11.5 | 28 |
-| 2026-08-31 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.4 | 31.9 | 88 | 11.2 | 29 |
+| 2026-08-30 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.4 | 34.5 | 87 | 9.7 | 28 |
+| 2026-08-31 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.3 | 34.2 | 87 | 9.4 | 24 |
+| 2026-08-31 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.1 | 33.6 | 87 | 8.3 | 20 |
+| 2026-08-31 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 28.0 | 33.4 | 87 | 7.6 | 25 |
+| 2026-08-31 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.8 | 32.8 | 88 | 9.0 | 27 |
+| 2026-08-31 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 32.7 | 88 | 8.6 | 15 |
+| 2026-08-31 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.6 | 32.6 | 89 | 9.0 | 28 |
+| 2026-08-31 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.3 | 33.8 | 86 | 10.1 | 51 |
+| 2026-08-31 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 35.9 | 79 | 11.5 | 40 |
+| 2026-08-31 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 37.9 | 72 | 12.2 | 33 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.43 | 📈 H: ₹99.99 | 📉 L: ₹99.19 <br>💵 USDT: ₹100.11 | 📈 H: ₹101.0 | 📉 L: ₹99.91 <br>♦ ETH: ₹246510.0 | 📈 H: ₹246525.0 | 📉 L: ₹242434.6 <br>₿ BTC: ₹7877251.0 | 📈 H: ₹7877252.0 | 📉 L: ₹7717976.0 <br>⚡ BNB: ₹69950.48 | 📈 H: ₹69950.48 | 📉 L: ₹68239.02 <br></p>
+<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹99.19 <br>💵 USDT: ₹100.3 | 📈 H: ₹101.0 | 📉 L: ₹99.91 <br>♦ ETH: ₹250087.8 | 📈 H: ₹251745.7 | 📉 L: ₹243232.7 <br>₿ BTC: ₹7841951.0 | 📈 H: ₹7919735.0 | 📉 L: ₹7760782.0 <br>⚡ BNB: ₹70000.0 | 📈 H: ₹70000.0 | 📉 L: ₹68603.68 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  While I appreciate it, pursuing this isn't something I can commit to. 🛑❌ 
+  I’m not in a position to commit to this right now. 🛑❌ 
 </p>
 
 </details>
