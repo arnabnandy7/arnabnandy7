@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 31/08/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:42 PM, Set: 07:53 AM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 19.4 kph | 💧 <strong>Humidity:</strong> 100% | 🌡️ <strong>Feels Like:</strong> 33.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 07:42 PM, Set: 07:53 AM)  <br>🌅 <strong>Sunrise:</strong> 05:18 AM | <strong>Sunset:</strong> 05:54 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.4 <strong>PM10:</strong> 13.3</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.7 <strong>PM10:</strong> 7.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-01 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.0 | 30.2 | 85 | 11.2 | 20 |
-| 2026-09-01 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.9 | 30.1 | 86 | 10.8 | 27 |
-| 2026-09-01 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.2 | 86 | 10.8 | 34 |
-| 2026-09-01 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.8 | 30.1 | 87 | 10.4 | 29 |
 | 2026-09-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.8 | 32.1 | 84 | 10.4 | 34 |
 | 2026-09-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.0 | 34.0 | 76 | 13.3 | 41 |
 | 2026-09-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.3 | 35.8 | 70 | 14.0 | 25 |
 | 2026-09-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 37.4 | 69 | 15.1 | 36 |
 | 2026-09-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 38.1 | 68 | 15.8 | 59 |
 | 2026-09-01 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.3 | 37.9 | 68 | 16.6 | 48 |
+| 2026-09-01 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 37.5 | 69 | 16.6 | 65 |
+| 2026-09-01 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 37.9 | 68 | 16.9 | 55 |
+| 2026-09-01 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.6 | 36.8 | 71 | 16.9 | 51 |
+| 2026-09-01 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.9 | 35.8 | 74 | 15.8 | 56 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.29 | 📈 H: ₹101.11 | 📉 L: ₹99.15 <br>💵 USDT: ₹100.01 | 📈 H: ₹101.99 | 📉 L: ₹99.42 <br>♦ ETH: ₹245269.7 | 📈 H: ₹252294.4 | 📉 L: ₹241355.9 <br>₿ BTC: ₹7885499.0 | 📈 H: ₹7919734.0 | 📉 L: ₹7769982.0 <br>⚡ BNB: ₹68212.64 | 📈 H: ₹70000.0 | 📉 L: ₹68097.8 <br></p>
+<p align="center">🪙 USDC: ₹99.29 | 📈 H: ₹101.11 | 📉 L: ₹99.15 <br>💵 USDT: ₹99.5 | 📈 H: ₹101.99 | 📉 L: ₹99.42 <br>♦ ETH: ₹245805.5 | 📈 H: ₹250094.8 | 📉 L: ₹241355.9 <br>₿ BTC: ₹7779753.0 | 📈 H: ₹7905162.0 | 📉 L: ₹7769982.0 <br>⚡ BNB: ₹68212.64 | 📈 H: ₹70000.0 | 📉 L: ₹68097.8 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar at work has a big red 'NOPE' on that date. 🛑❌ 
+  Thank you for thinking of me, but I'm going to decline hilariously. 🛑❌ 
 </p>
 
 </details>
