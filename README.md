@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/356.png" alt="Moderate or heavy rain shower weather icon"/><br/>
   Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:17 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 32.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:17 PM, Set: 08:46 AM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:53 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 31.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.8 <strong>PM10:</strong> 17.9</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.2 <strong>PM10:</strong> 12.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,9 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-02 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 27.2 | 31.3 | 89 | 9.7 | 84 |
-| 2026-09-02 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.8 | 30.7 | 90 | 10.4 | 84 |
-| 2026-09-02 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.7 | 30.7 | 91 | 10.1 | 86 |
 | 2026-09-02 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.1 | 29.5 | 96 | 11.2 | 86 |
 | 2026-09-02 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/359.png) Torrential rain shower | 25.9 | 29.1 | 97 | 13.0 | 96 |
 | 2026-09-02 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/359.png) Torrential rain shower | 25.8 | 29.4 | 96 | 9.7 | 95 |
@@ -71,11 +68,14 @@
 | 2026-09-02 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.3 | 30.1 | 94 | 4.3 | 69 |
 | 2026-09-02 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 31.2 | 91 | 6.1 | 46 |
 | 2026-09-02 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.3 | 31.8 | 89 | 4.0 | 36 |
+| 2026-09-02 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 28.1 | 32.9 | 84 | 3.2 | 86 |
+| 2026-09-02 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.4 | 33.5 | 82 | 5.8 | 71 |
+| 2026-09-02 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.4 | 33.5 | 82 | 5.4 | 72 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.35 | 📈 H: ₹99.35 | 📉 L: ₹98.68 <br>💵 USDT: ₹99.7 | 📈 H: ₹100.45 | 📉 L: ₹99.07 <br>♦ ETH: ₹242597.8 | 📈 H: ₹249226.0 | 📉 L: ₹237000.0 <br>₿ BTC: ₹7767743.0 | 📈 H: ₹7887658.0 | 📉 L: ₹7700000.0 <br>⚡ BNB: ₹67209.47 | 📈 H: ₹68464.26 | 📉 L: ₹67209.47 <br></p>
+<p align="center">🪙 USDC: ₹99.35 | 📈 H: ₹99.35 | 📉 L: ₹98.68 <br>💵 USDT: ₹99.5 | 📈 H: ₹100.45 | 📉 L: ₹99.07 <br>♦ ETH: ₹237650.9 | 📈 H: ₹249226.0 | 📉 L: ₹237000.0 <br>₿ BTC: ₹7742640.0 | 📈 H: ₹7883998.0 | 📉 L: ₹7641363.0 <br>⚡ BNB: ₹66854.55 | 📈 H: ₹68464.26 | 📉 L: ₹66854.55 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
