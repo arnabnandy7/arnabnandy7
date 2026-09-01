@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/langchain4j.png?size=24" width="24" height="24" alt="langchain4j avatar"> [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | [#6038 - feat: support resuming human-in-the-loop A2A tasks](https://github.com/langchain4j/langchain4j/pull/6038) | 2026-09-01 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1980 - feat: improve Java native structured output API](https://github.com/embabel/embabel-agent/pull/1980) | 2026-08-29 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1978 - Configure nested Jinjava interpretation](https://github.com/embabel/embabel-agent/pull/1978) | 2026-08-28 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1972 - refactor: remove no-op entity filtering](https://github.com/embabel/embabel-agent/pull/1972) | 2026-08-27 |
