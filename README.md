@@ -26,7 +26,7 @@
 <table width="100%" cellpadding="10" cellspacing="0">
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel/embabel-agent">embabel-agent</a> (<a href="https://github.com/embabel/embabel-agent/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>13</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">azure-sdk-for-java</a> (<a href="https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab/neuro-san-studio">neuro-san-studio</a> (<a href="https://github.com/cognizant-ai-lab/neuro-san-studio/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana/pyroscope-java">pyroscope-java</a> (<a href="https://github.com/grafana/pyroscope-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/JabRef.png?size=20" width="20" height="20" valign="middle" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">jabref</a> (<a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td></tr>
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/hardwood-hq.png?size=20" width="20" height="20" valign="middle" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood</a> (<a href="https://github.com/hardwood-hq/hardwood/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/netty.png?size=20" width="20" height="20" valign="middle" alt="netty avatar"> <a href="https://github.com/netty/netty">netty</a> (<a href="https://github.com/netty/netty/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">cloud-page</a> (<a href="https://github.com/Vault-Web/cloud-page/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/jbangdev.png?size=20" width="20" height="20" valign="middle" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbang</a> (<a href="https://github.com/jbangdev/jbang/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/prometheus.png?size=20" width="20" height="20" valign="middle" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">client_java</a> (<a href="https://github.com/prometheus/client_java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td></tr>
-  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio/quarkus">quarkus</a> (<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache/kafka">kafka</a> (<a href="https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apple.png?size=20" width="20" height="20" valign="middle" alt="apple avatar"> <a href="https://github.com/apple/servicetalk">servicetalk</a> (<a href="https://github.com/apple/servicetalk/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
+  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio/quarkus">quarkus</a> (<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache/kafka">kafka</a> (<a href="https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apple.png?size=20" width="20" height="20" valign="middle" alt="apple avatar"> <a href="https://github.com/apple/servicetalk">servicetalk</a> (<a href="https://github.com/apple/servicetalk/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
 </table>
 
 [Explore the complete open source quest log](./docs/contributions.md)
@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 02/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/356.png" alt="Moderate or heavy rain shower weather icon"/><br/>
-  Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:56 PM, Set: 09:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 36.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:56 PM, Set: 09:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 74% | 🌡️ <strong>Feels Like:</strong> 36.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.3 <strong>PM10:</strong> 33.9</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 31.4 <strong>PM10:</strong> 36.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-02 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 28.3 | 33.7 | 84 | 3.6 | 84 |
-| 2026-09-02 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.6 | 32.3 | 88 | 4.0 | 73 |
-| 2026-09-02 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.2 | 31.8 | 90 | 2.2 | 74 |
-| 2026-09-02 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.2 | 31.6 | 90 | 2.2 | 72 |
-| 2026-09-02 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.4 | 31.7 | 88 | 5.0 | 46 |
-| 2026-09-02 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.4 | 31.6 | 88 | 5.0 | 65 |
-| 2026-09-02 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.2 | 31.1 | 87 | 6.1 | 66 |
-| 2026-09-02 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.2 | 31.0 | 87 | 6.8 | 27 |
-| 2026-09-03 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.2 | 31.2 | 88 | 8.3 | 28 |
-| 2026-09-03 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 30.9 | 88 | 10.1 | 33 |
+| 2026-09-02 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.7 | 32.2 | 86 | 13.3 | 74 |
+| 2026-09-02 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.6 | 31.9 | 86 | 13.7 | 62 |
+| 2026-09-02 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.4 | 31.6 | 87 | 13.7 | 71 |
+| 2026-09-02 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.3 | 31.2 | 87 | 13.3 | 30 |
+| 2026-09-03 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.0 | 30.8 | 88 | 12.6 | 57 |
+| 2026-09-03 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.4 | 88 | 11.5 | 31 |
+| 2026-09-03 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.9 | 30.2 | 86 | 11.5 | 27 |
+| 2026-09-03 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.9 | 30.1 | 86 | 11.5 | 27 |
+| 2026-09-03 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.7 | 29.8 | 86 | 11.5 | 24 |
+| 2026-09-03 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 26.3 | 29.2 | 87 | 11.2 | 26 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.39 | 📈 H: ₹100.39 | 📉 L: ₹98.68 <br>💵 USDT: ₹100.34 | 📈 H: ₹100.44 | 📉 L: ₹99.07 <br>♦ ETH: ₹236360.4 | 📈 H: ₹246848.5 | 📉 L: ₹236360.4 <br>₿ BTC: ₹7641363.0 | 📈 H: ₹7773886.0 | 📉 L: ₹7641363.0 <br>⚡ BNB: ₹67830.0 | 📈 H: ₹68300.99 | 📉 L: ₹66854.55 <br></p>
+<p align="center">🪙 USDC: ₹98.26 | 📈 H: ₹100.39 | 📉 L: ₹98.26 <br>💵 USDT: ₹99.7 | 📈 H: ₹100.44 | 📉 L: ₹99.2 <br>♦ ETH: ₹237348.4 | 📈 H: ₹246265.8 | 📉 L: ₹233322.0 <br>₿ BTC: ₹7578672.0 | 📈 H: ₹7773250.0 | 📉 L: ₹7539280.0 <br>⚡ BNB: ₹68300.98 | 📈 H: ₹68300.99 | 📉 L: ₹66854.55 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My fashion sense just texted: it said not to bother. 🛑❌ 
+  Think of this as a strategic veto. 🛑❌ 
 </p>
 
 </details>
