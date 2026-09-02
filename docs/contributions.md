@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1979 - feature: support entity-only result selection](https://github.com/embabel/embabel-agent/pull/1979) | 2026-09-02 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23308 - KAFKA-20952: Remove Hamcrest from kstream package tests](https://github.com/apache/kafka/pull/23308) | 2026-09-02 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1166 - #1136: Add max execution timeout to generated agent networks](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1166) | 2026-09-01 |
 | <img src="https://github.com/langchain4j.png?size=24" width="24" height="24" alt="langchain4j avatar"> [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | [#6038 - feat: support resuming human-in-the-loop A2A tasks](https://github.com/langchain4j/langchain4j/pull/6038) | 2026-09-01 |
