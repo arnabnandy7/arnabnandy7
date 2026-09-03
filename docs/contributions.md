@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23306 - KAFKA-20990: Remove hamcrest from streams integration utils](https://github.com/apache/kafka/pull/23306) | 2026-09-03 |
+| <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#56395 - Suppress PeriodicMetricReader exporter warnings](https://github.com/quarkusio/quarkus/pull/56395) | 2026-09-03 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1979 - feature: support entity-only result selection](https://github.com/embabel/embabel-agent/pull/1979) | 2026-09-02 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23308 - KAFKA-20952: Remove Hamcrest from kstream package tests](https://github.com/apache/kafka/pull/23308) | 2026-09-02 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1166 - #1136: Add max execution timeout to generated agent networks](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1166) | 2026-09-01 |
