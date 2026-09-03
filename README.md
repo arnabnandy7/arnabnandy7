@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 03/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:56 PM, Set: 09:43 AM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:52 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 30.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:41 PM, Set: 10:42 AM)  <br>🌅 <strong>Sunrise:</strong> 05:19 AM | <strong>Sunset:</strong> 05:51 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 88% | 🌡️ <strong>Feels Like:</strong> 29.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.3 <strong>PM10:</strong> 27.3</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 25.0 <strong>PM10:</strong> 29.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-03 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.3 | 31.1 | 85 | 9.0 | 21 |
-| 2026-09-03 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.8 | 31.8 | 81 | 10.1 | 17 |
-| 2026-09-03 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.9 | 33.7 | 76 | 10.4 | 29 |
-| 2026-09-03 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.7 | 34.9 | 72 | 11.5 | 9 |
-| 2026-09-03 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 37.9 | 63 | 14.0 | 12 |
 | 2026-09-03 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.0 | 39.1 | 58 | 17.3 | 36 |
 | 2026-09-03 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.0 | 39.0 | 59 | 19.4 | 37 |
 | 2026-09-03 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.6 | 38.7 | 60 | 21.2 | 57 |
 | 2026-09-03 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.3 | 38.2 | 61 | 22.3 | 45 |
 | 2026-09-03 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.7 | 37.1 | 62 | 22.0 | 36 |
+| 2026-09-03 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.9 | 36.2 | 66 | 20.5 | 10 |
+| 2026-09-03 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.7 | 34.5 | 71 | 17.3 | 12 |
+| 2026-09-03 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.8 | 33.3 | 75 | 16.2 | 20 |
+| 2026-09-03 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.4 | 32.7 | 77 | 16.6 | 22 |
+| 2026-09-03 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.3 | 80 | 15.5 | 24 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.2 | 📈 H: ₹100.39 | 📉 L: ₹98.2 <br>💵 USDT: ₹98.67 | 📈 H: ₹100.44 | 📉 L: ₹98.65 <br>♦ ETH: ₹237820.2 | 📈 H: ₹242952.7 | 📉 L: ₹233322.0 <br>₿ BTC: ₹7578831.0 | 📈 H: ₹7744963.0 | 📉 L: ₹7539280.0 <br>⚡ BNB: ₹67234.69 | 📈 H: ₹68300.99 | 📉 L: ₹66854.55 <br></p>
+<p align="center">🪙 USDC: ₹98.2 | 📈 H: ₹100.39 | 📉 L: ₹98.2 <br>💵 USDT: ₹98.83 | 📈 H: ₹100.44 | 📉 L: ₹98.65 <br>♦ ETH: ₹238432.4 | 📈 H: ₹242037.1 | 📉 L: ₹233322.0 <br>₿ BTC: ₹7622276.0 | 📈 H: ₹7744922.0 | 📉 L: ₹7539280.0 <br>⚡ BNB: ₹68058.12 | 📈 H: ₹68300.99 | 📉 L: ₹66929.85 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I tried seeing it from your perspective, but I still have to say no. 🛑❌ 
+  I used all my willpower just getting out of bed this morning. 🛑❌ 
 </p>
 
 </details>
