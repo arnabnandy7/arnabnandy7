@@ -26,7 +26,7 @@
 <table width="100%" cellpadding="10" cellspacing="0">
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel/embabel-agent">embabel-agent</a> (<a href="https://github.com/embabel/embabel-agent/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>14</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure/azure-sdk-for-java">azure-sdk-for-java</a> (<a href="https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab/neuro-san-studio">neuro-san-studio</a> (<a href="https://github.com/cognizant-ai-lab/neuro-san-studio/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana/pyroscope-java">pyroscope-java</a> (<a href="https://github.com/grafana/pyroscope-java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/JabRef.png?size=20" width="20" height="20" valign="middle" alt="JabRef avatar"> <a href="https://github.com/JabRef/jabref">jabref</a> (<a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>6</strong></a>)</td></tr>
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/hardwood-hq.png?size=20" width="20" height="20" valign="middle" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq/hardwood">hardwood</a> (<a href="https://github.com/hardwood-hq/hardwood/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/netty.png?size=20" width="20" height="20" valign="middle" alt="netty avatar"> <a href="https://github.com/netty/netty">netty</a> (<a href="https://github.com/netty/netty/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio/quarkus">quarkus</a> (<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/cloud-page">cloud-page</a> (<a href="https://github.com/Vault-Web/cloud-page/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache/kafka">kafka</a> (<a href="https://github.com/apache/kafka/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td></tr>
-  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/jbangdev.png?size=20" width="20" height="20" valign="middle" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbang</a> (<a href="https://github.com/jbangdev/jbang/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/prometheus.png?size=20" width="20" height="20" valign="middle" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">client_java</a> (<a href="https://github.com/prometheus/client_java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apple.png?size=20" width="20" height="20" valign="middle" alt="apple avatar"> <a href="https://github.com/apple/servicetalk">servicetalk</a> (<a href="https://github.com/apple/servicetalk/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>2</strong></a>)</td></tr>
+  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/jbangdev.png?size=20" width="20" height="20" valign="middle" alt="jbangdev avatar"> <a href="https://github.com/jbangdev/jbang">jbang</a> (<a href="https://github.com/jbangdev/jbang/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/prometheus.png?size=20" width="20" height="20" valign="middle" alt="prometheus avatar"> <a href="https://github.com/prometheus/client_java">client_java</a> (<a href="https://github.com/prometheus/client_java/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>4</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apple.png?size=20" width="20" height="20" valign="middle" alt="apple avatar"> <a href="https://github.com/apple/servicetalk">servicetalk</a> (<a href="https://github.com/apple/servicetalk/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/buntychakraborty.png?size=20" width="20" height="20" valign="middle" alt="buntychakraborty avatar"> <a href="https://github.com/buntychakraborty/corona-app">corona-app</a> (<a href="https://github.com/buntychakraborty/corona-app/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web/vault-web">vault-web</a> (<a href="https://github.com/Vault-Web/vault-web/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7"><strong>3</strong></a>)</td></tr>
 </table>
 
 [Explore the complete open source quest log](./docs/contributions.md)
@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 05/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:33 PM, Set: 12:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 32.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:33 PM, Set: 12:47 PM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:50 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 32.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 35.4 <strong>PM10:</strong> 39.2</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.5 <strong>PM10:</strong> 32.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,8 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-06 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.3 | 79 | 10.8 | 23 |
-| 2026-09-06 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.0 | 32.0 | 80 | 10.4 | 23 |
 | 2026-09-06 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.9 | 31.7 | 80 | 10.4 | 22 |
 | 2026-09-06 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.8 | 31.5 | 80 | 10.1 | 22 |
 | 2026-09-06 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.6 | 31.2 | 81 | 10.4 | 24 |
@@ -71,11 +69,13 @@
 | 2026-09-06 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 29.3 | 34.4 | 75 | 10.1 | 20 |
 | 2026-09-06 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.0 | 36.7 | 67 | 9.0 | 16 |
 | 2026-09-06 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.6 | 38.2 | 59 | 10.1 | 18 |
+| 2026-09-06 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.6 | 38.2 | 59 | 11.5 | 15 |
+| 2026-09-06 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 39.4 | 56 | 10.8 | 14 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.99 | 📈 H: ₹99.62 | 📉 L: ₹97.99 <br>💵 USDT: ₹99.1 | 📈 H: ₹99.6 | 📉 L: ₹98.05 <br>♦ ETH: ₹246999.9 | 📈 H: ₹246999.9 | 📉 L: ₹240559.5 <br>₿ BTC: ₹7910674.0 | 📈 H: ₹7937688.0 | 📉 L: ₹7796681.0 <br>⚡ BNB: ₹76791.89 | 📈 H: ₹76791.89 | 📉 L: ₹71000.0 <br></p>
+<p align="center">🪙 USDC: ₹97.99 | 📈 H: ₹99.62 | 📉 L: ₹97.99 <br>💵 USDT: ₹98.9 | 📈 H: ₹99.6 | 📉 L: ₹98.05 <br>♦ ETH: ₹243653.1 | 📈 H: ₹246999.9 | 📉 L: ₹240559.5 <br>₿ BTC: ₹7818256.0 | 📈 H: ₹7937688.0 | 📉 L: ₹7796681.0 <br>⚡ BNB: ₹76791.89 | 📈 H: ₹76791.89 | 📉 L: ₹71000.01 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  To do or not to do? That is the question, and I've answered 'not to do.' 🛑❌ 
+  Can't come, I've made other plans with my bed and pillow. 🛑❌ 
 </p>
 
 </details>
