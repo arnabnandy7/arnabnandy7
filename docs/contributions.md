@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#89 - chore: upgrade Maven settings action](https://github.com/embabel/embabel-build/pull/89) | 2026-09-04 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#86 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-build/pull/86) | 2026-09-04 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23306 - KAFKA-20990: Remove hamcrest from streams integration utils](https://github.com/apache/kafka/pull/23306) | 2026-09-03 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#56395 - Suppress PeriodicMetricReader exporter warnings](https://github.com/quarkusio/quarkus/pull/56395) | 2026-09-03 |
