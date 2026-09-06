@@ -46,8 +46,8 @@
 
 <p align="center">Kolkata, India - 06/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: Does not rise today, Set: 01:49 PM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:49 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 73% | 🌡️ <strong>Feels Like:</strong> 33.9 °C</p>
 
@@ -61,9 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-06 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.0 | 33.6 | 74 | 13.7 | 19 |
-| 2026-09-06 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.8 | 33.4 | 76 | 13.3 | 17 |
-| 2026-09-06 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.8 | 33.3 | 76 | 13.0 | 20 |
 | 2026-09-06 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.5 | 32.8 | 77 | 12.2 | 17 |
 | 2026-09-07 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.3 | 32.6 | 79 | 11.9 | 18 |
 | 2026-09-07 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 32.3 | 80 | 11.9 | 27 |
@@ -71,11 +68,14 @@
 | 2026-09-07 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.9 | 32.1 | 81 | 9.4 | 22 |
 | 2026-09-07 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.0 | 32.0 | 80 | 7.6 | 22 |
 | 2026-09-07 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.1 | 32.2 | 80 | 6.8 | 23 |
+| 2026-09-07 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.8 | 33.6 | 77 | 7.2 | 16 |
+| 2026-09-07 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.4 | 35.9 | 70 | 8.3 | 6 |
+| 2026-09-07 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.1 | 38.2 | 63 | 10.1 | 18 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.62 | 📈 H: ₹99.62 | 📉 L: ₹97.94 <br>💵 USDT: ₹98.96 | 📈 H: ₹99.6 | 📉 L: ₹98.81 <br>♦ ETH: ₹245632.3 | 📈 H: ₹248788.9 | 📉 L: ₹241082.0 <br>₿ BTC: ₹7840280.0 | 📈 H: ₹7910945.0 | 📉 L: ₹7809000.0 <br>⚡ BNB: ₹74306.21 | 📈 H: ₹76791.89 | 📉 L: ₹74077.18 <br></p>
+<p align="center">🪙 USDC: ₹99.62 | 📈 H: ₹99.62 | 📉 L: ₹97.94 <br>💵 USDT: ₹99.0 | 📈 H: ₹99.6 | 📉 L: ₹98.85 <br>♦ ETH: ₹245600.0 | 📈 H: ₹248788.9 | 📉 L: ₹243636.6 <br>₿ BTC: ₹7865418.0 | 📈 H: ₹7910676.0 | 📉 L: ₹7809000.0 <br>⚡ BNB: ₹74000.0 | 📈 H: ₹76791.89 | 📉 L: ₹74000.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would respond with a fancy Latin phrase for no, but plain 'no' will suffice. 🛑❌ 
+  Much obliged that you asked, but no can do, buckaroo. 🛑❌ 
 </p>
 
 </details>
