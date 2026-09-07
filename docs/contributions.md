@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50372 - docs: add keyvault api-version update to resourcemanager changelog](https://github.com/Azure/azure-sdk-for-java/pull/50372) | 2026-09-07 |
 | <img src="https://github.com/apple.png?size=24" width="24" height="24" alt="apple avatar"> [apple/servicetalk](https://github.com/apple/servicetalk) | [#3629 - Fix traffic resilience documentation links](https://github.com/apple/servicetalk/pull/3629) | 2026-09-05 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#89 - chore: upgrade Maven settings action](https://github.com/embabel/embabel-build/pull/89) | 2026-09-04 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#86 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-build/pull/86) | 2026-09-04 |
