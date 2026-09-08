@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 08/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:38 AM, Set: 02:45 PM)  <br>🌅 <strong>Sunrise:</strong> 05:20 AM | <strong>Sunset:</strong> 05:48 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 87% | 🌡️ <strong>Feels Like:</strong> 29.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:47 AM, Set: 03:36 PM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:47 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 54% | 🌡️ <strong>Feels Like:</strong> 38.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.5 <strong>PM10:</strong> 47.1</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.9 <strong>PM10:</strong> 48.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-08 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 29.0 | 33.3 | 73 | 6.1 | 15 |
-| 2026-09-08 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 30.5 | 35.1 | 66 | 7.2 | 12 |
-| 2026-09-08 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.0 | 36.8 | 59 | 7.6 | 11 |
-| 2026-09-08 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.3 | 38.3 | 54 | 7.6 | 17 |
-| 2026-09-08 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 39.9 | 51 | 7.9 | 3 |
 | 2026-09-08 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 35.1 | 41.1 | 50 | 8.3 | 11 |
 | 2026-09-08 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 34.5 | 41.0 | 54 | 7.6 | 66 |
 | 2026-09-08 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 32.4 | 39.5 | 64 | 10.1 | 69 |
 | 2026-09-08 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.0 | 37.8 | 71 | 7.9 | 66 |
 | 2026-09-08 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 31.1 | 37.8 | 70 | 9.0 | 14 |
+| 2026-09-08 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 37.3 | 71 | 9.4 | 52 |
+| 2026-09-08 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.1 | 36.7 | 75 | 9.4 | 20 |
+| 2026-09-08 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.4 | 35.9 | 80 | 10.1 | 23 |
+| 2026-09-08 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.8 | 34.8 | 83 | 9.4 | 36 |
+| 2026-09-08 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.9 | 34.6 | 81 | 10.1 | 52 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.08 | 📈 H: ₹99.5 | 📉 L: ₹97.97 <br>💵 USDT: ₹99.4 | 📈 H: ₹99.7 | 📉 L: ₹98.39 <br>♦ ETH: ₹244175.5 | 📈 H: ₹249365.8 | 📉 L: ₹242019.8 <br>₿ BTC: ₹7771017.0 | 📈 H: ₹7937688.0 | 📉 L: ₹7735579.0 <br>⚡ BNB: ₹72438.12 | 📈 H: ₹74000.0 | 📉 L: ₹72050.05 <br></p>
+<p align="center">🪙 USDC: ₹97.98 | 📈 H: ₹99.08 | 📉 L: ₹97.97 <br>💵 USDT: ₹99.5 | 📈 H: ₹99.7 | 📉 L: ₹98.49 <br>♦ ETH: ₹244263.3 | 📈 H: ₹247145.0 | 📉 L: ₹242019.8 <br>₿ BTC: ₹7835657.0 | 📈 H: ₹7900702.0 | 📉 L: ₹7725756.0 <br>⚡ BNB: ₹74000.0 | 📈 H: ₹74000.0 | 📉 L: ₹72050.05 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't help you; I'm a supervillain in training and this would mess up my cred. 🛑❌ 
+  If I agree, I’d need to clone myself. And I don't trust him. 🛑❌ 
 </p>
 
 </details>
