@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#56269 - Honor MongoDB authSource when credentials are configured separately](https://github.com/quarkusio/quarkus/pull/56269) | 2026-09-08 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#55939 - Fix fast-jar resource URLs on Windows network drives](https://github.com/quarkusio/quarkus/pull/55939) | 2026-09-08 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23307 - KAFKA-20953: Remove Hamcrest from Streams internals tests](https://github.com/apache/kafka/pull/23307) | 2026-09-08 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50372 - docs: add keyvault api-version update to resourcemanager changelog](https://github.com/Azure/azure-sdk-for-java/pull/50372) | 2026-09-07 |
