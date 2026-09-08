@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23307 - KAFKA-20953: Remove Hamcrest from Streams internals tests](https://github.com/apache/kafka/pull/23307) | 2026-09-08 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50372 - docs: add keyvault api-version update to resourcemanager changelog](https://github.com/Azure/azure-sdk-for-java/pull/50372) | 2026-09-07 |
 | <img src="https://github.com/apple.png?size=24" width="24" height="24" alt="apple avatar"> [apple/servicetalk](https://github.com/apple/servicetalk) | [#3629 - Fix traffic resilience documentation links](https://github.com/apple/servicetalk/pull/3629) | 2026-09-05 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#89 - chore: upgrade Maven settings action](https://github.com/embabel/embabel-build/pull/89) | 2026-09-04 |
