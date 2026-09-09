@@ -17,7 +17,7 @@
 <h4 align="center">Top organizations / users</h4>
 
 <table width="100%" cellpadding="10" cellspacing="0">
-  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel">embabel</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aembabel"><strong>18</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure">Azure</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AAzure"><strong>10</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab">cognizant-ai-lab</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Acognizant-ai-lab"><strong>10</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana">grafana</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Agrafana"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web">Vault-Web</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AVault-Web"><strong>8</strong></a>)</td></tr>
+  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel">embabel</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aembabel"><strong>18</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab">cognizant-ai-lab</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Acognizant-ai-lab"><strong>11</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure">Azure</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AAzure"><strong>10</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana">grafana</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Agrafana"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web">Vault-Web</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AVault-Web"><strong>8</strong></a>)</td></tr>
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio">quarkusio</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aquarkusio"><strong>7</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/JabRef.png?size=20" width="20" height="20" valign="middle" alt="JabRef avatar"> <a href="https://github.com/JabRef">JabRef</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AJabRef"><strong>6</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache">apache</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aapache"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/hardwood-hq.png?size=20" width="20" height="20" valign="middle" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq">hardwood-hq</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Ahardwood-hq"><strong>5</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/netty.png?size=20" width="20" height="20" valign="middle" alt="netty avatar"> <a href="https://github.com/netty">netty</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Anetty"><strong>5</strong></a>)</td></tr>
 </table>
 
@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:55 AM, Set: 04:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 32.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 02:55 AM, Set: 04:22 PM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:46 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 38.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 45.3 <strong>PM10:</strong> 46.9</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 26.7 <strong>PM10:</strong> 28.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-09 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 38.8 | 61 | 7.2 | 26 |
-| 2026-09-09 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 32.6 | 39.0 | 61 | 8.6 | 14 |
-| 2026-09-09 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.3 | 39.8 | 58 | 10.4 | 9 |
-| 2026-09-09 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.4 | 39.7 | 58 | 12.2 | 13 |
-| 2026-09-09 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 32.5 | 38.9 | 62 | 12.2 | 15 |
-| 2026-09-09 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.8 | 38.3 | 66 | 10.8 | 25 |
-| 2026-09-09 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 30.9 | 37.1 | 69 | 9.7 | 17 |
-| 2026-09-09 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 30.3 | 36.2 | 71 | 10.8 | 18 |
-| 2026-09-09 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.8 | 35.8 | 75 | 11.2 | 28 |
-| 2026-09-09 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.3 | 35.0 | 77 | 11.2 | 21 |
+| 2026-09-09 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.8 | 38.8 | 67 | 7.2 | 47 |
+| 2026-09-09 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.8 | 37.4 | 71 | 9.0 | 65 |
+| 2026-09-09 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.8 | 36.2 | 77 | 10.4 | 61 |
+| 2026-09-09 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 29.2 | 35.4 | 81 | 10.4 | 24 |
+| 2026-09-09 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.9 | 35.0 | 83 | 10.1 | 53 |
+| 2026-09-09 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.5 | 34.1 | 84 | 9.7 | 69 |
+| 2026-09-09 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.1 | 33.2 | 84 | 9.7 | 59 |
+| 2026-09-09 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.0 | 32.9 | 85 | 7.6 | 56 |
+| 2026-09-10 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.9 | 32.7 | 85 | 7.2 | 26 |
+| 2026-09-10 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.8 | 32.4 | 85 | 5.8 | 27 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.66 | 📈 H: ₹99.62 | 📉 L: ₹98.66 <br>💵 USDT: ₹99.52 | 📈 H: ₹100.4 | 📉 L: ₹98.51 <br>♦ ETH: ₹249365.8 | 📈 H: ₹249365.8 | 📉 L: ₹242177.4 <br>₿ BTC: ₹7831985.0 | 📈 H: ₹7835658.0 | 📉 L: ₹7683567.0 <br>⚡ BNB: ₹74178.34 | 📈 H: ₹75535.0 | 📉 L: ₹73596.81 <br></p>
+<p align="center">🪙 USDC: ₹98.62 | 📈 H: ₹99.62 | 📉 L: ₹98.56 <br>💵 USDT: ₹99.4 | 📈 H: ₹100.4 | 📉 L: ₹98.51 <br>♦ ETH: ₹249998.9 | 📈 H: ₹249998.9 | 📉 L: ₹242177.4 <br>₿ BTC: ₹7899999.0 | 📈 H: ₹7900000.0 | 📉 L: ₹7683567.0 <br>⚡ BNB: ₹74736.44 | 📈 H: ₹75535.0 | 📉 L: ₹73596.81 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
