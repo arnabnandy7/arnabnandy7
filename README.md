@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 11/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 04:02 AM, Set: 05:03 PM)  <br>🌅 <strong>Sunrise:</strong> 05:21 AM | <strong>Sunset:</strong> 05:45 PM  <br>💨 <strong>Wind:</strong> 12.2 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 29.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:06 AM, Set: 05:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 14.4 kph | 💧 <strong>Humidity:</strong> 90% | 🌡️ <strong>Feels Like:</strong> 29.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.1 <strong>PM10:</strong> 6.8</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 5.9 <strong>PM10:</strong> 6.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-11 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.2 | 31.3 | 87 | 17.3 | 39 |
-| 2026-09-11 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.7 | 34.0 | 80 | 19.8 | 39 |
-| 2026-09-11 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.9 | 35.8 | 74 | 22.3 | 30 |
-| 2026-09-11 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.6 | 36.6 | 70 | 23.4 | 36 |
-| 2026-09-11 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 36.9 | 69 | 24.1 | 61 |
 | 2026-09-11 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.7 | 36.5 | 69 | 23.0 | 50 |
 | 2026-09-11 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 36.5 | 68 | 22.0 | 55 |
 | 2026-09-11 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.1 | 36.4 | 65 | 21.6 | 36 |
 | 2026-09-11 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.9 | 35.7 | 64 | 23.4 | 50 |
 | 2026-09-11 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 30.5 | 35.2 | 66 | 20.5 | 14 |
+| 2026-09-11 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 34.6 | 68 | 19.1 | 38 |
+| 2026-09-11 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.8 | 32.9 | 74 | 17.6 | 38 |
+| 2026-09-11 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.0 | 31.8 | 78 | 15.8 | 8 |
+| 2026-09-11 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 31.4 | 80 | 14.8 | 13 |
+| 2026-09-11 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.4 | 30.9 | 82 | 14.0 | 23 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.06 | 📈 H: ₹99.62 | 📉 L: ₹98.26 <br>💵 USDT: ₹100.5 | 📈 H: ₹100.5 | 📉 L: ₹99.15 <br>♦ ETH: ₹243000.0 | 📈 H: ₹247586.1 | 📉 L: ₹239736.7 <br>₿ BTC: ₹7761527.0 | 📈 H: ₹7835999.0 | 📉 L: ₹7651539.0 <br>⚡ BNB: ₹72359.43 | 📈 H: ₹72514.75 | 📉 L: ₹70029.93 <br></p>
+<p align="center">🪙 USDC: ₹98.86 | 📈 H: ₹99.62 | 📉 L: ₹98.86 <br>💵 USDT: ₹99.77 | 📈 H: ₹100.74 | 📉 L: ₹99.17 <br>♦ ETH: ₹243000.0 | 📈 H: ₹247397.8 | 📉 L: ₹239736.7 <br>₿ BTC: ₹7651100.0 | 📈 H: ₹7826007.0 | 📉 L: ₹7651100.0 <br>⚡ BNB: ₹70709.66 | 📈 H: ₹72359.43 | 📉 L: ₹70029.93 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
