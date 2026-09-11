@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/spring-ai-community.png?size=24" width="24" height="24" alt="spring-ai-community avatar"> [spring-ai-community/spring-ai-watsonx-ai](https://github.com/spring-ai-community/spring-ai-watsonx-ai) | [#176 - feat: Custom Text Extraction Model and Observation (#94)](https://github.com/spring-ai-community/spring-ai-watsonx-ai/pull/176) | 2026-09-11 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1214 - Add unit coverage for load-test minimal chat filter](https://github.com/cognizant-ai-lab/neuro-san/pull/1214) | 2026-09-10 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1290 - Fix mutation of function tool specifications](https://github.com/cognizant-ai-lab/neuro-san/pull/1290) | 2026-09-09 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/vaadin-components](https://github.com/embabel/vaadin-components) | [#9 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/vaadin-components/pull/9) | 2026-09-09 |
