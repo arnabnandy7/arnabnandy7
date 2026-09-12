@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/116.png" alt="Partly Cloudy weather icon"/><br/>
   Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:09 AM, Set: 06:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 19.1 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 35.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:09 AM, Set: 06:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 15.8 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 31.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.9 <strong>PM10:</strong> 7.8</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 11.9 <strong>PM10:</strong> 12.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 31.2 | 80 | 14.4 | 13 |
-| 2026-09-12 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.3 | 30.7 | 82 | 12.6 | 24 |
-| 2026-09-12 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.2 | 30.5 | 83 | 11.2 | 23 |
 | 2026-09-12 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.1 | 30.3 | 83 | 9.4 | 17 |
 | 2026-09-13 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.0 | 30.0 | 84 | 8.6 | 25 |
-| 2026-09-13 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.8 | 29.9 | 84 | 7.9 | 26 |
+| 2026-09-13 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.9 | 29.9 | 84 | 7.9 | 26 |
 | 2026-09-13 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.8 | 29.9 | 85 | 6.1 | 23 |
-| 2026-09-13 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.6 | 29.7 | 85 | 6.1 | 25 |
+| 2026-09-13 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.7 | 29.7 | 85 | 6.1 | 25 |
 | 2026-09-13 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.8 | 29.9 | 85 | 6.5 | 24 |
-| 2026-09-13 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 26.6 | 29.7 | 86 | 6.8 | 18 |
+| 2026-09-13 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 26.7 | 29.8 | 86 | 6.8 | 18 |
+| 2026-09-13 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.4 | 31.1 | 83 | 6.1 | 25 |
+| 2026-09-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.7 | 33.3 | 77 | 6.5 | 15 |
+| 2026-09-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 35.3 | 70 | 8.6 | 25 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.71 | 📈 H: ₹100.0 | 📉 L: ₹98.62 <br>💵 USDT: ₹99.72 | 📈 H: ₹100.55 | 📉 L: ₹99.55 <br>♦ ETH: ₹253846.0 | 📈 H: ₹264000.0 | 📉 L: ₹248095.0 <br>₿ BTC: ₹7670000.0 | 📈 H: ₹7900703.0 | 📉 L: ₹7651100.0 <br>⚡ BNB: ₹72727.86 | 📈 H: ₹73992.3 | 📉 L: ₹70613.37 <br></p>
+<p align="center">🪙 USDC: ₹98.71 | 📈 H: ₹100.0 | 📉 L: ₹98.62 <br>💵 USDT: ₹100.49 | 📈 H: ₹100.68 | 📉 L: ₹99.55 <br>♦ ETH: ₹251431.9 | 📈 H: ₹258999.9 | 📉 L: ₹248274.6 <br>₿ BTC: ₹7666926.0 | 📈 H: ₹7770634.0 | 📉 L: ₹7651100.0 <br>⚡ BNB: ₹72281.84 | 📈 H: ₹73992.3 | 📉 L: ₹71387.38 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My existential dread and I have plans. 🛑❌ 
+  To quote a famous response: 'No.' 🛑❌ 
 </p>
 
 </details>
