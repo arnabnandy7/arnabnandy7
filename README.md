@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 12/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> New Moon (Rise: 05:06 AM, Set: 05:42 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:44 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 90% | 🌡️ <strong>Feels Like:</strong> 29.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:09 AM, Set: 06:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 10.8 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 29.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 6.9 <strong>PM10:</strong> 8.1</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.0 <strong>PM10:</strong> 8.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-12 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.3 | 31.0 | 85 | 12.6 | 25 |
-| 2026-09-12 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 34.1 | 77 | 15.8 | 22 |
-| 2026-09-12 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.4 | 36.2 | 71 | 17.3 | 21 |
-| 2026-09-12 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.4 | 37.6 | 66 | 18.0 | 22 |
-| 2026-09-12 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.0 | 38.2 | 63 | 17.6 | 26 |
 | 2026-09-12 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.8 | 62 | 19.8 | 36 |
 | 2026-09-12 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.9 | 39.0 | 59 | 19.4 | 36 |
 | 2026-09-12 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.4 | 39.3 | 56 | 20.2 | 36 |
 | 2026-09-12 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.9 | 38.5 | 58 | 21.6 | 36 |
 | 2026-09-12 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.1 | 37.6 | 61 | 20.2 | 14 |
+| 2026-09-12 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/200.png) Thundery outbreaks in nearby | 29.6 | 35.1 | 74 | 18.0 | 20 |
+| 2026-09-12 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.7 | 33.4 | 78 | 17.3 | 53 |
+| 2026-09-12 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.9 | 32.2 | 82 | 16.9 | 24 |
+| 2026-09-12 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.6 | 31.5 | 83 | 15.1 | 26 |
+| 2026-09-12 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.5 | 31.3 | 84 | 14.0 | 26 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.66 | 📈 H: ₹99.99 | 📉 L: ₹98.62 <br>💵 USDT: ₹99.9 | 📈 H: ₹100.78 | 📉 L: ₹99.52 <br>♦ ETH: ₹250000.0 | 📈 H: ₹264000.0 | 📉 L: ₹242223.6 <br>₿ BTC: ₹7770085.0 | 📈 H: ₹7900703.0 | 📉 L: ₹7651100.0 <br>⚡ BNB: ₹71808.19 | 📈 H: ₹73000.2 | 📉 L: ₹70403.63 <br></p>
+<p align="center">🪙 USDC: ₹100.0 | 📈 H: ₹100.0 | 📉 L: ₹98.62 <br>💵 USDT: ₹99.91 | 📈 H: ₹100.78 | 📉 L: ₹99.52 <br>♦ ETH: ₹249999.9 | 📈 H: ₹264000.0 | 📉 L: ₹243106.1 <br>₿ BTC: ₹7682865.0 | 📈 H: ₹7900703.0 | 📉 L: ₹7651100.0 <br>⚡ BNB: ₹72497.31 | 📈 H: ₹73753.34 | 📉 L: ₹70437.53 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My bio on Twitter says 'Often says no', gotta stay on brand. 🛑❌ 
+  Life is short, and I choose to waste it my way, not on that. 🛑❌ 
 </p>
 
 </details>
