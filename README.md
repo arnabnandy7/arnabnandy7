@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 13/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="Cloudy weather icon"/><br/>
-  Cloudy (মেঘলা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 06:09 AM, Set: 06:19 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:43 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:11 AM, Set: 06:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 31.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 14.6 <strong>PM10:</strong> 15.8</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.3 <strong>PM10:</strong> 10.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-13 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 27.4 | 31.0 | 82 | 6.1 | 21 |
-| 2026-09-13 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 33.2 | 76 | 9.0 | 8 |
-| 2026-09-13 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 35.2 | 70 | 10.4 | 7 |
-| 2026-09-13 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 36.7 | 64 | 11.2 | 10 |
-| 2026-09-13 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.3 | 37.5 | 59 | 10.1 | 10 |
 | 2026-09-13 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.2 | 38.4 | 55 | 10.1 | 8 |
 | 2026-09-13 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.0 | 39.4 | 53 | 11.2 | 17 |
 | 2026-09-13 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 33.7 | 39.0 | 54 | 13.7 | 20 |
 | 2026-09-13 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.5 | 38.1 | 59 | 14.4 | 36 |
 | 2026-09-13 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.9 | 37.1 | 61 | 10.4 | 36 |
+| 2026-09-13 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.7 | 37.4 | 64 | 6.8 | 13 |
+| 2026-09-13 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.7 | 36.2 | 68 | 7.9 | 13 |
+| 2026-09-13 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.5 | 34.6 | 73 | 10.4 | 7 |
+| 2026-09-13 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.2 | 32.6 | 79 | 10.4 | 9 |
+| 2026-09-13 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.8 | 31.7 | 80 | 10.1 | 9 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.6 | 📈 H: ₹100.0 | 📉 L: ₹98.6 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.68 | 📉 L: ₹99.55 <br>♦ ETH: ₹252649.3 | 📈 H: ₹254999.6 | 📉 L: ₹248274.6 <br>₿ BTC: ₹7669761.0 | 📈 H: ₹7770067.0 | 📉 L: ₹7651101.0 <br>⚡ BNB: ₹71722.35 | 📈 H: ₹73992.3 | 📉 L: ₹71722.29 <br></p>
+<p align="center">🪙 USDC: ₹98.6 | 📈 H: ₹100.0 | 📉 L: ₹98.6 <br>💵 USDT: ₹99.83 | 📈 H: ₹100.68 | 📉 L: ₹99.55 <br>♦ ETH: ₹250699.0 | 📈 H: ₹254999.6 | 📉 L: ₹249280.6 <br>₿ BTC: ₹7658070.0 | 📈 H: ₹7727263.0 | 📉 L: ₹7651100.0 <br>⚡ BNB: ₹71868.02 | 📈 H: ₹73992.3 | 📉 L: ₹71722.29 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't go out; my fridge just opened a bottle of wine and it'd be rude not to join. 🛑❌ 
+  I could participate, but then who would hold up the wall over here? 🛑❌ 
 </p>
 
 </details>
