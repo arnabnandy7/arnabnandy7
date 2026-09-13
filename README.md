@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
   Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:11 AM, Set: 06:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 30.5 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:11 AM, Set: 06:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.9 <strong>PM10:</strong> 34.6</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 33.5 <strong>PM10:</strong> 34.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,9 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-14 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.9 | 29.9 | 84 | 5.4 | 25 |
-| 2026-09-14 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.8 | 29.9 | 84 | 3.6 | 26 |
-| 2026-09-14 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.7 | 29.8 | 84 | 2.2 | 26 |
 | 2026-09-14 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.7 | 29.8 | 84 | 1.4 | 26 |
 | 2026-09-14 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.6 | 29.7 | 84 | 2.9 | 26 |
 | 2026-09-14 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 26.5 | 29.6 | 85 | 3.6 | 26 |
@@ -71,11 +68,14 @@
 | 2026-09-14 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.7 | 32.9 | 74 | 4.0 | 8 |
 | 2026-09-14 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.1 | 34.9 | 68 | 3.2 | 5 |
 | 2026-09-14 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 36.6 | 63 | 5.4 | 4 |
+| 2026-09-14 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.7 | 37.8 | 57 | 6.5 | 11 |
+| 2026-09-14 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 38.4 | 53 | 7.9 | 3 |
+| 2026-09-14 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.1 | 38.8 | 50 | 8.3 | 3 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.57 | 📈 H: ₹99.95 | 📉 L: ₹98.47 <br>💵 USDT: ₹99.51 | 📈 H: ₹100.5 | 📉 L: ₹99.33 <br>♦ ETH: ₹249876.5 | 📈 H: ₹252649.3 | 📉 L: ₹245000.0 <br>₿ BTC: ₹7682369.0 | 📈 H: ₹7712745.0 | 📉 L: ₹7600001.0 <br>⚡ BNB: ₹71073.29 | 📈 H: ₹72738.0 | 📉 L: ₹70581.55 <br></p>
+<p align="center">🪙 USDC: ₹98.57 | 📈 H: ₹99.95 | 📉 L: ₹98.47 <br>💵 USDT: ₹99.5 | 📈 H: ₹100.5 | 📉 L: ₹99.33 <br>♦ ETH: ₹247994.1 | 📈 H: ₹252649.3 | 📉 L: ₹245000.0 <br>₿ BTC: ₹7650009.0 | 📈 H: ₹7712745.0 | 📉 L: ₹7600001.0 <br>⚡ BNB: ₹70981.19 | 📈 H: ₹72738.0 | 📉 L: ₹70581.55 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I thought about doing it later, then realized later is fully booked as well. 🛑❌ 
+  I'm doing you a favor by not coming and stealing the spotlight. 🛑❌ 
 </p>
 
 </details>
