@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 14/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
+  Sunny (পরিষ্কার)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:37 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 34.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:37 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 76% | 🌡️ <strong>Feels Like:</strong> 30.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 20.7 <strong>PM10:</strong> 21.4</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.8 <strong>PM10:</strong> 21.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-15 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 27.5 | 30.4 | 76 | 10.1 | 20 |
-| 2026-09-15 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.4 | 30.3 | 76 | 9.4 | 14 |
-| 2026-09-15 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.4 | 30.2 | 77 | 9.0 | 14 |
-| 2026-09-15 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.3 | 30.1 | 78 | 8.3 | 14 |
 | 2026-09-15 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.1 | 29.9 | 79 | 6.5 | 9 |
 | 2026-09-15 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.8 | 31.3 | 77 | 5.8 | 8 |
 | 2026-09-15 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.3 | 33.6 | 71 | 6.8 | 6 |
 | 2026-09-15 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.9 | 35.7 | 64 | 6.8 | 4 |
 | 2026-09-15 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.2 | 37.1 | 59 | 6.5 | 17 |
 | 2026-09-15 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 38.2 | 53 | 7.2 | 2 |
+| 2026-09-15 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 38.8 | 49 | 8.3 | 2 |
+| 2026-09-15 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.9 | 39.3 | 47 | 9.4 | 4 |
+| 2026-09-15 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 35.0 | 39.2 | 46 | 10.1 | 6 |
+| 2026-09-15 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.2 | 38.5 | 49 | 7.2 | 8 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.53 | 📈 H: ₹98.69 | 📉 L: ₹98.53 <br>💵 USDT: ₹99.2 | 📈 H: ₹100.39 | 📉 L: ₹99.18 <br>♦ ETH: ₹250801.7 | 📈 H: ₹251519.4 | 📉 L: ₹247282.2 <br>₿ BTC: ₹7810780.0 | 📈 H: ₹7810782.0 | 📉 L: ₹7618757.0 <br>⚡ BNB: ₹71306.02 | 📈 H: ₹72772.22 | 📉 L: ₹70981.19 <br></p>
+<p align="center">🪙 USDC: ₹98.53 | 📈 H: ₹98.69 | 📉 L: ₹98.53 <br>💵 USDT: ₹99.19 | 📈 H: ₹100.39 | 📉 L: ₹99.18 <br>♦ ETH: ₹255384.5 | 📈 H: ₹259000.1 | 📉 L: ₹247282.2 <br>₿ BTC: ₹7842820.0 | 📈 H: ₹7850000.0 | 📉 L: ₹7618757.0 <br>⚡ BNB: ₹71298.69 | 📈 H: ₹72772.22 | 📉 L: ₹70981.19 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I have to guard the refrigerator tonight; snacks are counting on me. 🛑❌ 
+  I need to conserve my remaining brain cell. 🛑❌ 
 </p>
 
 </details>
