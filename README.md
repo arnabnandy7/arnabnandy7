@@ -47,11 +47,11 @@
 <p align="center">Kolkata, India - 14/09/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
-  Sunny (পরিষ্কার)
+  Sunny (সূর্যোজ্জ্বল)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:11 AM, Set: 06:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:22 AM | <strong>Sunset:</strong> 05:42 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 08:12 AM, Set: 07:37 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:41 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 30.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 30.9 <strong>PM10:</strong> 31.9</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.8 <strong>PM10:</strong> 30.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-14 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 28.5 | 32.1 | 73 | 4.0 | 7 |
-| 2026-09-14 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 34.1 | 67 | 4.7 | 5 |
-| 2026-09-14 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 35.6 | 61 | 5.4 | 4 |
-| 2026-09-14 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 36.7 | 56 | 7.2 | 3 |
-| 2026-09-14 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 37.5 | 53 | 7.9 | 2 |
 | 2026-09-14 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.9 | 38.4 | 51 | 8.6 | 2 |
 | 2026-09-14 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.3 | 38.7 | 49 | 9.0 | 2 |
 | 2026-09-14 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.4 | 38.7 | 48 | 9.4 | 2 |
 | 2026-09-14 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.0 | 38.3 | 50 | 9.7 | 4 |
 | 2026-09-14 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.1 | 37.8 | 55 | 9.0 | 4 |
+| 2026-09-14 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.8 | 36.3 | 59 | 9.0 | 4 |
+| 2026-09-14 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 30.6 | 35.0 | 64 | 11.2 | 5 |
+| 2026-09-14 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.4 | 33.8 | 71 | 13.3 | 8 |
+| 2026-09-14 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.7 | 32.7 | 73 | 12.6 | 11 |
+| 2026-09-14 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 28.3 | 31.8 | 74 | 12.2 | 19 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.57 | 📈 H: ₹99.95 | 📉 L: ₹98.47 <br>💵 USDT: ₹99.5 | 📈 H: ₹100.5 | 📉 L: ₹99.33 <br>♦ ETH: ₹251084.8 | 📈 H: ₹252649.3 | 📉 L: ₹245000.0 <br>₿ BTC: ₹7618757.0 | 📈 H: ₹7712745.0 | 📉 L: ₹7600001.0 <br>⚡ BNB: ₹70981.19 | 📈 H: ₹72738.0 | 📉 L: ₹70581.55 <br></p>
+<p align="center">🪙 USDC: ₹98.57 | 📈 H: ₹99.95 | 📉 L: ₹98.47 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.39 | 📉 L: ₹99.3 <br>♦ ETH: ₹249351.2 | 📈 H: ₹251519.4 | 📉 L: ₹245000.0 <br>₿ BTC: ₹7726378.0 | 📈 H: ₹7726378.0 | 📉 L: ₹7600001.0 <br>⚡ BNB: ₹71652.98 | 📈 H: ₹72738.0 | 📉 L: ₹70581.55 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would attend, but I'm kind of a big deal in my own mirror. 🛑❌ 
+  I'm way too popular with tasks I haven't done yet. 🛑❌ 
 </p>
 
 </details>
