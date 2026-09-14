@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/open-telemetry.png?size=24" width="24" height="24" alt="open-telemetry avatar"> [open-telemetry/opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) | [#8531 - Deprecate TextMapGetter keys method](https://github.com/open-telemetry/opentelemetry-java/pull/8531) | 2026-09-14 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#348 - fix: prevent concurrent duplicate poll votes](https://github.com/Vault-Web/vault-web/pull/348) | 2026-09-13 |
 | <img src="https://github.com/Vault-Web.png?size=24" width="24" height="24" alt="Vault-Web avatar"> [Vault-Web/vault-web](https://github.com/Vault-Web/vault-web) | [#347 - fix: batch dashboard private chat summary queries](https://github.com/Vault-Web/vault-web/pull/347) | 2026-09-13 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-cookbook](https://github.com/embabel/embabel-cookbook) | [#15 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-cookbook/pull/15) | 2026-09-12 |
