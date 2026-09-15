@@ -1,4 +1,4 @@
-![Header](./images/github-header-image.png)
+![Header](./images/ezgif.com-optimize.gif)
 
 <h3 align="center">Crafting Digital Experiences 🚀</h3>
 
