@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 16/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
-  Sunny (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:13 AM, Set: 08:20 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:40 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 29.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:14 AM, Set: 09:06 PM)  <br>🌅 <strong>Sunrise:</strong> 05:23 AM | <strong>Sunset:</strong> 05:39 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 31.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.9 <strong>PM10:</strong> 18.2</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 21.8 <strong>PM10:</strong> 23.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-16 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 31.2 | 79 | 9.7 | 9 |
-| 2026-09-16 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.5 | 34.1 | 71 | 11.2 | 18 |
-| 2026-09-16 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.1 | 35.8 | 63 | 12.6 | 19 |
-| 2026-09-16 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 37.5 | 58 | 11.5 | 3 |
-| 2026-09-16 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.6 | 38.4 | 53 | 10.4 | 17 |
-| 2026-09-16 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 34.5 | 39.0 | 49 | 9.4 | 2 |
 | 2026-09-16 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 35.1 | 39.5 | 47 | 10.1 | 3 |
 | 2026-09-16 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 35.2 | 39.5 | 46 | 12.2 | 7 |
 | 2026-09-16 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.8 | 38.0 | 50 | 11.9 | 6 |
 | 2026-09-16 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.5 | 37.6 | 51 | 12.2 | 9 |
+| 2026-09-16 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 37.8 | 56 | 13.3 | 7 |
+| 2026-09-16 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.6 | 35.4 | 66 | 15.8 | 6 |
+| 2026-09-16 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.3 | 33.5 | 71 | 16.9 | 13 |
+| 2026-09-16 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.9 | 33.0 | 72 | 16.9 | 15 |
+| 2026-09-16 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.9 | 33.0 | 73 | 15.8 | 16 |
+| 2026-09-16 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 28.7 | 32.8 | 74 | 15.5 | 14 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.51 | 📈 H: ₹99.92 | 📉 L: ₹98.36 <br>💵 USDT: ₹98.4 | 📈 H: ₹100.04 | 📉 L: ₹98.4 <br>♦ ETH: ₹236776.1 | 📈 H: ₹251180.4 | 📉 L: ₹235943.3 <br>₿ BTC: ₹7500000.0 | 📈 H: ₹7790673.0 | 📉 L: ₹7500000.0 <br>⚡ BNB: ₹70168.55 | 📈 H: ₹71257.35 | 📉 L: ₹70028.14 <br></p>
+<p align="center">🪙 USDC: ₹99.94 | 📈 H: ₹99.94 | 📉 L: ₹98.38 <br>💵 USDT: ₹98.6 | 📈 H: ₹100.04 | 📉 L: ₹98.07 <br>♦ ETH: ₹238500.0 | 📈 H: ₹248000.0 | 📉 L: ₹235412.7 <br>₿ BTC: ₹7479128.0 | 📈 H: ₹7724450.0 | 📉 L: ₹7457097.0 <br>⚡ BNB: ₹70242.01 | 📈 H: ₹71812.58 | 📉 L: ₹70028.14 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm choosing myself over this commitment—so, no. 🛑❌ 
+  I didn’t receive the memo that I was supposed to care. 🛑❌ 
 </p>
 
 </details>
