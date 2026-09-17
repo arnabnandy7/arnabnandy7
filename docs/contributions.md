@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1346 - Fix multi-instance service shutdown](https://github.com/cognizant-ai-lab/neuro-san/pull/1346) | 2026-09-17 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1213 - fix macOS multi-instance service startup](https://github.com/cognizant-ai-lab/neuro-san/pull/1213) | 2026-09-15 |
 | <img src="https://github.com/eclipse-vertx.png?size=24" width="24" height="24" alt="eclipse-vertx avatar"> [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) | [#6240 - #6238 Improve HTTP/2 flow control defaults](https://github.com/eclipse-vertx/vert.x/pull/6240) | 2026-09-15 |
 | <img src="https://github.com/open-telemetry.png?size=24" width="24" height="24" alt="open-telemetry avatar"> [open-telemetry/opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) | [#8531 - Deprecate TextMapGetter keys method](https://github.com/open-telemetry/opentelemetry-java/pull/8531) | 2026-09-14 |
