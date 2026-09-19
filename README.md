@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze ()
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 12:09 PM, Set: 10:48 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:37 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 30.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 01:01 PM, Set: 11:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 32.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 71.2 <strong>PM10:</strong> 71.9</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.5 <strong>PM10:</strong> 79.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.5 | 32.5 | 75 | 1.8 | 7 |
-| 2026-09-19 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.0 | 34.6 | 68 | 2.5 | 5 |
-| 2026-09-19 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.7 | 36.6 | 61 | 4.7 | 4 |
-| 2026-09-19 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.9 | 37.9 | 56 | 7.6 | 3 |
-| 2026-09-19 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.1 | 39.3 | 52 | 10.1 | 9 |
-| 2026-09-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.8 | 40.3 | 50 | 12.6 | 7 |
-| 2026-09-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 34.4 | 39.6 | 51 | 12.2 | 7 |
+| 2026-09-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 34.5 | 39.6 | 51 | 12.2 | 7 |
 | 2026-09-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.5 | 39.6 | 50 | 9.7 | 8 |
 | 2026-09-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 34.2 | 39.1 | 51 | 10.4 | 32 |
-| 2026-09-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 32.5 | 37.8 | 59 | 10.1 | 57 |
+| 2026-09-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 32.5 | 37.9 | 59 | 10.1 | 57 |
+| 2026-09-19 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.2 | 36.5 | 64 | 10.8 | 19 |
+| 2026-09-19 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.3 | 35.7 | 70 | 10.8 | 5 |
+| 2026-09-19 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.7 | 34.9 | 72 | 10.4 | 6 |
+| 2026-09-19 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.3 | 34.3 | 75 | 10.4 | 7 |
+| 2026-09-19 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.8 | 33.7 | 77 | 9.7 | 8 |
+| 2026-09-19 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 28.3 | 32.8 | 79 | 9.4 | 9 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.33 | 📈 H: ₹98.52 | 📉 L: ₹98.02 <br>💵 USDT: ₹98.98 | 📈 H: ₹100.02 | 📉 L: ₹98.52 <br>♦ ETH: ₹257875.0 | 📈 H: ₹260299.3 | 📉 L: ₹242338.1 <br>₿ BTC: ₹7936000.0 | 📈 H: ₹8030176.0 | 📉 L: ₹7548870.0 <br>⚡ BNB: ₹74945.0 | 📈 H: ₹75733.89 | 📉 L: ₹72843.19 <br></p>
+<p align="center">🪙 USDC: ₹98.33 | 📈 H: ₹98.52 | 📉 L: ₹98.02 <br>💵 USDT: ₹98.54 | 📈 H: ₹100.02 | 📉 L: ₹98.52 <br>♦ ETH: ₹259962.6 | 📈 H: ₹260299.3 | 📉 L: ₹243586.5 <br>₿ BTC: ₹7949379.0 | 📈 H: ₹8040000.0 | 📉 L: ₹7622959.0 <br>⚡ BNB: ₹74744.62 | 📈 H: ₹75733.89 | 📉 L: ₹73634.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm practicing for my future as a crotchety old hermit. 🛑❌ 
+  It sounds interesting, but I’m not the best person for this. 🛑❌ 
 </p>
 
 </details>
