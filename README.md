@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 20/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (মেঘাচ্ছন্ন)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (অংশত মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 01:01 PM, Set: 11:43 PM)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:36 PM  <br>💨 <strong>Wind:</strong> 14.8 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 30.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:47 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 90% | 🌡️ <strong>Feels Like:</strong> 29.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 49.1 <strong>PM10:</strong> 49.4</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 58.3 <strong>PM10:</strong> 58.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-20 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 26.6 | 29.7 | 88 | 11.2 | 28 |
-| 2026-09-20 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 27.6 | 31.5 | 83 | 10.1 | 25 |
-| 2026-09-20 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 28.3 | 32.7 | 79 | 8.3 | 23 |
-| 2026-09-20 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.1 | 32.3 | 80 | 7.9 | 31 |
-| 2026-09-20 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.0 | 34.4 | 67 | 9.0 | 10 |
 | 2026-09-20 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.0 | 36.2 | 57 | 10.4 | 6 |
 | 2026-09-20 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 32.5 | 36.6 | 55 | 11.9 | 12 |
 | 2026-09-20 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.7 | 34.8 | 62 | 11.5 | 8 |
 | 2026-09-20 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 35.1 | 59 | 7.6 | 3 |
 | 2026-09-20 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.4 | 35.7 | 60 | 4.7 | 4 |
+| 2026-09-20 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 34.5 | 68 | 0.7 | 36 |
+| 2026-09-20 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 29.0 | 33.6 | 74 | 0.7 | 36 |
+| 2026-09-20 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.7 | 33.3 | 77 | 0.7 | 60 |
+| 2026-09-20 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 28.1 | 32.4 | 80 | 1.1 | 59 |
+| 2026-09-20 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 27.8 | 31.9 | 82 | 1.8 | 65 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.37 | 📈 H: ₹98.37 | 📉 L: ₹98.33 <br>💵 USDT: ₹98.83 | 📈 H: ₹99.98 | 📉 L: ₹98.54 <br>♦ ETH: ₹261745.2 | 📈 H: ₹262000.0 | 📉 L: ₹257000.0 <br>₿ BTC: ₹7977785.0 | 📈 H: ₹8069283.0 | 📉 L: ₹7928345.0 <br>⚡ BNB: ₹74693.5 | 📈 H: ₹76791.49 | 📉 L: ₹74575.21 <br></p>
+<p align="center">🪙 USDC: ₹98.33 | 📈 H: ₹98.37 | 📉 L: ₹98.33 <br>💵 USDT: ₹99.05 | 📈 H: ₹99.98 | 📉 L: ₹98.55 <br>♦ ETH: ₹254000.0 | 📈 H: ₹262000.0 | 📉 L: ₹252769.3 <br>₿ BTC: ₹7900000.0 | 📈 H: ₹8069283.0 | 📉 L: ₹7877976.0 <br>⚡ BNB: ₹74000.0 | 📈 H: ₹76791.49 | 📉 L: ₹74000.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've donated all my free time to non-doing causes. 🛑❌ 
+  I've realized the meaning of life isn't doing that, so I'm good. 🛑❌ 
 </p>
 
 </details>
