@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 21/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
-  Sunny (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (মেঘাচ্ছন্ন)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:47 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:24 AM | <strong>Sunset:</strong> 05:35 PM  <br>💨 <strong>Wind:</strong> 7.9 kph | 💧 <strong>Humidity:</strong> 87% | 🌡️ <strong>Feels Like:</strong> 29.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:29 PM, Set: 12:38 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 84% | 🌡️ <strong>Feels Like:</strong> 29.9 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.1 <strong>PM10:</strong> 17.6</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 19.3 <strong>PM10:</strong> 20.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-21 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.9 | 29.9 | 84 | 8.6 | 11 |
-| 2026-09-21 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 28.5 | 32.7 | 76 | 10.4 | 16 |
-| 2026-09-21 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 30.0 | 34.8 | 69 | 11.9 | 17 |
-| 2026-09-21 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 31.4 | 36.7 | 64 | 12.6 | 14 |
-| 2026-09-21 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.6 | 38.3 | 59 | 12.2 | 12 |
 | 2026-09-21 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.6 | 39.4 | 56 | 12.2 | 13 |
 | 2026-09-21 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.1 | 40.0 | 54 | 13.0 | 12 |
 | 2026-09-21 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.2 | 39.8 | 53 | 15.1 | 12 |
 | 2026-09-21 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 33.8 | 39.3 | 54 | 15.5 | 12 |
 | 2026-09-21 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 39.1 | 58 | 13.3 | 21 |
+| 2026-09-21 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.3 | 38.1 | 61 | 10.4 | 28 |
+| 2026-09-21 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 31.4 | 36.4 | 62 | 8.6 | 15 |
+| 2026-09-21 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 31.0 | 35.8 | 64 | 6.5 | 15 |
+| 2026-09-21 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 30.0 | 34.8 | 70 | 8.3 | 13 |
+| 2026-09-21 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 29.0 | 33.6 | 74 | 9.7 | 20 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹97.83 | 📈 H: ₹98.33 | 📉 L: ₹97.83 <br>💵 USDT: ₹98.98 | 📈 H: ₹99.62 | 📉 L: ₹98.29 <br>♦ ETH: ₹262735.1 | 📈 H: ₹262735.1 | 📉 L: ₹252507.2 <br>₿ BTC: ₹8000000.0 | 📈 H: ₹8068953.0 | 📉 L: ₹7854133.0 <br>⚡ BNB: ₹75148.52 | 📈 H: ₹76265.15 | 📉 L: ₹73385.16 <br></p>
+<p align="center">🪙 USDC: ₹98.03 | 📈 H: ₹98.33 | 📉 L: ₹97.83 <br>💵 USDT: ₹98.38 | 📈 H: ₹99.5 | 📉 L: ₹98.29 <br>♦ ETH: ₹260947.8 | 📈 H: ₹265308.7 | 📉 L: ₹252507.2 <br>₿ BTC: ₹7991907.0 | 📈 H: ₹8068940.0 | 📉 L: ₹7854133.0 <br>⚡ BNB: ₹76409.35 | 📈 H: ₹76791.9 | 📉 L: ₹73385.16 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I must decline; I've reached my threshold for giving a darn. 🛑❌ 
+  They say 'follow your dreams' — and my dream is to not do that. 🛑❌ 
 </p>
 
 </details>
