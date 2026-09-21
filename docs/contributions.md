@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23310 - KAFKA-19028: Make incremental config deletion consistent for policies](https://github.com/apache/kafka/pull/23310) | 2026-09-21 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent-experimental](https://github.com/embabel/embabel-agent-experimental) | [#34 - Chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-agent-experimental/pull/34) | 2026-09-20 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1367 - Add AgentCli input branch tests](https://github.com/cognizant-ai-lab/neuro-san/pull/1367) | 2026-09-18 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1346 - Fix multi-instance service shutdown](https://github.com/cognizant-ai-lab/neuro-san/pull/1346) | 2026-09-17 |
