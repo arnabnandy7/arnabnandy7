@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 22/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
+  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:29 PM, Set: 12:38 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:34 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 85% | 🌡️ <strong>Feels Like:</strong> 29.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:06 PM, Set: 01:32 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 38.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.1 <strong>PM10:</strong> 16.8</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.5 <strong>PM10:</strong> 8.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-22 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.8 | 39.0 | 60 | 21.2 | 42 |
-| 2026-09-22 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.6 | 39.0 | 61 | 22.3 | 44 |
-| 2026-09-22 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 38.7 | 61 | 22.3 | 43 |
-| 2026-09-22 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.6 | 37.7 | 66 | 22.0 | 49 |
-| 2026-09-22 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 31.4 | 37.5 | 66 | 20.9 | 38 |
 | 2026-09-22 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.4 | 36.0 | 70 | 20.5 | 48 |
 | 2026-09-22 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 28.9 | 33.6 | 76 | 18.4 | 12 |
 | 2026-09-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.2 | 32.7 | 80 | 17.6 | 14 |
 | 2026-09-22 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 27.8 | 32.0 | 82 | 16.6 | 19 |
 | 2026-09-22 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.6 | 31.7 | 83 | 15.5 | 17 |
+| 2026-09-22 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.4 | 31.3 | 85 | 15.1 | 27 |
+| 2026-09-22 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.3 | 31.1 | 86 | 14.8 | 27 |
+| 2026-09-22 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/200.png) Thundery outbreaks in nearby | 27.1 | 30.7 | 87 | 14.4 | 28 |
+| 2026-09-23 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.9 | 30.3 | 88 | 14.8 | 21 |
+| 2026-09-23 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 26.8 | 30.2 | 88 | 14.8 | 25 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.01 | 📈 H: ₹99.59 | 📉 L: ₹98.01 <br>💵 USDT: ₹99.2 | 📈 H: ₹99.75 | 📉 L: ₹98.18 <br>♦ ETH: ₹267748.0 | 📈 H: ₹275866.0 | 📉 L: ₹261107.8 <br>₿ BTC: ₹8449125.0 | 📈 H: ₹8557702.0 | 📉 L: ₹7991908.0 <br>⚡ BNB: ₹77000.01 | 📈 H: ₹80000.0 | 📉 L: ₹75730.81 <br></p>
+<p align="center">🪙 USDC: ₹98.01 | 📈 H: ₹99.59 | 📉 L: ₹98.01 <br>💵 USDT: ₹99.1 | 📈 H: ₹99.9 | 📉 L: ₹98.18 <br>♦ ETH: ₹270600.0 | 📈 H: ₹275866.0 | 📉 L: ₹265899.3 <br>₿ BTC: ₹8421160.0 | 📈 H: ₹8557702.0 | 📉 L: ₹8260282.0 <br>⚡ BNB: ₹76878.61 | 📈 H: ₹80000.0 | 📉 L: ₹76878.6 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
