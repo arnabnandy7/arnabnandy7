@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1940 - Fix: honor nested Jackson annotations in tool schemas](https://github.com/embabel/embabel-agent/pull/1940) | 2026-09-22 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2600 - fix: avoid resolving artifact dependencies twice](https://github.com/jbangdev/jbang/pull/2600) | 2026-09-22 |
 | <img src="https://github.com/GoogleCloudPlatform.png?size=24" width="24" height="24" alt="GoogleCloudPlatform avatar"> [GoogleCloudPlatform/mqtt-cloud-pubsub-connector](https://github.com/GoogleCloudPlatform/mqtt-cloud-pubsub-connector) | [#1237 - Fix Testcontainers logs incorrectly reported as errors](https://github.com/GoogleCloudPlatform/mqtt-cloud-pubsub-connector/pull/1237) | 2026-09-22 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#23310 - KAFKA-19028: Make incremental config deletion consistent for policies](https://github.com/apache/kafka/pull/23310) | 2026-09-21 |
