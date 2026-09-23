@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:06 PM, Set: 01:32 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:33 PM  <br>💨 <strong>Wind:</strong> 18.4 kph | 💧 <strong>Humidity:</strong> 92% | 🌡️ <strong>Feels Like:</strong> 28.5 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:40 PM, Set: 02:24 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 18.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 29.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 4.4 <strong>PM10:</strong> 5.0</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 5.1 <strong>PM10:</strong> 5.5</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-23 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.4 | 31.5 | 86 | 19.8 | 77 |
-| 2026-09-23 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.0 | 30.7 | 88 | 19.4 | 78 |
-| 2026-09-23 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.7 | 30.1 | 89 | 18.7 | 74 |
-| 2026-09-23 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.3 | 29.2 | 90 | 14.4 | 79 |
-| 2026-09-23 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.4 | 29.4 | 89 | 13.3 | 74 |
 | 2026-09-23 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.6 | 29.8 | 89 | 9.0 | 71 |
 | 2026-09-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.9 | 33.8 | 77 | 16.9 | 48 |
 | 2026-09-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.2 | 34.3 | 75 | 18.0 | 51 |
 | 2026-09-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.0 | 34.3 | 77 | 16.6 | 48 |
 | 2026-09-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.6 | 33.7 | 81 | 15.5 | 47 |
+| 2026-09-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.2 | 31.1 | 87 | 12.2 | 75 |
+| 2026-09-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.9 | 30.5 | 89 | 11.9 | 75 |
+| 2026-09-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.7 | 30.2 | 89 | 13.3 | 74 |
+| 2026-09-23 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.7 | 30.1 | 88 | 14.0 | 31 |
+| 2026-09-23 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 29.3 | 90 | 12.2 | 37 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.0 | 📈 H: ₹98.42 | 📉 L: ₹98.0 <br>💵 USDT: ₹99.3 | 📈 H: ₹99.9 | 📉 L: ₹98.7 <br>♦ ETH: ₹270728.7 | 📈 H: ₹275400.0 | 📉 L: ₹266775.5 <br>₿ BTC: ₹8508478.0 | 📈 H: ₹8560000.0 | 📉 L: ₹8340555.0 <br>⚡ BNB: ₹78000.0 | 📈 H: ₹78869.99 | 📉 L: ₹76878.6 <br></p>
+<p align="center">🪙 USDC: ₹99.94 | 📈 H: ₹99.94 | 📉 L: ₹98.0 <br>💵 USDT: ₹99.14 | 📈 H: ₹99.9 | 📉 L: ₹98.85 <br>♦ ETH: ₹272784.9 | 📈 H: ₹275926.0 | 📉 L: ₹266909.8 <br>₿ BTC: ₹8630000.0 | 📈 H: ₹8630885.0 | 📉 L: ₹8350002.0 <br>⚡ BNB: ₹78000.01 | 📈 H: ₹78870.0 | 📉 L: ₹76878.6 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Occupational Health and Safety flagged that activity as a hazard for me. 🛑❌ 
+  Not today, Satan. Actually, not any day. 🛑❌ 
 </p>
 
 </details>
