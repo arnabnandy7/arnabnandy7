@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-chat-store](https://github.com/embabel/embabel-chat-store) | [#27 - Fix Embabel Agent dependency version](https://github.com/embabel/embabel-chat-store/pull/27) | 2026-09-24 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent-rag-graph](https://github.com/embabel/embabel-agent-rag-graph) | [#26 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-agent-rag-graph/pull/26) | 2026-09-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-chat-store](https://github.com/embabel/embabel-chat-store) | [#19 - Persist durable assistant assets](https://github.com/embabel/embabel-chat-store/pull/19) | 2026-09-23 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1957 - Add durable asset storage contracts](https://github.com/embabel/embabel-agent/pull/1957) | 2026-09-23 |
