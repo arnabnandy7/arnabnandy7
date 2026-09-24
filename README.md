@@ -44,14 +44,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 23/09/2026</p>
+<p align="center">Kolkata, India - 24/09/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
   Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:40 PM, Set: 02:25 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 20.2 kph | 💧 <strong>Humidity:</strong> 92% | 🌡️ <strong>Feels Like:</strong> 27.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:39 PM, Set: 02:24 AM)  <br>🌅 <strong>Sunrise:</strong> 05:25 AM | <strong>Sunset:</strong> 05:32 PM  <br>💨 <strong>Wind:</strong> 20.5 kph | 💧 <strong>Humidity:</strong> 92% | 🌡️ <strong>Feels Like:</strong> 27.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 4.1 <strong>PM10:</strong> 4.6</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 3.3 <strong>PM10:</strong> 3.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-24 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 25.4 | 27.2 | 93 | 20.5 | 82 |
-| 2026-09-24 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.1 | 28.4 | 92 | 19.8 | 77 |
-| 2026-09-24 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.1 | 31.1 | 89 | 20.9 | 77 |
-| 2026-09-24 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.9 | 35.0 | 82 | 25.2 | 72 |
-| 2026-09-24 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.2 | 35.5 | 81 | 26.6 | 74 |
 | 2026-09-24 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.5 | 35.9 | 79 | 28.1 | 69 |
 | 2026-09-24 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.2 | 35.6 | 82 | 24.8 | 66 |
 | 2026-09-24 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.1 | 35.3 | 81 | 26.6 | 69 |
 | 2026-09-24 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.5 | 34.3 | 84 | 24.5 | 71 |
 | 2026-09-24 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.2 | 33.5 | 84 | 25.2 | 72 |
+| 2026-09-24 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.6 | 32.1 | 87 | 24.5 | 75 |
+| 2026-09-24 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 26.8 | 30.2 | 89 | 23.0 | 74 |
+| 2026-09-24 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.6 | 29.5 | 90 | 19.4 | 74 |
+| 2026-09-24 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 29.0 | 90 | 20.2 | 75 |
+| 2026-09-24 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.3 | 28.9 | 91 | 19.1 | 75 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.61 | 📈 H: ₹99.95 | 📉 L: ₹98.5 <br>💵 USDT: ₹100.3 | 📈 H: ₹100.59 | 📉 L: ₹99.06 <br>♦ ETH: ₹265000.2 | 📈 H: ₹275926.0 | 📉 L: ₹263004.2 <br>₿ BTC: ₹8429747.0 | 📈 H: ₹8641228.0 | 📉 L: ₹8400000.0 <br>⚡ BNB: ₹75436.82 | 📈 H: ₹79574.69 | 📉 L: ₹75327.88 <br></p>
+<p align="center">🪙 USDC: ₹99.95 | 📈 H: ₹99.95 | 📉 L: ₹98.5 <br>💵 USDT: ₹99.65 | 📈 H: ₹100.59 | 📉 L: ₹99.1 <br>♦ ETH: ₹263742.3 | 📈 H: ₹275926.0 | 📉 L: ₹263004.2 <br>₿ BTC: ₹8400060.0 | 📈 H: ₹8641228.0 | 📉 L: ₹8400000.0 <br>⚡ BNB: ₹77122.44 | 📈 H: ₹79574.69 | 📉 L: ₹75327.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  Emergency! I just ran out of chocolate, and that's all I can handle right now. 🛑❌ 
+  No humour available right now 😴 🛑❌ 
 </p>
 
 </details>
