@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 25/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/356.png" alt="Moderate or heavy rain shower weather icon"/><br/>
+  Moderate or heavy rain shower (মাঝারি ও ভারী স্বল্পস্থায়ী বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:42 PM, Set: 04:06 AM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 29.5 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 35.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:42 PM, Set: 04:06 AM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 22.3 kph | 💧 <strong>Humidity:</strong> 90% | 🌡️ <strong>Feels Like:</strong> 28.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.5 <strong>PM10:</strong> 9.9</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 9.2 <strong>PM10:</strong> 10.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-25 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 28.5 | 90 | 20.5 | 62 |
-| 2026-09-25 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 28.4 | 92 | 19.1 | 64 |
-| 2026-09-25 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 28.5 | 92 | 18.4 | 65 |
-| 2026-09-25 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.1 | 28.5 | 91 | 18.4 | 77 |
-| 2026-09-26 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.1 | 28.6 | 92 | 18.4 | 86 |
 | 2026-09-26 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.9 | 28.0 | 92 | 20.2 | 84 |
 | 2026-09-26 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.5 | 27.9 | 94 | 17.6 | 81 |
 | 2026-09-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.7 | 28.0 | 93 | 17.6 | 82 |
 | 2026-09-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.5 | 27.9 | 94 | 17.3 | 84 |
 | 2026-09-26 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 25.7 | 28.0 | 93 | 18.0 | 81 |
+| 2026-09-26 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.1 | 28.6 | 92 | 18.4 | 77 |
+| 2026-09-26 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 33.3 | 85 | 23.8 | 71 |
+| 2026-09-26 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.2 | 35.9 | 82 | 24.8 | 23 |
+| 2026-09-26 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.1 | 36.9 | 76 | 26.3 | 36 |
+| 2026-09-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.2 | 38.2 | 70 | 26.3 | 48 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.81 | 📈 H: ₹99.95 | 📉 L: ₹98.77 <br>💵 USDT: ₹99.6 | 📈 H: ₹100.6 | 📉 L: ₹99.26 <br>♦ ETH: ₹270000.0 | 📈 H: ₹274557.4 | 📉 L: ₹263602.4 <br>₿ BTC: ₹8380500.0 | 📈 H: ₹8479999.0 | 📉 L: ₹8327744.0 <br>⚡ BNB: ₹77217.92 | 📈 H: ₹78000.01 | 📉 L: ₹76538.01 <br></p>
+<p align="center">🪙 USDC: ₹99.01 | 📈 H: ₹99.95 | 📉 L: ₹98.81 <br>💵 USDT: ₹100.2 | 📈 H: ₹100.5 | 📉 L: ₹99.26 <br>♦ ETH: ₹268350.0 | 📈 H: ₹274557.4 | 📉 L: ₹264413.0 <br>₿ BTC: ₹8400000.0 | 📈 H: ₹8479999.0 | 📉 L: ₹8334045.0 <br>⚡ BNB: ₹76721.39 | 📈 H: ₹78000.01 | 📉 L: ₹76502.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've already met my quota of bad decisions for the month; saying yes would exceed it. 🛑❌ 
+  Me, myself, and I had a meeting; we unanimously decided to decline. 🛑❌ 
 </p>
 
 </details>
