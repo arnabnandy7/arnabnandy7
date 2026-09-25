@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 25/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
-  Light rain shower (হাল্কা স্বল্পস্থায়ী বৃষ্টিপাত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:42 PM, Set: 04:06 AM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 27.0 kph | 💧 <strong>Humidity:</strong> 86% | 🌡️ <strong>Feels Like:</strong> 31.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:42 PM, Set: 04:06 AM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:30 PM  <br>💨 <strong>Wind:</strong> 29.5 kph | 💧 <strong>Humidity:</strong> 82% | 🌡️ <strong>Feels Like:</strong> 35.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 7.2 <strong>PM10:</strong> 8.0</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 8.5 <strong>PM10:</strong> 9.9</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-25 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.7 | 36.3 | 78 | 31.0 | 59 |
-| 2026-09-25 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 28.9 | 34.7 | 82 | 29.9 | 55 |
-| 2026-09-25 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 27.4 | 31.3 | 86 | 27.7 | 72 |
-| 2026-09-25 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.9 | 30.2 | 86 | 27.7 | 67 |
-| 2026-09-25 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.6 | 29.0 | 87 | 25.6 | 50 |
-| 2026-09-25 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.3 | 28.6 | 89 | 22.3 | 36 |
-| 2026-09-25 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.4 | 29.0 | 90 | 20.5 | 57 |
-| 2026-09-25 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.6 | 29.5 | 90 | 19.8 | 29 |
-| 2026-09-25 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.5 | 29.4 | 90 | 18.7 | 55 |
-| 2026-09-25 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.6 | 29.6 | 91 | 17.6 | 56 |
+| 2026-09-25 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.2 | 28.5 | 90 | 20.5 | 62 |
+| 2026-09-25 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 28.4 | 92 | 19.1 | 64 |
+| 2026-09-25 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 26.1 | 28.5 | 92 | 18.4 | 65 |
+| 2026-09-25 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.1 | 28.5 | 91 | 18.4 | 77 |
+| 2026-09-26 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 26.1 | 28.6 | 92 | 18.4 | 86 |
+| 2026-09-26 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.9 | 28.0 | 92 | 20.2 | 84 |
+| 2026-09-26 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.5 | 27.9 | 94 | 17.6 | 81 |
+| 2026-09-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.7 | 28.0 | 93 | 17.6 | 82 |
+| 2026-09-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/356.png) Moderate or heavy rain shower | 25.5 | 27.9 | 94 | 17.3 | 84 |
+| 2026-09-26 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/356.png) Moderate or heavy rain shower | 25.7 | 28.0 | 93 | 18.0 | 81 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.97 | 📈 H: ₹99.95 | 📉 L: ₹98.76 <br>💵 USDT: ₹99.57 | 📈 H: ₹100.76 | 📉 L: ₹99.17 <br>♦ ETH: ₹269643.7 | 📈 H: ₹270499.9 | 📉 L: ₹261500.1 <br>₿ BTC: ₹8393445.0 | 📈 H: ₹8479999.0 | 📉 L: ₹8238141.0 <br>⚡ BNB: ₹76538.01 | 📈 H: ₹78000.01 | 📉 L: ₹76538.01 <br></p>
+<p align="center">🪙 USDC: ₹98.81 | 📈 H: ₹99.95 | 📉 L: ₹98.77 <br>💵 USDT: ₹99.6 | 📈 H: ₹100.6 | 📉 L: ₹99.26 <br>♦ ETH: ₹270000.0 | 📈 H: ₹274557.4 | 📉 L: ₹263602.4 <br>₿ BTC: ₹8380500.0 | 📈 H: ₹8479999.0 | 📉 L: ₹8327744.0 <br>⚡ BNB: ₹77217.92 | 📈 H: ₹78000.01 | 📉 L: ₹76538.01 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I made a New Year's resolution to say no more often. Starting now. 🛑❌ 
+  I've already met my quota of bad decisions for the month; saying yes would exceed it. 🛑❌ 
 </p>
 
 </details>
