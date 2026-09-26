@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1996 - Fix validation responsibility boundaries](https://github.com/embabel/embabel-agent/pull/1996) | 2026-09-26 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50576 - Remove obsolete generated polling rewrites](https://github.com/Azure/azure-sdk-for-java/pull/50576) | 2026-09-25 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | [#1368 - Add provider-side tool runtime support (1 of 6)](https://github.com/cognizant-ai-lab/neuro-san/pull/1368) | 2026-09-25 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-chat-store](https://github.com/embabel/embabel-chat-store) | [#27 - Fix Embabel Agent dependency version](https://github.com/embabel/embabel-chat-store/pull/27) | 2026-09-24 |
