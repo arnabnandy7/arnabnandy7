@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 27/09/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
-  Clear (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze ()
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:44 PM, Set: 05:48 AM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 8.3 kph | 💧 <strong>Humidity:</strong> 72% | 🌡️ <strong>Feels Like:</strong> 31.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:44 PM, Set: 05:48 AM)  <br>🌅 <strong>Sunrise:</strong> 05:26 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 81% | 🌡️ <strong>Feels Like:</strong> 29.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.5 <strong>PM10:</strong> 39.2</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 44.7 <strong>PM10:</strong> 46.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-28 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.9 | 29.6 | 80 | 5.8 | 10 |
-| 2026-09-28 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.7 | 29.4 | 81 | 5.0 | 10 |
-| 2026-09-28 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 29.2 | 81 | 4.7 | 10 |
-| 2026-09-28 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 26.1 | 29.0 | 82 | 5.4 | 12 |
 | 2026-09-28 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.9 | 28.7 | 82 | 7.2 | 25 |
 | 2026-09-28 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.6 | 28.4 | 82 | 7.6 | 18 |
 | 2026-09-28 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.4 | 29.0 | 80 | 6.5 | 12 |
 | 2026-09-28 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.2 | 31.4 | 72 | 6.8 | 7 |
 | 2026-09-28 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.8 | 33.5 | 65 | 7.6 | 4 |
 | 2026-09-28 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.2 | 35.3 | 60 | 8.3 | 3 |
+| 2026-09-28 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.2 | 36.3 | 56 | 8.6 | 3 |
+| 2026-09-28 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.0 | 37.2 | 53 | 10.1 | 10 |
+| 2026-09-28 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.6 | 37.6 | 50 | 11.2 | 2 |
+| 2026-09-28 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.8 | 37.7 | 49 | 13.7 | 2 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.01 | 📈 H: ₹100.1 | 📉 L: ₹98.68 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.38 | 📉 L: ₹99.76 <br>♦ ETH: ₹269000.0 | 📈 H: ₹273999.9 | 📉 L: ₹266608.0 <br>₿ BTC: ₹8478297.0 | 📈 H: ₹8478297.0 | 📉 L: ₹8400001.0 <br>⚡ BNB: ₹77023.07 | 📈 H: ₹77999.99 | 📉 L: ₹76177.73 <br></p>
+<p align="center">🪙 USDC: ₹99.01 | 📈 H: ₹100.1 | 📉 L: ₹98.68 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.38 | 📉 L: ₹99.5 <br>♦ ETH: ₹268000.0 | 📈 H: ₹273999.9 | 📉 L: ₹266608.0 <br>₿ BTC: ₹8478303.0 | 📈 H: ₹8478303.0 | 📉 L: ₹8400001.0 <br>⚡ BNB: ₹77023.07 | 📈 H: ₹77999.99 | 📉 L: ₹76177.73 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I put the 'pro' in procrastinate, and I won't ruin my streak. 🛑❌ 
+  That sounds like an amazing opportunity... for someone else. 🛑❌ 
 </p>
 
 </details>
