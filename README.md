@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze ()
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 05:44 PM, Set: 05:48 AM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:28 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 28.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:18 PM, Set: 06:42 AM)  <br>🌅 <strong>Sunrise:</strong> 05:27 AM | <strong>Sunset:</strong> 05:27 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 29.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 50.1 <strong>PM10:</strong> 51.8</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 64.7 <strong>PM10:</strong> 66.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-09-28 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.4 | 31.6 | 71 | 6.5 | 6 |
-| 2026-09-28 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.9 | 33.7 | 65 | 7.6 | 4 |
-| 2026-09-28 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.2 | 35.2 | 60 | 9.0 | 4 |
-| 2026-09-28 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.3 | 36.5 | 56 | 9.7 | 3 |
-| 2026-09-28 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 33.1 | 37.3 | 53 | 10.8 | 10 |
-| 2026-09-28 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.6 | 37.5 | 50 | 11.9 | 3 |
 | 2026-09-28 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.8 | 37.7 | 49 | 14.8 | 2 |
 | 2026-09-28 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 37.2 | 50 | 16.6 | 2 |
 | 2026-09-28 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.9 | 36.6 | 52 | 15.5 | 3 |
 | 2026-09-28 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.8 | 35.6 | 56 | 12.6 | 3 |
+| 2026-09-28 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.6 | 33.7 | 58 | 10.4 | 6 |
+| 2026-09-28 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.2 | 33.0 | 60 | 7.2 | 14 |
+| 2026-09-28 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.0 | 32.8 | 60 | 4.0 | 10 |
+| 2026-09-28 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.6 | 32.4 | 62 | 7.2 | 9 |
+| 2026-09-28 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.1 | 31.9 | 64 | 8.6 | 15 |
+| 2026-09-28 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.7 | 31.5 | 66 | 8.3 | 16 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.01 | 📈 H: ₹100.1 | 📉 L: ₹98.68 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.38 | 📉 L: ₹99.5 <br>♦ ETH: ₹268000.0 | 📈 H: ₹273999.9 | 📉 L: ₹266608.1 <br>₿ BTC: ₹8478302.0 | 📈 H: ₹8478303.0 | 📉 L: ₹8400001.0 <br>⚡ BNB: ₹77023.07 | 📈 H: ₹77999.99 | 📉 L: ₹76177.73 <br></p>
+<p align="center">🪙 USDC: ₹100.1 | 📈 H: ₹100.1 | 📉 L: ₹98.89 <br>💵 USDT: ₹99.81 | 📈 H: ₹100.43 | 📉 L: ₹99.5 <br>♦ ETH: ₹262564.6 | 📈 H: ₹273999.9 | 📉 L: ₹262050.1 <br>₿ BTC: ₹8231046.0 | 📈 H: ₹8478303.0 | 📉 L: ₹8215421.0 <br>⚡ BNB: ₹76500.07 | 📈 H: ₹78198.52 | 📉 L: ₹76207.73 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  That sounds like an amazing opportunity... for someone else. 🛑❌ 
+  I'm waiting for my bubble wrap suit to arrive before I attempt such things. 🛑❌ 
 </p>
 
 </details>
