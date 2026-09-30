@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50595 - Fix subscription resource metrics queries](https://github.com/Azure/azure-sdk-for-java/pull/50595) | 2026-09-30 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2010 - Fix: persist immediate agent termination and emit lifecycle event](https://github.com/embabel/embabel-agent/pull/2010) | 2026-09-30 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/dice](https://github.com/embabel/dice) | [#104 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/dice/pull/104) | 2026-09-28 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-common](https://github.com/embabel/embabel-common) | [#137 - chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-common/pull/137) | 2026-09-28 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1996 - Fix validation responsibility boundaries](https://github.com/embabel/embabel-agent/pull/1996) | 2026-09-26 |
