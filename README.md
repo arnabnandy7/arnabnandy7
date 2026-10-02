@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze ()
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:26 PM, Set: 10:40 AM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 28.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:26 PM, Set: 10:40 AM)  <br>🌅 <strong>Sunrise:</strong> 05:28 AM | <strong>Sunset:</strong> 05:23 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 44% | 🌡️ <strong>Feels Like:</strong> 35.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 65.9 <strong>PM10:</strong> 77.5</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 61.0 <strong>PM10:</strong> 79.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-02 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.1 | 32.8 | 59 | 7.6 | 3 |
-| 2026-10-02 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.5 | 33.9 | 52 | 7.9 | 2 |
-| 2026-10-02 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.6 | 34.7 | 47 | 8.6 | 2 |
-| 2026-10-02 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.4 | 35.3 | 44 | 9.7 | 1 |
-| 2026-10-02 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.9 | 36.0 | 43 | 10.8 | 1 |
-| 2026-10-02 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.9 | 36.0 | 43 | 12.2 | 1 |
-| 2026-10-02 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.6 | 35.7 | 44 | 13.0 | 1 |
-| 2026-10-02 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.2 | 35.5 | 46 | 12.2 | 1 |
-| 2026-10-02 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.1 | 34.9 | 51 | 10.4 | 2 |
-| 2026-10-02 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.6 | 32.7 | 54 | 10.8 | 2 |
+| 2026-10-02 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.5 | 36.0 | 45 | 11.2 | 1 |
+| 2026-10-02 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.4 | 35.3 | 51 | 9.4 | 2 |
+| 2026-10-02 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 31.0 | 33.1 | 53 | 9.0 | 2 |
+| 2026-10-02 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.2 | 32.5 | 56 | 8.3 | 5 |
+| 2026-10-02 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.2 | 31.8 | 62 | 9.4 | 4 |
+| 2026-10-02 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.4 | 31.0 | 66 | 9.7 | 5 |
+| 2026-10-02 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.9 | 30.3 | 68 | 8.6 | 5 |
+| 2026-10-02 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.5 | 29.6 | 69 | 7.9 | 5 |
+| 2026-10-02 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.4 | 29.4 | 69 | 7.2 | 5 |
+| 2026-10-03 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.9 | 28.8 | 71 | 9.0 | 6 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.09 | 📈 H: ₹100.84 | 📉 L: ₹99.09 <br>💵 USDT: ₹99.63 | 📈 H: ₹100.75 | 📉 L: ₹99.5 <br>♦ ETH: ₹267600.0 | 📈 H: ₹271000.0 | 📉 L: ₹266244.0 <br>₿ BTC: ₹8479993.0 | 📈 H: ₹8479995.0 | 📉 L: ₹8300000.0 <br>⚡ BNB: ₹76178.87 | 📈 H: ₹77000.52 | 📉 L: ₹75822.96 <br></p>
+<p align="center">🪙 USDC: ₹98.88 | 📈 H: ₹100.74 | 📉 L: ₹98.88 <br>💵 USDT: ₹99.89 | 📈 H: ₹100.75 | 📉 L: ₹99.07 <br>♦ ETH: ₹274999.9 | 📈 H: ₹274999.9 | 📉 L: ₹266244.0 <br>₿ BTC: ₹8532625.0 | 📈 H: ₹8600060.0 | 📉 L: ₹8321188.0 <br>⚡ BNB: ₹77002.34 | 📈 H: ₹78651.94 | 📉 L: ₹75822.96 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
