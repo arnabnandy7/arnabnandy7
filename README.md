@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze ()
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:34 PM, Set: 12:38 PM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 30.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 11:34 PM, Set: 12:38 PM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:21 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 29.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 112.2 <strong>PM10:</strong> 130.4</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 89.4 <strong>PM10:</strong> 103.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-04 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 30.2 | 66 | 8.6 | 4 |
-| 2026-10-04 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.6 | 29.7 | 69 | 8.6 | 5 |
-| 2026-10-04 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.2 | 29.2 | 70 | 7.9 | 5 |
-| 2026-10-05 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.0 | 28.9 | 70 | 6.1 | 7 |
-| 2026-10-05 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.2 | 29.1 | 69 | 4.7 | 9 |
 | 2026-10-05 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.0 | 28.7 | 69 | 5.8 | 13 |
 | 2026-10-05 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.8 | 28.5 | 69 | 7.2 | 14 |
 | 2026-10-05 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.7 | 28.4 | 69 | 7.9 | 14 |
 | 2026-10-05 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.5 | 28.1 | 69 | 8.3 | 14 |
 | 2026-10-05 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.8 | 28.6 | 70 | 7.6 | 7 |
+| 2026-10-05 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.6 | 30.8 | 63 | 8.3 | 4 |
+| 2026-10-05 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.3 | 33.0 | 58 | 9.0 | 3 |
+| 2026-10-05 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.7 | 34.5 | 52 | 9.0 | 2 |
+| 2026-10-05 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.9 | 35.4 | 48 | 9.0 | 1 |
+| 2026-10-05 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 35.8 | 44 | 9.4 | 2 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.53 | 📈 H: ₹100.53 | 📉 L: ₹98.8 <br>💵 USDT: ₹99.16 | 📈 H: ₹100.0 | 📉 L: ₹99.0 <br>♦ ETH: ₹265759.8 | 📈 H: ₹270010.5 | 📉 L: ₹265000.0 <br>₿ BTC: ₹8400239.0 | 📈 H: ₹8511752.0 | 📉 L: ₹8375002.0 <br>⚡ BNB: ₹77962.86 | 📈 H: ₹79465.02 | 📉 L: ₹76765.73 <br></p>
+<p align="center">🪙 USDC: ₹100.53 | 📈 H: ₹100.53 | 📉 L: ₹98.8 <br>💵 USDT: ₹99.12 | 📈 H: ₹100.0 | 📉 L: ₹99.0 <br>♦ ETH: ₹265328.6 | 📈 H: ₹270010.5 | 📉 L: ₹265201.2 <br>₿ BTC: ₹8380459.0 | 📈 H: ₹8511724.0 | 📉 L: ₹8378991.0 <br>⚡ BNB: ₹77460.47 | 📈 H: ₹79465.02 | 📉 L: ₹77327.19 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I tried doing something similar once; let's just say the fire department got involved. 🛑❌ 
+  I’m going to respectfully decline. It doesn’t align with where I’m heading. 🛑❌ 
 </p>
 
 </details>
