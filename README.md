@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 07/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze ()
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  Patchy rain nearby (পার্শ্ববর্তী এলাকায় অনিয়মিত বৃষ্টিপাত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 12:40 AM, Set: 02:15 PM)  <br>🌅 <strong>Sunrise:</strong> 05:29 AM | <strong>Sunset:</strong> 05:19 PM  <br>💨 <strong>Wind:</strong> 6.5 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 28.5 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: 01:45 AM, Set: 02:57 PM)  <br>🌅 <strong>Sunrise:</strong> 05:30 AM | <strong>Sunset:</strong> 05:18 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 62% | 🌡️ <strong>Feels Like:</strong> 30.7 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 109.2 <strong>PM10:</strong> 115.0</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 87.1 <strong>PM10:</strong> 97.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-07 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.6 | 30.7 | 62 | 5.0 | 4 |
-| 2026-10-07 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.2 | 32.5 | 56 | 4.0 | 3 |
-| 2026-10-07 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.6 | 34.1 | 52 | 2.9 | 2 |
-| 2026-10-07 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.9 | 35.5 | 48 | 2.5 | 1 |
-| 2026-10-07 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.7 | 36.1 | 44 | 2.9 | 1 |
-| 2026-10-07 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 34.4 | 36.5 | 42 | 4.7 | 3 |
 | 2026-10-07 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 34.4 | 36.3 | 41 | 6.1 | 8 |
 | 2026-10-07 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.7 | 36.0 | 44 | 4.3 | 9 |
 | 2026-10-07 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.0 | 35.1 | 46 | 3.2 | 8 |
 | 2026-10-07 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.3 | 34.1 | 55 | 10.8 | 13 |
+| 2026-10-07 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.5 | 32.4 | 63 | 16.2 | 15 |
+| 2026-10-07 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.0 | 31.9 | 65 | 15.1 | 16 |
+| 2026-10-07 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.8 | 31.6 | 66 | 13.3 | 16 |
+| 2026-10-07 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.7 | 31.6 | 67 | 12.6 | 16 |
+| 2026-10-07 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.4 | 31.1 | 68 | 11.5 | 17 |
+| 2026-10-07 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.3 | 30.8 | 67 | 9.7 | 16 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.19 | 📈 H: ₹99.88 | 📉 L: ₹98.0 <br>💵 USDT: ₹99.07 | 📈 H: ₹99.7 | 📉 L: ₹98.67 <br>♦ ETH: ₹268990.5 | 📈 H: ₹269952.0 | 📉 L: ₹264722.4 <br>₿ BTC: ₹8400006.0 | 📈 H: ₹8535700.0 | 📉 L: ₹8379859.0 <br>⚡ BNB: ₹76495.89 | 📈 H: ₹77400.0 | 📉 L: ₹76397.84 <br></p>
+<p align="center">🪙 USDC: ₹98.48 | 📈 H: ₹99.88 | 📉 L: ₹98.0 <br>💵 USDT: ₹99.23 | 📈 H: ₹99.7 | 📉 L: ₹98.67 <br>♦ ETH: ₹260000.0 | 📈 H: ₹269000.0 | 📉 L: ₹260000.0 <br>₿ BTC: ₹8375000.0 | 📈 H: ₹8535700.0 | 📉 L: ₹8375000.0 <br>⚡ BNB: ₹75642.47 | 📈 H: ₹77400.0 | 📉 L: ₹75512.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
