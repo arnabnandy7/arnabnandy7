@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1468 - #1143 Fix CLI test suite failures on Windows due to URI path resolution and CRLF mismatch](https://github.com/hardwood-hq/hardwood/pull/1468) | 2026-10-11 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1106 - #936 Re-record dive demo asciinema cast with KiB/MiB/GiB labels](https://github.com/hardwood-hq/hardwood/pull/1106) | 2026-10-09 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#537 - Fix clipped resizable panel handle border](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/537) | 2026-10-08 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#57111 - Update Jackson customization documentation](https://github.com/quarkusio/quarkus/pull/57111) | 2026-10-05 |
