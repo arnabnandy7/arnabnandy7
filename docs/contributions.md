@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/aws.png?size=24" width="24" height="24" alt="aws avatar"> [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | [#7067 - Fix DurationAttributeConverter negative fractional durations](https://github.com/aws/aws-sdk-java-v2/pull/7067) | 2026-10-12 |
+| <img src="https://github.com/smallrye.png?size=24" width="24" height="24" alt="smallrye avatar"> [smallrye/smallrye-open-api](https://github.com/smallrye/smallrye-open-api) | [#2686 - Fix OAuth redirect URL resolution](https://github.com/smallrye/smallrye-open-api/pull/2686) | 2026-10-12 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#56953 - Fix Swagger UI URL behind reverse proxies](https://github.com/quarkusio/quarkus/pull/56953) | 2026-10-12 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1468 - #1143 Fix CLI test suite failures on Windows due to URI path resolution and CRLF mismatch](https://github.com/hardwood-hq/hardwood/pull/1468) | 2026-10-11 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1106 - #936 Re-record dive demo asciinema cast with KiB/MiB/GiB labels](https://github.com/hardwood-hq/hardwood/pull/1106) | 2026-10-09 |
