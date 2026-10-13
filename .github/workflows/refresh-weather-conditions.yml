@@ -1,0 +1,63 @@
+name: "Refresh Weather Conditions"
+
+on:
+  schedule:
+    - cron: '15 0 1 * *'
+  workflow_dispatch:
+
+concurrency:
+  group: profile-content-writes
+  cancel-in-progress: false
+
+jobs:
+  refresh-weather-conditions:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Download and extract Bengali conditions
+        run: |
+          curl --fail --silent --show-error --location \
+            https://www.weatherapi.com/docs/conditions.json \
+            --output /tmp/weatherapi-conditions.json
+
+          jq --exit-status '
+            [
+              .[]
+              | (.languages | map(select(.lang_iso == "bn"))) as $translations
+              | select(($translations | length) == 1)
+              | {
+                  code,
+                  day_text: $translations[0].day_text,
+                  night_text: $translations[0].night_text
+                }
+            ]
+          ' /tmp/weatherapi-conditions.json > /tmp/condition.json
+
+          source_count=$(jq 'length' /tmp/weatherapi-conditions.json)
+          condition_count=$(jq 'length' /tmp/condition.json)
+          unique_code_count=$(jq '[.[].code] | unique | length' /tmp/condition.json)
+
+          if [ "$condition_count" -eq 0 ] \
+            || [ "$condition_count" -ne "$source_count" ] \
+            || [ "$unique_code_count" -ne "$condition_count" ]; then
+            echo "Condition validation failed: source=$source_count extracted=$condition_count unique=$unique_code_count"
+            exit 1
+          fi
+
+          mv /tmp/condition.json tmp/condition.json
+
+      - name: Commit updated conditions
+        run: |
+          if git diff --quiet -- tmp/condition.json; then
+            echo "Weather conditions are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tmp/condition.json
+          git commit -m "Refresh weather conditions"
+          git push origin main
