@@ -47,7 +47,7 @@
 <p align="center">Kolkata, India - 13/10/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze ()
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:57 AM, Set: 06:56 PM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 28.9 °C</p>
 
