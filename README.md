@@ -44,9 +44,9 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 13/10/2026</p>
+<p align="center">Kolkata, India - 14/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 07:57 AM, Set: 06:56 PM)  <br>🌅 <strong>Sunrise:</strong> 05:32 AM | <strong>Sunset:</strong> 05:13 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 27.3 °C</p>
@@ -61,9 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-14 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.6 | 27.0 | 68 | 9.0 | 17 |
-| 2026-10-14 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.0 | 27.6 | 69 | 9.0 | 17 |
-| 2026-10-14 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.4 | 28.9 | 64 | 10.8 | 15 |
 | 2026-10-14 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 30.8 | 58 | 11.5 | 6 |
 | 2026-10-14 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.8 | 32.8 | 53 | 11.9 | 2 |
 | 2026-10-14 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.2 | 34.4 | 49 | 11.9 | 8 |
@@ -71,11 +68,14 @@
 | 2026-10-14 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 36.0 | 45 | 10.4 | 1 |
 | 2026-10-14 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 36.2 | 44 | 9.4 | 1 |
 | 2026-10-14 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.8 | 36.2 | 44 | 9.0 | 3 |
+| 2026-10-14 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/293.png) Patchy light rain | 33.3 | 35.8 | 46 | 8.3 | 57 |
+| 2026-10-14 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 31.9 | 35.0 | 53 | 6.8 | 7 |
+| 2026-10-14 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 30.7 | 33.2 | 55 | 6.1 | 7 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹98.9 | 📈 H: ₹98.91 | 📉 L: ₹98.62 <br>💵 USDT: ₹99.51 | 📈 H: ₹100.35 | 📉 L: ₹99.0 <br>♦ ETH: ₹247700.3 | 📈 H: ₹252909.6 | 📉 L: ₹242000.0 <br>₿ BTC: ₹8260991.0 | 📈 H: ₹8346997.0 | 📉 L: ₹8120914.0 <br>⚡ BNB: ₹73283.91 | 📈 H: ₹73757.7 | 📉 L: ₹72359.55 <br></p>
+<p align="center">🪙 USDC: ₹98.88 | 📈 H: ₹98.91 | 📉 L: ₹98.62 <br>💵 USDT: ₹99.32 | 📈 H: ₹100.35 | 📉 L: ₹99.01 <br>♦ ETH: ₹248048.9 | 📈 H: ₹252909.6 | 📉 L: ₹244918.0 <br>₿ BTC: ₹8250001.0 | 📈 H: ₹8346997.0 | 📉 L: ₹8120914.0 <br>⚡ BNB: ₹73283.91 | 📈 H: ₹73757.7 | 📉 L: ₹72359.55 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
