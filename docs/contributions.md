@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#543 - fix: handle large chat prompts](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/543) | 2026-10-14 |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#528 - fix: preserve user queries during long responses](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/528) | 2026-10-14 |
 | <img src="https://github.com/reactor.png?size=24" width="24" height="24" alt="reactor avatar"> [reactor/reactor-core](https://github.com/reactor/reactor-core) | [#4324 - Fix onErrorContinue consumer nullability](https://github.com/reactor/reactor-core/pull/4324) | 2026-10-14 |
 | <img src="https://github.com/aws.png?size=24" width="24" height="24" alt="aws avatar"> [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) | [#7067 - Fix DurationAttributeConverter negative fractional durations](https://github.com/aws/aws-sdk-java-v2/pull/7067) | 2026-10-12 |
 | <img src="https://github.com/smallrye.png?size=24" width="24" height="24" alt="smallrye avatar"> [smallrye/smallrye-open-api](https://github.com/smallrye/smallrye-open-api) | [#2686 - Fix OAuth redirect URL resolution](https://github.com/smallrye/smallrye-open-api/pull/2686) | 2026-10-12 |
