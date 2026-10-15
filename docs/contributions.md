@@ -6,6 +6,9 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2137 - Fix: resolve SonarCloud issues in new code period (#2136)](https://github.com/embabel/embabel-agent/pull/2137) | 2026-10-15 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2135 - Support inbound user assets and materializable asset factories (#1875)](https://github.com/embabel/embabel-agent/pull/2135) | 2026-10-15 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2108 - Ensure Java UnfoldingTool instances use Java reflection](https://github.com/embabel/embabel-agent/pull/2108) | 2026-10-15 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#543 - fix: handle large chat prompts](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/543) | 2026-10-14 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#528 - fix: preserve user queries during long responses](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/528) | 2026-10-14 |
 | <img src="https://github.com/reactor.png?size=24" width="24" height="24" alt="reactor avatar"> [reactor/reactor-core](https://github.com/reactor/reactor-core) | [#4324 - Fix onErrorContinue consumer nullability](https://github.com/reactor/reactor-core/pull/4324) | 2026-10-14 |
