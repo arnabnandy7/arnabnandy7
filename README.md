@@ -44,14 +44,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 15/10/2026</p>
+<p align="center">Kolkata, India - 16/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze (ধোঁয়াটে আবহাওয়া)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
+  Sunny (রোদেলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 09:57 AM, Set: 08:38 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:11 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 27.8 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:52 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 67% | 🌡️ <strong>Feels Like:</strong> 28.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 53.2 <strong>PM10:</strong> 53.6</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 54.0 <strong>PM10:</strong> 54.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-16 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.5 | 28.1 | 67 | 6.8 | 7 |
-| 2026-10-16 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.3 | 29.7 | 59 | 8.3 | 3 |
-| 2026-10-16 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.9 | 31.5 | 54 | 9.4 | 2 |
-| 2026-10-16 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 33.0 | 50 | 10.8 | 2 |
-| 2026-10-16 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 34.2 | 46 | 11.2 | 1 |
 | 2026-10-16 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 34.8 | 44 | 10.4 | 1 |
 | 2026-10-16 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 35.3 | 42 | 10.4 | 2 |
 | 2026-10-16 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 33.8 | 35.4 | 41 | 10.4 | 4 |
 | 2026-10-16 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.3 | 34.8 | 42 | 10.4 | 6 |
 | 2026-10-16 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 32.6 | 34.3 | 46 | 9.4 | 7 |
+| 2026-10-16 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 31.5 | 33.5 | 50 | 8.6 | 10 |
+| 2026-10-16 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.8 | 32.4 | 51 | 9.7 | 11 |
+| 2026-10-16 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.3 | 31.8 | 52 | 10.1 | 11 |
+| 2026-10-16 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.0 | 31.4 | 53 | 8.3 | 10 |
+| 2026-10-16 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/119.png) Cloudy | 29.5 | 31.0 | 54 | 6.1 | 8 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.53 | 📈 H: ₹100.53 | 📉 L: ₹99.23 <br>💵 USDT: ₹100.0 | 📈 H: ₹100.95 | 📉 L: ₹99.7 <br>♦ ETH: ₹242049.8 | 📈 H: ₹246000.0 | 📉 L: ₹234612.1 <br>₿ BTC: ₹8151242.0 | 📈 H: ₹8300000.0 | 📉 L: ₹8036622.0 <br>⚡ BNB: ₹72240.2 | 📈 H: ₹73220.5 | 📉 L: ₹70897.94 <br></p>
+<p align="center">🪙 USDC: ₹100.53 | 📈 H: ₹100.53 | 📉 L: ₹99.23 <br>💵 USDT: ₹99.76 | 📈 H: ₹100.85 | 📉 L: ₹99.7 <br>♦ ETH: ₹241078.9 | 📈 H: ₹247960.4 | 📉 L: ₹234612.1 <br>₿ BTC: ₹8280591.0 | 📈 H: ₹8300000.0 | 📉 L: ₹8036622.0 <br>⚡ BNB: ₹72142.89 | 📈 H: ₹73584.54 | 📉 L: ₹70897.94 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The mothership is coming to pick me up any minute now. 🛑❌ 
+  I checked my crystal ball, and it said 'nah'. 🛑❌ 
 </p>
 
 </details>
