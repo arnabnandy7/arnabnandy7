@@ -6,7 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
-| <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/client_java](https://github.com/prometheus/client_java) | [#2529 - feat: preserve metric suffixes in OpenMetrics 2.0](https://github.com/prometheus/client_java/pull/2529) | 2026-10-15 |
+| <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17674 - Apply certificate list size floor](https://github.com/netty/netty/pull/17674) | 2026-10-16 |
+| <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/client_java](https://github.com/prometheus/client_java) | [#2529 - feat: add option to preserve metric suffixes in OpenMetrics 2.0](https://github.com/prometheus/client_java/pull/2529) | 2026-10-15 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17750 - Lazily instantiate VarHandle JCTools queues via holder class](https://github.com/netty/netty/pull/17750) | 2026-10-15 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2107 - Fix: honor top-level JsonPropertyDescription and Jakarta validation constraints](https://github.com/embabel/embabel-agent/pull/2107) | 2026-10-15 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2137 - Fix: resolve SonarCloud issues in new code period (#2136)](https://github.com/embabel/embabel-agent/pull/2137) | 2026-10-15 |
