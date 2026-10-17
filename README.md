@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 17/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (আচ্ছাদিত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:41 AM, Set: 10:29 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 7.2 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 27.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:41 AM, Set: 10:29 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 42% | 🌡️ <strong>Feels Like:</strong> 35.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 90.6 <strong>PM10:</strong> 90.8</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 41.4 <strong>PM10:</strong> 42.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-17 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.0 | 35.4 | 40 | 10.4 | 8 |
-| 2026-10-17 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 34.3 | 35.3 | 39 | 9.7 | 7 |
-| 2026-10-17 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.1 | 35.2 | 39 | 8.6 | 3 |
-| 2026-10-17 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.5 | 34.9 | 41 | 8.3 | 5 |
-| 2026-10-17 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 32.0 | 33.7 | 47 | 6.8 | 9 |
 | 2026-10-17 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 31.0 | 32.4 | 49 | 6.5 | 8 |
 | 2026-10-17 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.5 | 31.9 | 51 | 5.8 | 9 |
 | 2026-10-17 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.0 | 31.5 | 52 | 3.2 | 3 |
 | 2026-10-17 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.1 | 30.6 | 56 | 2.5 | 4 |
 | 2026-10-17 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.4 | 30.0 | 60 | 6.5 | 11 |
+| 2026-10-17 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.9 | 29.8 | 64 | 6.1 | 15 |
+| 2026-10-17 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.5 | 29.4 | 66 | 2.9 | 16 |
+| 2026-10-18 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.2 | 29.0 | 68 | 2.2 | 6 |
+| 2026-10-18 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.9 | 28.6 | 68 | 3.2 | 12 |
+| 2026-10-18 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.7 | 28.4 | 68 | 4.0 | 17 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.18 | 📈 H: ₹99.51 | 📉 L: ₹99.18 <br>💵 USDT: ₹99.93 | 📈 H: ₹100.4 | 📉 L: ₹99.23 <br>♦ ETH: ₹243218.5 | 📈 H: ₹247978.9 | 📉 L: ₹237836.5 <br>₿ BTC: ₹8089918.0 | 📈 H: ₹8279998.0 | 📉 L: ₹8040735.0 <br>⚡ BNB: ₹71605.96 | 📈 H: ₹73584.68 | 📉 L: ₹71355.63 <br></p>
+<p align="center">🪙 USDC: ₹99.66 | 📈 H: ₹100.0 | 📉 L: ₹99.18 <br>💵 USDT: ₹100.93 | 📈 H: ₹100.96 | 📉 L: ₹99.23 <br>♦ ETH: ₹243000.0 | 📈 H: ₹247207.4 | 📉 L: ₹237836.5 <br>₿ BTC: ₹8229553.0 | 📈 H: ₹8279896.0 | 📉 L: ₹8040735.0 <br>⚡ BNB: ₹71750.22 | 📈 H: ₹73584.68 | 📉 L: ₹71355.63 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I prefer to juggle chainsaws blindfolded—seems safer than saying yes. 🛑❌ 
+  If I join, I'd just bring down the average. 🛑❌ 
 </p>
 
 </details>
