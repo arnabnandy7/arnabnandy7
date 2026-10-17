@@ -44,9 +44,9 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 16/10/2026</p>
+<p align="center">Kolkata, India - 17/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:52 AM, Set: 09:33 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:10 PM  <br>💨 <strong>Wind:</strong> 6.8 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 28.1 °C</p>
@@ -61,8 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-17 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.0 | 27.9 | 68 | 5.0 | 17 |
-| 2026-10-17 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.7 | 27.6 | 68 | 6.1 | 14 |
 | 2026-10-17 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.4 | 27.9 | 66 | 7.2 | 13 |
 | 2026-10-17 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.2 | 29.6 | 59 | 7.6 | 5 |
 | 2026-10-17 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.1 | 31.6 | 52 | 9.7 | 2 |
@@ -71,11 +69,13 @@
 | 2026-10-17 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.5 | 35.0 | 42 | 10.4 | 8 |
 | 2026-10-17 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 34.0 | 35.4 | 40 | 10.4 | 8 |
 | 2026-10-17 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 34.3 | 35.3 | 39 | 9.7 | 7 |
+| 2026-10-17 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 34.1 | 35.2 | 39 | 8.6 | 3 |
+| 2026-10-17 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 33.5 | 34.9 | 41 | 8.3 | 5 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.5 | 📈 H: ₹100.53 | 📉 L: ₹99.21 <br>💵 USDT: ₹100.39 | 📈 H: ₹100.45 | 📉 L: ₹99.23 <br>♦ ETH: ₹239912.7 | 📈 H: ₹247978.9 | 📉 L: ₹237836.5 <br>₿ BTC: ₹8094955.0 | 📈 H: ₹8299967.0 | 📉 L: ₹8040735.0 <br>⚡ BNB: ₹71479.31 | 📈 H: ₹73584.68 | 📉 L: ₹71383.07 <br></p>
+<p align="center">🪙 USDC: ₹99.5 | 📈 H: ₹100.53 | 📉 L: ₹99.21 <br>💵 USDT: ₹99.71 | 📈 H: ₹100.4 | 📉 L: ₹99.23 <br>♦ ETH: ₹241000.0 | 📈 H: ₹247978.9 | 📉 L: ₹237836.5 <br>₿ BTC: ₹8082850.0 | 📈 H: ₹8299959.0 | 📉 L: ₹8040735.0 <br>⚡ BNB: ₹71479.31 | 📈 H: ₹73584.68 | 📉 L: ₹71383.07 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't; my pet rock is having an emotional crisis. 🛑❌ 
+  I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do. 🛑❌ 
 </p>
 
 </details>
