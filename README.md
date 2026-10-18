@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:41 AM, Set: 10:29 PM)  <br>🌅 <strong>Sunrise:</strong> 05:33 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 63% | 🌡️ <strong>Feels Like:</strong> 29.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:25 PM, Set: 11:23 PM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 11.9 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 28.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 89.4 <strong>PM10:</strong> 90.6</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 106.2 <strong>PM10:</strong> 107.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-18 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.8 | 28.2 | 66 | 11.9 | 7 |
-| 2026-10-18 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.3 | 30.2 | 62 | 13.0 | 11 |
-| 2026-10-18 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.8 | 32.0 | 57 | 13.3 | 3 |
-| 2026-10-18 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.2 | 33.4 | 52 | 13.0 | 2 |
-| 2026-10-18 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.3 | 34.5 | 48 | 11.9 | 7 |
 | 2026-10-18 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.1 | 35.0 | 45 | 10.8 | 9 |
 | 2026-10-18 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.8 | 35.5 | 42 | 11.2 | 10 |
 | 2026-10-18 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.8 | 34.4 | 40 | 11.9 | 10 |
 | 2026-10-18 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.6 | 33.8 | 40 | 13.7 | 3 |
 | 2026-10-18 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.0 | 34.3 | 42 | 14.0 | 2 |
+| 2026-10-18 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.5 | 33.1 | 48 | 14.4 | 2 |
+| 2026-10-18 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 30.0 | 31.4 | 52 | 14.4 | 2 |
+| 2026-10-18 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.9 | 30.3 | 56 | 14.4 | 3 |
+| 2026-10-18 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.3 | 29.7 | 58 | 13.0 | 3 |
+| 2026-10-18 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.9 | 29.1 | 58 | 11.2 | 3 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.65 | 📈 H: ₹100.0 | 📉 L: ₹99.18 <br>💵 USDT: ₹100.5 | 📈 H: ₹101.49 | 📉 L: ₹99.41 <br>♦ ETH: ₹244378.7 | 📈 H: ₹244379.1 | 📉 L: ₹239750.3 <br>₿ BTC: ₹8122965.0 | 📈 H: ₹8229554.0 | 📉 L: ₹8061151.0 <br>⚡ BNB: ₹71584.89 | 📈 H: ₹73113.29 | 📉 L: ₹71300.0 <br></p>
+<p align="center">🪙 USDC: ₹99.8 | 📈 H: ₹100.52 | 📉 L: ₹99.18 <br>💵 USDT: ₹100.43 | 📈 H: ₹101.49 | 📉 L: ₹99.61 <br>♦ ETH: ₹241708.0 | 📈 H: ₹244379.1 | 📉 L: ₹239681.0 <br>₿ BTC: ₹8164784.0 | 📈 H: ₹8229554.0 | 📉 L: ₹8076183.0 <br>⚡ BNB: ₹71584.89 | 📈 H: ₹73113.29 | 📉 L: ₹71300.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My greatness is just too much for that event to handle. 🛑❌ 
+  I could maybe be convinced, but I'd likely still say no in the end. 🛑❌ 
 </p>
 
 </details>
