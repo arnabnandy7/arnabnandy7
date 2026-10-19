@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:03 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 25.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:03 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 13.3 kph | 💧 <strong>Humidity:</strong> 47% | 🌡️ <strong>Feels Like:</strong> 33.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 84.3 <strong>PM10:</strong> 89.4</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 59.3 <strong>PM10:</strong> 68.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-19 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.1 | 28.3 | 60 | 9.4 | 4 |
-| 2026-10-19 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 30.3 | 55 | 10.4 | 3 |
-| 2026-10-19 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.4 | 31.8 | 51 | 11.9 | 2 |
-| 2026-10-19 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.7 | 33.2 | 47 | 13.3 | 2 |
-| 2026-10-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.4 | 33.9 | 45 | 15.8 | 1 |
 | 2026-10-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.8 | 34.2 | 43 | 16.2 | 1 |
 | 2026-10-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.0 | 34.3 | 42 | 16.6 | 1 |
 | 2026-10-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.6 | 34.0 | 44 | 18.7 | 1 |
 | 2026-10-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.8 | 33.3 | 47 | 18.4 | 2 |
 | 2026-10-19 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.3 | 31.9 | 52 | 15.1 | 2 |
+| 2026-10-19 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.0 | 30.2 | 54 | 11.5 | 2 |
+| 2026-10-19 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.7 | 29.8 | 54 | 8.6 | 2 |
+| 2026-10-19 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.3 | 29.3 | 55 | 7.9 | 4 |
+| 2026-10-19 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.8 | 28.8 | 56 | 8.3 | 11 |
+| 2026-10-19 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.3 | 28.2 | 57 | 8.3 | 6 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.35 | 📈 H: ₹100.98 | 📉 L: ₹99.8 <br>💵 USDT: ₹101.8 | 📈 H: ₹101.99 | 📉 L: ₹100.4 <br>♦ ETH: ₹236966.0 | 📈 H: ₹244378.7 | 📉 L: ₹236966.0 <br>₿ BTC: ₹8300000.0 | 📈 H: ₹8300000.0 | 📉 L: ₹8120492.0 <br>⚡ BNB: ₹72795.37 | 📈 H: ₹72795.37 | 📉 L: ₹70778.75 <br></p>
+<p align="center">🪙 USDC: ₹99.89 | 📈 H: ₹100.98 | 📉 L: ₹99.8 <br>💵 USDT: ₹101.3 | 📈 H: ₹101.99 | 📉 L: ₹100.5 <br>♦ ETH: ₹244379.1 | 📈 H: ₹244379.1 | 📉 L: ₹236966.0 <br>₿ BTC: ₹8280120.0 | 📈 H: ₹8327724.0 | 📉 L: ₹8120492.0 <br>⚡ BNB: ₹72758.2 | 📈 H: ₹72833.26 | 📉 L: ₹70778.75 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The tiny responsible voice in my head and the loud lazy one both agree: no. 🛑❌ 
+  That idea doesn't pass the vibe check for me. 🛑❌ 
 </p>
 
 </details>
