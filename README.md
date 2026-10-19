@@ -44,14 +44,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 18/10/2026</p>
+<p align="center">Kolkata, India - 19/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> First Quarter (Rise: 12:25 PM, Set: 11:23 PM)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:09 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 62% | 🌡️ <strong>Feels Like:</strong> 25.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:03 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:34 AM | <strong>Sunset:</strong> 05:08 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 66% | 🌡️ <strong>Feels Like:</strong> 25.4 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 91.3 <strong>PM10:</strong> 96.6</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 84.3 <strong>PM10:</strong> 89.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,8 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.4 | 25.4 | 66 | 9.0 | 11 |
-| 2026-10-19 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.1 | 26.6 | 67 | 7.9 | 5 |
 | 2026-10-19 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.1 | 28.3 | 60 | 9.4 | 4 |
 | 2026-10-19 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 30.3 | 55 | 10.4 | 3 |
 | 2026-10-19 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.4 | 31.8 | 51 | 11.9 | 2 |
@@ -70,12 +68,14 @@
 | 2026-10-19 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.4 | 33.9 | 45 | 15.8 | 1 |
 | 2026-10-19 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.8 | 34.2 | 43 | 16.2 | 1 |
 | 2026-10-19 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.0 | 34.3 | 42 | 16.6 | 1 |
-| 2026-10-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.7 | 34.0 | 44 | 18.7 | 1 |
+| 2026-10-19 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.6 | 34.0 | 44 | 18.7 | 1 |
+| 2026-10-19 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.8 | 33.3 | 47 | 18.4 | 2 |
+| 2026-10-19 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.3 | 31.9 | 52 | 15.1 | 2 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.35 | 📈 H: ₹100.98 | 📉 L: ₹99.8 <br>💵 USDT: ₹101.93 | 📈 H: ₹101.99 | 📉 L: ₹100.4 <br>♦ ETH: ₹236966.0 | 📈 H: ₹244378.7 | 📉 L: ₹236966.0 <br>₿ BTC: ₹8235430.0 | 📈 H: ₹8260726.0 | 📉 L: ₹8120492.0 <br>⚡ BNB: ₹72236.59 | 📈 H: ₹72795.35 | 📉 L: ₹70778.75 <br></p>
+<p align="center">🪙 USDC: ₹100.35 | 📈 H: ₹100.98 | 📉 L: ₹99.8 <br>💵 USDT: ₹101.8 | 📈 H: ₹101.99 | 📉 L: ₹100.4 <br>♦ ETH: ₹236966.0 | 📈 H: ₹244378.7 | 📉 L: ₹236966.0 <br>₿ BTC: ₹8300000.0 | 📈 H: ₹8300000.0 | 📉 L: ₹8120492.0 <br>⚡ BNB: ₹72795.37 | 📈 H: ₹72795.37 | 📉 L: ₹70778.75 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
