@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 20/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
-  Clear (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:38 PM, Set: 12:16 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 51% | 🌡️ <strong>Feels Like:</strong> 27.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:38 PM, Set: 12:16 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:07 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 24.0 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 107.6 <strong>PM10:</strong> 112.7</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 135.5 <strong>PM10:</strong> 140.6</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-20 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 26.6 | 53 | 7.2 | 2 |
-| 2026-10-20 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.4 | 25.9 | 54 | 7.9 | 2 |
-| 2026-10-20 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.0 | 25.1 | 56 | 9.0 | 3 |
-| 2026-10-21 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.4 | 24.5 | 58 | 9.4 | 3 |
-| 2026-10-21 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.9 | 24.0 | 60 | 9.7 | 3 |
+| 2026-10-21 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.0 | 24.0 | 60 | 9.7 | 3 |
 | 2026-10-21 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.6 | 23.7 | 62 | 9.7 | 11 |
 | 2026-10-21 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.2 | 23.5 | 64 | 9.4 | 12 |
 | 2026-10-21 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 22.9 | 23.2 | 66 | 9.4 | 16 |
 | 2026-10-21 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 22.7 | 23.0 | 68 | 9.7 | 13 |
 | 2026-10-21 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 23.3 | 23.9 | 67 | 9.4 | 12 |
+| 2026-10-21 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 25.5 | 25.9 | 59 | 11.2 | 7 |
+| 2026-10-21 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 28.3 | 53 | 11.5 | 2 |
+| 2026-10-21 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.5 | 30.0 | 47 | 11.9 | 2 |
+| 2026-10-21 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.0 | 31.2 | 42 | 13.0 | 3 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.19 | 📈 H: ₹100.2 | 📉 L: ₹100.19 <br>💵 USDT: ₹100.59 | 📈 H: ₹101.81 | 📉 L: ₹99.63 <br>♦ ETH: ₹248071.7 | 📈 H: ₹248071.7 | 📉 L: ₹238301.3 <br>₿ BTC: ₹8287351.0 | 📈 H: ₹8389901.0 | 📉 L: ₹8140542.0 <br>⚡ BNB: ₹73595.79 | 📈 H: ₹73595.79 | 📉 L: ₹72728.44 <br></p>
+<p align="center">🪙 USDC: ₹100.19 | 📈 H: ₹100.19 | 📉 L: ₹99.95 <br>💵 USDT: ₹100.39 | 📈 H: ₹101.42 | 📉 L: ₹99.63 <br>♦ ETH: ₹243434.9 | 📈 H: ₹248629.8 | 📉 L: ₹238301.3 <br>₿ BTC: ₹8274906.0 | 📈 H: ₹8384905.0 | 📉 L: ₹8140542.0 <br>⚡ BNB: ₹73660.24 | 📈 H: ₹74419.86 | 📉 L: ₹72728.44 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I would bike there, but my bike just laughed at me. 🛑❌ 
+  I'm in the No Witness Protection Program (I say no and then hide). 🛑❌ 
 </p>
 
 </details>
