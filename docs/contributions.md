@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#530 - Port BYOK unsaved changes dialog back to MAUI/ui-common (#529)](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/530) | 2026-10-20 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17548 - Add consistent TLS certificate compression support](https://github.com/netty/netty/pull/17548) | 2026-10-20 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#549 - Fix echoed edit prompt overflowing the network editor dialog](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/549) | 2026-10-19 |
 | <img src="https://github.com/prometheus.png?size=24" width="24" height="24" alt="prometheus avatar"> [prometheus/client_java](https://github.com/prometheus/client_java) | [#2571 - docs: explain quoted Unicode metric names](https://github.com/prometheus/client_java/pull/2571) | 2026-10-19 |
