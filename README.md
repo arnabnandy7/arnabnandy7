@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 21/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
-  Overcast (আচ্ছাদিত)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 01:08 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 61% | 🌡️ <strong>Feels Like:</strong> 26.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 01:08 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 34% | 🌡️ <strong>Feels Like:</strong> 32.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 110.4 <strong>PM10:</strong> 113.6</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 42.8 <strong>PM10:</strong> 47.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-21 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 32.6 | 32.1 | 35 | 11.9 | 9 |
-| 2026-10-21 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.8 | 32.1 | 34 | 11.5 | 3 |
-| 2026-10-21 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.7 | 31.9 | 34 | 12.2 | 1 |
-| 2026-10-21 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.2 | 31.7 | 35 | 11.2 | 1 |
-| 2026-10-21 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.5 | 30.6 | 42 | 11.5 | 1 |
-| 2026-10-21 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.7 | 28.8 | 46 | 11.9 | 1 |
 | 2026-10-21 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.6 | 28.1 | 51 | 12.2 | 2 |
 | 2026-10-21 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.0 | 27.6 | 53 | 11.2 | 2 |
 | 2026-10-21 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.5 | 27.2 | 54 | 9.4 | 2 |
 | 2026-10-21 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.2 | 27.0 | 55 | 6.8 | 3 |
+| 2026-10-21 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.8 | 26.7 | 56 | 6.5 | 3 |
+| 2026-10-21 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.3 | 26.1 | 57 | 7.2 | 3 |
+| 2026-10-22 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.9 | 25.4 | 58 | 7.9 | 3 |
+| 2026-10-22 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.4 | 24.8 | 60 | 8.6 | 3 |
+| 2026-10-22 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.1 | 24.5 | 61 | 8.6 | 4 |
+| 2026-10-22 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.8 | 23.9 | 62 | 9.7 | 4 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.74 | 📈 H: ₹100.19 | 📉 L: ₹99.74 <br>💵 USDT: ₹100.46 | 📈 H: ₹101.25 | 📉 L: ₹99.63 <br>♦ ETH: ₹247864.9 | 📈 H: ₹248629.8 | 📉 L: ₹238301.3 <br>₿ BTC: ₹8276157.0 | 📈 H: ₹8383998.0 | 📉 L: ₹8153053.0 <br>⚡ BNB: ₹74419.86 | 📈 H: ₹74419.86 | 📉 L: ₹72728.44 <br></p>
+<p align="center">🪙 USDC: ₹100.19 | 📈 H: ₹100.19 | 📉 L: ₹99.64 <br>💵 USDT: ₹100.55 | 📈 H: ₹101.08 | 📉 L: ₹99.63 <br>♦ ETH: ₹246001.9 | 📈 H: ₹248629.8 | 📉 L: ₹238667.3 <br>₿ BTC: ₹8385069.0 | 📈 H: ₹8385069.0 | 📉 L: ₹8162842.0 <br>⚡ BNB: ₹74752.85 | 📈 H: ₹75000.0 | 📉 L: ₹73127.51 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The Queen of England ghost-told me to stay home (I only take royal commands). 🛑❌ 
+  I'm declining out of an abundance of apathy. 🛑❌ 
 </p>
 
 </details>
