@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#93 - Fix: manage Spring Shell 4 dependencies](https://github.com/embabel/embabel-build/pull/93) | 2026-10-21 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#530 - Port BYOK unsaved changes dialog back to MAUI/ui-common (#529)](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/530) | 2026-10-20 |
 | <img src="https://github.com/netty.png?size=24" width="24" height="24" alt="netty avatar"> [netty/netty](https://github.com/netty/netty) | [#17548 - Add consistent TLS certificate compression support](https://github.com/netty/netty/pull/17548) | 2026-10-20 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#549 - Fix echoed edit prompt overflowing the network editor dialog](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/549) | 2026-10-19 |
