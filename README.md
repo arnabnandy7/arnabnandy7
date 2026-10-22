@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:11 PM, Set: 01:08 AM)  <br>🌅 <strong>Sunrise:</strong> 05:35 AM | <strong>Sunset:</strong> 05:06 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 24.1 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:41 PM, Set: 01:58 AM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 26.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 85.0 <strong>PM10:</strong> 87.8</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 87.8 <strong>PM10:</strong> 90.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-22 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 24.0 | 24.7 | 65 | 8.6 | 16 |
-| 2026-10-22 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.9 | 26.5 | 58 | 10.1 | 6 |
-| 2026-10-22 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.9 | 29.8 | 65 | 8.3 | 4 |
-| 2026-10-22 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.7 | 30.4 | 48 | 11.2 | 2 |
-| 2026-10-22 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.0 | 31.7 | 44 | 11.2 | 6 |
 | 2026-10-22 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.4 | 33.6 | 52 | 7.6 | 4 |
 | 2026-10-22 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.7 | 33.0 | 38 | 10.4 | 8 |
 | 2026-10-22 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.1 | 33.2 | 37 | 11.2 | 2 |
 | 2026-10-22 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.9 | 34.1 | 49 | 8.6 | 2 |
 | 2026-10-22 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.4 | 32.2 | 39 | 12.6 | 1 |
+| 2026-10-22 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.6 | 31.4 | 46 | 13.0 | 1 |
+| 2026-10-22 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.6 | 30.8 | 63 | 7.6 | 4 |
+| 2026-10-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.1 | 28.9 | 54 | 12.2 | 2 |
+| 2026-10-22 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.5 | 28.3 | 56 | 11.9 | 3 |
+| 2026-10-22 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.6 | 28.4 | 70 | 7.6 | 5 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.8 | 📈 H: ₹100.19 | 📉 L: ₹99.64 <br>💵 USDT: ₹100.9 | 📈 H: ₹101.34 | 📉 L: ₹100.0 <br>♦ ETH: ₹250000.0 | 📈 H: ₹252895.4 | 📉 L: ₹242857.5 <br>₿ BTC: ₹8499137.0 | 📈 H: ₹8500000.0 | 📉 L: ₹8275235.0 <br>⚡ BNB: ₹74496.36 | 📈 H: ₹76006.35 | 📉 L: ₹73987.61 <br></p>
+<p align="center">🪙 USDC: ₹99.8 | 📈 H: ₹100.19 | 📉 L: ₹99.64 <br>💵 USDT: ₹100.75 | 📈 H: ₹101.34 | 📉 L: ₹100.0 <br>♦ ETH: ₹245500.0 | 📈 H: ₹252895.4 | 📉 L: ₹242857.5 <br>₿ BTC: ₹8265051.0 | 📈 H: ₹8500000.0 | 📉 L: ₹8256805.0 <br>⚡ BNB: ₹74496.36 | 📈 H: ₹76006.35 | 📉 L: ₹73987.61 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm following the principle of least effort, which means I have to decline. 🛑❌ 
+  My goldfish is getting married that day, I have to attend. 🛑❌ 
 </p>
 
 </details>
