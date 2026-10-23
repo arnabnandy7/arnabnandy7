@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 23/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
-  Sunny (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:41 PM, Set: 01:58 AM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 64% | 🌡️ <strong>Feels Like:</strong> 23.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:12 PM, Set: 02:49 AM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:05 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 58% | 🌡️ <strong>Feels Like:</strong> 26.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.5 <strong>PM10:</strong> 81.0</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 84.1 <strong>PM10:</strong> 86.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-23 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 27.7 | 29.3 | 64 | 9.0 | 4 |
-| 2026-10-23 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.8 | 30.2 | 46 | 10.8 | 1 |
-| 2026-10-23 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.1 | 31.3 | 42 | 11.5 | 1 |
-| 2026-10-23 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.2 | 32.4 | 48 | 7.9 | 1 |
-| 2026-10-23 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.6 | 32.4 | 36 | 11.2 | 1 |
-| 2026-10-23 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 33.0 | 32.6 | 35 | 11.2 | 1 |
 | 2026-10-23 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.6 | 32.5 | 45 | 9.0 | 2 |
 | 2026-10-23 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 32.1 | 31.4 | 38 | 13.3 | 1 |
 | 2026-10-23 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.3 | 30.6 | 45 | 12.6 | 1 |
 | 2026-10-23 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.9 | 29.3 | 59 | 8.3 | 7 |
+| 2026-10-23 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.7 | 28.2 | 50 | 12.6 | 2 |
+| 2026-10-23 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.2 | 27.6 | 50 | 10.8 | 2 |
+| 2026-10-23 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.9 | 27.5 | 65 | 6.5 | 8 |
+| 2026-10-23 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.6 | 27.0 | 50 | 7.9 | 2 |
+| 2026-10-23 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.2 | 26.5 | 51 | 8.3 | 2 |
+| 2026-10-23 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.4 | 26.3 | 69 | 6.1 | 8 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.99 | 📈 H: ₹100.99 | 📉 L: ₹99.8 <br>💵 USDT: ₹101.2 | 📈 H: ₹101.59 | 📉 L: ₹100.0 <br>♦ ETH: ₹241904.4 | 📈 H: ₹247490.8 | 📉 L: ₹239991.1 <br>₿ BTC: ₹8160388.0 | 📈 H: ₹8414018.0 | 📉 L: ₹8145950.0 <br>⚡ BNB: ₹72813.58 | 📈 H: ₹74779.33 | 📉 L: ₹72813.58 <br></p>
+<p align="center">🪙 USDC: ₹99.38 | 📈 H: ₹100.99 | 📉 L: ₹99.38 <br>💵 USDT: ₹100.55 | 📈 H: ₹101.59 | 📉 L: ₹100.0 <br>♦ ETH: ₹239422.1 | 📈 H: ₹244949.3 | 📉 L: ₹239000.0 <br>₿ BTC: ₹8200000.0 | 📈 H: ₹8349998.0 | 📉 L: ₹8145950.0 <br>⚡ BNB: ₹73804.77 | 📈 H: ₹74035.0 | 📉 L: ₹72813.58 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I can't fit that into my budget of time and energy. 🛑❌ 
+  No, in the most heartfelt, humorous way possible. 🛑❌ 
 </p>
 
 </details>
