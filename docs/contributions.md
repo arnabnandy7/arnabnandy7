@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/scylladb.png?size=24" width="24" height="24" alt="scylladb avatar"> [scylladb/java-driver](https://github.com/scylladb/java-driver) | [#985 - Skip DSE versions during protocol negotiation](https://github.com/scylladb/java-driver/pull/985) | 2026-10-25 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1533 - Optimize ordered page index pruning](https://github.com/hardwood-hq/hardwood/pull/1533) | 2026-10-24 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent-examples](https://github.com/embabel/embabel-agent-examples) | [#145 - Fix: supply Shell 4 annotations across Java example profiles](https://github.com/embabel/embabel-agent-examples/pull/145) | 2026-10-24 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent-examples](https://github.com/embabel/embabel-agent-examples) | [#138 - fix: migrate Java examples to Spring Shell 4](https://github.com/embabel/embabel-agent-examples/pull/138) | 2026-10-24 |
