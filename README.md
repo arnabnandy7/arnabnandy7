@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:17 PM, Set: 04:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 11.5 kph | 💧 <strong>Humidity:</strong> 55% | 🌡️ <strong>Feels Like:</strong> 25.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:17 PM, Set: 04:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 60% | 🌡️ <strong>Feels Like:</strong> 23.1 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 76.4 <strong>PM10:</strong> 79.6</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 73.3 <strong>PM10:</strong> 76.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,9 +61,6 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-26 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.5 | 24.4 | 72 | 10.1 | 12 |
-| 2026-10-26 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.4 | 22.9 | 64 | 13.0 | 15 |
-| 2026-10-26 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.3 | 23.0 | 65 | 12.6 | 16 |
 | 2026-10-26 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 22.9 | 23.8 | 75 | 10.1 | 11 |
 | 2026-10-26 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 23.6 | 23.7 | 68 | 12.2 | 7 |
 | 2026-10-26 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.9 | 26.3 | 61 | 14.4 | 8 |
@@ -71,11 +68,14 @@
 | 2026-10-26 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.0 | 30.8 | 49 | 15.1 | 2 |
 | 2026-10-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.6 | 32.0 | 42 | 13.7 | 1 |
 | 2026-10-26 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 33.5 | 51 | 11.5 | 2 |
+| 2026-10-26 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.5 | 33.3 | 36 | 11.9 | 1 |
+| 2026-10-26 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.8 | 33.8 | 36 | 11.2 | 1 |
+| 2026-10-26 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.5 | 34.6 | 48 | 9.4 | 2 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.85 | 📈 H: ₹100.99 | 📉 L: ₹99.65 <br>💵 USDT: ₹100.66 | 📈 H: ₹101.17 | 📉 L: ₹100.46 <br>♦ ETH: ₹234446.8 | 📈 H: ₹238669.2 | 📉 L: ₹233000.0 <br>₿ BTC: ₹8047689.0 | 📈 H: ₹8160997.0 | 📉 L: ₹8027606.0 <br>⚡ BNB: ₹74076.34 | 📈 H: ₹74825.96 | 📉 L: ₹72732.9 <br></p>
+<p align="center">🪙 USDC: ₹99.85 | 📈 H: ₹100.99 | 📉 L: ₹99.65 <br>💵 USDT: ₹101.15 | 📈 H: ₹101.17 | 📉 L: ₹100.46 <br>♦ ETH: ₹234317.3 | 📈 H: ₹238669.2 | 📉 L: ₹233000.0 <br>₿ BTC: ₹8035965.0 | 📈 H: ₹8160997.0 | 📉 L: ₹8027606.0 <br>⚡ BNB: ₹74050.12 | 📈 H: ₹74825.96 | 📉 L: ₹73461.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My curiosity just left the room when I heard that idea. 🛑❌ 
+  If I end up liking it, then I'll have to do it again, so no. 🛑❌ 
 </p>
 
 </details>
