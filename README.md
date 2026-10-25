@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 25/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze (ধোঁয়াটে আবহাওয়া)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (আচ্ছাদিত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 03:44 PM, Set: 03:40 AM)  <br>🌅 <strong>Sunrise:</strong> 05:36 AM | <strong>Sunset:</strong> 05:04 PM  <br>💨 <strong>Wind:</strong> 11.2 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 22.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:17 PM, Set: 04:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 23.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 92.2 <strong>PM10:</strong> 95.9</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 94.8 <strong>PM10:</strong> 98.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-25 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 24.8 | 24.9 | 62 | 11.9 | 15 |
-| 2026-10-25 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.4 | 27.6 | 65 | 9.7 | 14 |
-| 2026-10-25 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.6 | 29.0 | 49 | 14.8 | 7 |
-| 2026-10-25 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 30.1 | 30.1 | 43 | 13.7 | 10 |
-| 2026-10-25 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.1 | 30.8 | 47 | 11.2 | 5 |
 | 2026-10-25 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 31.7 | 30.5 | 36 | 14.0 | 8 |
 | 2026-10-25 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 32.0 | 30.6 | 34 | 14.0 | 9 |
 | 2026-10-25 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 30.7 | 31.3 | 46 | 10.4 | 4 |
 | 2026-10-25 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.1 | 29.8 | 37 | 14.4 | 1 |
 | 2026-10-25 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.4 | 29.3 | 43 | 13.3 | 1 |
+| 2026-10-25 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.1 | 28.3 | 61 | 7.9 | 9 |
+| 2026-10-25 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.0 | 27.4 | 50 | 12.2 | 6 |
+| 2026-10-25 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.3 | 26.6 | 52 | 11.9 | 12 |
+| 2026-10-25 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.3 | 26.7 | 67 | 8.6 | 16 |
+| 2026-10-25 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 25.6 | 25.7 | 54 | 11.2 | 13 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.86 | 📈 H: ₹99.86 | 📉 L: ₹99.55 <br>💵 USDT: ₹101.06 | 📈 H: ₹101.17 | 📉 L: ₹100.11 <br>♦ ETH: ₹234620.9 | 📈 H: ₹240331.3 | 📉 L: ₹229000.1 <br>₿ BTC: ₹8100000.0 | 📈 H: ₹8221177.0 | 📉 L: ₹8000000.0 <br>⚡ BNB: ₹73700.0 | 📈 H: ₹73700.0 | 📉 L: ₹72732.9 <br></p>
+<p align="center">🪙 USDC: ₹99.86 | 📈 H: ₹99.86 | 📉 L: ₹99.55 <br>💵 USDT: ₹100.99 | 📈 H: ₹101.17 | 📉 L: ₹100.15 <br>♦ ETH: ₹238669.2 | 📈 H: ₹240331.3 | 📉 L: ₹229000.1 <br>₿ BTC: ₹8027606.0 | 📈 H: ₹8160999.0 | 📉 L: ₹8000000.0 <br>⚡ BNB: ₹74825.96 | 📈 H: ₹74825.96 | 📉 L: ₹72732.9 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I like to keep my expectations low by not doing anything. 🛑❌ 
+  It would be like expecting a sloth to win a 100m dash. 🛑❌ 
 </p>
 
 </details>
