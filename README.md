@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 26/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze (ধোঁয়াটে আবহাওয়া)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
+  Sunny (রোদেলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 04:17 PM, Set: 04:33 AM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:03 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 68% | 🌡️ <strong>Feels Like:</strong> 23.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Full Moon (Rise: 04:55 PM, Set: 05:29 AM)  <br>🌅 <strong>Sunrise:</strong> 05:37 AM | <strong>Sunset:</strong> 05:02 PM  <br>💨 <strong>Wind:</strong> 12.6 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 23.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 68.2 <strong>PM10:</strong> 71.0</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 71.2 <strong>PM10:</strong> 73.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-26 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.5 | 25.9 | 64 | 14.4 | 8 |
-| 2026-10-26 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.0 | 28.5 | 65 | 12.2 | 4 |
-| 2026-10-26 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.6 | 30.7 | 52 | 15.5 | 2 |
-| 2026-10-26 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.3 | 32.2 | 45 | 14.0 | 1 |
-| 2026-10-26 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 33.5 | 50 | 10.8 | 2 |
 | 2026-10-26 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 33.4 | 38 | 11.9 | 1 |
 | 2026-10-26 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.7 | 33.8 | 37 | 11.9 | 1 |
 | 2026-10-26 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 32.4 | 34.7 | 48 | 10.1 | 2 |
 | 2026-10-26 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.1 | 33.1 | 39 | 13.0 | 1 |
 | 2026-10-26 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 32.4 | 45 | 12.2 | 1 |
+| 2026-10-26 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 29.4 | 31.7 | 60 | 8.3 | 4 |
+| 2026-10-26 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.0 | 29.7 | 50 | 11.5 | 2 |
+| 2026-10-26 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.3 | 29.0 | 52 | 11.5 | 2 |
+| 2026-10-26 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.6 | 29.4 | 65 | 7.9 | 5 |
+| 2026-10-26 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.3 | 28.0 | 53 | 11.9 | 2 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.85 | 📈 H: ₹100.99 | 📉 L: ₹99.65 <br>💵 USDT: ₹101.13 | 📈 H: ₹101.17 | 📉 L: ₹100.46 <br>♦ ETH: ₹231666.4 | 📈 H: ₹238669.2 | 📉 L: ₹231666.4 <br>₿ BTC: ₹8160097.0 | 📈 H: ₹8160997.0 | 📉 L: ₹8027606.0 <br>⚡ BNB: ₹73818.05 | 📈 H: ₹74825.96 | 📉 L: ₹73461.57 <br></p>
+<p align="center">🪙 USDC: ₹99.85 | 📈 H: ₹100.99 | 📉 L: ₹99.65 <br>💵 USDT: ₹101.11 | 📈 H: ₹101.17 | 📉 L: ₹100.48 <br>♦ ETH: ₹231762.0 | 📈 H: ₹238669.2 | 📉 L: ₹230000.0 <br>₿ BTC: ₹8016626.0 | 📈 H: ₹8160996.0 | 📉 L: ₹8000000.0 <br>⚡ BNB: ₹75000.0 | 📈 H: ₹75000.0 | 📉 L: ₹73461.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My oven and I have plans to bake and eat an entire cake. 🛑❌ 
+  I'll be busy exploring the great indoors. 🛑❌ 
 </p>
 
 </details>
