@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#566 - fix: restore Anthropic icon in settings](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/566) | 2026-10-26 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2687 - fix: suppress command typo warnings for resolved aliases](https://github.com/jbangdev/jbang/pull/2687) | 2026-10-25 |
 | <img src="https://github.com/scylladb.png?size=24" width="24" height="24" alt="scylladb avatar"> [scylladb/java-driver](https://github.com/scylladb/java-driver) | [#985 - Skip DSE versions during protocol negotiation](https://github.com/scylladb/java-driver/pull/985) | 2026-10-25 |
 | <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1533 - Optimize ordered page index pruning](https://github.com/hardwood-hq/hardwood/pull/1533) | 2026-10-24 |
