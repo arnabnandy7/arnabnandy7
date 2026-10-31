@@ -49,9 +49,9 @@
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
   Clear (পরিষ্কার)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:27 PM, Set: 10:34 AM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 29.6 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:27 PM, Set: 10:34 AM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 79% | 🌡️ <strong>Feels Like:</strong> 27.7 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.1 <strong>PM10:</strong> 38.4</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 40.9 <strong>PM10:</strong> 43.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-01 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.9 | 28.5 | 88 | 7.9 | 12 |
-| 2026-11-01 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 24.4 | 29.3 | 94 | 2.9 | 18 |
-| 2026-11-01 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.5 | 28.0 | 87 | 6.5 | 12 |
-| 2026-11-01 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.3 | 27.8 | 87 | 6.5 | 12 |
-| 2026-11-01 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 24.0 | 28.8 | 94 | 2.5 | 24 |
-| 2026-11-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.0 | 28.9 | 84 | 4.7 | 15 |
-| 2026-11-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 26.7 | 29.1 | 77 | 5.4 | 19 |
-| 2026-11-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.5 | 30.8 | 79 | 3.6 | 25 |
-| 2026-11-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 33.3 | 63 | 1.8 | 4 |
-| 2026-11-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 34.7 | 57 | 0.4 | 10 |
+| 2026-11-01 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.5 | 27.7 | 82 | 6.1 | 10 |
+| 2026-11-01 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.3 | 29.1 | 92 | 2.9 | 16 |
+| 2026-11-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.1 | 28.7 | 80 | 4.0 | 9 |
+| 2026-11-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.7 | 28.8 | 72 | 4.3 | 6 |
+| 2026-11-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.8 | 31.1 | 77 | 4.0 | 20 |
+| 2026-11-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.2 | 32.8 | 58 | 1.1 | 3 |
+| 2026-11-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.5 | 34.2 | 54 | 1.1 | 2 |
+| 2026-11-01 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.8 | 35.1 | 63 | 2.5 | 18 |
+| 2026-11-01 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.0 | 35.3 | 46 | 5.4 | 2 |
+| 2026-11-01 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 33.3 | 35.4 | 44 | 7.2 | 1 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.32 | 📈 H: ₹101.01 | 📉 L: ₹100.32 <br>💵 USDT: ₹101.31 | 📈 H: ₹101.98 | 📉 L: ₹101.05 <br>♦ ETH: ₹225263.3 | 📈 H: ₹227000.0 | 📉 L: ₹224106.0 <br>₿ BTC: ₹7786981.0 | 📈 H: ₹7862400.0 | 📉 L: ₹7720009.0 <br>⚡ BNB: ₹72050.37 | 📈 H: ₹72050.37 | 📉 L: ₹69813.57 <br></p>
+<p align="center">🪙 USDC: ₹102.03 | 📈 H: ₹102.05 | 📉 L: ₹100.31 <br>💵 USDT: ₹101.62 | 📈 H: ₹101.98 | 📉 L: ₹101.05 <br>♦ ETH: ₹227000.0 | 📈 H: ₹227000.0 | 📉 L: ₹224186.8 <br>₿ BTC: ₹7771527.0 | 📈 H: ₹7862369.0 | 📉 L: ₹7720009.0 <br>⚡ BNB: ₹70346.3 | 📈 H: ₹72050.37 | 📉 L: ₹69813.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  This is a great idea—for someone else to take on. 🛑❌ 
+  Saying yes is on my list of things to quit. 🛑❌ 
 </p>
 
 </details>
