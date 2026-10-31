@@ -47,11 +47,11 @@
 <p align="center">Kolkata, India - 31/10/2026</p>
 <p align="center">
   <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
-  Clear (রোদেলা)
+  Clear (পরিষ্কার)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:27 PM, Set: 10:34 AM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 52% | 🌡️ <strong>Feels Like:</strong> 35.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:27 PM, Set: 10:34 AM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 29.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.7 <strong>PM10:</strong> 15.1</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.1 <strong>PM10:</strong> 38.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-31 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.7 | 29.5 | 91 | 4.7 | 14 |
-| 2026-10-31 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 28.7 | 83 | 9.0 | 10 |
-| 2026-10-31 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.6 | 28.4 | 85 | 9.0 | 11 |
-| 2026-10-31 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.9 | 30.0 | 93 | 3.6 | 16 |
-| 2026-11-01 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.2 | 28.5 | 87 | 8.3 | 12 |
 | 2026-11-01 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.9 | 28.5 | 88 | 7.9 | 12 |
 | 2026-11-01 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 24.4 | 29.3 | 94 | 2.9 | 18 |
 | 2026-11-01 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.5 | 28.0 | 87 | 6.5 | 12 |
 | 2026-11-01 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 24.3 | 27.8 | 87 | 6.5 | 12 |
 | 2026-11-01 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 24.0 | 28.8 | 94 | 2.5 | 24 |
+| 2026-11-01 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.0 | 28.9 | 84 | 4.7 | 15 |
+| 2026-11-01 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 26.7 | 29.1 | 77 | 5.4 | 19 |
+| 2026-11-01 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.5 | 30.8 | 79 | 3.6 | 25 |
+| 2026-11-01 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 30.0 | 33.3 | 63 | 1.8 | 4 |
+| 2026-11-01 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.3 | 34.7 | 57 | 0.4 | 10 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.42 | 📈 H: ₹101.01 | 📉 L: ₹100.3 <br>💵 USDT: ₹101.32 | 📈 H: ₹101.98 | 📉 L: ₹101.05 <br>♦ ETH: ₹227000.0 | 📈 H: ₹228571.4 | 📉 L: ₹224106.0 <br>₿ BTC: ₹7862369.0 | 📈 H: ₹7939318.0 | 📉 L: ₹7720009.0 <br>⚡ BNB: ₹70493.9 | 📈 H: ₹70545.05 | 📉 L: ₹69813.57 <br></p>
+<p align="center">🪙 USDC: ₹100.32 | 📈 H: ₹101.01 | 📉 L: ₹100.32 <br>💵 USDT: ₹101.31 | 📈 H: ₹101.98 | 📉 L: ₹101.05 <br>♦ ETH: ₹225263.3 | 📈 H: ₹227000.0 | 📉 L: ₹224106.0 <br>₿ BTC: ₹7786981.0 | 📈 H: ₹7862400.0 | 📉 L: ₹7720009.0 <br>⚡ BNB: ₹72050.37 | 📈 H: ₹72050.37 | 📉 L: ₹69813.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The government has me in a witness protection program against events like this. 🛑❌ 
+  This is a great idea—for someone else to take on. 🛑❌ 
 </p>
 
 </details>
