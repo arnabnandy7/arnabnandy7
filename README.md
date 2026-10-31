@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 31/10/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="Sunny weather icon"/><br/>
-  Sunny (পরিষ্কার)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="Partly Cloudy weather icon"/><br/>
+  Partly Cloudy (আংশিক মেঘলা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 08:22 PM, Set: 09:35 AM)  <br>🌅 <strong>Sunrise:</strong> 05:39 AM | <strong>Sunset:</strong> 05:00 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 94% | 🌡️ <strong>Feels Like:</strong> 29.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 09:27 PM, Set: 10:34 AM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 85% | 🌡️ <strong>Feels Like:</strong> 29.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 23.0 <strong>PM10:</strong> 24.0</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 28.9 <strong>PM10:</strong> 30.0</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-10-31 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 26.6 | 29.2 | 78 | 3.6 | 8 |
-| 2026-10-31 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.5 | 31.0 | 81 | 4.0 | 25 |
-| 2026-10-31 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 29.8 | 33.0 | 62 | 1.8 | 4 |
-| 2026-10-31 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/113.png) Sunny | 31.2 | 34.3 | 56 | 2.9 | 3 |
-| 2026-10-31 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/386.png) Patchy light rain in area with thunder | 30.3 | 35.1 | 67 | 3.2 | 23 |
-| 2026-10-31 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 32.5 | 35.4 | 50 | 8.3 | 8 |
 | 2026-10-31 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 32.9 | 35.9 | 49 | 9.7 | 4 |
 | 2026-10-31 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.8 | 34.5 | 70 | 5.0 | 47 |
 | 2026-10-31 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.4 | 34.3 | 55 | 9.4 | 10 |
 | 2026-10-31 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/119.png) Cloudy | 30.4 | 33.3 | 58 | 7.6 | 9 |
+| 2026-10-31 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 27.7 | 31.4 | 80 | 2.5 | 12 |
+| 2026-10-31 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 29.0 | 31.8 | 64 | 8.3 | 8 |
+| 2026-10-31 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 28.1 | 30.7 | 69 | 10.1 | 7 |
+| 2026-10-31 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.3 | 29.6 | 87 | 4.7 | 12 |
+| 2026-10-31 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.0 | 29.3 | 75 | 9.7 | 18 |
+| 2026-10-31 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 28.7 | 78 | 10.4 | 9 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹100.5 | 📈 H: ₹101.53 | 📉 L: ₹100.3 <br>💵 USDT: ₹101.32 | 📈 H: ₹104.8 | 📉 L: ₹100.75 <br>♦ ETH: ₹224598.7 | 📈 H: ₹229999.9 | 📉 L: ₹223996.7 <br>₿ BTC: ₹7800000.0 | 📈 H: ₹8023337.0 | 📉 L: ₹7720009.0 <br>⚡ BNB: ₹69813.57 | 📈 H: ₹72652.84 | 📉 L: ₹69813.57 <br></p>
+<p align="center">🪙 USDC: ₹100.5 | 📈 H: ₹101.01 | 📉 L: ₹100.3 <br>💵 USDT: ₹101.25 | 📈 H: ₹102.7 | 📉 L: ₹100.75 <br>♦ ETH: ₹226909.0 | 📈 H: ₹229999.9 | 📉 L: ₹223996.7 <br>₿ BTC: ₹7763132.0 | 📈 H: ₹8023225.0 | 📉 L: ₹7720009.0 <br>⚡ BNB: ₹70545.05 | 📈 H: ₹72652.84 | 📉 L: ₹69813.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm practicing social distancing... from everyone. 🛑❌ 
+  May the 'no' be with you. 🛑❌ 
 </p>
 
 </details>
