@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 01/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
-  Smoky haze (ধোঁয়াটে আবহাওয়া)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/113.png" alt="Clear weather icon"/><br/>
+  Clear (পরিষ্কার)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:33 PM, Set: 11:26 AM)  <br>🌅 <strong>Sunrise:</strong> 05:40 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 57% | 🌡️ <strong>Feels Like:</strong> 34.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 10:33 PM, Set: 11:26 AM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:59 PM  <br>💨 <strong>Wind:</strong> 9.4 kph | 💧 <strong>Humidity:</strong> 70% | 🌡️ <strong>Feels Like:</strong> 29.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 18.7 <strong>PM10:</strong> 19.7</p>
+<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 60.8 <strong>PM10:</strong> 63.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-01 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.1 | 29.1 | 71 | 10.8 | 8 |
-| 2026-11-01 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.0 | 29.0 | 84 | 6.8 | 11 |
-| 2026-11-02 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.5 | 28.5 | 73 | 9.4 | 8 |
-| 2026-11-02 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.4 | 28.4 | 74 | 9.4 | 8 |
-| 2026-11-02 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.3 | 28.9 | 87 | 6.5 | 16 |
-| 2026-11-02 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.9 | 28.4 | 78 | 7.2 | 8 |
-| 2026-11-02 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.8 | 28.3 | 78 | 7.2 | 11 |
-| 2026-11-02 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.8 | 29.1 | 90 | 5.0 | 25 |
-| 2026-11-02 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.3 | 28.6 | 77 | 7.6 | 14 |
-| 2026-11-02 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.0 | 30.6 | 69 | 7.9 | 17 |
+| 2026-11-02 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.9 | 28.3 | 77 | 6.8 | 9 |
+| 2026-11-02 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 25.8 | 28.3 | 78 | 6.5 | 13 |
+| 2026-11-02 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.8 | 29.2 | 89 | 4.7 | 21 |
+| 2026-11-02 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.0 | 28.3 | 77 | 7.6 | 9 |
+| 2026-11-02 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.7 | 30.0 | 69 | 7.9 | 12 |
+| 2026-11-02 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 31.5 | 75 | 5.4 | 17 |
+| 2026-11-02 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.8 | 33.6 | 57 | 9.0 | 14 |
+| 2026-11-02 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 31.8 | 34.5 | 52 | 9.0 | 17 |
+| 2026-11-02 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 30.8 | 34.9 | 62 | 3.2 | 22 |
+| 2026-11-02 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 31.7 | 34.1 | 51 | 6.1 | 30 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹101.86 | 📈 H: ₹102.05 | 📉 L: ₹99.94 <br>💵 USDT: ₹100.61 | 📈 H: ₹101.66 | 📉 L: ₹100.6 <br>♦ ETH: ₹226369.5 | 📈 H: ₹229973.0 | 📉 L: ₹225046.1 <br>₿ BTC: ₹7800002.0 | 📈 H: ₹7862347.0 | 📉 L: ₹7771501.0 <br>⚡ BNB: ₹72050.38 | 📈 H: ₹72050.38 | 📉 L: ₹70295.94 <br></p>
+<p align="center">🪙 USDC: ₹99.75 | 📈 H: ₹102.05 | 📉 L: ₹99.75 <br>💵 USDT: ₹101.39 | 📈 H: ₹101.63 | 📉 L: ₹100.6 <br>♦ ETH: ₹229114.0 | 📈 H: ₹229973.0 | 📉 L: ₹225476.5 <br>₿ BTC: ₹7800000.0 | 📈 H: ₹7862329.0 | 📉 L: ₹7771518.0 <br>⚡ BNB: ₹70687.04 | 📈 H: ₹72050.38 | 📉 L: ₹70295.94 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My alarm clock and I had a fight, and it won by not ringing. 🛑❌ 
+  I can't let people find out I actually have free time. 🛑❌ 
 </p>
 
 </details>
