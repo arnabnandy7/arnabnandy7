@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 02/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/353.png" alt="Light rain shower weather icon"/><br/>
-  Light rain shower (হালকা বৃষ্টির ঝাপটা)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/122.png" alt="Overcast weather icon"/><br/>
+  Overcast (আচ্ছাদিত)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:37 PM, Set: 12:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 76% | 🌡️ <strong>Feels Like:</strong> 27.9 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:37 PM, Set: 12:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 51% | 🌡️ <strong>Feels Like:</strong> 33.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy for sensitive group <strong>PM2.5:</strong> 62.2 <strong>PM10:</strong> 64.0</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 38.8 <strong>PM10:</strong> 39.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-02 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 29.7 | 33.9 | 68 | 4.7 | 52 |
-| 2026-11-02 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 30.8 | 33.7 | 57 | 6.5 | 13 |
-| 2026-11-02 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/122.png) Overcast | 29.9 | 32.9 | 61 | 7.9 | 14 |
-| 2026-11-02 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.1 | 30.2 | 82 | 6.5 | 26 |
-| 2026-11-02 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 31.1 | 68 | 11.5 | 18 |
-| 2026-11-02 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.1 | 30.7 | 68 | 10.8 | 21 |
-| 2026-11-02 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.4 | 29.4 | 84 | 5.4 | 26 |
-| 2026-11-02 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.6 | 29.9 | 70 | 7.6 | 20 |
-| 2026-11-02 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 27.4 | 29.6 | 71 | 5.8 | 17 |
-| 2026-11-02 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.9 | 29.4 | 86 | 3.2 | 23 |
+| 2026-11-03 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/122.png) Overcast | 26.6 | 28.7 | 73 | 6.1 | 19 |
+| 2026-11-03 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 26.5 | 28.6 | 74 | 7.2 | 20 |
+| 2026-11-03 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.4 | 29.2 | 86 | 4.3 | 34 |
+| 2026-11-03 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.7 | 27.7 | 85 | 9.0 | 77 |
+| 2026-11-03 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 24.5 | 28.0 | 87 | 6.8 | 42 |
+| 2026-11-03 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.4 | 28.7 | 92 | 4.7 | 33 |
+| 2026-11-03 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.2 | 28.6 | 84 | 6.5 | 25 |
+| 2026-11-03 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.9 | 29.2 | 76 | 6.1 | 28 |
+| 2026-11-03 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.5 | 30.6 | 77 | 5.4 | 16 |
+| 2026-11-03 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.0 | 32.7 | 60 | 6.8 | 12 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.34 | 📈 H: ₹101.88 | 📉 L: ₹99.34 <br>💵 USDT: ₹100.85 | 📈 H: ₹101.6 | 📉 L: ₹100.6 <br>♦ ETH: ₹228500.0 | 📈 H: ₹231992.4 | 📉 L: ₹225476.5 <br>₿ BTC: ₹7795321.0 | 📈 H: ₹7861525.0 | 📉 L: ₹7795321.0 <br>⚡ BNB: ₹70687.07 | 📈 H: ₹72050.38 | 📉 L: ₹70684.35 <br></p>
+<p align="center">🪙 USDC: ₹99.55 | 📈 H: ₹99.7 | 📉 L: ₹99.34 <br>💵 USDT: ₹100.6 | 📈 H: ₹101.39 | 📉 L: ₹100.5 <br>♦ ETH: ₹225097.1 | 📈 H: ₹231992.4 | 📉 L: ₹224845.1 <br>₿ BTC: ₹7716700.0 | 📈 H: ₹7861525.0 | 📉 L: ₹7716700.0 <br>⚡ BNB: ₹70000.0 | 📈 H: ₹71925.76 | 📉 L: ₹69787.74 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I decline now, to avoid declining later. 🛑❌ 
+  I made a deal with a demon to never say yes, and I hate to break a contract. 🛑❌ 
 </p>
 
 </details>
