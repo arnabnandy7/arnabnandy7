@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 03/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/263.png" alt="Patchy light drizzle weather icon"/><br/>
-  Patchy light drizzle (বিক্ষিপ্ত হালকা ঝিরঝিরে বৃষ্টি)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Last Quarter (Rise: 11:37 PM, Set: 12:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:41 AM | <strong>Sunset:</strong> 04:58 PM  <br>💨 <strong>Wind:</strong> 7.6 kph | 💧 <strong>Humidity:</strong> 83% | 🌡️ <strong>Feels Like:</strong> 28.5 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Crescent (Rise: Does not rise today, Set: 12:55 PM)  <br>🌅 <strong>Sunrise:</strong> 05:42 AM | <strong>Sunset:</strong> 04:57 PM  <br>💨 <strong>Wind:</strong> 8.6 kph | 💧 <strong>Humidity:</strong> 71% | 🌡️ <strong>Feels Like:</strong> 29.3 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 78.2 <strong>PM10:</strong> 78.5</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 91.5 <strong>PM10:</strong> 91.7</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-03 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/263.png) Patchy light drizzle | 27.1 | 29.9 | 80 | 6.8 | 50 |
-| 2026-11-03 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.0 | 32.6 | 59 | 7.9 | 11 |
-| 2026-11-03 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.1 | 33.6 | 54 | 7.6 | 4 |
-| 2026-11-03 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.2 | 34.4 | 65 | 4.7 | 7 |
-| 2026-11-03 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/266.png) Light drizzle | 32.8 | 35.4 | 48 | 5.0 | 36 |
-| 2026-11-03 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/353.png) Light rain shower | 32.0 | 34.3 | 50 | 0.4 | 22 |
-| 2026-11-03 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 30.8 | 34.9 | 62 | 1.4 | 8 |
-| 2026-11-03 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.7 | 34.1 | 52 | 2.9 | 10 |
-| 2026-11-03 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 31.0 | 33.6 | 55 | 5.0 | 9 |
-| 2026-11-03 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.8 | 32.8 | 73 | 4.3 | 13 |
+| 2026-11-03 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 30.6 | 33.0 | 55 | 9.7 | 13 |
+| 2026-11-03 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 28.4 | 32.3 | 75 | 4.3 | 17 |
+| 2026-11-03 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 29.2 | 31.1 | 58 | 10.4 | 4 |
+| 2026-11-03 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.6 | 30.6 | 61 | 9.7 | 14 |
+| 2026-11-03 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.9 | 29.8 | 81 | 5.0 | 14 |
+| 2026-11-03 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 28.0 | 30.0 | 65 | 7.9 | 13 |
+| 2026-11-03 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 27.6 | 29.5 | 66 | 7.6 | 8 |
+| 2026-11-03 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.2 | 29.2 | 84 | 4.7 | 13 |
+| 2026-11-04 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 27.2 | 29.0 | 67 | 6.1 | 6 |
+| 2026-11-04 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.9 | 28.6 | 68 | 7.2 | 6 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹99.77 | 📈 H: ₹99.78 | 📉 L: ₹99.34 <br>💵 USDT: ₹100.58 | 📈 H: ₹101.35 | 📉 L: ₹100.5 <br>♦ ETH: ₹228453.1 | 📈 H: ₹231992.4 | 📉 L: ₹224800.0 <br>₿ BTC: ₹7698065.0 | 📈 H: ₹7861525.0 | 📉 L: ₹7667478.0 <br>⚡ BNB: ₹69637.14 | 📈 H: ₹71925.76 | 📉 L: ₹69637.14 <br></p>
+<p align="center">🪙 USDC: ₹99.76 | 📈 H: ₹99.78 | 📉 L: ₹99.34 <br>💵 USDT: ₹100.6 | 📈 H: ₹101.24 | 📉 L: ₹100.5 <br>♦ ETH: ₹226476.7 | 📈 H: ₹231768.5 | 📉 L: ₹224022.6 <br>₿ BTC: ₹7675022.0 | 📈 H: ₹7855000.0 | 📉 L: ₹7667478.0 <br>⚡ BNB: ₹69637.13 | 📈 H: ₹71607.8 | 📉 L: ₹69637.13 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm in social stealth mode, so I must decline any invitations. 🛑❌ 
+  Zombies may attack if I leave the house, I saw it in a documentary (okay, it was a zombie movie). 🛑❌ 
 </p>
 
 </details>
