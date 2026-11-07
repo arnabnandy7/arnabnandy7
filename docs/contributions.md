@@ -6,6 +6,9 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#550 - fix: allow long-running network edits](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/550) | 2026-11-06 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/prepper](https://github.com/embabel/prepper) | [#2 - fix: migrate to Spring Shell 4](https://github.com/embabel/prepper/pull/2) | 2026-11-06 |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#574 - Warn on BYOK keys that fail validation when user saves](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/574) | 2026-11-06 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#58037 - Fix SmallRye Fault Tolerance documentation links](https://github.com/quarkusio/quarkus/pull/58037) | 2026-11-04 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#58072 - Fix Jakarta specification and Javadoc links](https://github.com/quarkusio/quarkus/pull/58072) | 2026-11-04 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#58077 - Remove nonexistent Stork custom registration quickstart link](https://github.com/quarkusio/quarkus/pull/58077) | 2026-11-04 |
