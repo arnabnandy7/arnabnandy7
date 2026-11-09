@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/hardwood-hq.png?size=24" width="24" height="24" alt="hardwood-hq avatar"> [hardwood-hq/hardwood](https://github.com/hardwood-hq/hardwood) | [#1713 - #1700 Respect SDK profile settings for CLI region lookup](https://github.com/hardwood-hq/hardwood/pull/1713) | 2026-11-09 |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#51151 - Fix concurrent Cosmos fallback charset decoding](https://github.com/Azure/azure-sdk-for-java/pull/51151) | 2026-11-09 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#58076 - Fix LGTM MCP integration documentation link](https://github.com/quarkusio/quarkus/pull/58076) | 2026-11-07 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#550 - fix: allow long-running network edits](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/550) | 2026-11-06 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/prepper](https://github.com/embabel/prepper) | [#2 - fix: migrate to Spring Shell 4](https://github.com/embabel/prepper/pull/2) | 2026-11-06 |
