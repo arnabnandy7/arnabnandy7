@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2152 - Fix UnfoldingTool discovery for CGLIB proxies](https://github.com/embabel/embabel-agent/pull/2152) | 2026-11-13 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50053 - Fix Kafka patch filter precondition handling](https://github.com/Azure/azure-sdk-for-java/pull/50053) | 2026-11-11 |
 | <img src="https://github.com/apache.png?size=24" width="24" height="24" alt="apache avatar"> [apache/kafka](https://github.com/apache/kafka) | [#22864 - KAFKA-20731: transitToUpdateStandby is called without checking ACTIVE_RESTORING](https://github.com/apache/kafka/pull/22864) | 2026-11-10 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#51156 - Fix async Data Lake file system create-if-not-exists result](https://github.com/Azure/azure-sdk-for-java/pull/51156) | 2026-11-10 |
