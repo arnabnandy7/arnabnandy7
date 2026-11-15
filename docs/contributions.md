@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2255 - Replace embabel-rag-pgvector with embabel-agent-rag-store](https://github.com/embabel/embabel-agent/pull/2255) | 2026-11-15 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2000 - Chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-agent/pull/2000) | 2026-11-15 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2152 - Fix UnfoldingTool discovery for CGLIB proxies](https://github.com/embabel/embabel-agent/pull/2152) | 2026-11-13 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#50053 - Fix Kafka patch filter precondition handling](https://github.com/Azure/azure-sdk-for-java/pull/50053) | 2026-11-11 |
