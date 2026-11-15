@@ -44,14 +44,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 14/11/2026</p>
+<p align="center">Kolkata, India - 15/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:18 AM, Set: 09:13 PM)  <br>🌅 <strong>Sunrise:</strong> 05:48 AM | <strong>Sunset:</strong> 04:53 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 76% | 🌡️ <strong>Feels Like:</strong> 23.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:59 AM, Set: 10:07 PM)  <br>🌅 <strong>Sunrise:</strong> 05:49 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 75% | 🌡️ <strong>Feels Like:</strong> 24.2 °C</p>
 
-<p align="center"><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 156.9 <strong>PM10:</strong> 167.6</p>
+<p align="center"><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 154.1 <strong>PM10:</strong> 164.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-15 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 21.0 | 23.0 | 78 | 1.8 | 8 |
-| 2026-11-15 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 20.8 | 22.8 | 78 | 1.8 | 8 |
-| 2026-11-15 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 22.0 | 24.2 | 75 | 1.8 | 7 |
-| 2026-11-15 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 23.7 | 25.9 | 68 | 2.2 | 5 |
 | 2026-11-15 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.4 | 27.3 | 62 | 2.5 | 4 |
 | 2026-11-15 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.7 | 27.7 | 57 | 3.6 | 3 |
 | 2026-11-15 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.9 | 28.5 | 52 | 4.7 | 2 |
 | 2026-11-15 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 29.4 | 48 | 6.1 | 2 |
 | 2026-11-15 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.4 | 29.6 | 46 | 6.5 | 2 |
 | 2026-11-15 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.6 | 29.8 | 45 | 6.5 | 2 |
+| 2026-11-15 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.6 | 29.8 | 44 | 6.8 | 2 |
+| 2026-11-15 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.8 | 29.2 | 49 | 6.1 | 3 |
+| 2026-11-15 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.3 | 28.1 | 56 | 5.0 | 5 |
+| 2026-11-15 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.0 | 27.4 | 60 | 4.3 | 7 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹102.69 | 📈 H: ₹102.7 | 📉 L: ₹100.46 <br>💵 USDT: ₹104.5 | 📈 H: ₹104.5 | 📉 L: ₹101.0 <br>♦ ETH: ₹184969.7 | 📈 H: ₹198504.3 | 📉 L: ₹184969.7 <br>₿ BTC: ₹6711858.0 | 📈 H: ₹7037447.0 | 📉 L: ₹6702027.0 <br>⚡ BNB: ₹60029.29 | 📈 H: ₹65154.95 | 📉 L: ₹60029.29 <br></p>
+<p align="center">🪙 USDC: ₹103.53 | 📈 H: ₹103.53 | 📉 L: ₹100.46 <br>💵 USDT: ₹102.66 | 📈 H: ₹104.5 | 📉 L: ₹101.0 <br>♦ ETH: ₹183900.0 | 📈 H: ₹198498.0 | 📉 L: ₹181835.1 <br>₿ BTC: ₹6662694.0 | 📈 H: ₹6950000.0 | 📉 L: ₹6580000.0 <br>⚡ BNB: ₹59640.89 | 📈 H: ₹64070.01 | 📉 L: ₹59640.88 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  My calendar is filled up through the next century, sorry. 🛑❌ 
+  There's a rerun of a show I've never seen that I just can't miss. 🛑❌ 
 </p>
 
 </details>
