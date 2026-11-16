@@ -44,14 +44,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 15/11/2026</p>
+<p align="center">Kolkata, India - 16/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 10:59 AM, Set: 10:07 PM)  <br>🌅 <strong>Sunrise:</strong> 05:49 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 5.4 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 23.3 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Crescent (Rise: 11:36 AM, Set: 10:59 PM)  <br>🌅 <strong>Sunrise:</strong> 05:49 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 5.0 kph | 💧 <strong>Humidity:</strong> 78% | 🌡️ <strong>Feels Like:</strong> 23.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 129.5 <strong>PM10:</strong> 139.7</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 137.4 <strong>PM10:</strong> 147.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-16 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 21.0 | 22.7 | 81 | 5.4 | 23 |
-| 2026-11-16 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 20.8 | 22.5 | 82 | 5.0 | 23 |
-| 2026-11-16 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 21.8 | 23.6 | 78 | 5.0 | 15 |
-| 2026-11-16 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 23.5 | 25.4 | 72 | 5.4 | 10 |
 | 2026-11-16 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.2 | 27.0 | 65 | 5.4 | 6 |
 | 2026-11-16 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.7 | 27.8 | 59 | 5.8 | 5 |
 | 2026-11-16 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 28.1 | 28.8 | 53 | 6.5 | 5 |
 | 2026-11-16 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/116.png) Partly Cloudy | 29.3 | 29.7 | 47 | 7.6 | 4 |
 | 2026-11-16 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.6 | 29.9 | 46 | 7.9 | 4 |
 | 2026-11-16 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.8 | 30.0 | 44 | 7.6 | 3 |
+| 2026-11-16 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.9 | 30.0 | 43 | 7.2 | 2 |
+| 2026-11-16 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 29.0 | 29.4 | 47 | 6.1 | 2 |
+| 2026-11-16 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.5 | 28.2 | 54 | 5.0 | 3 |
+| 2026-11-16 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 26.2 | 27.4 | 58 | 4.3 | 3 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹102.99 | 📈 H: ₹104.75 | 📉 L: ₹101.87 <br>💵 USDT: ₹102.71 | 📈 H: ₹104.84 | 📉 L: ₹101.79 <br>♦ ETH: ₹188351.3 | 📈 H: ₹193994.6 | 📉 L: ₹181835.0 <br>₿ BTC: ₹6792491.0 | 📈 H: ₹6890196.0 | 📉 L: ₹6574510.0 <br>⚡ BNB: ₹61337.18 | 📈 H: ₹62500.0 | 📉 L: ₹59640.88 <br></p>
+<p align="center">🪙 USDC: ₹103.45 | 📈 H: ₹104.75 | 📉 L: ₹102.99 <br>💵 USDT: ₹102.58 | 📈 H: ₹104.84 | 📉 L: ₹101.79 <br>♦ ETH: ₹187742.3 | 📈 H: ₹193994.6 | 📉 L: ₹183900.0 <br>₿ BTC: ₹6709764.0 | 📈 H: ₹6890196.0 | 📉 L: ₹6634973.0 <br>⚡ BNB: ₹62499.84 | 📈 H: ₹62500.0 | 📉 L: ₹60701.57 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  The seven dwarves warned me about overextending myself. 🛑❌ 
+  I can't shock my system with responsibility like that; doctor’s orders. 🛑❌ 
 </p>
 
 </details>
