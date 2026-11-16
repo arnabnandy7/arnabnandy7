@@ -6,6 +6,9 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2250 - Fix Anthropic BYOK client lifecycle](https://github.com/embabel/embabel-agent/pull/2250) | 2026-11-16 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/agent-gen](https://github.com/embabel/agent-gen) | [#10 - fix: migrate commands to Spring Shell 4](https://github.com/embabel/agent-gen/pull/10) | 2026-11-16 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-cookbook](https://github.com/embabel/embabel-cookbook) | [#19 - Fix(openai): keep cookbook streaming on chat completions](https://github.com/embabel/embabel-cookbook/pull/19) | 2026-11-16 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2255 - Replace embabel-rag-pgvector with embabel-agent-rag-store](https://github.com/embabel/embabel-agent/pull/2255) | 2026-11-15 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2000 - Chore: upgrade GitHub Actions runtimes](https://github.com/embabel/embabel-agent/pull/2000) | 2026-11-15 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2152 - Fix UnfoldingTool discovery for CGLIB proxies](https://github.com/embabel/embabel-agent/pull/2152) | 2026-11-13 |
