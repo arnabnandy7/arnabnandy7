@@ -17,7 +17,7 @@
 <h4 align="center">Top organizations / users</h4>
 
 <table width="100%" cellpadding="10" cellspacing="0">
-  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel">embabel</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aembabel"><strong>50</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab">cognizant-ai-lab</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Acognizant-ai-lab"><strong>24</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure">Azure</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AAzure"><strong>15</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio">quarkusio</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aquarkusio"><strong>15</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web">Vault-Web</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AVault-Web"><strong>10</strong></a>)</td></tr>
+  <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/embabel.png?size=20" width="20" height="20" valign="middle" alt="embabel avatar"> <a href="https://github.com/embabel">embabel</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aembabel"><strong>51</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/cognizant-ai-lab.png?size=20" width="20" height="20" valign="middle" alt="cognizant-ai-lab avatar"> <a href="https://github.com/cognizant-ai-lab">cognizant-ai-lab</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Acognizant-ai-lab"><strong>24</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Azure.png?size=20" width="20" height="20" valign="middle" alt="Azure avatar"> <a href="https://github.com/Azure">Azure</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AAzure"><strong>15</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/quarkusio.png?size=20" width="20" height="20" valign="middle" alt="quarkusio avatar"> <a href="https://github.com/quarkusio">quarkusio</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aquarkusio"><strong>15</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/Vault-Web.png?size=20" width="20" height="20" valign="middle" alt="Vault-Web avatar"> <a href="https://github.com/Vault-Web">Vault-Web</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3AVault-Web"><strong>10</strong></a>)</td></tr>
   <tr><td align="left" valign="middle" width="20%"><img src="https://github.com/grafana.png?size=20" width="20" height="20" valign="middle" alt="grafana avatar"> <a href="https://github.com/grafana">grafana</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Agrafana"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/hardwood-hq.png?size=20" width="20" height="20" valign="middle" alt="hardwood-hq avatar"> <a href="https://github.com/hardwood-hq">hardwood-hq</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Ahardwood-hq"><strong>9</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/netty.png?size=20" width="20" height="20" valign="middle" alt="netty avatar"> <a href="https://github.com/netty">netty</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Anetty"><strong>8</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/apache.png?size=20" width="20" height="20" valign="middle" alt="apache avatar"> <a href="https://github.com/apache">apache</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aapache"><strong>7</strong></a>)</td><td align="left" valign="middle" width="20%"><img src="https://github.com/prometheus.png?size=20" width="20" height="20" valign="middle" alt="prometheus avatar"> <a href="https://github.com/prometheus">prometheus</a> (<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aarnabnandy7+org%3Aprometheus"><strong>7</strong></a>)</td></tr>
 </table>
 
@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 18/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/149.png" alt="Smoky haze weather icon"/><br/>
   Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:40 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 9.7 kph | 💧 <strong>Humidity:</strong> 62% | 🌡️ <strong>Feels Like:</strong> 23.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 12:40 PM, Set: Does not set today)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:52 PM  <br>💨 <strong>Wind:</strong> 3.6 kph | 💧 <strong>Humidity:</strong> 59% | 🌡️ <strong>Feels Like:</strong> 25.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 123.9 <strong>PM10:</strong> 135.0</p>
+<p align="center"><strong>AQI:</strong> Unhealthy <strong>PM2.5:</strong> 112.2 <strong>PM10:</strong> 120.1</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-18 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.0 | 25.7 | 48 | 12.2 | 11 |
-| 2026-11-18 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.0 | 27.0 | 42 | 12.6 | 10 |
-| 2026-11-18 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.1 | 27.1 | 43 | 11.2 | 10 |
-| 2026-11-18 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 27.1 | 27.1 | 44 | 9.7 | 10 |
-| 2026-11-18 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.9 | 27.0 | 45 | 8.3 | 11 |
-| 2026-11-18 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.3 | 26.7 | 50 | 6.8 | 12 |
-| 2026-11-18 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.1 | 25.7 | 55 | 5.8 | 13 |
-| 2026-11-18 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 24.2 | 25.2 | 58 | 4.3 | 14 |
-| 2026-11-18 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.9 | 25.2 | 60 | 2.9 | 14 |
-| 2026-11-18 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.3 | 24.8 | 62 | 2.2 | 15 |
+| 2026-11-18 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 23.0 | 24.2 | 63 | 3.2 | 15 |
+| 2026-11-18 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 22.6 | 24.1 | 65 | 1.8 | 16 |
+| 2026-11-18 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 22.3 | 24.1 | 68 | 1.1 | 17 |
+| 2026-11-18 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 22.1 | 24.1 | 70 | 0.7 | 18 |
+| 2026-11-19 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 22.1 | 23.8 | 71 | 2.9 | 19 |
+| 2026-11-19 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 22.1 | 23.6 | 72 | 4.0 | 20 |
+| 2026-11-19 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 22.0 | 23.3 | 73 | 5.4 | 21 |
+| 2026-11-19 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 21.8 | 23.5 | 77 | 4.3 | 65 |
+| 2026-11-19 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 21.4 | 23.5 | 80 | 4.0 | 75 |
+| 2026-11-19 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/302.png) Moderate rain | 21.1 | 23.3 | 84 | 4.0 | 82 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹102.6 | 📈 H: ₹103.46 | 📉 L: ₹102.0 <br>💵 USDT: ₹103.0 | 📈 H: ₹104.1 | 📉 L: ₹102.3 <br>♦ ETH: ₹188793.5 | 📈 H: ₹189999.9 | 📉 L: ₹184000.1 <br>₿ BTC: ₹6691310.0 | 📈 H: ₹6771991.0 | 📉 L: ₹6601000.0 <br>⚡ BNB: ₹60722.3 | 📈 H: ₹61847.79 | 📉 L: ₹60176.41 <br></p>
+<p align="center">🪙 USDC: ₹102.6 | 📈 H: ₹103.46 | 📉 L: ₹102.0 <br>💵 USDT: ₹103.43 | 📈 H: ₹104.1 | 📉 L: ₹102.35 <br>♦ ETH: ₹187885.2 | 📈 H: ₹189999.9 | 📉 L: ₹184000.0 <br>₿ BTC: ₹6620999.0 | 📈 H: ₹6771991.0 | 📉 L: ₹6601000.0 <br>⚡ BNB: ₹60342.16 | 📈 H: ₹61926.41 | 📉 L: ₹60176.41 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
