@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#51249 - [6.x] Require authentication in the default Entra ID resource server](https://github.com/Azure/azure-sdk-for-java/pull/51249) | 2026-11-19 |
+| <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#51207 - Require authentication in the default Entra ID resource server](https://github.com/Azure/azure-sdk-for-java/pull/51207) | 2026-11-19 |
 | <img src="https://github.com/scylladb.png?size=24" width="24" height="24" alt="scylladb avatar"> [scylladb/kafka-connect-scylladb](https://github.com/scylladb/kafka-connect-scylladb) | [#324 - feat: accept Date and ISO-8601 values in expiration mappings](https://github.com/scylladb/kafka-connect-scylladb/pull/324) | 2026-11-18 |
 | <img src="https://github.com/scylladb.png?size=24" width="24" height="24" alt="scylladb avatar"> [scylladb/kafka-connect-scylladb](https://github.com/scylladb/kafka-connect-scylladb) | [#317 - Restore ScyllaDB offsets when sink partitions open](https://github.com/scylladb/kafka-connect-scylladb/pull/317) | 2026-11-18 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/agent-gen](https://github.com/embabel/agent-gen) | [#16 - chore: bump Guava to 33.7.2-jre for CVE-2026-102554](https://github.com/embabel/agent-gen/pull/16) | 2026-11-18 |
