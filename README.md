@@ -46,7 +46,7 @@
 
 <p align="center">Kolkata, India - 20/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Moderate rain weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/302.png" alt="Moderate rain weather icon"/><br/>
   Moderate rain (মাঝারি বৃষ্টি)
 </p>
 <p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:41 PM, Set: 01:30 AM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 96% | 🌡️ <strong>Feels Like:</strong> 23.5 °C</p>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-20 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 21.9 | 24.0 | 97 | 11.9 | 87 |
-| 2026-11-20 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.2 | 24.4 | 96 | 11.5 | 84 |
-| 2026-11-20 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.4 | 24.9 | 96 | 10.8 | 83 |
-| 2026-11-20 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.8 | 96 | 11.9 | 82 |
-| 2026-11-20 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.6 | 95 | 12.6 | 83 |
-| 2026-11-20 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.5 | 95 | 13.7 | 84 |
-| 2026-11-20 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.6 | 96 | 13.3 | 85 |
-| 2026-11-20 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.6 | 97 | 13.7 | 84 |
-| 2026-11-20 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/302.png) Moderate rain | 22.5 | 24.5 | 97 | 14.8 | 88 |
 | 2026-11-20 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/302.png) Moderate rain | 22.6 | 24.6 | 97 | 14.4 | 91 |
+| 2026-11-20 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/302.png) Moderate rain | 22.6 | 24.8 | 97 | 13.3 | 87 |
+| 2026-11-20 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 22.6 | 24.9 | 98 | 12.6 | 82 |
+| 2026-11-20 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 22.6 | 25.2 | 98 | 11.5 | 81 |
+| 2026-11-20 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 22.6 | 25.3 | 98 | 10.8 | 82 |
+| 2026-11-20 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 22.6 | 25.6 | 98 | 9.7 | 82 |
+| 2026-11-21 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 22.5 | 25.5 | 98 | 9.7 | 79 |
+| 2026-11-21 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 22.4 | 25.5 | 98 | 9.0 | 78 |
+| 2026-11-21 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 22.4 | 25.5 | 98 | 8.3 | 80 |
+| 2026-11-21 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/353.png) Light rain shower | 22.3 | 25.7 | 98 | 7.2 | 80 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹102.78 | 📈 H: ₹103.97 | 📉 L: ₹102.6 <br>💵 USDT: ₹103.11 | 📈 H: ₹103.65 | 📉 L: ₹101.82 <br>♦ ETH: ₹183522.8 | 📈 H: ₹187882.0 | 📉 L: ₹180991.5 <br>₿ BTC: ₹6431108.0 | 📈 H: ₹6625999.0 | 📉 L: ₹6414709.0 <br>⚡ BNB: ₹60000.0 | 📈 H: ₹61926.42 | 📉 L: ₹59788.86 <br></p>
+<p align="center">🪙 USDC: ₹103.19 | 📈 H: ₹103.19 | 📉 L: ₹103.19 <br>💵 USDT: ₹104.02 | 📈 H: ₹104.83 | 📉 L: ₹102.65 <br>♦ ETH: ₹183029.4 | 📈 H: ₹187867.0 | 📉 L: ₹180600.5 <br>₿ BTC: ₹6423017.0 | 📈 H: ₹6625999.0 | 📉 L: ₹6392495.0 <br>⚡ BNB: ₹59599.93 | 📈 H: ₹61926.42 | 📉 L: ₹58638.91 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  No humour available right now 😴 🛑❌ 
+  Even my shadow decided to stay home, so I will too. 🛑❌ 
 </p>
 
 </details>
