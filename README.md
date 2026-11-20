@@ -44,14 +44,14 @@
 
 <h3 align="center">Today's Weather</h3>
 
-<p align="center">Kolkata, India - 19/11/2026</p>
+<p align="center">Kolkata, India - 20/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/266.png" alt="Light drizzle weather icon"/><br/>
-  Light drizzle (হালকা ঝিরঝিরে বৃষ্টি)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="Moderate rain weather icon"/><br/>
+  Moderate rain (মাঝারি বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:10 PM, Set: 12:39 AM)  <br>🌅 <strong>Sunrise:</strong> 05:51 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 10.4 kph | 💧 <strong>Humidity:</strong> 97% | 🌡️ <strong>Feels Like:</strong> 24.2 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 01:41 PM, Set: 01:30 AM)  <br>🌅 <strong>Sunrise:</strong> 05:52 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 13.0 kph | 💧 <strong>Humidity:</strong> 96% | 🌡️ <strong>Feels Like:</strong> 23.5 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 17.5 <strong>PM10:</strong> 17.6</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 12.0 <strong>PM10:</strong> 12.4</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-20 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/266.png) Light drizzle | 21.9 | 24.1 | 97 | 11.2 | 73 |
-| 2026-11-20 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/296.png) Light rain | 21.9 | 23.9 | 96 | 11.9 | 72 |
-| 2026-11-20 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.0 | 24.0 | 96 | 12.2 | 78 |
-| 2026-11-20 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.1 | 24.3 | 97 | 11.5 | 85 |
-| 2026-11-20 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 22.1 | 24.3 | 96 | 11.9 | 88 |
-| 2026-11-20 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 22.1 | 24.6 | 97 | 10.8 | 90 |
-| 2026-11-20 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 22.2 | 24.5 | 97 | 11.2 | 86 |
-| 2026-11-20 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 22.3 | 24.7 | 96 | 11.2 | 87 |
-| 2026-11-20 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 22.3 | 24.7 | 97 | 11.2 | 88 |
-| 2026-11-20 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.3 | 24.7 | 97 | 11.9 | 85 |
+| 2026-11-20 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/302.png) Moderate rain | 21.9 | 24.0 | 97 | 11.9 | 87 |
+| 2026-11-20 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.2 | 24.4 | 96 | 11.5 | 84 |
+| 2026-11-20 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.4 | 24.9 | 96 | 10.8 | 83 |
+| 2026-11-20 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.8 | 96 | 11.9 | 82 |
+| 2026-11-20 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.6 | 95 | 12.6 | 83 |
+| 2026-11-20 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.5 | 95 | 13.7 | 84 |
+| 2026-11-20 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.6 | 96 | 13.3 | 85 |
+| 2026-11-20 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/296.png) Light rain | 22.5 | 24.6 | 97 | 13.7 | 84 |
+| 2026-11-20 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/302.png) Moderate rain | 22.5 | 24.5 | 97 | 14.8 | 88 |
+| 2026-11-20 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/302.png) Moderate rain | 22.6 | 24.6 | 97 | 14.4 | 91 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹102.78 | 📈 H: ₹103.97 | 📉 L: ₹102.6 <br>💵 USDT: ₹102.93 | 📈 H: ₹103.64 | 📉 L: ₹101.5 <br>♦ ETH: ₹186622.7 | 📈 H: ₹187882.0 | 📉 L: ₹182000.1 <br>₿ BTC: ₹6431000.0 | 📈 H: ₹6625999.0 | 📉 L: ₹6411919.0 <br>⚡ BNB: ₹60227.28 | 📈 H: ₹61926.42 | 📉 L: ₹60000.0 <br></p>
+<p align="center">🪙 USDC: ₹102.78 | 📈 H: ₹103.97 | 📉 L: ₹102.6 <br>💵 USDT: ₹103.11 | 📈 H: ₹103.65 | 📉 L: ₹101.82 <br>♦ ETH: ₹183522.8 | 📈 H: ₹187882.0 | 📉 L: ₹180991.5 <br>₿ BTC: ₹6431108.0 | 📈 H: ₹6625999.0 | 📉 L: ₹6414709.0 <br>⚡ BNB: ₹60000.0 | 📈 H: ₹61926.42 | 📉 L: ₹59788.86 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
