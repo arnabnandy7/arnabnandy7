@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2207 - Fix shell exit handling for non-interactive applications](https://github.com/embabel/embabel-agent/pull/2207) | 2026-11-21 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#1941 - Feat: support OpenAI response continuation](https://github.com/embabel/embabel-agent/pull/1941) | 2026-11-21 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2270 - Manage OpenAI SDK client ownership for BYOK services](https://github.com/embabel/embabel-agent/pull/2270) | 2026-11-20 |
 | <img src="https://github.com/Azure.png?size=24" width="24" height="24" alt="Azure avatar"> [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) | [#51249 - [6.x] Require authentication in the default Entra ID resource server](https://github.com/Azure/azure-sdk-for-java/pull/51249) | 2026-11-19 |
