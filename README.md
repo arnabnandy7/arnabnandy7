@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 21/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
-  Patchy rain nearby (কাছে বিক্ষিপ্ত বৃষ্টি)
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/248.png" alt="Fog weather icon"/><br/>
+  Fog (ঘন কুয়াশা)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:13 PM, Set: 02:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 10.1 kph | 💧 <strong>Humidity:</strong> 93% | 🌡️ <strong>Feels Like:</strong> 25.4 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:13 PM, Set: 02:21 AM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 4.7 kph | 💧 <strong>Humidity:</strong> 89% | 🌡️ <strong>Feels Like:</strong> 28.8 °C</p>
 
-<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 13.6 <strong>PM10:</strong> 13.7</p>
+<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 16.2 <strong>PM10:</strong> 16.3</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-21 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 24.7 | 28.7 | 89 | 6.5 | 29 |
-| 2026-11-21 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.0 | 27.8 | 93 | 6.5 | 38 |
-| 2026-11-21 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 23.7 | 27.5 | 94 | 6.5 | 30 |
-| 2026-11-21 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 23.5 | 27.3 | 94 | 6.8 | 35 |
-| 2026-11-21 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 23.4 | 27.0 | 95 | 6.8 | 24 |
-| 2026-11-21 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 23.1 | 26.8 | 96 | 6.5 | 24 |
-| 2026-11-21 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 22.9 | 26.6 | 96 | 5.8 | 24 |
-| 2026-11-21 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/248.png) Fog | 22.6 | 26.3 | 97 | 5.4 | 42 |
-| 2026-11-22 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 22.5 | 26.3 | 97 | 5.0 | 37 |
-| 2026-11-22 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 22.5 | 26.4 | 97 | 4.7 | 29 |
+| 2026-11-22 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/248.png) Fog | 22.5 | 26.5 | 97 | 4.3 | 42 |
+| 2026-11-22 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/248.png) Fog | 22.6 | 26.5 | 97 | 4.7 | 42 |
+| 2026-11-22 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/248.png) Fog | 22.6 | 26.3 | 97 | 5.8 | 42 |
+| 2026-11-22 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 22.6 | 26.4 | 97 | 5.4 | 30 |
+| 2026-11-22 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 22.6 | 26.4 | 97 | 5.4 | 30 |
+| 2026-11-22 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/143.png) Mist | 22.7 | 26.4 | 97 | 5.4 | 30 |
+| 2026-11-22 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/143.png) Mist | 23.1 | 26.9 | 95 | 5.4 | 31 |
+| 2026-11-22 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 24.0 | 28.0 | 92 | 5.0 | 26 |
+| 2026-11-22 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 24.8 | 29.0 | 88 | 5.0 | 26 |
+| 2026-11-22 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 26.0 | 29.1 | 82 | 3.2 | 24 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹105.16 | 📈 H: ₹108.46 | 📉 L: ₹103.81 <br>💵 USDT: ₹105.17 | 📈 H: ₹110.0 | 📉 L: ₹102.96 <br>♦ ETH: ₹175000.1 | 📈 H: ₹183029.4 | 📉 L: ₹168221.4 <br>₿ BTC: ₹6128770.0 | 📈 H: ₹6493999.0 | 📉 L: ₹6051000.0 <br>⚡ BNB: ₹57000.0 | 📈 H: ₹59599.93 | 📉 L: ₹55551.96 <br></p>
+<p align="center">🪙 USDC: ₹107.21 | 📈 H: ₹108.46 | 📉 L: ₹105.16 <br>💵 USDT: ₹105.1 | 📈 H: ₹110.0 | 📉 L: ₹103.16 <br>♦ ETH: ₹181888.1 | 📈 H: ₹183250.2 | 📉 L: ₹168221.4 <br>₿ BTC: ₹6493405.0 | 📈 H: ₹6572571.0 | 📉 L: ₹6051000.0 <br>⚡ BNB: ₹57421.16 | 📈 H: ₹59471.34 | 📉 L: ₹55138.56 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I didn't attend the meeting because I was abducted by a daydream. 🛑❌ 
+  To quote a famous response: 'No.' 🛑❌ 
 </p>
 
 </details>
