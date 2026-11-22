@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 22/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="Patchy rain nearby weather icon"/><br/>
+  <img src="https://cdn.weatherapi.com/weather/64x64/night/176.png" alt="Patchy rain nearby weather icon"/><br/>
   Patchy rain nearby (কাছে বিক্ষিপ্ত বৃষ্টি)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 03:15 AM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 4.0 kph | 💧 <strong>Humidity:</strong> 95% | 🌡️ <strong>Feels Like:</strong> 27.0 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waxing Gibbous (Rise: 02:49 PM, Set: 03:16 AM)  <br>🌅 <strong>Sunrise:</strong> 05:53 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 6.1 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 31.6 °C</p>
 
-<p align="center"><strong>AQI:</strong> Moderate <strong>PM2.5:</strong> 37.0 <strong>PM10:</strong> 37.4</p>
+<p align="center"><strong>AQI:</strong> Good <strong>PM2.5:</strong> 10.3 <strong>PM10:</strong> 11.8</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-22 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 25.9 | 29.0 | 82 | 3.6 | 17 |
-| 2026-11-22 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.0 | 29.4 | 76 | 2.2 | 20 |
-| 2026-11-22 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.1 | 30.9 | 70 | 1.4 | 21 |
-| 2026-11-22 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.6 | 31.3 | 67 | 2.9 | 19 |
-| 2026-11-22 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.0 | 31.6 | 64 | 3.6 | 17 |
-| 2026-11-22 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 29.3 | 31.7 | 61 | 4.3 | 15 |
-| 2026-11-22 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 28.5 | 31.1 | 66 | 4.3 | 16 |
-| 2026-11-22 16:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/176.png) Patchy rain nearby | 27.4 | 29.7 | 72 | 4.0 | 15 |
-| 2026-11-22 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 26.3 | 28.9 | 77 | 4.0 | 9 |
-| 2026-11-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 25.7 | 28.8 | 80 | 4.3 | 9 |
+| 2026-11-22 17:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 25.2 | 29.5 | 85 | 1.4 | 34 |
+| 2026-11-22 18:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.7 | 29.0 | 86 | 2.9 | 30 |
+| 2026-11-22 19:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/176.png) Patchy rain nearby | 24.2 | 28.1 | 88 | 4.3 | 29 |
+| 2026-11-22 20:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 23.8 | 27.3 | 89 | 5.8 | 13 |
+| 2026-11-22 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 23.5 | 27.0 | 90 | 6.1 | 13 |
+| 2026-11-22 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 23.3 | 26.8 | 91 | 6.1 | 14 |
+| 2026-11-22 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 23.1 | 26.8 | 92 | 5.4 | 14 |
+| 2026-11-23 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 23.0 | 26.6 | 93 | 5.0 | 15 |
+| 2026-11-23 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 22.8 | 26.5 | 93 | 4.7 | 17 |
+| 2026-11-23 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/116.png) Partly Cloudy | 22.7 | 26.4 | 94 | 4.0 | 18 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹108.1 | 📈 H: ₹108.46 | 📉 L: ₹105.16 <br>💵 USDT: ₹105.0 | 📈 H: ₹110.0 | 📉 L: ₹103.16 <br>♦ ETH: ₹181899.2 | 📈 H: ₹183250.2 | 📉 L: ₹168221.4 <br>₿ BTC: ₹6472587.0 | 📈 H: ₹6572571.0 | 📉 L: ₹6051000.0 <br>⚡ BNB: ₹58853.04 | 📈 H: ₹59471.34 | 📉 L: ₹55138.56 <br></p>
+<p align="center">🪙 USDC: ₹105.29 | 📈 H: ₹108.46 | 📉 L: ₹105.16 <br>💵 USDT: ₹104.59 | 📈 H: ₹108.98 | 📉 L: ₹103.5 <br>♦ ETH: ₹177540.2 | 📈 H: ₹183250.2 | 📉 L: ₹173000.1 <br>₿ BTC: ₹6399999.0 | 📈 H: ₹6572571.0 | 📉 L: ₹6068888.0 <br>⚡ BNB: ₹57275.86 | 📈 H: ₹59471.34 | 📉 L: ₹55515.77 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I'm choosing couch enlightenment over worldly endeavors like that. 🛑❌ 
+  error code: 502 🛑❌ 
 </p>
 
 </details>
