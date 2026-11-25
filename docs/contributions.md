@@ -6,6 +6,8 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2616 - fix: honor JBANG_USE_NATIVE when updating](https://github.com/jbangdev/jbang/pull/2616) | 2026-11-24 |
+| <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#103 - chore: bump Guava to 33.7.2-jre for CVE-2026-102554](https://github.com/embabel/embabel-build/pull/103) | 2026-11-24 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#57093 - Preserve proxy prefixes in WebJar UI redirects](https://github.com/quarkusio/quarkus/pull/57093) | 2026-11-24 |
 | <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-ui](https://github.com/cognizant-ai-lab/neuro-san-ui) | [#620 - Fix OpenAI logo theme selection](https://github.com/cognizant-ai-lab/neuro-san-ui/pull/620) | 2026-11-24 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | [#2207 - Fix shell exit handling for non-interactive applications](https://github.com/embabel/embabel-agent/pull/2207) | 2026-11-21 |
