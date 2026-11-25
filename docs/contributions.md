@@ -6,6 +6,7 @@ This quest log is refreshed automatically by the profile README workflow.
 
 | Repository | Contribution | Merged |
 | :---: | :---: | :---: |
+| <img src="https://github.com/cognizant-ai-lab.png?size=24" width="24" height="24" alt="cognizant-ai-lab avatar"> [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) | [#1572 - #1571: Move blocking coded tool invocations off the event loop](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1572) | 2026-11-25 |
 | <img src="https://github.com/jbangdev.png?size=24" width="24" height="24" alt="jbangdev avatar"> [jbangdev/jbang](https://github.com/jbangdev/jbang) | [#2616 - fix: honor JBANG_USE_NATIVE when updating](https://github.com/jbangdev/jbang/pull/2616) | 2026-11-24 |
 | <img src="https://github.com/embabel.png?size=24" width="24" height="24" alt="embabel avatar"> [embabel/embabel-build](https://github.com/embabel/embabel-build) | [#103 - chore: bump Guava to 33.7.2-jre for CVE-2026-102554](https://github.com/embabel/embabel-build/pull/103) | 2026-11-24 |
 | <img src="https://github.com/quarkusio.png?size=24" width="24" height="24" alt="quarkusio avatar"> [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | [#57093 - Preserve proxy prefixes in WebJar UI redirects](https://github.com/quarkusio/quarkus/pull/57093) | 2026-11-24 |
