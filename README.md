@@ -46,12 +46,12 @@
 
 <p align="center">Kolkata, India - 26/11/2026</p>
 <p align="center">
-  <img src="https://cdn.weatherapi.com/weather/64x64/night/146.png" alt="Smoke weather icon"/><br/>
-  Smoke (ধোঁয়া)
+  <img src="https://cdn.weatherapi.com/weather/64x64/day/149.png" alt="Smoky haze weather icon"/><br/>
+  Smoky haze (ধোঁয়াটে আবহাওয়া)
 </p>
-<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:12 PM, Set: 07:24 AM)  <br>🌅 <strong>Sunrise:</strong> 05:56 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 4.3 kph | 💧 <strong>Humidity:</strong> 69% | 🌡️ <strong>Feels Like:</strong> 22.7 °C</p>
+<p align="center">🌙 <strong>Moon Phase:</strong> Waning Gibbous (Rise: 06:12 PM, Set: 07:24 AM)  <br>🌅 <strong>Sunrise:</strong> 05:56 AM | <strong>Sunset:</strong> 04:51 PM  <br>💨 <strong>Wind:</strong> 9.0 kph | 💧 <strong>Humidity:</strong> 80% | 🌡️ <strong>Feels Like:</strong> 17.7 °C</p>
 
-<p align="center"><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 169.0 <strong>PM10:</strong> 171.8</p>
+<p align="center"><strong>AQI:</strong> Very Unhealthy <strong>PM2.5:</strong> 185.3 <strong>PM10:</strong> 187.2</p>
 
 <details>
   <summary align="center"><strong>Live dashboards and profile experiments</strong></summary>
@@ -61,21 +61,21 @@
 
 | Time | Condition | Temp (°C) | Feels (°C) | Humidity (%) | Wind (kph) | Rain (%) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2026-11-26 21:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/146.png) Smoke | 20.0 | 20.6 | 75 | 5.8 | 7 |
-| 2026-11-26 22:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/146.png) Smoke | 19.5 | 20.0 | 76 | 6.1 | 8 |
-| 2026-11-26 23:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/125.png) Haze | 19.0 | 19.2 | 77 | 7.2 | 8 |
-| 2026-11-27 00:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/113.png) Clear | 18.6 | 18.7 | 78 | 7.6 | 8 |
-| 2026-11-27 01:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/125.png) Haze | 18.3 | 18.1 | 78 | 7.9 | 8 |
-| 2026-11-27 02:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/125.png) Haze | 17.9 | 17.7 | 79 | 8.3 | 9 |
-| 2026-11-27 03:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 17.6 | 17.3 | 79 | 8.3 | 9 |
-| 2026-11-27 04:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 17.4 | 17.0 | 80 | 8.3 | 9 |
-| 2026-11-27 05:00 | ![](https://cdn.weatherapi.com/weather/64x64/night/149.png) Smoky haze | 17.1 | 16.6 | 80 | 8.6 | 9 |
-| 2026-11-27 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 18.0 | 17.6 | 77 | 8.3 | 8 |
+| 2026-11-27 06:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 18.2 | 17.8 | 77 | 8.6 | 8 |
+| 2026-11-27 07:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 19.7 | 19.4 | 72 | 8.6 | 6 |
+| 2026-11-27 08:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 21.3 | 21.1 | 66 | 9.0 | 5 |
+| 2026-11-27 09:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 22.9 | 22.7 | 62 | 9.7 | 4 |
+| 2026-11-27 10:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 24.4 | 24.1 | 57 | 10.4 | 3 |
+| 2026-11-27 11:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.7 | 25.7 | 53 | 11.2 | 2 |
+| 2026-11-27 12:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.0 | 26.2 | 51 | 10.4 | 2 |
+| 2026-11-27 13:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.2 | 26.4 | 50 | 10.1 | 2 |
+| 2026-11-27 14:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 26.3 | 26.5 | 49 | 10.1 | 2 |
+| 2026-11-27 15:00 | ![](https://cdn.weatherapi.com/weather/64x64/day/149.png) Smoky haze | 25.3 | 25.5 | 54 | 9.0 | 2 |
 
 
 <h3 align="center">⛓️ Cryptocurrency Prices</h3>
 
-<p align="center">🪙 USDC: ₹104.0 | 📈 H: ₹104.99 | 📉 L: ₹103.51 <br>💵 USDT: ₹103.89 | 📈 H: ₹105.61 | 📉 L: ₹103.0 <br>♦ ETH: ₹177000.1 | 📈 H: ₹180928.1 | 📉 L: ₹172408.9 <br>₿ BTC: ₹6407317.0 | 📈 H: ₹6480607.0 | 📉 L: ₹6101174.0 <br>⚡ BNB: ₹57600.01 | 📈 H: ₹59616.98 | 📉 L: ₹55805.68 <br></p>
+<p align="center">🪙 USDC: ₹104.13 | 📈 H: ₹104.99 | 📉 L: ₹103.51 <br>💵 USDT: ₹103.37 | 📈 H: ₹105.16 | 📉 L: ₹103.0 <br>♦ ETH: ₹176943.9 | 📈 H: ₹180928.1 | 📉 L: ₹175000.1 <br>₿ BTC: ₹6306761.0 | 📈 H: ₹6480607.0 | 📉 L: ₹6280175.0 <br>⚡ BNB: ₹58543.33 | 📈 H: ₹59616.98 | 📉 L: ₹57600.0 <br></p>
 
 <h3 align="center">🔋 Fuel Prices</h3>
 
@@ -87,7 +87,7 @@
 <h5 align="center">Well, it's time to take a break from the same old "no's" and try something a little more... interesting! ✨</h5>
 
 <p align="center">
-  I've got selective amnesia for favors. 🛑❌ 
+  I signed up to be a test subject for sleeping in, and I have a session then. 🛑❌ 
 </p>
 
 </details>
